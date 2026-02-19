@@ -13,3 +13,15 @@ Contains Google Colab notebooks used for the scraping pipeline:
 
 **README.md**  
 Provides documentation, repository structure, and usage instructions.
+
+### Testing Your Code
+- **Suggested Workflow:**
+  - Create a branch from main
+  - Make desired code changes
+  - Commit and push to your feature branch with clear commit message
+  - Open the notebook in Colab using the “Open in Colab” button
+  - Run the notebook to test your changes
+  - If changes improve scraping behavior, open a pull request to merge into main
+- **IMPORTANT:**
+  Colab runs a temporary copy of the notebook.
+  Do not make permanent edits in Colab unless you save them back to GitHub.
