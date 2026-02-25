@@ -21,7 +21,7 @@ SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 BASE_URL = "https://api.pullpush.io/reddit/search/submission/"
 
 # PushPull Scraping Interval
-INTERVAL = 10 # Unit: days
+INTERVAL = 30 # Unit: days
 START = datetime(2022, 11, 30)
 END = datetime(2026, 2, 1)
 
@@ -52,7 +52,7 @@ def process_request(data, params, logger):
 def run_queries(queries, logger):
     for indx, row in tqdm(queries.iterrows(), total=queries.shape[0]):
         if row["count"] == -1:
-            row = util.run_query(row, BASE_URL, process_request, logger)
+            row = util.run_pullpush_query(row, BASE_URL, process_request, logger)
             queries.at[indx, "count"] = row["count"]
             queries.to_csv(QUERIES_FILE)
             time.sleep(4)
@@ -72,5 +72,6 @@ if __name__ == "__main__":
        'interval': INTERVAL
     }
     queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
+    queries = queries.drop_duplicates(subset=["ai", "env", "start", "end"], keep="first").reset_index(drop = True)
     
     queries = run_queries(queries, logger)

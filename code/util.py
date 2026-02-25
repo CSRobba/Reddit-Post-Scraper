@@ -72,13 +72,14 @@ def _generate_queries_all(**kwargs):
 
   ai_terms = config["keywords"]["ai"]
   env_terms = config["keywords"]["env"]
+  subreddits = config.get("subreddits", [""])
   
   # create dates from the ```start''' date until the  ```end''' date, with ```interval''' days in between
   date_range = pandas.date_range(start, end, freq=f"{interval}D")
 
   queries = pandas.DataFrame(
-      list(itertools.product(ai_terms, env_terms, date_range)), 
-      columns = ["ai", "env", "start"])
+      list(itertools.product(ai_terms, env_terms, date_range, subreddits)), 
+      columns = ["ai", "env", "start", "subreddits"])
   queries["end"] = queries["start"] + timedelta(interval)
 
   return queries
@@ -97,7 +98,7 @@ def _generate_queries_already_run(queries_file = "./queries_run.csv", **kwargs):
     queries_run["end"] = pandas.to_datetime(queries_run["end"])
     return queries_run
 
-  return pandas.DataFrame([], columns = ["ai", "env", "start", "end", "count"])
+  return pandas.DataFrame([], columns = ["ai", "env", "start", "end", "subreddits", "count"])
 
 ###### Generate Queries Dataset ###### 
 def generate_queries(queries_file = "./queries_run.csv", **kwargs):
@@ -111,7 +112,7 @@ def generate_queries(queries_file = "./queries_run.csv", **kwargs):
    queries_run = _generate_queries_already_run(queries_file, **kwargs)
    queries_all = queries_all.merge(queries_run,
                                      how = "left",
-                                     on = ["ai", "env", "start", "end"])
+                                     on = ["ai", "env", "start", "end", "subreddits"])
    queries_all = queries_all.infer_objects(copy=False).fillna(-1)
    
    return queries_all
@@ -130,8 +131,8 @@ def send_request(params, base_url, process_request, logger):
     logger.info(f"Error on {params['title']}: {e}")
     raise ValueError()
 
-###### RUN ONE QUERY ######
-def run_query(row, base_url, process_request, logger):
+###### RUN ONE PULLPUSH QUERY ######
+def run_pullpush_query(row, base_url, process_request, logger):
    after = int(row["start"].timestamp())
    before = int(row["end"].timestamp())
    logger.info(f"Starting scrape from {row['start'].date()} to {(row['end']).date()}...")
@@ -150,6 +151,34 @@ def run_query(row, base_url, process_request, logger):
    try:
     results = send_request(params, base_url, process_request, logger)
     row["count"] = results
+   
+   except ValueError as e:
+      print(traceback.format_exc())
+
+   return row
+
+###### RUN ONE ARTICPUSH QUERY ######
+def run_arcticpush_query(row, base_url, process_request, logger):
+   after = int(row["start"].timestamp())
+   before = int(row["end"].timestamp())
+   subreddit = row["subreddits"]
+   logger.info(f"Starting scrape from {subreddit} beginning {row['start'].date()} to {(row['end']).date()}...")
+   
+   params = {
+     'subreddit': subreddit,
+     # include this tag if we want to only search in the title of the post
+     'title': f"{row['ai']} {row['env']}",
+     # include this tag if we want to only search in both title and body of the post
+     # 'query': f"{row['ai']} {row['env']}",
+     'after': after,
+     'before': before,
+     'limit': 100,
+     'sort': 'asc'
+     }
+   
+   try:
+    results = send_request(params, base_url, process_request, logger)
+    row["count"] = len(results)
    
    except ValueError as e:
       print(traceback.format_exc())
