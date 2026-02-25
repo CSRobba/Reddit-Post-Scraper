@@ -1,0 +1,15 @@
+{
+    "query_term": "AI water usage",
+    "title": "On AI water usage - TL;DW it's very complicated (longer TL;DW in desc)",
+    "id": "1puq0s1",
+    "body": "Here's my personal TL;DW from watching the video, ofc i recommend you watch the video but I understand most people won't be bothered to interrupt their doomscrolling for a 30 minute video.  \n\n\n\\- Lack of transparency from OpenAI makes calculations hard (and is also hella sus)\n\n\\- Water used in most AI datacenters is fresh water and doesn't get recycled\n\n\\- Each query contains multiple hidden sub-queries, making ressources per query calculations dishonest or disinformed (and approximative)\n\n\\- Training models takes 50% of total AI ressource use, according to the University of California\n\n\\- Water used to make energy (from thermoelectric power plants) isn't accounted for\n\n\\- Thermoelectric power generation takes 45% of total water use worldwide, but it's not using drinkable water. Some \"AI water usage numbers\" take this into account\n\n\\- GPU creation also needs water, and this water has to be extremely pure water (more energy-hungry than normal water)\n\n\\- Water isn't equally distributed in the world, some water usage might be done in places where water isn't abundant\n\n\\- AI water use is essentially irrelevant when compared to agricultural use (US corn alone uses 80x more water than the worst estimates for AI water use), but it's also non-drinking water\n\n\\- Power usage is a way bigger problem than water use",
+    "url": "https://youtube.com/watch?v=H_c6MWk7PQc&si=YNgPzj_JHyR3LIqc",
+    "url_overridden_by_dest": "https://youtube.com/watch?v=H_c6MWk7PQc&si=YNgPzj_JHyR3LIqc",
+    "created": "2025-12-24T07:32:51",
+    "author": "TheNumberPi_e",
+    "subreddit": "aiwars",
+    "num_comments": 3,
+    "ups": 3,
+    "upvote_ratio": 0.7099999785423279,
+    "view_count": null
+}

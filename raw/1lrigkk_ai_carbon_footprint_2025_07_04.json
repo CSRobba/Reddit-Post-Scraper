@@ -1,0 +1,15 @@
+{
+    "query_term": "AI carbon footprint",
+    "title": "AI is powerful, but so is its carbon footprint. I\u2019m building a tool to help clean it up.",
+    "id": "1lrigkk",
+    "body": "I\u2019ve been building AI tools for a while, but a few weeks ago, I watched a deep-dive video on the environmental impact of large models like GPT-4 and realised I hadn\u2019t seriously considered their energy costs.\n\nEven modest usage of AI APIs (chatbots, classifiers, embeddings, etc.) adds up in compute and emissions. And while offsets aren\u2019t a perfect solution, doing *nothing* feels worse.\n\nSo I\u2019ve started building something called **EmitMind,** it\u2019s a tool to **automatically track and offset the carbon footprint of your AI tools**. The idea is to give devs and startups an easy way to stay aware of their impact and take some direct climate action.\n\nThe site\u2019s up at [emitmind.com](https://emitmind.com) with a waitlist if you\u2019re interested. But more than that, I\u2019d love to hear:\n\n* Has anyone here tried calculating emissions from software or AI workloads?\n* Are offsets considered meaningful in this space by climate folks?\n\nOpen to feedback, scepticism, and ideas. Still early days.",
+    "url": "https://www.reddit.com/r/ClimateOffensive/comments/1lrigkk/ai_is_powerful_but_so_is_its_carbon_footprint_im/",
+    "url_overridden_by_dest": null,
+    "created": "2025-07-04T06:14:18",
+    "author": "Professional_Log599",
+    "subreddit": "ClimateOffensive",
+    "num_comments": 11,
+    "ups": 26,
+    "upvote_ratio": 0.7900000214576721,
+    "view_count": null
+}

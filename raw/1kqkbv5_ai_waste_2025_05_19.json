@@ -1,0 +1,15 @@
+{
+    "query_term": "AI waste",
+    "title": "For me, listening to podcast is a poor use of time. One of the reasons I love AI is because I won't have to waste my time anymore listening to long winded podcast just to learn a thing or two",
+    "id": "1kqkbv5",
+    "body": "My go to for learning from podcast quicker is using this prompt + NotebookLM.\n\n1. Copy the Youtube link of the podcast\n2. Add the link as a source in my NotebookLM\n3. In the chat box, I paste this prompt\n\n&#8203;\n\n    1. Analyze Video & Identify Sections\n    First, analyze the content of the video at the provided source. Identify the main topics or distinct logical sections covered in the video.\n    \n    2. List Sections & Offer Choice\n    Present these major sections as a numbered list so I can see the video's structure. Then, ask me to choose a specific section number to start with OR if I'd prefer to study the sections sequentially, beginning with section 1.\n    \n    3. Wait for My Choice\n    Stop after listing the sections and offering the choice, and wait for my response.\n\nHere's a demo\n\nhttps://reddit.com/link/1kqkbv5/video/hx3b7loies1f1/player\n\nEnglish isn't my first language so pronunciation might be a bit confusing. If you want a video with subtitle, you can watch it [here](https://youtu.be/xcbjTXOqsiY?si=WUT3OPCoe947aH9R)",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1kqkbv5/for_me_listening_to_podcast_is_a_poor_use_of_time/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-19T12:12:40",
+    "author": "cureussoul",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 34,
+    "ups": 3,
+    "upvote_ratio": 0.5199999809265137,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy cost",
+    "title": "Google says it \"dropped the energy cost of AI queries by 33x in one year\"",
+    "id": "1mxo4t9",
+    "body": "[Google says they decreased AI energy costs but even people in the comments are pointing out it's likely bullshit](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/?comments-page=1#comments) lol\n\n***So one \"AI\" query uses as much energy as nine seconds of TV***\n\n>A 5000 mAh smartphone battery is equivalent to about 18.5 Wh, which means 74 text prompts will drain it to zero.\n\nAnother compassion \n\n>A tesla cybertruck has a 123kWh battery bank \\[...\\] it'll get about 0.45m/18 inches per Wh, or about 11cm/4,3 inches  on the power needed for one of the example LLM prompts\n\nBut like people pointed out, even it's real it probably doesn't even matter considering demand for Gemini increased.",
+    "url": "https://www.reddit.com/r/antiai/comments/1mxo4t9/google_says_it_dropped_the_energy_cost_of_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-22T18:11:24",
+    "author": "Moth_LovesLamp",
+    "subreddit": "antiai",
+    "num_comments": 2,
+    "ups": 11,
+    "upvote_ratio": 0.9200000166893005,
+    "view_count": null
+}

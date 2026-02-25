@@ -1,0 +1,15 @@
+{
+    "query_term": "AI waste",
+    "title": "Built an AI tool that turns company docs into automated assessments - because HR teams shouldn't waste 15h/week on manual work",
+    "id": "1h74ey2",
+    "body": "Hey builders! \ud83d\udc4b \n\nI'm building [Kimpy - an AI tool](https://www.kimpy.ai/) that transforms existing company documents (job descriptions, competency frameworks, training materials) into automated assessments. \n\nHere's why: \n\n**The Problem:** Was talking to HR managers and discovered they spend 15+ hours weekly just creating and managing assessments manually. \n\nThat's almost 2 full working days! And the worst part? Most of the info they need is already in their company docs. \n\n**The Solution:** Kimpy uses AI to: \n\n* Turn existing documents into ready-to-use assessments\n* Cut assessment time by 75% (from 15h to 3h)\n* Work with zero new tools to learn \n\n**Early Results:**\n\n1. Zero-to-working prototype in 8 weeks \n2. First pilot users reporting 70% time savings \n3.  Validating with HR teams at 50-200 employee companies \n\n**Looking For:** \n\n* HR professionals who'd like to try it out \n* Feedback on the approach \n* Other builders who've worked with document processing/AI \n\nWould love to hear your thoughts! Have you built anything in the HR/assessment space? What challenges did you face? Live demo: [https://www.kimpy.ai/](https://www.kimpy.ai/)",
+    "url": "https://www.reddit.com/r/SideProject/comments/1h74ey2/built_an_ai_tool_that_turns_company_docs_into/",
+    "url_overridden_by_dest": null,
+    "created": "2024-12-05T00:15:16",
+    "author": "DovakingK",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null
+}

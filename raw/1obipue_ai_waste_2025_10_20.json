@@ -1,0 +1,15 @@
+{
+    "query_term": "AI waste",
+    "title": "My manifesto against AI \"ping-pong\" & token waste (and the tool I'm building in public to fix it)",
+    "id": "1obipue",
+    "body": "Hey everyone,\n\nLike many of you, I use AI tools (Claude, Gemini CLI) daily.\n\nThey're powerful, but the constant \"ping-pong\" (20+ prompts for one feature) and burning $100+/month on repeated context tokens is killing my productivity and my side projects.\n\nI believe the problem isn't the AI, but the lack of memory and orchestration.\n\n*It's \"vibe coding\" amplified.*\n\nSo, I'm building the solution in public: ***MOSAIQO***.\n\nIt's a Project Intelligence Platform that sits ON TOP of these tools.\n\nIt manages context, plans tasks automatically (using AI Planning), orchestrates agents (like Claude/Gemini) to execute code via remote workers (on your own hardware!), enforces TDD, and aims to save 95% of token costs.\n\nThink of it as your 24/7 AI co-founder that actually executes.\n\nToday, I launched the official countdown page with my video manifesto explaining the vision:  \n\u27a1\ufe0f [https://mosaiqo.dev](https://mosaiqo.dev)\n\nThe waitlist opens on Nov 3rd, but I'm building the core MVP over the next weeks and sharing the whole journey (code, bugs, breakthroughs) on Twitter (@boudydegeer).\n\nThis is Day 1.\n\nWould love your honest feedback on the idea and the manifesto video.  \n*Are you feeling this pain too? What are your thoughts?*\n\nThanks for reading!",
+    "url": "https://www.reddit.com/r/SideProject/comments/1obipue/my_manifesto_against_ai_pingpong_token_waste_and/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-20T06:16:00",
+    "author": "boudydegeer",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}

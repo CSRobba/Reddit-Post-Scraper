@@ -1,0 +1,15 @@
+{
+    "query_term": "AI waste",
+    "title": "Be prepared to take AI-assisted (vibe coding)coding seriously.  Or you\u2019ll just waste the next few months.",
+    "id": "1lvlqpw",
+    "body": "This poor guy just has no clue.  Was sold a lie watching some TikTok showing him how you could prototype a website in 5 minutes in Cursor.\n\nYou can build amazing things with AI but there\u2019s a core process to follow and you simply have to ask the right questions, give the right context, stay in control, use hundreds of new chat sessions, build on all the key requirements of any production software, deploy it the right way, think about architecture, scaling, security, api efficiency, costs, rate limiting, proper auth, the right databases for your needs, caching, and on and on.  \n\nBut if you don\u2019t know any of this, not knowing how to code is the last of your worries.\n\nAI won\u2019t tell you that you need this, you have to remember to ask.  And while you build, you have to take the time to learn the app you\u2019re building so intimately as a non coder that you can spot when the AI makes a change it shouldn\u2019t have - because it will!\n\nYou need to know how to test changes, be religious about documentation, version control, be consistent, not get frustrated, LEARN!\n\nIf you don\u2019t follow all that as a non coder you will simply be resigned to making a simple SPA and just about deploy it on vercel after 34 times.",
+    "url": "https://i.redd.it/geqmryhfavbf1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/geqmryhfavbf1.jpeg",
+    "created": "2025-07-09T08:29:31",
+    "author": "Captain_Subtext_47",
+    "subreddit": "cursor",
+    "num_comments": 110,
+    "ups": 180,
+    "upvote_ratio": 0.949999988079071,
+    "view_count": null
+}

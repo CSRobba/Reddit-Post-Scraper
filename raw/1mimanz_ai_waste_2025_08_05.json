@@ -1,0 +1,15 @@
+{
+    "query_term": "AI waste",
+    "title": "Built a food waste fighter: AI expiry tracker (Next.js PWA) - MVP \ud83d\ude80",
+    "id": "1mimanz",
+    "body": "Hey, I'm looking for your feedback!\n\nSharing my anti-food-waste tool **RoutineDB** (https://routinedb.com) - born from my own frustration with spoiled groceries.\n\n**What it does:**  \n\ud83c\udf4e Tracks expiration dates with AI suggestions  \n\ud83d\udd14 Sends PWA push notifications (iOS/Android)\n\n**Tech stack:**  \n\u2022 Selfhosted Next.js + Prisma  \n\u2022 DeepSeek LLM for expiry predictions  \n\u2022 Web Push API for notifications\n\n**Why your feedback matters:**  \n1\ufe0f\u20e3 **Does the UX suck?** (Be honest!)  \n2\ufe0f\u20e3 **iOS users:** Do PWA notifications work reliably?  \n3\ufe0f\u20e3 **What next?** Barcode scanning vs. LLM recipes? \n\n**Try it in 60s:**\n\n1. Visit [https://routinedb.com](https://routinedb.com)\n2. Sign in with Google\n3. Add items (e.g. `milk` \u2192 see AI suggest \"7 days\")\n4. See AI expiry suggestions \ud83d\udca1\n\n**Privacy first:**  \n\u2022 Delete account anytime (your profile -> settings)  \n\u2022 Only [umami.is](https://umami.is/) analytics  \n\u2022 No ads \ud83d\udeab No subscriptions ",
+    "url": "https://i.redd.it/ftu9zmxps9hf1.png",
+    "url_overridden_by_dest": "https://i.redd.it/ftu9zmxps9hf1.png",
+    "created": "2025-08-05T14:41:36",
+    "author": "luchanso",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null
+}
