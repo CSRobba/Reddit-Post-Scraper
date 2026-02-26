@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM pollution",
+    "title": "[Paper] \"Debugging Decay\": Why LLM context pollution causes an 80% drop in fix rate after 3 attempts.",
+    "id": "1po3s5f",
+    "body": "Just finished reading *The Debugging Decay Index*. It mathematically quantifies something I've felt intuitively: **The more you chat with the AI about a bug, the dumber it gets.**\n\nThe study shows that keeping the conversation history (context) actually hurts performance after the 2nd retry because the model gets trapped in a local minimum of bad logic.\n\nIt suggests 'Fresh Starts' (wiping context) are superior to 'Iterative Debugging'.\n\nHas anyone tried automating a 'Context Wipe' workflow? I'm thinking of building a script that just sends the current error + variables without any history",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1po3s5f/paper_debugging_decay_why_llm_context_pollution/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-16T06:47:54",
+    "author": "Capable-Snow-9967",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 21,
+    "ups": 5,
+    "upvote_ratio": 0.7300000190734863,
+    "view_count": null
+}

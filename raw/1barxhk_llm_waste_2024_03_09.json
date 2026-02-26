@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM waste",
+    "title": "Any LLM that does not waste words?",
+    "id": "1barxhk",
+    "body": "Each word costs compute cycles to generate. If you have FAANG resources you can make still fast enough, but on smaller systems it would be really beneficial to get to the point. \n\nI don't need \"This is a fascinating question, and to answer we need to examine all aspects of ...\" if the answer is \"no\" or \"rm -rf folder\". Local models would be a lot more usable if they used well their limited word throughput. \n\nAny model that gets close to this ideal, possibly just by responding well to a prompt?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1barxhk/any_llm_that_does_not_waste_words/",
+    "url_overridden_by_dest": null,
+    "created": "2024-03-09T12:54:04",
+    "author": "lookaround314",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 40,
+    "ups": 91,
+    "upvote_ratio": 1,
+    "view_count": null
+}
