@@ -3,6 +3,8 @@ import itertools
 import json
 from langdetect import detect, DetectorFactory
 import logging
+import matplotlib.pyplot as plt
+import numpy
 import pandas
 import os
 import requests
@@ -14,6 +16,7 @@ import util
 #### GLOBAL VARIABLES #### 
 CODE_NAME = "identify_subreddits"
 WORK_DIR = "../"
+CONFIG_FILE = os.path.join(WORK_DIR, "config.json")
 QUERIES_FILE = os.path.join(WORK_DIR, "subreddit_queries.csv")
 SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 
@@ -24,6 +27,28 @@ BASE_URL = "https://api.pullpush.io/reddit/search/submission/"
 INTERVAL = 30 # Unit: days
 START = datetime(2022, 11, 30)
 END = datetime(2026, 2, 1)
+
+###### SELECT THE MOST COMMON SUBREDDITS ###### 
+def top_subreddits():
+   subreddits = util.read_json(SUBREDDITS_FILE)
+   subreddits = pandas.DataFrame(
+      zip(subreddits.keys(), subreddits.values()),
+      columns = ["subreddit", "count"]
+   )
+   subreddits = subreddits.sort_values(by="count", ascending=False).reset_index(drop=True)
+   print(len(subreddits))
+   print(subreddits.head(n=int(len(subreddits)*0.2)))
+   ax = plt.subplot() 
+   subreddits.plot(kind="bar", ax=ax)
+   print(f"Distribution 75th Percentile: {numpy.percentile(subreddits['count'], 25)}")
+   print(f"Distribution 90th Percentile: {numpy.percentile(subreddits['count'], 10)}")
+   print(f"Mean: {subreddits['count'].mean()}")
+   print(f"Std: {subreddits['count'].std()}")
+
+   current_subreddits = util.read_json(CONFIG_FILE)["subreddits"]
+   print(f"Length of current subreddits: {len(current_subreddits)}")
+   print(f"Subreddits captured, but not in current: {', '.join([x for x in subreddits.head(n=int(len(subreddits)*0.2))['subreddit'].values if x not in current_subreddits])}")
+   print(f"Subreddits in current, but not in captured: {', '.join([x for x in current_subreddits if x not in subreddits.head(n=int(len(subreddits)*0.2))['subreddit'].values])}")
 
 ###### PROCESS REQUEST ######
 def process_request(data, params, logger):
@@ -60,7 +85,7 @@ def run_queries(queries, logger):
 
 if __name__ == "__main__":
     # Read the config file. This contains search keywords.
-    config = util.read_config(f'{WORK_DIR}/config.json')
+    config = util.read_json(CONFIG_FILE)
     # Create a logger for our code.
     now = datetime.now().strftime("%y%m%d%H%M")
     logger = util.initialize_logger(log_file = f"{WORK_DIR}/logs/{now}_{CODE_NAME}_log.log")
@@ -72,6 +97,9 @@ if __name__ == "__main__":
        'interval': INTERVAL
     }
     queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
+    queries["subreddits"] = ""
+    queries = queries.sort_values(by = "count", ascending = False).reset_index(drop = True)
     queries = queries.drop_duplicates(subset=["ai", "env", "start", "end"], keep="first").reset_index(drop = True)
     
-    queries = run_queries(queries, logger)
+    #queries = run_queries(queries, logger)
+    top_subreddits()

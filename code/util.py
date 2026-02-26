@@ -12,10 +12,10 @@ from tqdm import tqdm
 import traceback
 
 ###### Read Config Logger ######
-def read_config(config_file):
-    with open(config_file, 'r') as file:
-        config = json.load(file)
-        return config
+def read_json(file):
+    with open(file, 'r') as f:
+        data = json.load(f)
+        return data
 
 ###### Initialize Logger ######
 def initialize_logger(log_file = "./logs/log.log"):
@@ -65,7 +65,7 @@ def _generate_queries_all(**kwargs):
   Creates dataset of all the queries that we have to run by finding the cross-product of all possible
   AI-related keywords, environmental keywords, and dates.
   """
-  config = kwargs.get("config", {}) #read_config("../config.json"))
+  config = kwargs.get("config", {}) #read_json("../config.json"))
   start = kwargs.get("start", datetime(2022, 11, 30))
   end = kwargs.get("end", datetime(2026, 2, 1))
   interval = kwargs.get("interval", 10)
@@ -96,6 +96,7 @@ def _generate_queries_already_run(queries_file = "./queries_run.csv", **kwargs):
     queries_run = queries_run.drop("Unnamed: 0", axis = 1)
     queries_run["start"] = pandas.to_datetime(queries_run["start"])
     queries_run["end"] = pandas.to_datetime(queries_run["end"])
+    queries_run["subreddits"] = queries_run["subreddits"].astype(str)
     return queries_run
 
   return pandas.DataFrame([], columns = ["ai", "env", "start", "end", "subreddits", "count"])

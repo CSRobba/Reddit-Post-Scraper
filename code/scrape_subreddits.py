@@ -80,7 +80,7 @@ def run_queries(queries, logger):
 
 if __name__ == "__main__":
     # Read the config file. This contains search keywords.
-    config = util.read_config(f'{WORK_DIR}/config.json')
+    config = util.read_json(f'{WORK_DIR}/config.json')
     # Create a logger for our code.
     now = datetime.now().strftime("%y%m%d%H%M")
     logger = util.initialize_logger(log_file = f"{WORK_DIR}/logs/{now}_{CODE_NAME}_log.log")
