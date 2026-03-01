@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM energy use",
+    "title": "Response to LLM energy use objections",
+    "id": "1nztpki",
+    "body": "The idea that \u201cmore energy use = moral bad\u201d is backwards. Energy is the fuel for civilization. The question should not be \u201chow do we use less energy?\u201d but \u201chow do we produce more energy, and make it cheap?\u201d If you look at any metric of human progress (lifespan, literacy, computation, information, wealth) it all scales with energy consumption. Every leap forward has been powered by consuming\u00a0*more*\u00a0energy, not less.\n\nMore demand for energy drives more production of energy. Energy doesn't get cleaner, cheaper or more abundant by wanting it to. It gets that way because there's pressure to produce more.\n\nThe energy requirements of AI datacenters are forcing innovation. Suddenly there's an economic reason to build next-gen reactors, more transmission, better storage, and new generation methods.\n\nJust think about GPUs themselves. They didn't get faster because engineers had spare time, they got faster because gamers, miners, and now model trainers demanded insane performance. It will be the same with energy. When a civilization stops demanding energy, it's signaling that it's stopped wanting to build.",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1nztpki/response_to_llm_energy_use_objections/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-06T13:03:48",
+    "author": "Ninjinka",
+    "subreddit": "ChatGPT",
+    "num_comments": 10,
+    "ups": 2,
+    "upvote_ratio": 0.5600000023841858,
+    "view_count": null
+}

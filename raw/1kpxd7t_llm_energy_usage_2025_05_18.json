@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM energy usage",
+    "title": "I built a tool to profile LLM energy usage on Macs programmatically (down to the line of code)",
+    "id": "1kpxd7t",
+    "body": "If you want to measure LLM energy consumption on Macs, you have options like powermetrics (a CLI tool that periodically prints energy usage to your terminal) or Activity Monitor.  \n  \nThese work fine if you just want a high-level glance at your LLM's energy usage, but if you want more precise measurement (like seeing **energy used over specific lines of code**, or **energy cost per token generated**, etc.), there's not really a super straightforward way.  \n  \nThat's why I built \"zeus-apple-silicon\" ([github](https://github.com/ml-energy/zeus-apple-silicon)), a really tiny/lightweight library that lets you profile energy on Apple silicon programmatically, starting/stopping measurement at exactly the lines you want in your code.\n\n**As a bonus**, it provides more detailed metrics than powermetrics or similar tools -- whereas powermetrics only gives you aggregates for CPU, GPU, and ANE, this library will also break down energy metrics per efficiency/performance core, DRAM, and so on.  \n  \nThe library is available as a package in **Python**, but also as a header-only include in **C++** (in case you're interfacing with, say, llama.cpp directly).  \n  \nCheck out a more detailed blog post about it (with examples) here: [https://ml.energy/blog/energy/measurement/profiling-llm-energy-consumption-on-macs/](https://ml.energy/blog/energy/measurement/profiling-llm-energy-consumption-on-macs/)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1kpxd7t/i_built_a_tool_to_profile_llm_energy_usage_on/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-18T16:19:55",
+    "author": "cachehit_",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 0,
+    "ups": 11,
+    "upvote_ratio": 0.7900000214576721,
+    "view_count": null
+}
