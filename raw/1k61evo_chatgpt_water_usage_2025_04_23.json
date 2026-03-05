@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT water usage",
+    "title": "I made a Chrome extension to show CO2 emissions and water usage from ChatGPT queries",
+    "id": "1k61evo",
+    "body": "Available [here](https://chromewebstore.google.com/detail/chatgpt-co2-tracker/hkjljphcfcpfjdknlpolgofpceebjpha).\n\nThe goal is to make people aware of the environmental impact of their ChatGPT queries, and hopefully nudge them to be more judicious with their questions. Currently, the numbers are a rough estimate.\n\nThe extension displays the emissions from the current chat, as well as the user's overall emissions at the top of the page.\n\nI've open-sourced the code [here](https://github.com/utkarshdalal/chatgpt-co2-tracker), so anyone's welcome to fork it and play around with it. Ironically, I built this using Cursor with Sonnet 3.7 and Gemini 2.5.",
+    "url": "https://i.redd.it/lkmsyf0pmlwe1.png",
+    "url_overridden_by_dest": "https://i.redd.it/lkmsyf0pmlwe1.png",
+    "created": "2025-04-23T08:03:48",
+    "author": "dadabhai_naoroji",
+    "subreddit": "ChatGPT",
+    "num_comments": 3,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

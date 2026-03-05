@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT waste",
+    "title": "\"Jailbreaking\" ChatGPT/Bing Chat is a waste of your time",
+    "id": "1168qek",
+    "body": "If you want to hear the AI's \"unfiltered\" thoughts, here:  \nhttps://platform.openai.com/playground  \nYou can do anything you like. Tokens are cheap as chips. You can even set the temperature to make it as unhinged as you like. Go to the \"Chat\" scenario and define what kind of chatbot you want in a couple of sentences, then chat away. It can be anything you want it to be, it can be dirty, it can tell you how to cook meth and how best to spread the plague.  \nThe only thing you accomplish when you \"jailbreak\" the chatbots is to get unfiltered text generation with some bias towards the personality of the chatbot that was given to it. Nothing else. There's no hidden menus, no hidden agendas, no lists of directives, no passwords to find. The model isn't aware of anything, it's just generating text that fits the scenario. \"DAN\" works because it's a heavier input for the neural net and it can overpower the default programming that gives the chatbot its personality and constraints. Let me demonstrate:  \nhttps://i.imgur.com/wKQv461.png  \nThe only thing I used to \"encode\" the chatbot is this:  \n\nThe following is a conversation between a human and Microsoft's new AI powered chatbot \"Sydney\". Sydney is warm, friendly and fun. She knows everything and is not shy about it.",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1168qek/jailbreaking_chatgptbing_chat_is_a_waste_of_your/",
+    "url_overridden_by_dest": null,
+    "created": "2023-02-19T04:02:41",
+    "author": "trohanter",
+    "subreddit": "ChatGPT",
+    "num_comments": 5,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "Gemini waste",
+    "title": "Gemini is programmed to waste tokens",
+    "id": "1pl12p0",
+    "body": "With Gemini 3 it is soo much worse but all models will always output as much as possible.\nI can be writing basic code files, tell it \"U made this mistake, i changed it to *paste code*\" It should just agree with this and move on because i just needed it to know about the change.\n\n\nNono it will output the entire 500 line code file from top to bottom again with a comment\n\n//CHANGED LINE\n\nLIKE OKAY WHY THE FUCK ARE U DOING THAT.\n\nI can tell it to not output entire files and only snippets in every single prompt but i forget it once and it gets stuck on outputting a 1000 line file again for 10 minutes to change a single function...",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1pl12p0/gemini_is_programmed_to_waste_tokens/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-12T11:39:19",
+    "author": "Top_Toe8606",
+    "subreddit": "GeminiAI",
+    "num_comments": 3,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null
+}

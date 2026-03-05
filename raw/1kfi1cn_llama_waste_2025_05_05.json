@@ -1,0 +1,15 @@
+{
+    "query_term": "Llama waste",
+    "title": "Don\u2019t waste your internet data downloading Llama-3_1-Nemotron-Ultra-253B-v1-GGUF",
+    "id": "1kfi1cn",
+    "body": "It\u2019s not properly converted to llama.cpp.\n\n\nerror loading model: missing tensor 'blk.9.ffn_norm.weight'",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1kfi1cn/dont_waste_your_internet_data_downloading_llama3/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-05T10:50:24",
+    "author": "No_Conversation9561",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 6,
+    "ups": 10,
+    "upvote_ratio": 0.6200000047683716,
+    "view_count": null
+}

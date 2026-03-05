@@ -1,0 +1,15 @@
+{
+    "query_term": "Llama carbon footprint",
+    "title": "Inconsistency of carbon footprint in LLaMA 1 paper",
+    "id": "16b829c",
+    "body": "When I was reading the LLaMA 1 paper, it mentioned their power consumption and carbon emitted:\n\nThis means that developing these models would have cost around 2,638 MWh under our assumptions, and a total emission of 1,015 tCO2eq.\n\nHowever, Table 15 does not state the same information:\n\nhttps://preview.redd.it/1b23zuy2pjmb1.png?width=2014&format=png&auto=webp&s=e3fd7eebecd9ffc887a1fdf95bd20aefe903e97f\n\nThe combined power consumption and carbon emitted for all llama models in the table are 777 and 300, respectively. This clearly does not align with the previous information.\n\nCould I have misunderstood something?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/16b829c/inconsistency_of_carbon_footprint_in_llama_1_paper/",
+    "url_overridden_by_dest": null,
+    "created": "2023-09-05T19:26:53",
+    "author": "secsilm",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 2,
+    "ups": 8,
+    "upvote_ratio": 1,
+    "view_count": null
+}

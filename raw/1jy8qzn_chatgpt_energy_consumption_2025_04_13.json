@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT energy consumption",
+    "title": "[Self] Energy consumption of PC gaming vs ChatGPT",
+    "id": "1jy8qzn",
+    "body": "I see a lot of talk about AI energy consumption so I thought a bit of context is warranted. From steamcharts, there are currently approximately 3.6 million concurrent players for the top 10 most popular steam games. There are varying figures for the power draw of consumer PCs, so I'll take something on the lower end of the range of what I've seen and say the average consumer gaming PC draws 250 watts during gameplay. 3.6 million people drawing an average of 250 watts comes out to 900 MW of power consumption, I'll assume it's fairly consistent and call that 900 megawatt-hours concurrent. Extrapolate that over a 24 hour day and you get 21,600 megawatt-hours of power consumption. Compare that to ChatGPT, which uses an estimated 500 MW per day. That means that just the top 10 games on steam use more energy in a single hour than ChatGPT uses in an entire day. For a whole day, the top 10 steam games draw 43x as much energy as ChatGPT.",
+    "url": "https://www.reddit.com/r/theydidthemath/comments/1jy8qzn/self_energy_consumption_of_pc_gaming_vs_chatgpt/",
+    "url_overridden_by_dest": null,
+    "created": "2025-04-13T07:21:17",
+    "author": "TheMisterTango",
+    "subreddit": "theydidthemath",
+    "num_comments": 18,
+    "ups": 0,
+    "upvote_ratio": 0.23000000417232513,
+    "view_count": null
+}

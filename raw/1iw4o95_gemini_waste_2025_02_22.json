@@ -1,0 +1,15 @@
+{
+    "query_term": "Gemini waste",
+    "title": "How I wasted 3 months building a Gemini tool that helps you waste even more time",
+    "id": "1iw4o95",
+    "body": "I've built yet another thing the world probably doesn't need: \"RabbitHoles\" an open sourced AI-powered search engine for people who excel at procrastination and getting absolutely nothing done.\n\n\n\nLet me be real: I'm not claiming to have reinvented the wheel here. There are a lot of search engines out there. But I wanted to create something different, something that encouraged exploration and endless discovery.\n\n\n\nWhy did I build it?\n\n\n\nExcellent question! Instead of doing literally anything productive, I decided to build a tool that enables others to waste time as efficiently as I do. It visualizes how different ideas connect, which is fancy talk for \"I made my ADHD browsing habits into an app.\"\n\n\n\nSo, what does it do?\n\n\n\nRabbitHoles lets you enter a topic, and then uses AI to generate related concepts and connections, visualizing them in an interactive mind map. You can click on nodes to dive deeper, uncover subtopics, and basically get wonderfully lost in the depths of knowledge. RabbitHoles creates interactive mind maps of connected topics, ensuring you'll never actually finish that important work project.\n\n\n\nTech under the hood:\n\n\n\nFrontend: React, TypeScript, React Flow, Tailwind CSS\n\n\n\nBackend: Node.js, Express, Tavily, Google Gemini 2.0 Flash\n\n\n\nCheck it out!\n\n\n\nWhether you're a professional time-waster, a chronic overthinker, or just someone looking for new ways to avoid productivity, RabbitHoles is here to enable your worst habits. Give it a try and let me know how many hours of your life you've successfully wasted!\n\n\n\nPS: If anyone asks, this is technically \"learning\" and \"expanding your knowledge base,\" not procrastination. I'll die on this hill.\n\n\n\nThanks for reading my manifesto on professional time-wasting. May your curiosity lead you far from whatever you're supposed to be doing right now!\n\n\n\nLink: [https://rabbitholes.dojoma.ai](https://rabbitholes.dojoma.ai)",
+    "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1iw4o95/how_i_wasted_3_months_building_a_gemini_tool_that/",
+    "url_overridden_by_dest": null,
+    "created": "2025-02-22T23:24:31",
+    "author": "NoAd5720",
+    "subreddit": "GoogleGeminiAI",
+    "num_comments": 26,
+    "ups": 86,
+    "upvote_ratio": 0.9399999976158142,
+    "view_count": null
+}
