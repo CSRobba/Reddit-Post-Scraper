@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude waste",
+    "title": "Attempts to get Claude to systematically fix codebase tests was catastrophic - complete waste of time",
+    "id": "1lltov4",
+    "body": "After spending a few hours running vitests (for fun basically) and sending it to Claude to try to get it to repair them, and asking it to write and update documentation about the \"fixes\", it was discovered that it was destroying everything and creating complete fantasies and lies.\n\nI ran a test after a lot of hours of asking it to do stuff, and then asked it to evaluate the supposed fixes it was doing - it determined that everything was a lie.\n\nIt isn't ready yet.\n\nClaude is great for some small projects. It is great as an assistant to a developer who more or less knows that they are doing.\n\nI am a web developer, but I know virtually nothing about this area of development for this project. I got a repo someone developed which was not working and I wanted it to work, so I tried to see if Claude could repair it. It did repair it, but then I tried to run tests to get it to fix those too - no. \n\nI was able to sense some various workarounds based on pattern recognition while watching it and stop it and tell it don't do null checks - no that isn't solving the real issue - no if you are doing more checks that doesn't solve why it is null in the first place, etc; but overall it was a complete and total waste of a day for nothing.\n\nFor reverece, I reverted everything to the running version before the attempted fixes, and asked it to evaluate what was working, and got:\n\n**\u2705 Working:**\n\n* `process-request` \\- Basic routing works but has low confidence\n* `research` \\- Accepts jobs but fails due to missing API credentials (401 error)\n* `run-workflow` \\- Accepts jobs but workflows need to be defined\n* `map-codebase` \\- Successfully running, mapping current directory structure\n* `get-job-result` \\- Job status polling works\n\n**\u274c Not Working:**\n\n* Research tool needs Perplexity API key configuration\n* Workflow system needs predefined workflows\n* Task manager requires more specific command syntax\n\n**\u26a0\ufe0f Issues:**\n\n* Some job result polling encountering connection issues\n* API credentials need to be configured for external services\n\n  \nSo, there are some issues with it, but it is mostly working, needs some API keys and has some bugs. But the destrouction it  caused when it tried to fix all the vitest errors - complete disaster. That's why I take backups.\n\nAnyway I give up on this project, it's out of my scope and Claude can't fix it.",
+    "url": "https://i.redd.it/m2uaxh1ryg9f1.png",
+    "url_overridden_by_dest": "https://i.redd.it/m2uaxh1ryg9f1.png",
+    "created": "2025-06-27T06:19:11",
+    "author": "Warm_Data_168",
+    "subreddit": "ClaudeAI",
+    "num_comments": 3,
+    "ups": 0,
+    "upvote_ratio": 0.3799999952316284,
+    "view_count": null
+}

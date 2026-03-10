@@ -1,0 +1,15 @@
+{
+    "query_term": "data center water usage",
+    "title": "Data Center Cooling/AI Water Usage",
+    "id": "1hxf6ty",
+    "body": "My understanding was the the cooling system used in AI data centers was a closed loop system. That they weren\u2019t siphoning off water every time they needed to train their models or execute a command. However, I can\u2019t really find any articles or literature that explain how these cooling systems work in any detail but you find a lot about how AI is gonna take all of our water. Anyone have any links that explain these systems? I\u2019d like to be able counter some of the more sensationalist talking points but I wanna make sure that I\u2019m actually sharing correct information when I do so.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1hxf6ty/data_center_coolingai_water_usage/",
+    "url_overridden_by_dest": null,
+    "created": "2025-01-09T07:25:09",
+    "author": "mcfearless0214",
+    "subreddit": "aiwars",
+    "num_comments": 46,
+    "ups": 0,
+    "upvote_ratio": 0.4699999988079071,
+    "view_count": null
+}

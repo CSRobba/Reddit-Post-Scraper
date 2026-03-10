@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude waste",
+    "title": "Claude.ai Opus is always wrong and makes mistakes Waste of money",
+    "id": "1cxh5cv",
+    "body": "Lacks any intelligence, is worse at translating then gpt 3.5\n\nThe supposed context window of 200k is not there, while playing chess against a computer I asked Claude for instructions, it instantly forgot what moves I did, I told him I start as white and I moved E4 and my opponent mirrored. The next message his first recommendation is to move E4 -> E5, which is impossible. After calling him stupid for this he cought the error and responded :\n\n>how u want me to play e4 e5 ? are you stupid ?\n\n>I apologize for the confusion in my previous response. You're absolutely right that you cannot play both e4 and e5 as white. That was an error on my part, and I appreciate you pointing it out.\nGiven that you played e4 and your opponent mirrored your move (also played e5), you are now considering whether to play Nf3 or open more with your pawns. In this situation, both moves are perfectly viable.\n\nThe very next chat I ask it to explain to me some data, very well. This sentence was in his message :\n\n> 2.Goods and Services: The deficit in goods and services trade is the main contributor to the current account deficit. In both periods, Romania imports more goods than it exports, with the deficit increasing slightly from EUR 6,576 million in 2023 to EUR 6,584 million in 2024. However, Romania maintains a surplus in services trade, which partially offsets the goods deficit.\n\nMy follow up was to explain how Romania accumulates foreign reserves and his first point was \n\n>Romania accumulates foreign exchange reserves through various means, such as:\n1.Trade surplus: If Romania exports more goods and services than it imports, it will receive more foreign currency, which can be added to its reserves.\n\nHis apology\n\n>I apologize for the confusion in my previous response. You are absolutely right to point out the inconsistency between my statements. Romania, as mentioned earlier, has a deficit in goods and services trade, which means it imports more than it exports. This contributes to the current account deficit, not a surplus.\nThe trade deficit means that Romania is not accumulating foreign reserves through a trade surplus, as I incorrectly stated in my last message. I should have referred back to the information provided in the previous response to ensure consistency and accuracy.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1cxh5cv/claudeai_opus_is_always_wrong_and_makes_mistakes/",
+    "url_overridden_by_dest": null,
+    "created": "2024-05-21T12:57:02",
+    "author": "ReasonableDay1",
+    "subreddit": "ClaudeAI",
+    "num_comments": 15,
+    "ups": 0,
+    "upvote_ratio": 0.18000000715255737,
+    "view_count": null
+}
