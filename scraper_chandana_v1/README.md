@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3. Add Google API credentials
+### 3. Add Google API credentials (if you want to make another sheet)
 
 This scraper uploads results to Google Sheets using a **Google Service Account**.
 
@@ -66,15 +66,9 @@ Steps:
 credentials.json
 ```
 
-Place this file inside:
-
-```
-scraper_chandana_v1/
-```
-
 ---
 
-### 4. Share the target Google Sheet
+### 4. Share the target Google Sheet (if you want to make another sheet)
 
 The service account must be given access to the sheet.
 
@@ -121,20 +115,6 @@ The script will:
 
 ---
 
-# Output
-
-The scraper uploads a table containing:
-
-| column | description |
-|------|-------------|
-| keyword | keyword used for the search |
-| title | Reddit post title |
-| url | link to the Reddit post |
-
-Results appear in the shared spreadsheet linked above.
-
----
-
 # Responsible Use & Data Collection Notice
 
 This tool collects **publicly accessible Reddit search results** from `old.reddit.com`.  
@@ -163,10 +143,10 @@ The script does not attempt to bypass authentication systems or scrape protected
 scraper_chandana_v1/
 │
 ├── scraper.py
-├── config.py (hidden, to be published after review)
+├── config.py
 ├── requirements.txt
 ├── README.md
-└── credentials.json (hidden)
+└── credentials.json (hidden, dont commit to repo)
 ```
 
 ---
