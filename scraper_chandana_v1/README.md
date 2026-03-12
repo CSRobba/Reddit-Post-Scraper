@@ -1,6 +1,6 @@
 # scraper_chandana_v1
 
-Scrapes Reddit posts by keyword and stores them in Google Sheets.
+Scrapes Reddit posts by keyword and stores them in Google Sheets: [RedditScrape_v1](https://docs.google.com/spreadsheets/d/1SY5XGZBn8yUUdyfuyS3Gn0gOhtRVpqFPEYWcWH7oIss/edit?gid=0#gid=0).
 
 ## Setup
 1. Install Python 3.10+
