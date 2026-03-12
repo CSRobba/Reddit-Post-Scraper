@@ -94,7 +94,9 @@ KEYWORDS = [
     "machine learning",
     "chatgpt"
 ]
+PAGES_PER_KEYWORD = 3
 ```
+**Note**: PAGES_PER_KEYWORD controls how many Reddit search result pages your scraper visits for each keyword. Reddit search does pagination (multiple pages of results). The scraper can follow those pages to collect more posts.
 
 ---
 
