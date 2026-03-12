@@ -1,13 +1,13 @@
 # scraper_chandana_v1
 
-This scraper collects Reddit posts containing specified keywords and uploads them to a shared Google Sheet for analysis.
+This scraper collects Reddit posts containing specified keywords and uploads them to a shared Google Sheet (see below) for qualitative analysis.
 
 Instead of using the official Reddit API, this tool retrieves publicly accessible search results from **old.reddit.com**, which serves static HTML pages that can be parsed reliably using Python.
 
 Scraped results are written to the shared spreadsheet:
 
 **Google Sheet Output:**  
-https://docs.google.com/spreadsheets/d/1SY5XGZBn8yUUdyfuyS3Gn0gOhtRVpqFPEYWcWH7oIss/edit?gid=0#gid=0
+[RedditScrape_v1](https://docs.google.com/spreadsheets/d/1SY5XGZBn8yUUdyfuyS3Gn0gOhtRVpqFPEYWcWH7oIss/edit?gid=0#gid=0)
 
 ---
 
@@ -153,7 +153,7 @@ The script does not attempt to bypass authentication systems or scrape protected
 - Results depend on Reddit's search indexing.
 - Only posts visible on public search pages can be collected.
 - HTML structure changes on Reddit may require updates to the scraper.
-- This tool is not intended for large-scale or high-frequency scraping.
+- This tool is not intended or suitable for large-scale or high-frequency scraping.
 
 ---
 
@@ -163,14 +163,14 @@ The script does not attempt to bypass authentication systems or scrape protected
 scraper_chandana_v1/
 │
 ├── scraper.py
-├── config.py
+├── config.py (hidden, to be published after review)
 ├── requirements.txt
 ├── README.md
-└── credentials.json
+└── credentials.json (hidden)
 ```
 
 ---
 
-# Notes for Repository Contributors
+# Note
 
 This scraper is designed as an **independent prototype** within the repository so that multiple scraping approaches can be tested without interfering with other implementations.
