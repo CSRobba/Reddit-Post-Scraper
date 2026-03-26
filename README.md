@@ -24,6 +24,9 @@ Contains Google Colab notebooks used for the scraping pipeline:
 **logs/**  
   Contains the log history of the code. This maintains constant documentation of what has been done.
 
+**raw/**
+Contains the raw data downloaded from Reddit.
+
 **README.md**  
 Provides documentation, repository structure, and usage instructions.
 

@@ -36,11 +36,14 @@ def top_subreddits():
       columns = ["subreddit", "count"]
    )
    subreddits = subreddits.sort_values(by="count", ascending=False).reset_index(drop=True)
+   
    print(len(subreddits))
    print(subreddits.head(n=int(len(subreddits)*0.1)))
    print(subreddits.head(n=int(len(subreddits)*0.1))['count'].mean())
    ax = plt.subplot() 
    subreddits.plot(kind="bar", ax=ax)
+   plt.show()
+   
    print(f"Distribution 75th Percentile: {numpy.percentile(subreddits['count'], 25)}")
    print(f"Distribution 90th Percentile: {numpy.percentile(subreddits['count'], 10)}")
    print(f"Mean: {subreddits['count'].mean()}")
@@ -102,5 +105,5 @@ if __name__ == "__main__":
     queries = queries.sort_values(by = "count", ascending = False).reset_index(drop = True)
     queries = queries.drop_duplicates(subset=["ai", "env", "start", "end"], keep="first").reset_index(drop = True)
     
-    #queries = run_queries(queries, logger)
+    queries = run_queries(queries, logger)
     top_subreddits()

@@ -19,11 +19,10 @@ SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 
 # ArcticPush URL
 BASE_URL = "https://arctic-shift.photon-reddit.com/api/posts/search"
-
-# PushPull Scraping Interval
+# ArcticPush Scraping Interval
 INTERVAL = 365 # Unit: days
 START = datetime(2022, 11, 30)
-END = datetime(2026, 2, 1)
+END = datetime(2026, 3, 1)
 
 ###### RUN POST ######
 def save_post(result):
@@ -61,7 +60,6 @@ def process_request(data, params, logger):
                 'upvote_ratio': post.get('upvote_ratio'),
                 'view_count': post.get('view_count')
             }
-    
             save_post(result)
             results.append(result)
     
@@ -92,6 +90,5 @@ if __name__ == "__main__":
        'interval': INTERVAL
     }
     queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
-    
-    queries = run_queries(queries, logger)
 
+    queries = run_queries(queries, logger)
