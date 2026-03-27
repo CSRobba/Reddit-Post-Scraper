@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environmental",
+    "title": "Quantifying the environmental cost of everyday AI use, looking for seeking scientific feedback on a personal impact tool",
+    "id": "1kgzc73",
+    "body": "Hi everyone,\n\nI\u2019ve been researching the environmental costs of large AI models (specifically Large Language Models) and how they compare to more familiar carbon-emitting activities. While we often focus on transportation, agriculture, or manufacturing, I think the digital side of emissions (especially from fast-growing technologies like AI) is under-discussed.\n\n  \nA few references that caught my attention:\n\n* One AI-generated image can emit as much CO\u2082 as driving \\~3 miles in a typical gas-powered vehicle. [Source](https://arxiv.org/abs/2311.16863)\n* Training GPT\u20113 emitted an estimated 552 metric tons of CO\u2082, roughly equivalent to 500 round-trip flights from New York to San Francisco. [Source](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)\n* Even a single ChatGPT query consumes significantly more energy than a Google search\u2014about 5\u00d7 more.\n* These systems also consume notable amounts of water, with inference-related water usage reaching \\~500\u202fmL per conversation in some data centers. [Source](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)\n\n**I\u2019m currently prototyping a browser extension to help users visualize the digital footprint of their AI interactions.** The goal is not to shame use, but to provide:\n\n1. A real-time footprint score (CO\u2082 + water estimate) after each ChatGPT session\n2. A basic tracker to show trends over time\n3. Small behavioural suggestions to lower impact (e.g., using more concise queries or less resource-intensive models, maybe pushing for Google searches depending on the query)\n\nI'm not trying to promote a product here, just looking to get early scientific feedback from a community that takes climate data seriously.\n\n* Does this kind of tool have scientific value for raising awareness?\n* What pitfalls should I avoid when estimating digital emissions in real time?\n* Any important peer-reviewed work I should include in my methodology?\n\nIf interested, here\u2019s the prototype page:  \n\ud83c\udf0d [https://gaiafootprint.carrd.co](https://gaiafootprint.carrd.co)\n\nThank you!",
+    "url": "https://www.reddit.com/r/climatechange/comments/1kgzc73/quantifying_the_environmental_cost_of_everyday_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-07T10:53:59",
+    "author": "slimhassoony",
+    "subreddit": "climatechange",
+    "num_comments": 0,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null
+}

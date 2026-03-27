@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environmental",
+    "title": "what ACTUALLY is the environmental impact of AI and how bad is it truly compared to other things?",
+    "id": "1qfc6rw",
+    "body": "im generally Anti-AI but the environmental aspect is really confusing to me because I see SO many different opinions and sources that contradict each other. Some say AI is really bad for the environment because of the water and energy wasted in the process, mainly by data centers. Others say it has no significant impact, especially in relation to other forms of energy consumption.\n\nI'm no scientist and frankly speaking i don't really get the more technical aspects of sources about this topic, so i can't just look at said sources and determine whether or not the content is right/wrong/misleading/lacks context/ etc.\n\nSo how do I know what's real and what's not? \n\nFor example, just today i saw this comment (I'll copy it down below) claiming the environmental impact isn't significant, and then i go to different subreddits that yet again link different sources apparently contradicting all this. \n\n\"Independent analysts estimate Grok 4 was trained with the equivalent of the energy used by under 3800 households in a year (the city that the datacenter is in has 255k households: https://www.census.gov/quickfacts/fact/table/memphiscitytennessee/POP010210) and the same amount of water that 0.625 square miles of farmland uses in a year (most of which just gets evaporated like what the sun does everyday) https://epoch.ai/data-insights/grok-4-training-resources\n\nTraining Deepseek V3 used 2,788,000 hours on H800 GPUs to train. Each H800 GPU uses 350 Watts, so that totals to 980 MWhs. an equivalent to the annual consumption of approximately 90 average American homes: https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek\\_V3.pdf\n\nSimilarly, training GPT-4 (at a massive 1.75 trillion parameters) required approximately 1.75 GWhs of energy, an equivalent to the annual consumption of approximately 160 average American homes: https://www.baeldung.com/cs/chatgpt-large-language-models-power-consumption\"",
+    "url": "https://www.reddit.com/r/antiai/comments/1qfc6rw/what_actually_is_the_environmental_impact_of_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-17T07:38:40",
+    "author": "sakustik",
+    "subreddit": "antiai",
+    "num_comments": 13,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null
+}

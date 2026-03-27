@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environmental",
+    "title": "Google new Research Paper : Measuring the environmental impact of delivering AI",
+    "id": "1mymak3",
+    "body": "Google has dropped in a very important research paper measuring the impact of AI on the environment, suggesting how much carbon emission, water, and energy consumption is done for running a prompt on Gemini. Surprisingly, the numbers have been quite low compared to the previously reported numbers by other studies, suggesting that the evaluation framework is flawed. \n\nGoogle measured the environmental impact of\u00a0**a single Gemini prompt**\u00a0and here\u2019s what they found:\n\n* **0.24 Wh of energy**\n* **0.03 grams of CO\u2082**\n* **0.26 mL of water**\n\nPaper : [https://services.google.com/fh/files/misc/measuring\\_the\\_environmental\\_impact\\_of\\_delivering\\_ai\\_at\\_google\\_scale.pdf](https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf)\n\nVideo : [https://www.youtube.com/watch?v=q07kf-UmjQo](https://www.youtube.com/watch?v=q07kf-UmjQo)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mymak3/google_new_research_paper_measuring_the/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-24T00:32:07",
+    "author": "Technical-Love-8479",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 27,
+    "ups": 22,
+    "upvote_ratio": 0.7599999904632568,
+    "view_count": null
+}

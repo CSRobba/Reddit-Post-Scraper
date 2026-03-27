@@ -1,0 +1,15 @@
+{
+    "query_term": "AI water",
+    "title": "[OC] Will AI really drink us dry? \ud83d\udca7 Water use per 10 k tokens across popular LLMs (arXiv:2505.09598)",
+    "id": "1kpjtif",
+    "body": "TL;DR \u2013 A full 10 000-token chat (roughly 20-50 questions) with GPT-4 Turbo uses about 33 ml of water; the thirstiest model in the new arXiv study, DeepSeek-R1, tops out at 234 ml. For context, one toilet flush is around 6 000 ml and the average person runs through 175 litres every day. Even the one-off training of GPT-3 (5.4 million L) equals less than three seconds of global agricultural use. My complete fact-check, all sources (arXiv 2505.09598, IWA domestic-use study, etc.) and extra comparisons are in the first comment.",
+    "url": "https://i.redd.it/4dlvd6bzjj1f1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/4dlvd6bzjj1f1.jpeg",
+    "created": "2025-05-18T09:20:19",
+    "author": "keryc",
+    "subreddit": "ChatGPT",
+    "num_comments": 10,
+    "ups": 0,
+    "upvote_ratio": 0.3799999952316284,
+    "view_count": null
+}

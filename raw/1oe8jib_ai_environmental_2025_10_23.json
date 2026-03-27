@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environmental",
+    "title": "Let's talk environmental impacts of AI... detection",
+    "id": "1oe8jib",
+    "body": "I've seen many recent demands that social media services identify and make optional for all users, any AI-generated content.\n\nDoing this for locally generated content would be trivial and would cost no extra resources.\n\nHowever, doing this in general would require that ALL CONTENT be passed through AI detectors, which are, themselves, AI models. This means that, for example, Instagram would have to pass every photo anyone ever uploaded through an AI detection AI model, scaling the use of AI in their infrastructure by what would likely be an order of magnitude.\n\nIf we're going to talk about the environmental cost of AI (and even just in electricity production there clearly is *some* cost) we have to talk about these sorts of massive scale applications of AI technology that take everything we did yesterday and add a new AI component. Shouldn't we be trying to avoid such step functions in the use of AI when there is little practical benefit (especially as AI detectors have notoriously proven prone to both false positives and false negatives)?",
+    "url": "https://www.reddit.com/r/aiwars/comments/1oe8jib/lets_talk_environmental_impacts_of_ai_detection/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-23T12:52:18",
+    "author": "Tyler_Zoro",
+    "subreddit": "aiwars",
+    "num_comments": 7,
+    "ups": 1,
+    "upvote_ratio": 0.5600000023841858,
+    "view_count": null
+}

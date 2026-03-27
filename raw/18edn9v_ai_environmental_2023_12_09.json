@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environmental",
+    "title": "Hidden environmental cost of AI-generated images. Think twice, do better.",
+    "id": "18edn9v",
+    "body": "Hey everyone, I came across this eye-opening study about the energy consumption of AI image generation. It turns out, generating just nine images using AI is as energy-intensive as fully charging our smartphone.\n\nThis revelation comes from a study by Carnegie Mellon University and HuggingFace. They found that AI generative models, especially those for image creation like DALL-E, consume significantly more energy than text-based models like ChatGPT. On average, creating 1,000 inferences with these models can use between 0.06 to 2.9 kWh, with the mean being around 1.35 kWh. To put that in perspective, the average smartphone requires just 0.012 kWh to charge.\n\nWhat\u2019s more alarming is the CO2 emissions associated with this. Each image can generate between 0.1 to 0.5 grams of CO2, and the more inefficient models can emit up to 2 grams per image.\n\nIt\u2019s crucial we consider these findings, especially when using AI for generating images for fun or karma farming. Each image comes with a cost to our planet. Let\u2019s be more mindful about how and why we use these technologies. \n\nThoughts?\n\nSource: https://arxiv.org/abs/2311.16863",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/18edn9v/hidden_environmental_cost_of_aigenerated_images/",
+    "url_overridden_by_dest": null,
+    "created": "2023-12-09T08:30:24",
+    "author": "vago8080",
+    "subreddit": "ChatGPT",
+    "num_comments": 36,
+    "ups": 1,
+    "upvote_ratio": 0.30000001192092896,
+    "view_count": null
+}

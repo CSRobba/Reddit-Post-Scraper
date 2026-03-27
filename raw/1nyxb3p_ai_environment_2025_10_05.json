@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environment",
+    "title": "Title: I built an AI interviewing platform that actually talks to you (with a coding environment built in)",
+    "id": "1nyxb3p",
+    "body": "https://preview.redd.it/ggd1yzfcfctf1.png?width=3456&format=png&auto=webp&s=aa4e949f10d0cd7a80c2ed637ef8b531971e60fa\n\nHello, wonderful people,\n\nI've been working on this application for a while and finally got it to a point where I want to share it. It's called [Docwrite](https://docwrite.dev/).\n\nBasically, it's an AI interviewer where you get to interview via voice/video. I know there are tools out there for interview prep, but most of them are either just text-based chatbots or they give you questions to read. I wanted something that felt more like an actual interview - where you're speaking out loud and getting real-time responses.\n\nThe other thing I added was a coding environment. So if you're doing technical interviews that require coding, you can code while talking through your solution. No need to switch between tabs or anything. It covers several programming languages/frameworks as well (still looking at adding more)\n\nI built this because, honestly, I used to bomb interviews from nerves, and practicing alone with flashcards never really helped. Thought others might find it useful too.\n\nStill early and working out some kinks, but I'd love feedback if anyone wants to try it out.",
+    "url": "https://www.reddit.com/r/SideProject/comments/1nyxb3p/title_i_built_an_ai_interviewing_platform_that/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-05T15:18:39",
+    "author": "Embarrassed_Put_2800",
+    "subreddit": "SideProject",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}

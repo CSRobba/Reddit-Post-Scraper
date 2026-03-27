@@ -1,0 +1,15 @@
+{
+    "query_term": "AI sustainable",
+    "title": "Sustainable AI Demos on Hugging Face: Exploring Monetization to Fund Better Hardware (AdSense vs. Alternatives)",
+    "id": "1otf0cs",
+    "body": "Hello fellow ML practitioners,\n\nI've built an application on Hugging Face Spaces\u2014a public demo for my AI model (using Gradio/Streamlit, see link below)\u2014and it's starting to see some good traffic. To keep the performance high and potentially scale up to better **paid hardware tiers (GPUs/CPUs)**, I need to explore sustainable funding options.\n\nI'm focused on finding a clear, compliant way to **monetize the usage** without compromising the user experience too much.\n\nMy primary question revolves around **third-party advertising** like **Google AdSense**:\n\n1. **Policy and Precedent:** Does anyone in this community have **direct experience** implementing AdSense code within a Hugging Face Space? I've checked the ToS, but it's not explicitly clear. Has Hugging Face ever taken action against Spaces using external ads?\n2. **User Acceptance:** Given that Spaces are often educational, how receptive do you think users are to seeing display ads within the UI of an ML demo? I want to avoid a poor UX.\n3. **Community-Approved Strategies:** If direct AdSense integration is risky or frowned upon, what are the most **effective and accepted monetization methods** you've seen or used on successful Spaces?\n   * Linking to a **paid commercial API** (a better/faster version)?\n   * Implementing a **'Tip Jar'** or donation link?\n   * Offering **premium, private inference features** outside of the public Space?\n\nI'm keen to learn from those who have successfully navigated the balance between providing a great free demo and covering the operational costs of the underlying model.\n\nThanks for sharing your expertise!\n\nLink to my Space: \\[[https://huggingface.co/spaces/dream2589632147/Dream-wan2-2-faster-Pro](https://huggingface.co/spaces/dream2589632147/Dream-wan2-2-faster-Pro)\\]",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1otf0cs/sustainable_ai_demos_on_hugging_face_exploring/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-10T09:20:18",
+    "author": "Otherwise_Ad1725",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

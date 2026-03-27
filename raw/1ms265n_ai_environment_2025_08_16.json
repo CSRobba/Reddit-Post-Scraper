@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environment",
+    "title": "15 Minutes to a Fully Autonomous AI Agent Environment (SSL-Ready)",
+    "id": "1ms265n",
+    "body": "The AI Agent Host lets you deploy a production-ready, persistent, agentic AI environment in \\~15 minutes \u2014 including SSL.\n\nNo heavy DevOps skills needed. No vendor lock-in. Just pure, autonomous AI.\n\nWhy this matters:\n\n* **Lowers the barrier to entry**\u00a0\u2014 Anyone can spin up an AI agent with direct system access, persistent memory, and integrated tools.\n* **Accelerates innovation**\u00a0\u2014 Spend your time on AI logic & applications, not wiring up infrastructure.\n* **Real-world autonomy**\u00a0\u2014 Agents can query databases, manage files, control services, automate DevOps tasks.\n* **Security awareness**\u00a0\u2014 Puts the conversation on how to\u00a0*safely*\u00a0run AI with full system control.\n* **Decentralized option**\u00a0\u2014 Run locally, own your data, customize your AI environment.\n\nStack includes:\n\n* **Code-Server**\u00a0(browser-based dev environment)\n* **QuestDB**\u00a0(real-time time-series DB)\n* **Grafana**\u00a0(monitoring/visualization)\n* **Persistent**\u00a0AI Agent w/ full system access\n* **Reverse proxy**\u00a0with SSL (Nginx + Certbot)\n* **Preconfigured** with Claude CLI\n\nYou can go from zero \u2192 fully operational agent in less time than a coffee break.\n\n\ud83d\udcad Question for the community:  \nIf powerful AI stacks like this become\u00a0*that easy*\u00a0to set up, how do you think it changes the AI landscape?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ms265n/15_minutes_to_a_fully_autonomous_ai_agent/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-16T13:41:55",
+    "author": "Emotional-Access-227",
+    "subreddit": "ClaudeAI",
+    "num_comments": 3,
+    "ups": 5,
+    "upvote_ratio": 1,
+    "view_count": null
+}

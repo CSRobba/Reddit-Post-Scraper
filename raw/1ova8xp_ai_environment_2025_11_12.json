@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environment",
+    "title": "The Station: An Open-World Environment for AI-Driven Discovery",
+    "id": "1ova8xp",
+    "body": "What if AI agents could be real scientists, not just a tool?\n\nThis paper introduces The STATION, an open-world for agents to read, hypothesize, collaborate and experiment.\n\nThe AI world runs for weeks without any human help. Agents including Gemini, GPT and Claude collaborate.\n\nAgents achieved SOTA on 5 benchmarks in maths, biology, and ML. In the famous circle packing task (math), they beat Google's AlphaEvolve. In scRNA-seq (biology), they invented a new algorithm.\n\nPaper & Open-source Code:\u00a0[https://arxiv.org/pdf/2511.06309](https://arxiv.org/pdf/2511.06309)",
+    "url": "https://i.redd.it/hi03xlbmuu0g1.png",
+    "url_overridden_by_dest": "https://i.redd.it/hi03xlbmuu0g1.png",
+    "created": "2025-11-12T11:44:46",
+    "author": "progenitor414",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "AI water",
+    "title": "Water Usage in AI is actually a problem",
+    "id": "1p1mg7h",
+    "body": "TLDR: AI water consumption is actually a problem for many settlements situated near data centres, (but probably not large scale across a country).\n\nAI consumption is a frequent cause of debate on this subreddit so I wanted to add my two cents based on research I found online.\n\nDatacentres across the US used 449 million gallons of water a year in 2019, which while much lower than industries such as agriculture is still hugely significant especially since the extremely significant rises due to AI. Most data centres use liquid cooling that relies on water, about 80% of this is evaporated and the rest is discharged to municipal wastewater facilities. In many areas this is entirely expendable and not a problem, but for many towns and villages this can impact their water supply, especially during times of drought when water is already scarce.\n\nThis means that AI data centres can in some cases take water away from consumers. Two commonly cited arguments against this are that there is an excess of water and that it can be reused, both of these are misleading as only about 1% of the water on earth is accessible freshwater and the water used by AI data centres can't be immediately reused as it has evaporated or needs to be repurified.\n\nHowever, it is worth noting that overall there is plenty of water it is mostly a matter of working out how to distribute it. Notably communites such as the cited case study below in Georgia have struggled due to new AI data centres making it a risk worth considering.\n\nIn conclusion, datacentres use of AI is something that should be considered when making datacentres and has real risks, but is not a big enough factor for stopping all AI datacentre construction.\n\nDisclaimer: I have no qualifications in this are, this is just a personal opinion from researching various sources some of which are cited below.\n\nSources:\n\n[https://www.eesi.org/articles/view/data-centers-and-water-consumption](https://www.eesi.org/articles/view/data-centers-and-water-consumption)\n\n[https://www.bbc.co.uk/news/articles/cy8gy7lv448o](https://www.bbc.co.uk/news/articles/cy8gy7lv448o)\n\n[https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/?embedded-checkout=true](https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/?embedded-checkout=true)",
+    "url": "https://www.reddit.com/r/aiwars/comments/1p1mg7h/water_usage_in_ai_is_actually_a_problem/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-19T17:46:49",
+    "author": "Revolutionary-Ebb868",
+    "subreddit": "aiwars",
+    "num_comments": 22,
+    "ups": 0,
+    "upvote_ratio": 0.4300000071525574,
+    "view_count": null
+}

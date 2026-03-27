@@ -1,0 +1,15 @@
+{
+    "query_term": "AI sustainable",
+    "title": "Quick Question - How financially sustainable is this AI debauchery?",
+    "id": "1psi74t",
+    "body": "The thing is, right now OpenAI isn't turning a profit with any of the things they produce, and they're buying tons of calculation power. So at a certain point they'll be forced to put effective pricing into effect. \n\nSure some companies might want an \"agentic AI business solution\", but that'll probably fizzle out in the next consolidation when they notice the tokens used aren't worth the money paid and they might as well employ an open source model in house. And even for private users, if you already have a desktop PC you can already depending on your specs run a fairly sophisticated LLM locally.\n\nThen regarding generative image AI it get a little more expensive and extensively more when you try to generate videos. Sure algorithms might improve, but realistically, a \"price per prompt\" might come into place with those and the question becomes \"is it really cheaper?\" if you pay 1,5$ for the good ai with images generation, you might still need to add, change or redo a few times, price equivalency might fall back towards commissioned artist where you know exactly what you can expect and give feedbacks even on sketches. (Also there might be a trust hole when AI features enter a \"less paying customers\" -> \"higher prices\" -> \"less paying customers\" loop which causes their valuation to correct down)\n\nWith videos it might just be more cost effective to pull out your phone and act out what you want, ofc only with the more generally reproducible stuff.\n\n  \nWell, maybe I am just kind of naive, but it just feels like the uses don't outweigh the costs, especially if everyone can just put their own PC to use and if there is a more bearish market it will probably dry up some of the founding enough for Microsoft and Google to reconsider their growth strategy. ",
+    "url": "https://www.reddit.com/r/antiai/comments/1psi74t/quick_question_how_financially_sustainable_is/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-21T16:54:54",
+    "author": "LeopoldFriedrich",
+    "subreddit": "antiai",
+    "num_comments": 11,
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}

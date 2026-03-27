@@ -1,0 +1,15 @@
+{
+    "query_term": "AI environment",
+    "title": "I built a full AI environment in the terminal. Build, debug and share agents with custom tools and indexes.",
+    "id": "14en4jh",
+    "body": "Hi All,\n\nI wanted to share a project I have been working on for the last months.\n\nWith Instrukt, you can build, customize, debug and instruct AI agents straight from the terminal.\n\n It can be used as a full replacement for ChatGPT including the plugins and much more.\n\nYou can create and share custom agents as simple drop-in Python packages. \n\nI made a quick demo to showcase the main features here: https://youtu.be/_mkIoqiY0dE\n\nCheckout the full list of features on github: https://github.com/blob42/Instrukt\n\nWhy ?\n\nI think browsers and web app based experience became unbearable. Between the ads, the spyware, the useless bloated JS that wastes precious ram and resources and the death of google search, I wanted to build a tool that lets me escape all this. \n\nAs a daily vim user I got used to fast and efficient editing so that inspired me to make an AI environment in the same vein. \n\nIt currently uses OpenAI but my next top priority is to allow local AI models to make it usable in a fully private setting with no data leaving your computer.",
+    "url": "https://youtu.be/_mkIoqiY0dE",
+    "url_overridden_by_dest": "https://youtu.be/_mkIoqiY0dE",
+    "created": "2023-06-20T17:02:33",
+    "author": "use_your_imagination",
+    "subreddit": "ChatGPT",
+    "num_comments": 6,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null
+}
