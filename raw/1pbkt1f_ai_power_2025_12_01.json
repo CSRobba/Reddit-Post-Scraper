@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Need Reliable GPU Power for AI Training or Image Generation? I'm Sharing My Setup + Free Trial Slots",
+    "id": "1pbkt1f",
+    "body": "Hey everyone,\n\nI\u2019ve been running a pretty large GPU cluster (mostly **H20 cards**) for my own AI projects, and recently I opened up a portion of the compute for the community \u2014 mainly for people doing:\n\n* Stable Diffusion / SDXL generation\n* LoRA or full model finetuning\n* LLM inference (Llama, Qwen, Mistral)\n* Research training jobs\n* High-throughput batch rendering\n\nA lot of creators and small teams told me they\u2019re frustrated with slow or unstable GPU rentals on big cloud platforms, so I'm offering:\n\n# \ud83d\udd39 Short-term access (hours \u2192 weeks)\n\n# \ud83d\udd39 High-stability nodes (low failure rate, dedicated instances)\n\n# \ud83d\udd39 Custom environment setup (I can pre-configure SD WebUI, ComfyUI, or training pipelines)\n\n# \ud83d\udd39 Free test credits for early users\n\nIf anyone here needs fast, reliable compute \u2014 or wants to train models without paying insanely high cloud prices \u2014 feel free to drop a comment or DM me.\n\nI\u2019m happy to help with setup, model configs, or optimizing your workload.  \nIf there's interest, I can also share my cluster architecture and cost breakdown.\n\nCheers!",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1pbkt1f/need_reliable_gpu_power_for_ai_training_or_image/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-01T13:36:09",
+    "author": "Specialist_Ad_5127",
+    "subreddit": "StableDiffusion",
+    "num_comments": 0,
+    "ups": 0,
+    "upvote_ratio": 0.25,
+    "view_count": null
+}

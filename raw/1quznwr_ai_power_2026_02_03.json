@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "DGX Cluster. My small footprint, low power AI system",
+    "id": "1quznwr",
+    "body": "This setup is experimental and not intended to be the final one. I would not recommend running a bluefield2 card in such a small enclosure, as temperatures can exceed 90\u00b0C even with no active networking load. I am still waiting on the QSFP cables needed to bring the cluster online, for now, I am configuring each DGX individually, installing software, and downloading models.I genuinely love this case, and like the small footprint but it cannot be used as originally intended. To properly support nvmeof and sustained workloads, I will need to rebuild the system with significantly better airflow and cooling. This is also a new area for me, offloading networking and storage from the host CPU while I expect it to come with its share of challenges, I\u2019m enjoying the learning process.",
+    "url": "https://www.reddit.com/gallery/1quznwr",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1quznwr",
+    "created": "2026-02-03T13:18:30",
+    "author": "ftwEsk",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 18,
+    "ups": 45,
+    "upvote_ratio": 0.8399999737739563,
+    "view_count": null
+}

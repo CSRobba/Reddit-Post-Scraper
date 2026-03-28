@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "[Project] I built a \"Cost of Living\" calculator to visualize the invisible costs of daily habits (AI, showers, phantom power).",
+    "id": "1r2krlh",
+    "body": "Hey everyone,\n\nI\u2019m a student developer and I\u2019ve been working on a project called CostOfLivin.org.\n\nThe Problem: Like a lot of people, I see my utility bills as just one big, scary number at the end of the month. It\u2019s hard to connect that number to actual daily actions. I wanted to know: Does a 20-minute shower actually cost that much? Is leaving my gaming PC on all night a big deal?\n\nThe Solution: I built a minimalist, interactive calculator that lets you audit your daily routine against real-time U.S. national averages.\n\nKey Features:\n\nReal-time estimates: Uses 2026 avg data for electricity ($0.18/kWh), water ($0.01/gal), and CO2.\n\nModern Metrics: Includes new-age costs like \"Asking ChatGPT a question\" (energy cost) vs. \"Google Search.\"\n\nPrivacy First: No login, no data storage. Everything calculates locally in your browser.\n\nDeep Dives: I wrote a few guides on things like \"Vampire Power\" and the true cost of fast fashion to give context to the numbers.\n\nTech Stack:\n\nReact + Vite\n\nTailwind CSS (for the styling)\n\nLucide React (for icons)\n\nHosted on Netlify\n\nLooking for Feedback: This is my first real React project, so I\u2019d love any feedback on the UI/UX or the code structure. Does the slider feel intuitive? Are there any other \"hidden costs\" I should add to the list?\n\nLink: https://costoflivin.org\n\nThanks for checking it out!",
+    "url": "https://www.reddit.com/r/SideProject/comments/1r2krlh/project_i_built_a_cost_of_living_calculator_to/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-12T00:11:58",
+    "author": "SpiritualFishing279",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

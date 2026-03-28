@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Guinness Record: The world\u2019s smallest AI supercomputer is the size of a power bank. Runs 120B models locally with 80GB RAM.",
+    "id": "1plfoym",
+    "body": "This device **\"Tiiny AI Pocket Lab\"** was just verified by Guinness World Records as the smallest mini PC capable of running a 100B+ parameter model locally.\n\n**The Specs**\n\n* **RAM:** 80 GB LPDDR5X (This is massive for a portable device).\n* **Compute:** 160 TOPS dNPU + 30 TOPS iNPU.\n* **Power:** ~30W TDP (Runs on battery).\n* **Size:** 142mm x 80mm.\n\n**Performance:**\n\n* **Model:** Runs **GPT-OSS 120B** entirely offline.\n* **Speed:** 20+ tokens/s decoding.\n* **Latency:** 0.5s first token.\n\n**How it works:** It uses a new architecture called **\"TurboSparse\"** combined with **\"PowerInfer\"**. This allows it to activate only the necessary neurons (making the model 4x sparser) so it can fit a massive 120B model onto a portable chip without destroying accuracy.\n\n\nFor anyone concerned about privacy or cloud reliance, this is a glimpse at the future. We are moving from **\"Cloud-only\"** intelligence to **\"Pocket\"** intelligence where you own the hardware and the data.\n\n**Source: Digital Trends/Official Tiiny Ai**\n \n\ud83d\udd17:\n https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/\n\n\n\n",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1plfoym/guinness_record_the_worlds_smallest_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-13T02:31:21",
+    "author": "BuildwithVignesh",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 17,
+    "ups": 70,
+    "upvote_ratio": 0.8500000238418579,
+    "view_count": null
+}

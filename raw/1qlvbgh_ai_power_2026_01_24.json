@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "VeritasGraph: AI Analytics with Power BI + MCP Server [D]",
+    "id": "1qlvbgh",
+    "body": "\u2060VeritasGraph combines GraphRAG, a FastAPI backend, and a Model Context Protocol (MCP) server to deliver an AI-first analytics experience for Power BI. Chat with your data, generate and execute DAX, and get relationship-aware insights\u2014without manual query wrangling.\n\n\u2022\t\u2060Highlights:\n\n\t\u2060\u2022\t\u2060MCP Server: Tooling layer for secure, structured data actions\n\n\t\u2060\u2022\t\u2060Power BI: Natural-language Q&A over datasets + DAX generation\n\n\t\u2060\u2022\t\u2060GraphRAG: Contextual graph insights for richer answers\n\n\t\u2060\u2022\t\u2060Modern UI: Fast Next.js interface with enterprise-friendly auth\n\n\u2022\t\u2060Links:\n\n\t\u2060\u2022\t\u2060Repo:\u00a0https://github.com/bibinprathap/VeritasGraph\n\n\t\u2060\u2022\t\u2060Live Demo:\u00a0https://bibinprathap.github.io/VeritasGraph/demo/",
+    "url": "https://youtu.be/dt4ubeCLmtQ?si=7_0prGpRHMcn8LuI",
+    "url_overridden_by_dest": "https://youtu.be/dt4ubeCLmtQ?si=7_0prGpRHMcn8LuI",
+    "created": "2026-01-24T13:51:34",
+    "author": "BitterHouse8234",
+    "subreddit": "MachineLearning",
+    "num_comments": 1,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null
+}

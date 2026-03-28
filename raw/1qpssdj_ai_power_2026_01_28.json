@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "768Gb \"Mobile\" Ai Server Follow-Up Part 3, Temp/Power Draw Stats & LLM Benchmark",
+    "id": "1qpssdj",
+    "body": "Part 3 Follow-up post to the \"Mobile\" Ai server build\n\nDue to Reddit video size/length restrictions I'm having to break up the video into different parts, but the full (and better quality) video is uploaded to Youtube.\n\n[https://youtu.be/TJOKEFdCkv0](https://youtu.be/TJOKEFdCkv0)\n\nThis part gets into actual temp and power draw pulse checks at idle and during inferencing workloads. Unfortunately, because of the way I had to downsize quality for the video to meet reddit video size requirements, visibility in the screen record section in this post's video is pretty poor. The uploaded video to Youtube however is better quality and should have these numbers more legible, just be sure playback quality is set to 1080p/HD.",
+    "url": "https://v.redd.it/hdqou3cuj6gg1",
+    "url_overridden_by_dest": "https://v.redd.it/hdqou3cuj6gg1",
+    "created": "2026-01-28T19:12:14",
+    "author": "SweetHomeAbalama0",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 6,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}
