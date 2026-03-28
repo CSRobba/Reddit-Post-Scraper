@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Question for Senior devs + AI power users: how would you code if you could only use LLMs?",
+    "id": "1kzzpwe",
+    "body": "I am a non-technical founder trying to use Claude Code S4/O4 to build a full stack react native app. While I\u2019m constantly learning more about coding, I\u2019m also trying to be a better user of the AI tool. \n\nSo if you couldn\u2019t review the code yourself, what would you do to get the AI to write as close to production-ready code?\n\nThree things that have helped so far is:\n\n1.\t\u2060Detailed back-and-forth planning before Claude implements. When a feature requires a lot of decision, laying them out upfront provides more specific direction. So who is the best at planning, o3?\n\n2. \u201cPeer\u201d review. Prior to release of C4, I thought Gemini 2.5 Pro was the best at coding and now I occasionally use it to review Claude\u2019s work. I\u2019ve noticed that different models have different approaches to solving the same problem. Plus, existing code is context so Gemini finds some ways to improve the Claude code and vice-versa.\n\n3.\t\u2060When Claude can\u2019t solve a big, I send Gemini to do a Deep Research project on the topic.\n\nExample: I was working on a real time chat with Elysia backend and trying to implement Edens Treaty frontend for e2e type safety. Claude failed repeatedly, learning that our complex, nested backend schema isn\u2019t supported in Edens treaty. Gemini confirmed it\u2019s a known limitation, and found 3 solutions and then Claude was able to implement it. Most fascinating of all, claude realized preferred solution by Gemini wouldn\u2019t work in our code base so it wrong a single file hybrid solution of option A and B.\n\nI am becoming proficient in git so I already commit often. \n\nWhat else can I be doing?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1kzzpwe/question_for_senior_devs_ai_power_users_how_would/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-31T11:26:12",
+    "author": "Bankster88",
+    "subreddit": "ClaudeAI",
+    "num_comments": 52,
+    "ups": 5,
+    "upvote_ratio": 0.6399999856948853,
+    "view_count": null
+}

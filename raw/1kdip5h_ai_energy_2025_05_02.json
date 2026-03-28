@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "\"AI uses so much energy, it's bad for the environment\"",
+    "id": "1kdip5h",
+    "body": "Most of the energy used is from LLMs. Thats the most popular mode of Gen AI.\n\n[A GPT 4o query uses about 0.3 watt hours. ](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use?utm_source=chatgpt.com)\n\nA midrange GPU used in modern consoles and most gaming PCS, pull 100-200 watts [(3060 for reference)](https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-12-gb.c3682) which they are constanstly going to be doing when playing most modern AAA games. \n\nTherefore, if you were to prompt GPT 4o every minute for 8 hours straight, thats 480 queries, 480 x 0.3 watt hours = 0.144 kwh.\n\nBut gaming for 8 hours\n\n150 watts \u00d7 8 hours = 1200 watt-hours = 1.2 kilowatt-hours (kWh).\n\nAnd thats just the GPU, a PS5 consumes more, ~180W. And a low - mid range gaming PC does about ~400W, using AI is quite literally the better thing you can do for the environment than gaming. And by extension many other things you may do on a device. Like video editing, 3D animation, etc.\n\nIf AI didnt exist all that energy is still going exist, just allocated elsewhere, the world is still developing, growing and is always going to demand energy. And besides, there are always ways to power AI with renewable energy which is already done to some extent.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1kdip5h/ai_uses_so_much_energy_its_bad_for_the_environment/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-02T22:40:55",
+    "author": "iwantxmax",
+    "subreddit": "aiwars",
+    "num_comments": 59,
+    "ups": 102,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "giq - Drop-in Git replacement with AI features (same commands, more power)",
+    "id": "1ij44hh",
+    "body": "Hey fellow developers \ud83d\udc4b\n\nI built giq (Git Intelligence Quickstart), a drop-in replacement for Git that adds AI powers while keeping everything you already know about Git.\n\nHow it works:\n- Just replace 'git' with 'giq' in your commands\n- That's it! All your git commands work exactly the same\n- For AI features, use:\n  - `giq commit` - Get AI-suggested commit messages\n  - `giq status` - Get AI insights about your changes\n- All other commands work as normal:\n  ```bash\n  giq push\n  giq pull\n  giq branch\n  giq checkout -b feature\n  # Any git command works!\n\nhttps://github.com/doganarif/giq",
+    "url": "https://www.reddit.com/r/SideProject/comments/1ij44hh/giq_dropin_git_replacement_with_ai_features_same/",
+    "url_overridden_by_dest": null,
+    "created": "2025-02-06T09:44:29",
+    "author": "doganarif",
+    "subreddit": "SideProject",
+    "num_comments": 4,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

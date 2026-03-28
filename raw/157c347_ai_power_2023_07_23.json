@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Transform Your Images with InferAllAI.com: Harness the Power of Stable Diffusion AI Models",
+    "id": "157c347",
+    "body": "Greetings, Reddit!\n\nI'm excited to introduce you to a project I've been working on - InferAllAI. This platform is pushing the boundaries of AI-powered image transformation, utilizing advanced Stable Diffusion AI models to transform regular images into captivating art pieces with the powerful Image2Image API.\n\nLet's delve into an example of how it works. I used the following JSON input:\n\n`{`\n\n  `\"prompt\": \"smiling boy\",`\n\n  `\"negative_prompt\": \"\",`\n\n  `\"scheduler\":\"UniPCMultistepScheduler\",`\n\n  `\"image_height\":728,`\n\n  `\"image_width\":728,`\n\n  `\"strength\":0.1,`\n\n  `\"num_images\":1,`\n\n  `\"guidance_scale\":4,`\n\n  `\"steps\":50,`\n\n  `\"seed\":99999999999,`\n\n  `\"model\":\"dreamshaper-v7\",`\n\n  `\"image_url\":\"`[`https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1xw:1.0xh;center,top&resize=728:*`](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1229892983-square.jpg?crop=1xw:1.0xh;center,top&resize=728:*)`\",`\n\n  `\"safety_checker\":false,`\n\n  `\"upscale\":true,`\n\n  `\"enhance_prompt\":true,`\n\n  `\"embeddings_model\":null,`\n\n  `\"embeddings_token\":null,`\n\n  `\"lora_model\":\"\",`\n\n  `\"lora_strength\":\"0\",`\n\n  `\"weighted\":true,`\n\n`}`\n\nAfter feeding these instructions to our API, it transformed a basic image into a beautiful, high-resolution photograph that perfectly captures the innocence and joy of a smiling boy. Check out the stunning transformation [**here**](https://pub-1066063ba11a4bbea1ed0febc3aabb23.r2.dev/c67dc8be-e29f-408e-b246-c0d1a500fbea.jpeg).\n\nYou can leverage this technology by simply creating an account on InferAllAI and start using the Image2Image API. Alternatively, you can try our [**playground**](https://www.inferallai.com/playground/) to get a hands-on experience with AI image transformation.\n\nThis tool opens up a plethora of creative possibilities for artists, photographers, graphic designers, and anyone with a knack for playing with images. I'm excited to hear your thoughts, feedback, and see your creative outputs using InferAllAI!\n\nFor more information about the platform and its capabilities, feel free to visit our [**documentation**](https://www.docs.inferallai.com/).\n\nTogether, let's pioneer the future of AI-driven art!\n\n&#x200B;",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/157c347/transform_your_images_with_inferallaicom_harness/",
+    "url_overridden_by_dest": null,
+    "created": "2023-07-23T07:09:51",
+    "author": "inferallai",
+    "subreddit": "StableDiffusion",
+    "num_comments": 0,
+    "ups": 0,
+    "upvote_ratio": 0.27000001072883606,
+    "view_count": null
+}

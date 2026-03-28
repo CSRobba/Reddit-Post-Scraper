@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "This AI Paper Introduces Perseus: A Trailblazing Framework for Slashing Energy Bloat in Large-Scale Machine Learning and AI Model Training by Up to 30%",
+    "id": "18lji9j",
+    "body": "**News article**: [https://www.marktechpost.com/2023/12/16/this-ai-paper-introduces-perseus-a-trailblazing-framework-for-slashing-energy-bloat-in-large-scale-machine-learning-and-ai-model-training-by-up-to-30/](https://www.marktechpost.com/2023/12/16/this-ai-paper-introduces-perseus-a-trailblazing-framework-for-slashing-energy-bloat-in-large-scale-machine-learning-and-ai-model-training-by-up-to-30/)\n\n**Project page**: [https://ml.energy/zeus/perseus/](https://ml.energy/zeus/perseus/)\n\n**Integration**: [https://ml.energy/zeus/perseus/integrating/](https://ml.energy/zeus/perseus/integrating/)\n\n**Paper**: [https://arxiv.org/abs/2312.06902](https://arxiv.org/abs/2312.06902)\n\n**Abstract**:\n\n>Training large AI models on numerous GPUs consumes a massive amount of  energy. We observe that not all energy consumed during training directly  contributes to end-to-end training throughput, and a significant  portion can be removed without slowing down training, which we call  energy bloat.   \nIn this work, we identify two independent sources of energy bloat in  large model training, intrinsic and extrinsic, and propose **Perseus**, a  unified optimization framework that mitigates both. Perseus obtains the  \"iteration time-energy\" Pareto frontier of any large model training job  using an efficient iterative graph cut-based algorithm and schedules  energy consumption of its forward and backward computations across time  to remove intrinsic and extrinsic energy bloat. Evaluation on large  models like GPT-3 and Bloom shows that Perseus reduces energy  consumption of large model training by up to 30%, enabling savings  otherwise unobtainable before.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/18lji9j/this_ai_paper_introduces_perseus_a_trailblazing/",
+    "url_overridden_by_dest": null,
+    "created": "2023-12-18T16:03:43",
+    "author": "APaperADay",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 2,
+    "ups": 10,
+    "upvote_ratio": 1,
+    "view_count": null
+}

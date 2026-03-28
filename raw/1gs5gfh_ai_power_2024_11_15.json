@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Startup Decision: Power Apps Copilot vs Other Options for Building AI Agents - Need Advice",
+    "id": "1gs5gfh",
+    "body": "Hey! \ud83d\udc4b Looking for some guidance on implementing AI agents in our startup.\n\n## Current Situation:\n- Building an application that imports external API data\n- Backend processing + 3rd party app integrations\n- Currently using a data dashboard where customers manually take actions\n- Bootstrap startup with a small dev team\n\n## What We Want to Build:\n1. AI Agents to automate actions based on:\n   - Data analysis\n   - Customer inputs\n2. AI-powered helpdesk with an agent receptionist\n\n## Current Consideration:\nWe're looking at Microsoft Power Apps (Copilot) for the AI components. However:\n- Not all our customers are Microsoft shops\n- User count per installation is relatively low\n- License-per-user model might work, but still evaluating\n\n## Key Questions:\n\n1. Is Power Apps Copilot the right choice for AI Agents?\n   - What are the major pros/cons?\n   - Any gotchas we should know about?\n\n2. What alternatives should we consider given:\n   - Small/new developer team\n   - Limited experience with large AI projects\n   - Bootstrap budget constraints\n\nWould really appreciate insights from anyone who's implemented similar solutions or has experience with Power Apps Copilot vs other platforms.",
+    "url": "https://www.reddit.com/r/AItoolsCatalog/comments/1gs5gfh/startup_decision_power_apps_copilot_vs_other/",
+    "url_overridden_by_dest": null,
+    "created": "2024-11-15T15:09:57",
+    "author": "monsieurfadi",
+    "subreddit": "AItoolsCatalog",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

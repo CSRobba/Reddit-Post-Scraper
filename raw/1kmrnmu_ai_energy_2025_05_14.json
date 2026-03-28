@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "Why I disagree with the anti ai energy argument (alliteration :)",
+    "id": "1kmrnmu",
+    "body": "The energy stuff is kinda blown out of proportion. It takes 0.011kWh for an AI image, which is around 25% less than what a low-end energy consumption tablet uses in an hour (15 watt tablet). This gets even worse when you consider other devices, like laptops or desktops, which are used a lot for things like 3D art (Tablets are 15-30W, laptops are 30-70W, desktop computers are 200-300W, there\u2019s 0.0001kWh per watt per hour of usage). I\u2019m not really an artist, I\u2019ve done a bit, but I know that it definitely takes quite a bit more than one hour to make a detailed piece. There are some trade offs, ai takes the same amount energy for different amounts of detail, so a more detailed image would be better energy-wise if made by ai, but many people who use ai image makers usually generate more than one image for the final result. Making an image with a single line costs basically nothing for the digital artist, but costs 0.011kWh for the ai image, while making a detailed image could cost 0.09-1.8kWh, depending on the device, if it took the digital artist 6 hours, while it would still cost 0.011kWh for the ai. Comparing digital art and ai images, ai is usually better for energy consumption, especially when the artist takes longer than 45 minutes.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1kmrnmu/why_i_disagree_with_the_anti_ai_energy_argument/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-14T17:52:18",
+    "author": "DannyisDannny",
+    "subreddit": "aiwars",
+    "num_comments": 19,
+    "ups": 7,
+    "upvote_ratio": 0.8199999928474426,
+    "view_count": null
+}

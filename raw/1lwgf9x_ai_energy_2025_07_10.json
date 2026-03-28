@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "What are the ways photonics are being explored to improve AI chip energy performance?",
+    "id": "1lwgf9x",
+    "body": "I recently started learning about this space to consider investments in it, but I am finding it to be very obscure to the uninitiated. At a basic level, the idea seems to be that sending data using optical fiber is much less energy intensive than sending it over copper wire, and with thousands of chips, that adds up. Makes enough sense.\n\nBut the specifics elude me, and I can\u2019t tell which companies are actual competitors, which sound like they are doing similar things, and which are just barking up the wrong tree entirely. Is Avicena, which works on optical interconnects, in the same space as POET, which works on interposers? What about light matter, which works on within chip communications? \n\nWhich technologies do you see as having the most potential?",
+    "url": "https://www.reddit.com/r/AskEngineers/comments/1lwgf9x/what_are_the_ways_photonics_are_being_explored_to/",
+    "url_overridden_by_dest": null,
+    "created": "2025-07-10T11:59:43",
+    "author": "StoatStonksNow",
+    "subreddit": "AskEngineers",
+    "num_comments": 13,
+    "ups": 1,
+    "upvote_ratio": 0.5299999713897705,
+    "view_count": null
+}

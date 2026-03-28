@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "Why has there been almost no incentive to create ultra low power AI GPUs?",
+    "id": "16f7x6a",
+    "body": "Nvidia continues to pump out GPUs like the A100 which uses a 250 to 300W of power but clearly a paradigme shift is needed. Considering that the energy is literally doing nothing but heating the room and putting a limit on max clock speed before overheating this should be something that should have tons of research into being reduced so the speed can be increased without overheating. The problem can apparently be solved just by using asyncronous circuit design instead of clock gating that way the sections in the GPU that are not being used every clock cycle are not wasting power though global clock connecting to the ground from the capacitance. IBM made a asyncronous processor back in 2014 called SyNAPSE that used 1% of the power of a synchronous equivalent but nothing since. If robots are going to take over jobs they are not going to get far if they need to waste hundreds of watts of energy for each GPU no wonder their battery life is like 4 hours.",
+    "url": "https://www.reddit.com/r/singularity/comments/16f7x6a/why_has_there_been_almost_no_incentive_to_create/",
+    "url_overridden_by_dest": null,
+    "created": "2023-09-10T14:41:42",
+    "author": "OSfrogs",
+    "subreddit": "singularity",
+    "num_comments": 63,
+    "ups": 57,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null
+}

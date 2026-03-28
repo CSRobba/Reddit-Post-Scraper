@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "MS Office 365 Power Automate AI for email flagging?",
+    "id": "14snrlb",
+    "body": "I'm going to dig into a project for myself.  I'd like to setup a Power Automate flow to evaluate emails that come in and if and email needs my attention for follow up, to flag it for follow up.  This would be based on keywords in the body, subject and...?  \n\n\nI've been setting follow up flags on my emails for about a year now, so I have a dataset to start off with for training now.  For corrections as it runs, I can do a change detection for emails that I removed flags that were set inappropriately or flags I set there were not set.\n\nI was thinking about diving into the baked in \"Email Text Classification\" AI scenario Microsoft has to see if I could adapt that to my needs.\n\n&#x200B;\n\nAny tips or advice would be appreciated.  Thanks In Advance.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/14snrlb/ms_office_365_power_automate_ai_for_email_flagging/",
+    "url_overridden_by_dest": null,
+    "created": "2023-07-06T18:18:08",
+    "author": "Buster452",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}

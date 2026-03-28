@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "AI power consumption",
+    "id": "10yjvg0",
+    "body": "I'm trying to compare different artificial intelligences and I think it would be interesting to compare it with their power consumption.\n\nI found on [this article](https://www.ciocoverage.com/openais-chatgpt-reportedly-costs-100000-a-day-to-run/) that the average GPU used by ChatGPT is around 8 NVIDIA A100 GPU. Considering running one takes 15 kW, I assume running an instance of ChatGPT costs 120kW.\n\nWhat do you think of this logic? Am I missing something? \n\nI would like to go on with the same kind of estimates for other tools like Midjourney and so on. It is kind of difficult since they don't particularly share these data, but I would like to know if my logic is correct.\n\nThanks!",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/10yjvg0/ai_power_consumption/",
+    "url_overridden_by_dest": null,
+    "created": "2023-02-10T03:00:52",
+    "author": "ArtonOximee",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 4,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}
