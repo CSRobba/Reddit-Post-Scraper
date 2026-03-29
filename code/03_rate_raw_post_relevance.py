@@ -43,15 +43,13 @@ def load_global_progress():
 def build_eligible(name):
     """Scan ``raw/'' folder once and return list of filenames eligible for NAME."""
     global _eligible
-    eligible = []
+    _eligible = []
     for fname in os.listdir(RAW_FOLDER):
         data = util.read_json(os.path.join(RAW_FOLDER, fname))
         ratings = data.get("relevance_rate", {})
         
         if name not in ratings and len(ratings) < 1:
-            eligible.append(fname)
-    
-    return eligible
+            _eligible.append(fname)
 
 ##########
 # HTML
@@ -118,35 +116,37 @@ RATE_HTML = """
 ##########
 @app.route("/", methods=["GET", "POST"])
 def index():
+    global _name
     if request.method == "POST":
         name = request.form.get("name", "").strip()
         if name:
             session["name"] = name
-            session.pop("eligible", None)  # clear any stale list from a previous session
+            _name = name
             return redirect(url_for("rate"))
     return INDEX_HTML
 
 @app.route("/rate")
 def rate():
     global _progress
-    name = session.get("name")
-    if not name:
-        return redirect(url_for("index"))
-
+    global _name
+    global _eligible
+    global _current_file
+    
     # Build eligible list once per session; pop from it on each vote
-    if "eligible" not in session:
-        session["eligible"] = build_eligible(name)
-        if _progress is None:
-            load_global_progress()
+    if _eligible is None:
+        build_eligible(_name)
+    
+    if _progress is None:
+        load_global_progress()
+    
+    if len(_eligible)==0:
+        return DONE_HTML.format(name=_name)
 
-    eligible = session["eligible"]
-    if not eligible:
-        return DONE_HTML.format(name=name)
-
-    chosen = random.choice(eligible)
-    session["current_file"] = chosen
+    chosen = random.choice(_eligible)
+    _current_file = chosen
+    
     print(chosen)
-    print(session["current_file"])
+    print(_current_file)
 
     fpath = os.path.join(RAW_FOLDER, chosen)
     post = util.read_json(fpath)
@@ -171,7 +171,7 @@ def rate():
     pct = round(p["completed"] / p["total"] * 100) if p["total"] else 0
 
     return RATE_HTML.format(
-        name=name,
+        name=_name,
         subreddit=post.get("subreddit", "unknown"),
         author=post.get("author", "unknown"),
         created=(post.get("created") or "")[:10],
@@ -191,45 +191,41 @@ def rate():
 @app.route("/submit", methods=["POST"])
 def submit():
     global _progress
-    name = session.get("name")
-    current_file = session.get("current_file")
-    print(f"Name: {name}")
-    print(f"Current File: {current_file}")
-    # if not name or not current_file:
-    #     return redirect(url_for("index"))
+    global _eligible
+    global _name
+    global _current_file
+
+    print(f"Name: {_name}")
+    print(f"Current File: {_current_file}")
 
     vote = request.form.get("vote")
     if vote not in ("y", "n", "m"):
         return redirect(url_for("rate"))
 
-    fpath = os.path.join(RAW_FOLDER, current_file)
+    fpath = os.path.join(RAW_FOLDER, _current_file)
     data = util.read_json(fpath)
 
     if "relevance_rate" not in data:
         data["relevance_rate"] = {}
-    data["relevance_rate"][name] = vote
+    data["relevance_rate"][_name] = vote
 
     with open(fpath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
     # Pop the just-rated file from the cached eligible list — no rescan needed
-    eligible = session.get("eligible", [])
-    if current_file in eligible:
-        eligible.remove(current_file)
-    session["eligible"] = eligible
-
+    if _current_file in _eligible:
+        _eligible.remove(_current_file)
+    
     # Incrementally update global progress cache
     if _progress and len(data["relevance_rate"]) == 1:
         _progress["completed"] += 1
 
     return redirect(url_for("rate"))
 
-
 @app.route("/logout")
 def logout():
     session.clear()
     return redirect(url_for("index"))
-
 
 if __name__ == "__main__":
     load_global_progress()

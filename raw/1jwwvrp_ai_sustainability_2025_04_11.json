@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "[Academic] Help a Master\u2019s Student: Quick Survey on ERP, AI & Sustainability in Supply Chains",
+    "title": "[Academic] Help a Master’s Student: Quick Survey on ERP, AI & Sustainability in Supply Chains",
     "id": "1jwwvrp",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SurveyExchange/comments/1jwwvrp/academic_help_a_masters_student_quick_survey_on/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

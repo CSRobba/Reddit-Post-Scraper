@@ -1,6 +1,6 @@
 {
     "query_term": "AI water use",
-    "title": "\ud83d\udca7 AI's Thirst: Tech Giants' Rising Water Use",
+    "title": "💧 AI's Thirst: Tech Giants' Rising Water Use",
     "id": "1b1922d",
     "body": "* Microsoft, Google, and Meta face scrutiny for increasing AI-related water use.\r\n* AI could necessitate 6.6bn cubic meters of water by 2027, stressing global resources.\r\n* Increases in water usage: 34% (Microsoft), 22% (Google), and 3% (Meta) in 2022.\r\n* Goals to replenish aquifers by 2030 highlight a commitment to water sustainability.\r\n* An AI data center's consumption of 6% of local water underscores community effects.\r\n* The water footprint of ChatGPT operations points to the environmental cost of AI's computational demands.\r  \n\r\n\nP.S. If you found this helpful, come and join our [FREE AI newsletter](https://www.aifire.co/) which over 30,000+ Entrepreneurs & Professionals update important developments in AI every day.\r",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1b1922d/ais_thirst_tech_giants_rising_water_use/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 4,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

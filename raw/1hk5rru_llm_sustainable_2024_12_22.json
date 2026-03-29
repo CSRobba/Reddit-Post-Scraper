@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM sustainable",
+    "title": "Are brute force LLM add-ons such as used by 03 sustainable?",
+    "id": "1hk5rru",
+    "body": "03 seems to be trading elegant design and bigger foundation models for brute force compute at inference time.\n\nI'm not convinced that this is a sensible general approach.\n\nSure, if the Earth is about to be hit by a meteorite, or we need to 'solve' hydrogen fusion then why not throw compute at the problem?\n\nHowever for everyday use in 'normal' domains it does seem rather clumsy and very greedy of CPU time and electrical energy.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1hk5rru/are_brute_force_llm_addons_such_as_used_by_03/",
+    "url_overridden_by_dest": null,
+    "created": "2024-12-22T14:31:38",
+    "author": "MrEloi",
+    "subreddit": "OpenAI",
+    "num_comments": 18,
+    "ups": 0,
+    "upvote_ratio": 0.41999998688697815,
+    "view_count": null
+}
