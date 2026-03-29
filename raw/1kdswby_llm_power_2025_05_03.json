@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "Power efficient, affordable home server LLM hardware?",
+    "id": "1kdswby",
+    "body": "Hi all,\n\nI've been running some small-ish LLMs as a coding assistant using llama.cpp & Tabby on my workstation laptop, and it's working pretty well!\n\nMy laptop has an Nvidia RTX A5000 with 16GB and it just about fits `Gemma3:12b-qat` as a chat / reasoning model and `Qwen2.5-coder:7b` for code completion (both using 4-bit quantization). They work well enough, and rather quickly, but it's impossible to use on battery or on my \"on the go\" older subnotebook.\n\nI've been looking at options for a home server for running LLMs. I would prefer something at least as fast as the A5000, but I would also like to use (or at least try) a few bigger models. Gemma3:27b seems to provide significantly better results, and I'm keen to try the new Qwen3 models.\n\nPower costs about 40 cents / kWh here, so power efficiency is important to me. The A5000 consumes about 35-50W when doing inference work and outputs about 37 tokens/sec for the 12b gemma3 model, so anything that exceeds that is fine, faster is obviously better.\n\nAlso it should run on Linux, so Apple silicon is unfortunately out of the question (I've tried running llama.cpp on Asahi Linux on an M2 Pro before using the Vulkan backend, and performance is pretty bad as it stands).",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1kdswby/power_efficient_affordable_home_server_llm/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-03T09:24:29",
+    "author": "spaceman_",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 25,
+    "ups": 0,
+    "upvote_ratio": 0.3799999952316284,
+    "view_count": null
+}

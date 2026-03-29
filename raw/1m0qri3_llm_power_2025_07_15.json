@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "I built an instant LLM launcher \u2013 a power tool for super-quick LLM queries",
+    "id": "1m0qri3",
+    "body": "So I got tired of opening the browser or IDE for every small LLM query I had - whether it's a quick one-liner bash command, a simple JS syntax question, a sample JSON, or anything really. \n\nSo I built a tiny background launcher:\n\n=> hit Ctrl+Shift+Space \u2192 launcher pops on your screen instantly \n\n=> Type your prompt \u2192 get a reply from your favorite LLM\n\n=> View/copy the result and use it anywhere. \n\nIt uses electron, so the tool weighs \\~150MB, but when running it sits at \\~15 MB RAM, works offline except the API call (unless you choose to use Ollama, and then it's 100% offline), and keeps your flow unbroken. \n\nCross-platform, use it wherever! \n\nI built it last week, and I have no idea how I ever survived without it. \n\n\n\nWould love feedback, feature requests, or bug reports - especially from power-users who enjoy the convenience it provides.  \n\n  \nI'm including a demo here, feel free to comment or check out the X thread: [https://x.com/SShmidman/status/1943439176671859158](https://x.com/SShmidman/status/1943439176671859158)\n\n\n\nCheers!\n\n",
+    "url": "https://v.redd.it/o9okwgu673df1",
+    "url_overridden_by_dest": "https://v.redd.it/o9okwgu673df1",
+    "created": "2025-07-15T15:10:27",
+    "author": "sshmidman",
+    "subreddit": "SideProject",
+    "num_comments": 4,
+    "ups": 12,
+    "upvote_ratio": 1,
+    "view_count": null
+}

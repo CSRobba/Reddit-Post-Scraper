@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM electricity",
+    "title": "Question: Electricity-bill friendly PC Setup for AI models including Local LLM",
+    "id": "1hwtler",
+    "body": "Hello dear community, I'm thinking of building a mini-workstation in an mITX case that can handle various programs including ML models and <=14B LLM while keeping power consumption to minimum. I'm willing to sacrifice some performance for the sake of lower electricity bills. \n\nIn my country in Europe, I can setup such a system below for a total of ~1650 USD\n\n| **Type** | **Item** |\n| --- | --- |\n| CPU | AMD Ryzen 9 7900 Wraith Prism Processor - 12 cores - 4 GHz - AMD AM5 - AMD Boxed (with cooling) |\n| Motherboard | Asrock A620I Lightning WiFi AMD A620 AM5 mini ITX socket |\n| Memory | G.Skill Ripjaws S5, DDR5, 96 GB (48 x 2), 5200MHz, CL40 |\n| Hard Drive | ADATA Legend 800 2TB M.2 2280 PCI-E x4 Gen4 NVMe |\n| GPU | Quadro RTX 2000E ADA 16GB GDDR6 VCNRTX2000EADA-SB |\n| mITX case | SilverStone Milo ML07B HTPC ITX |\n| Power Supply | be quiet! SFX-L Power 500W (BN238) |\n \nWhat do you think of that? Is it ok or is there anything to consider or change? Do you think PSU power is enough or too much/less?  (FYI i'm not interested in GPUs like 4060TI since these types already have 3x larger power consumption than 2000E ADA, and also for the same reason i'm not interested in OC)\n\nThanks in advance for your suggestions!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1hwtler/question_electricitybill_friendly_pc_setup_for_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-01-08T15:09:32",
+    "author": "anonynousasdfg",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 11,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null
+}

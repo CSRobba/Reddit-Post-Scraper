@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "Want to undervolt and power limit my 3090. How to perform LLM benchmarking and stress testing?",
+    "id": "1bp7yvx",
+    "body": "I have a 3090 Strix that barely fits inside a Formd T1 SFF case. It is a headless server that mainly runs stable diffusion and LLM, I don't play games on it.\n\nI want to lower it's power draw so that it runs cooler and quieter (the GPU fans are very close to the mesh panel, might create turbulence noise). I know I can use nvidia-smi to power limit the GPU, but I don't know what tools to use for benchmarking AI performace and stress testing for stability. \n\nLooking for recommendations!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1bp7yvx/want_to_undervolt_and_power_limit_my_3090_how_to/",
+    "url_overridden_by_dest": null,
+    "created": "2024-03-27T13:42:54",
+    "author": "regunakyle",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 9,
+    "ups": 10,
+    "upvote_ratio": 1,
+    "view_count": null
+}

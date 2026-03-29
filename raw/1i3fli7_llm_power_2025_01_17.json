@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "Laptop LLM performance - beware of the power settings!",
+    "id": "1i3fli7",
+    "body": "It's pity that I did such a lame negligence, but want to share with you, in case someone struggles with the same issue.\n\nBoth me and the wife have Lenovo gaming laptops:\n\n1. Rizen 5, 16GB RAM, 3050ti 4GB\n\n2. i5, 16GB RAM, 4060 8GB\n\nLogically, if a model fits entirely in the VRAM, the machine 2 runs it noticeble faster. BUT, everything beyond 7B which is partially offloaded in VRAM, practically goes with less than 0.2T/s and takes 2-3 minutes to output the first token on the machine 2! While machine 1 runs Qwen 2.5 14B quite acceptable with around 2T/s. \n\nI was changing nVidia/CUDA drivers, settings of llama.cpp - nothing helped. Till I checked the \"power settings\" of Windows and changed the presets from \"balanced\" to \"performance\".  It was the CPU/RAM of the machine which killed all the fun. Now I get 5-10 T/s with 14B model and 26/49 layers to GPU.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1i3fli7/laptop_llm_performance_beware_of_the_power/",
+    "url_overridden_by_dest": null,
+    "created": "2025-01-17T07:48:10",
+    "author": "YordanTU",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 17,
+    "ups": 51,
+    "upvote_ratio": 0.8600000143051147,
+    "view_count": null
+}

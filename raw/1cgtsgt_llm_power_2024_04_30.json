@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "Does continuous, high wattage power improve LLM performance?",
+    "id": "1cgtsgt",
+    "body": "Hey everyone,\n\nApologies in advance for the newbie question. Would a 16GB VRAM laptop perform significantly differently from a 16GB VRAM PC, considering factors like power supply?\n\nI\u2019m contemplating a PC with 64GB RAM (3600Mhz) and 16GB VRAM. Can it handle models above 8B effectively?\n\nAlternatively, I\u2019m considering a laptop with the same specs: 16GB VRAM and 64GB RAM, both equipped with an RTX 4060ti. Would there be a noticeable performance gap between the two, assuming they use the same graphics card?\n\nLaptop would be for portability, this PC has a free windows pro so I guess I could just remote to it (easier said than done) when I am in school.\n\nAppreciate all answers.\n\nThanks in advance!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1cgtsgt/does_continuous_high_wattage_power_improve_llm/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-30T10:10:02",
+    "author": "Cyber__Pleb",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 17,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null
+}
