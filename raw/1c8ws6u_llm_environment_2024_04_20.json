@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM environment",
+    "title": "Use an existing environment (if available for free) OR develop a program to produce dual text languages with the help of a local computer AI's LLM",
+    "id": "1c8ws6u",
+    "body": "\n\nHello,\n\nI am mainly a .NET developer, and I want to try to use some LLM model (any language, it does not mind to me), but I am a total beginner in AI; \n\nMy idea is:\n\nUsing a free, uncensored model available like [https://ollama.com/library/dolphin-mixtral](https://ollama.com/library/dolphin-mixtral) (or others!... I have no idea), make that model ellaborate a dual-language text:\n\nRun the model locally (pc with 32 gb ram, amd rx7600 12gb, ryzen 7) because free chatgpt and other are censored and feature-limited (the free tier, of course)\n\nThe program will take two inputs:\n\n1- a txt file in french for the book Les Miserables\n\n2 a txt file in spanish for the same book\n\nOutput:\n\nA txt file containing two columns:\n\n1 paragraph in french\n\n2 the same paragraph but in spanish.\n\nSO, the AI's work would consist of just matching paragraphs, NOT translate them... to obtain a .txt file consisting of a book with the two languages side by side.\n\nIs it possible?\n\nIs there useful information on this subject available on Internet ? I have only found fragmented info here and there, but still nothing clear\n\nI presume that the main difficulty here could be if the LLMs can have that kind of large input/output, because everything I have experimented with chatgpt 3.5 and others consist of short questions and answers. I understand that there should be some workaround to overcome this difficulty.\n\nDoes the GPU need to be NVIDIA ? can it be run on my actual Windows 11 installation ?\n\nI have so many doubs... but hey, I think the initial doubts are just a few to start with.\n\nThank you!\n\n",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1c8ws6u/use_an_existing_environment_if_available_for_free/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-20T14:25:17",
+    "author": "obsyman",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}

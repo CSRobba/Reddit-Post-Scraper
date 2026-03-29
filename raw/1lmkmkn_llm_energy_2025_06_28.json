@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM energy",
+    "title": "Benchmarking LLM Inference Libraries for Token Speed & Energy Efficiency",
+    "id": "1lmkmkn",
+    "body": "We conducted a benchmark comparing four popular LLM inference libraries\u2014TensorRT-LLM, vLLM, Ollama, and MLC\u2014in terms of energy per token and tokens per second, using a standardized Docker setup and energy monitoring tools. The benchmark project was original done for a university report.\n\nExperiment Details\n\t\u2022\tModel: Quantized Qwen2.5-Coder-14B-Instruct\n\t\u2022\tDifferent quantized formats were used per library for compatibility: Q4_K_L for Ollama, 4-bit AWQ for vLLM/TensorRT, q4f16_1 for MLC\n\t\u2022\tDataset: 80 prompts sampled from the SWE-bench benchmark \u2014 real-world GitHub issues\n\t\u2022\tEach prompt includes issue text + repo context; average length: ~600\u2013700 tokens\n\t\u2022\tInference config:\n\t\u2022\tMax output: 4096 tokens\n\t\u2022\tContext window: 32k tokens\n\t\u2022\tTemperature: 0.0 (fully deterministic), Top-K: 20, Top-P: 0.8\n\t\u2022\tHardware: NVIDIA RTX 4090 GPU, AMD Ryzen 9 7900X, 64GB RAM\n\t\u2022\tEnergy Measurement: EnergiBridge, logging GPU power and throughput\n\t\u2022\tSetup: Each inference engine ran 10x inside an identical Docker container, with 60s cooldowns between runs\n\nNotes\n\t\u2022\tDifferent quantization per library due to format incompatibilities\n\t\u2022\tOnly tested on NVIDIA GPUs (TensorRT doesn\u2019t support AMD)\n\t\u2022\tInference was single-prompt (batch size = 1) due to VRAM constraints as we only had access to 1 GPU\n\nLet me know if there any questions, I originally also wanted to test LMDeploy and SGLang but because of time constraints it was not possible.",
+    "url": "https://www.reddit.com/gallery/1lmkmkn",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1lmkmkn",
+    "created": "2025-06-28T07:31:47",
+    "author": "alexbaas3",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 13,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null
+}

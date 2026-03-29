@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM environment",
+    "title": "Local LLM interaction with the environment",
+    "id": "17s75l0",
+    "body": "Hello, can someone direct me to resources that cover integration od Local LLMs and external systems. \n\nI would need to use llama2 to get instructions from the user, such as - \"Open a folder named llama2 on C partition.\" and use the llama2 interpretation do execute the instruction.\n\nOne approach that comes to my mind is to make a prompt that would return the prompt formated in certain way that middle ware can interpret an execute.",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/17s75l0/local_llm_interaction_with_the_environment/",
+    "url_overridden_by_dest": null,
+    "created": "2023-11-10T11:02:55",
+    "author": "Soft-Conclusion-2004",
+    "subreddit": "LLMDevs",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}
