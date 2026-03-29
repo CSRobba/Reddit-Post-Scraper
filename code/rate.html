@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rate Post — {{ post.title[:60] }}</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0f0f11;
+    --surface: #18181c;
+    --surface2: #1e1e24;
+    --border: #2a2a32;
+    --accent: #ff6b35;
+    --accent2: #ffd166;
+    --yes: #4ade80;
+    --no: #f87171;
+    --maybe: #60a5fa;
+    --text: #e8e8f0;
+    --muted: #7a7a8c;
+    --upvote: #ff6b35;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', sans-serif;
+    min-height: 100vh;
+    padding: 0 0 80px;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,107,53,.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,107,53,.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+  }
+
+  /* ── Topbar ── */
+  .topbar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 52px;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+
+  .topbar-logo {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    color: var(--accent);
+    letter-spacing: .04em;
+  }
+
+  .topbar-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 13px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+  }
+
+  .topbar-right strong { color: var(--text); }
+
+  .logout-btn {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    padding: 5px 10px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: border-color .2s, color .2s;
+  }
+  .logout-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* ── Progress bar ── */
+  .progress-bar {
+    height: 3px;
+    background: var(--border);
+  }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    transition: width .4s ease;
+  }
+
+  /* ── Layout ── */
+  .layout {
+    max-width: 740px;
+    margin: 36px auto 0;
+    padding: 0 16px;
+    animation: fadeIn .4s ease both;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── Subreddit pill ── */
+  .sub-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+
+  .sub-pill {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--accent);
+    font-family: 'DM Mono', monospace;
+  }
+
+  .sub-pill::before { content: 'r/'; opacity: .6; }
+
+  .sub-author {
+    font-size: 12px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+  }
+
+  .sub-author span { color: var(--text); }
+
+  /* ── Post card ── */
+  .post-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+
+  .post-inner {
+    display: flex;
+    gap: 0;
+  }
+
+  /* Vote rail */
+  .vote-rail {
+    width: 48px;
+    flex-shrink: 0;
+    background: var(--surface2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px 0;
+    gap: 4px;
+    font-family: 'DM Mono', monospace;
+  }
+
+  .vote-arrow {
+    font-size: 18px;
+    color: var(--upvote);
+    line-height: 1;
+  }
+
+  .vote-count {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .vote-arrow-down {
+    font-size: 18px;
+    color: var(--muted);
+    line-height: 1;
+  }
+
+  /* Post body */
+  .post-body {
+    flex: 1;
+    padding: 20px 20px 16px;
+  }
+
+  .post-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--text);
+    margin-bottom: 14px;
+  }
+
+  .post-text {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #b8b8cc;
+    white-space: pre-wrap;
+    word-break: break-word;
+    max-height: 320px;
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+
+  .post-text::-webkit-scrollbar { width: 4px; }
+  .post-text::-webkit-scrollbar-track { background: var(--surface2); }
+  .post-text::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  .post-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 14px;
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    color: var(--maybe);
+    text-decoration: none;
+    word-break: break-all;
+    opacity: .85;
+  }
+  .post-link:hover { opacity: 1; text-decoration: underline; }
+  .post-link::before { content: '↗'; font-size: 14px; }
+
+  /* Post footer stats */
+  .post-stats {
+    display: flex;
+    gap: 16px;
+    padding: 10px 20px 14px 68px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    flex-wrap: wrap;
+  }
+
+  .stat-item { display: flex; align-items: center; gap: 5px; }
+  .stat-icon { opacity: .7; }
+
+  /* ── Query tag ── */
+  .query-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(255,209,102,.08);
+    border: 1px solid rgba(255,209,102,.2);
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    color: var(--accent2);
+    margin-bottom: 20px;
+  }
+
+  .query-tag::before { content: '🔍'; }
+
+  /* ── Rating section ── */
+  .rating-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 24px 28px;
+  }
+
+  .rating-label {
+    font-family: 'Syne', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+
+  .rating-hint {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 20px;
+    font-family: 'DM Mono', monospace;
+  }
+
+  .rating-buttons {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .vote-btn {
+    flex: 1;
+    min-width: 110px;
+    border: none;
+    border-radius: 10px;
+    padding: 16px 12px;
+    font-family: 'Syne', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform .15s, filter .15s, box-shadow .15s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .vote-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
+  .vote-btn:active { transform: translateY(0); }
+
+  .vote-btn .btn-icon { font-size: 22px; }
+  .vote-btn .btn-label { font-size: 13px; opacity: .85; font-family: 'DM Mono', monospace; }
+
+  .btn-yes  { background: rgba(74,222,128,.15);  color: var(--yes);   box-shadow: 0 0 0 1px rgba(74,222,128,.3);  }
+  .btn-no   { background: rgba(248,113,113,.15); color: var(--no);    box-shadow: 0 0 0 1px rgba(248,113,113,.3); }
+  .btn-maybe{ background: rgba(96,165,250,.15);  color: var(--maybe); box-shadow: 0 0 0 1px rgba(96,165,250,.3);  }
+
+  .btn-yes:hover  { box-shadow: 0 0 0 1px var(--yes),   0 8px 20px rgba(74,222,128,.2);  }
+  .btn-no:hover   { box-shadow: 0 0 0 1px var(--no),    0 8px 20px rgba(248,113,113,.2); }
+  .btn-maybe:hover{ box-shadow: 0 0 0 1px var(--maybe), 0 8px 20px rgba(96,165,250,.2);  }
+
+  .already-rated {
+    margin-top: 14px;
+    font-size: 12px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+  }
+
+  .rater-dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent2);
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+
+  /* ── Bottom progress bar ── */
+  .bottom-bar {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 12px 24px 14px;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .bottom-bar-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .bottom-bar-label strong {
+    color: var(--text);
+  }
+
+  .bar-track {
+    flex: 1;
+    height: 8px;
+    background: var(--border);
+    border-radius: 99px;
+    overflow: hidden;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 99px;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    transition: width .6s cubic-bezier(.22,1,.36,1);
+    position: relative;
+  }
+
+  .bar-fill::after {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0;
+    width: 40px;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,.18));
+    border-radius: 99px;
+  }
+
+  .bar-pct {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--accent2);
+    font-weight: 500;
+    flex-shrink: 0;
+    min-width: 36px;
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-logo">Post Rater</div>
+  <div class="topbar-right">
+    Signed in as <strong>{{ name }}</strong>
+    <a class="logout-btn" href="/logout">Sign out</a>
+  </div>
+</div>
+
+<div class="progress-bar">
+  {% set pct = ((2 - total_eligible) / (2 - total_eligible + total_eligible) * 100) if total_eligible else 100 %}
+  <div class="progress-fill" style="width: {{ [((2-total_eligible+1)/(total_eligible+1)*100)|int, 5]|max }}%"></div>
+</div>
+
+<div class="layout">
+
+  {% if post.query_term %}
+  <div class="query-tag">{{ post.query_term }}</div>
+  {% endif %}
+
+  <div class="sub-meta">
+    <div class="sub-pill">{{ post.subreddit or 'unknown' }}</div>
+    <div class="sub-author">posted by <span>u/{{ post.author or 'unknown' }}</span></div>
+  </div>
+
+  <div class="post-card">
+    <div class="post-inner">
+      <!-- Vote rail (decorative) -->
+      <div class="vote-rail">
+        <div class="vote-arrow">▲</div>
+        <div class="vote-count">{{ post.ups or 0 }}</div>
+        <div class="vote-arrow-down">▼</div>
+      </div>
+
+      <div class="post-body">
+        <div class="post-title">{{ post.title }}</div>
+        {% if post.body %}
+        <div class="post-text">{{ post.body }}</div>
+        {% endif %}
+        {% if post.url_overridden_by_dest or post.url %}
+        <a class="post-link" href="{{ post.url_overridden_by_dest or post.url }}" target="_blank" rel="noopener">
+          {{ (post.url_overridden_by_dest or post.url)[:80] }}{% if (post.url_overridden_by_dest or post.url)|length > 80 %}…{% endif %}
+        </a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="post-stats">
+      <div class="stat-item"><span class="stat-icon">💬</span>{{ post.num_comments or 0 }} comments</div>
+      {% if post.upvote_ratio %}<div class="stat-item"><span class="stat-icon">📊</span>{{ (post.upvote_ratio * 100)|int }}% upvoted</div>{% endif %}
+      {% if post.created %}<div class="stat-item"><span class="stat-icon">🕒</span>{{ post.created[:10] }}</div>{% endif %}
+    </div>
+  </div>
+
+  <!-- Rating -->
+  <div class="rating-section">
+    <div class="rating-label">Is this post relevant?</div>
+    <div class="rating-hint">Rate the relevance of this post to its query term.</div>
+    <form method="POST" action="/submit">
+      <div class="rating-buttons">
+        <button class="vote-btn btn-yes" type="submit" name="vote" value="y">
+          <span class="btn-icon">✅</span>
+          <span>Yes</span>
+          <span class="btn-label">Relevant</span>
+        </button>
+        <button class="vote-btn btn-maybe" type="submit" name="vote" value="m">
+          <span class="btn-icon">🤔</span>
+          <span>Maybe</span>
+          <span class="btn-label">Partially relevant</span>
+        </button>
+        <button class="vote-btn btn-no" type="submit" name="vote" value="n">
+          <span class="btn-icon">❌</span>
+          <span>No</span>
+          <span class="btn-label">Not relevant</span>
+        </button>
+      </div>
+    </form>
+    {% if rated_count > 0 %}
+    <div class="already-rated">
+      <span class="rater-dot"></span>{{ rated_count }} other rater{{ 's' if rated_count != 1 }} have already reviewed this post.
+    </div>
+    {% endif %}
+  </div>
+
+</div>
+
+<!-- Bottom global progress bar -->
+{% set pct = ((progress_completed / progress_total * 100) | round(1)) if progress_total > 0 else 0 %}
+<div class="bottom-bar">
+  <div class="bottom-bar-label">
+    Overall: <strong>{{ progress_completed }}/{{ progress_total }}</strong> posts fully rated
+  </div>
+  <div class="bar-track">
+    <div class="bar-fill" style="width: {{ pct }}%"></div>
+  </div>
+  <div class="bar-pct">{{ pct | int }}%</div>
+</div>
+
+</body>
+</html>
