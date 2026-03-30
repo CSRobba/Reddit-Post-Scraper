@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Question about applying chatGPT's API/embeddings in a university independent study environment",
+    "id": "15q0x87",
+    "body": "I am in the works of setting up a Machine Learning/AI independent study under one of the professors in the CS department at my university and he is looking to do research utilizing the possibilities of chatGPT's API in areas such as cryptography, data analysis, image recognition, software engineering, etc. After some discussions with him, he encouraged me to start doing my own research into the API and how it could be utilized with python and it's libraries and to start thinking of ways it could be used in the areas he brought up. \n\nAfter doing research with the chatGPT API it seems very straightforward and I'm struggling to see how it could be used in any of his brought up categories. I could see how this can be implemented in software projects in many ways (like one example is using the API in a software that could maybe recommend albums based on data showing your ratings of other albums) but these all just seem like normal software engineering projects that I don't really care to be doing in an independent study on top of my other course work. I know you can do some other work with the embeddings to create a more sophisticated Q&A chatbot, but again it doesn't seem to be going too far with possibilities.\n\nAm I stupid and there's something I am missing or not looking into? Or are my observations and assessment of the situation accurate and maybe this independent study isn't worth my time? If I am wrong with any of this please let me know, all opinions and feedback are welcome and appreciated! :)",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/15q0x87/question_about_applying_chatgpts_apiembeddings_in/",
+    "url_overridden_by_dest": null,
+    "created": "2023-08-13T10:53:08",
+    "author": "The_Universal_Sigh",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

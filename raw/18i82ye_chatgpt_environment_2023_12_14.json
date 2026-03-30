@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Is there a good way to integrate a custom ChatGPT assistant in a Jupyter-like environment",
+    "id": "18i82ye",
+    "body": "To make custom queries and one-off code for my business intelligence team, I'd like to provide them with a Jupyter-like notebook where they can do code (and query my own internal APIs), as well as ask a custom-designed ChatGpt assistant (possibly with code-interpreter too, and access to my APIs too) so that it knows how to do queries, provide results, and my engineers could then either correct and update the code, or use the ChatGPT assistant results and further work on them in the Jupyter environment\n\nIs something like that already available?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/18i82ye/is_there_a_good_way_to_integrate_a_custom_chatgpt/",
+    "url_overridden_by_dest": null,
+    "created": "2023-12-14T07:58:59",
+    "author": "oulipo",
+    "subreddit": "OpenAI",
+    "num_comments": 2,
+    "ups": 1,
+    "upvote_ratio": 0.5,
+    "view_count": null
+}

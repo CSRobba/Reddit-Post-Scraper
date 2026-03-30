@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Is there a way for ChatGPT to use its vision multimodal capability on an image from its own Code Interpreter environment?",
+    "id": "1dukvgx",
+    "body": "It would unlock many applications for custom GPTs.\n\nPossible application: I am creating my own \"GPT Car Mechanic\" with access to the PDF of my car's user manual. It does great on questions that are written as text in the manual, but it cannot see the diagrams. It can, however, use code interpreter to take a screenshot of a page, save it as an image file, and give me the link to download the image. If I then paste that image into the user prompt, it can use the vision multimodal capability to see the image and describe anything in it. Great! But it requires me to do that manual downloading and pasting, not practical or fast if on mobile.   \n  \nCurrently I have not been able to get ChatGPT to answer a simple prompt: \"Describe the figure in page 3 of this PDF\", without manually pasting an image of the page.\n\nIt would be ideal if ChatGPT had the ability to PROMPT ITSELF via Code Interpreter with any desired image for multimodal vision processing. Maybe a custom Python function, accessible in the code interpreter environment, for it to do that. It would unlock many applications for custom GPTs. Maybe it can be done. If anybody knows how to do it within the ChatGPT interface please illuminate us! (I feel it would be relatively easy in API, but then it betrays the simplicity of ChatGPTs 'Custom GPTs').",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1dukvgx/is_there_a_way_for_chatgpt_to_use_its_vision/",
+    "url_overridden_by_dest": null,
+    "created": "2024-07-03T14:01:22",
+    "author": "Pakh",
+    "subreddit": "ChatGPT",
+    "num_comments": 4,
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}
