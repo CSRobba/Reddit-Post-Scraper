@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT water",
+    "title": "A Water-Use Spectrum: From One ChatGPT Prompt to One Hamburger",
+    "id": "1m6pmbx",
+    "body": "On a per-action basis, these three activities span orders of magnitude in freshwater consumption:\n\n**Lowest \u27f6 Highest**\n\n**Single ChatGPT response**  \n\nLi et al. estimate GPT-3 needs about a 500 mL bottle of water for ~10\u201350 medium-length replies\u2014\u22480.01\u20130.05 L (0.0026\u20130.013 gal) per prompt, or roughly **75\u2013380 prompts per U.S. gallon**. [Making AI Less \u201cThirsty\u201d](https://arxiv.org/abs/2304.03271). This is operational water (cooling + electricity generation).\n\n\n**One hour of TV in a U.S. home**  \n\nModern TVs draw ~50\u2013200 W. [EnergySage](https://www.energysage.com/electricity/house-watts/how-many-watts-does-a-tv-use/) lists that typical range. Using NREL\u2019s national averages for evaporative (consumptive) water loss of **0.47 gal/kWh (thermoelectric only) to 2.0 gal/kWh (thermo + hydro mix)**, an hour of viewing (0.05\u20130.20 kWh) consumes about **0.02\u20130.40 gallons**\u2014grid mix and TV size drive where you land in that band. [NREL PDF](https://docs.nrel.gov/docs/fy04osti/33905.pdf). (Calculation is mine based on those factors.)\n\n\n**One hamburger**  \n\nA standard beef hamburger (bun + toppings) carries a water footprint of about **660 gallons** to produce, per Water Footprint Network data compiled by WaterCalculator. [WaterCalculator](https://watercalculator.org/footprint/foods-big-water-footprint/).\n\n\n**Sources**  \n\n- [Li et al. 2025, \u201cMaking AI Less \u2018Thirsty\u2019: Uncovering and Addressing the Secret Water Footprint of AI Models\u201d (arXiv)](https://arxiv.org/abs/2304.03271)  \n\n- [Torcellini et al. 2003, *Consumptive Water Use for U.S. Power Production*, NREL](https://docs.nrel.gov/docs/fy04osti/33905.pdf)  \n\n- [EnergySage: \u201cHow many watts does a TV use?\u201d](https://www.energysage.com/electricity/house-watts/how-many-watts-does-a-tv-use/)  \n\n- [WaterCalculator: \u201cFood\u2019s Big Water Footprint\u201d (WFN data)](https://watercalculator.org/footprint/foods-big-water-footprint/)",
+    "url": "https://www.reddit.com/r/DefendingAIArt/comments/1m6pmbx/a_wateruse_spectrum_from_one_chatgpt_prompt_to/",
+    "url_overridden_by_dest": null,
+    "created": "2025-07-22T16:44:32",
+    "author": "lesbianspider69",
+    "subreddit": "DefendingAIArt",
+    "num_comments": 3,
+    "ups": 4,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null
+}
