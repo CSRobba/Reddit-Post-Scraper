@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT electricity",
+    "title": "Reducing over 90% of the electricity cost running ChatGPT",
+    "id": "1bi9fdy",
+    "body": "tl;dr, starting a company, AI hardware technical founders, compute-in-memory that is scalable (no RRAM or SRAM), 175 billion parameters on a single die, our most conservative estimate shows over 90% reduction in power compared to Nvidia's H100, just submitted an application to YC.\n\nLong: We're starting a company (Los Angeles metro). All co-founders have hardware engineering backgrounds (but slightly different). Can't discuss too much in detail about the specifics of our technology since we're still writing patents to protect our core IP, but can tell our technology is based on in-memory computing (IMC), aka compute-in-memory (CIM), so vector-matrix multiplication would be faster and more efficient (Veritasium made a very nice video explaining this: [https://youtu.be/GVsUOuSjvcg?si=YmIp0Zgfaoj3ZYWX](https://youtu.be/GVsUOuSjvcg?si=YmIp0Zgfaoj3ZYWX)). Our direct competitor will be Nvidia (we'll be fabless, too), but with over 10 times better power efficiency with identical bit-precision and MAC. It will not be easy to break the CUDA, cuDNN barriers, so we will be hiring API developers to directly target APIs and libraries for LLMs once we demo our prototype chip. So far, we've only applied to YC. Maybe this question is more suitable for [r/startups](https://www.reddit.com/r/startups/). Are there any accelerators or VCs that would be interested in and really help hardtech startups like us grow fast? We're planning to simulate the chip in 2-3 months, demo the first chip prototype in 1 year, first server prototype in 2 years, and first chip and server products in 3 years.",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1bi9fdy/reducing_over_90_of_the_electricity_cost_running/",
+    "url_overridden_by_dest": null,
+    "created": "2024-03-18T22:26:09",
+    "author": "simpler_cs",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 23,
+    "upvote_ratio": 1,
+    "view_count": null
+}

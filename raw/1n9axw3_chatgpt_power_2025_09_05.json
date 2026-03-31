@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "Hidden Power Tip: Use ChatGPT as a \u201cRegex Explainer & Generator\u201d",
+    "id": "1n9axw3",
+    "body": "Most people know ChatGPT can generate regex, but here\u2019s the trick \u2014 you can paste a confusing regex into ChatGPT and ask it to explain step by step what each symbol does, then give you a simpler equivalent if possible.\n\nBonus: If you\u2019re testing inputs, you can feed ChatGPT sample strings, and it\u2019ll tell you which ones match and why. It\u2019s like having a regex debugger and tutor in one.\n\nI\u2019ve saved hours of trial-and-error with this \u2014 worth trying if you dread regex!",
+    "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1n9axw3/hidden_power_tip_use_chatgpt_as_a_regex_explainer/",
+    "url_overridden_by_dest": null,
+    "created": "2025-09-05T13:07:56",
+    "author": "vikasgoddubarla",
+    "subreddit": "ChatGPTPromptGenius",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

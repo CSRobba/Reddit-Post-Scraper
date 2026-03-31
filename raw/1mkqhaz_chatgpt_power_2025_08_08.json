@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "Hot take: ChatGPT isn\u2019t for power users anymore. If you want the real GPT\u20115 use the API",
+    "id": "1mkqhaz",
+    "body": "Since the GPT\u20115 update, the signal is pretty clear. The ChatGPT site, which carries the vast majority of traffic, now seems designed to lower the cost per conversation rather than deliver maximum power on every request. The predictable result: verbosity dialed down, shorter answers, and the ability to switch from GPT\u20115 \u201cclassic\u201d to lighter variants (mini, nano) without the average user noticing. Older, more expensive models end up being sidelined or unplugged anyway, as we\u2019ve seen with other versions, to streamline the infrastructure.\n\nFor Plus subscribers who are effectively advanced users, that stings. You pay for quality and consistency, but the experience becomes variable and you lose control: it\u2019s hard to lock a specific model, tweak temperature and length, or guarantee a stable session. The web app is built for \u201cworks for everyone,\u201d not \u201cmaximum performance.\u201d\n\nThat\u2019s where the API changes the game. With the API, you explicitly choose your model, control temperature, length, and tools, and you get transparency on usage and token costs.\n\nYou\u2019ll still want to watch spending and set limits and keep an eye on model deprecations (at least they\u2019re announced on the API side). But if your requirement is \u201cthe best of GPT\u20115, all the time,\u201d the API is the most reliable route right now",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1mkqhaz/hot_take_chatgpt_isnt_for_power_users_anymore_if/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-08T05:19:01",
+    "author": "Wonderful-Excuse4922",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "view_count": null
+}

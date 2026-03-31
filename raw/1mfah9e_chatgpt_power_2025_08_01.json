@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "[Idea] Would you donate idle GPU power for OpenAI in exchange for ChatGPT perks?",
+    "id": "1mfah9e",
+    "body": "Yesterday while trying to sleep I had this idea, and it looks perfect for me. I think it could really benefit both OpenAI and the community\u2014especially people who can\u2019t afford a subscription. What if OpenAI offered an opt-in program where users could donate a portion of their GPU\u2019s idle power in exchange for better and more ChatGPT access? Like more files uploads, expanded better models use, etc. \n\nHere\u2019s the general concept: users install a secure, sandboxed OpenAI client that benchmarks their GPU (like a stress test, that scores your GPU and you get perks accordingly) and safely uses up to a limited percentage\u2014say, 50%\u2014of idle compute. It would run specific non-invasive tasks like embedding generation, preprocessing, or other auxiliary compute tasks that don\u2019t require sensitive data. In return, users would earn credits that extend free-tier usage\u2014things like higher message caps, longer context windows, or even early access to features.\n\nOf course, security and transparency would need to be priorities. The client could show users exactly what kind of workloads are running. Everything would be encrypted, signed, and sandboxed. To prevent abuse, OpenAI could use hardware fingerprinting or TPM attestation to verify contributions and block spoofing. There could even be a tiered reward system based on how much verified compute a user contributes over time.\n\nWhy does this matter? A lot of people have gaming GPUs, workstation cards, or just plain underused compute power sitting idle for most of the day. Meanwhile, ChatGPT\u2019s infrastructure demands are massive. This could be a fair way to let passionate users contribute meaningfully and gain access they might not otherwise afford\u2014all without compromising privacy or frying their hardware.\n\nIf this was available today, I\u2019d opt in without hesitation. I think it\u2019s a win-win: OpenAI gets scalable background compute help, and users get more access in return. Start with the desktop app, roll it out slowly, and see where it goes.\n\nYes, obviously the rewards are different depending on how much you contribute. My 1650 would get nowhere near as much credits as someone with a RTX 5090 or any high-end GPU.\n\nWhat do you think? Would you contribute to this program? Are there any flaws you spotted? Let me know!",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1mfah9e/idea_would_you_donate_idle_gpu_power_for_openai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-01T18:38:34",
+    "author": "miguel-1510",
+    "subreddit": "OpenAI",
+    "num_comments": 32,
+    "ups": 7,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

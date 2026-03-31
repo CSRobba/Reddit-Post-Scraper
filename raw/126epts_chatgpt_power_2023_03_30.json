@@ -1,0 +1,15 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "ChatGPT giving me invalid code in Power Automate",
+    "id": "126epts",
+    "body": "I\u2019m okay in programming Python, and chatgpt saved me from some visits to stackoverflow. It supplied great pieces of code when I was stuck.\n\nBut Power Automate, formerly known as Microsoft Flow, is unfamiliar to me. So I reasoned chatgpt could help me there as well with code (\u201cexpressions\u201d).\n\nAlas, after spending hours of chatgpt assisted trying, most codes were invalid. A task for example would be, filter email with attachments from a certain sender with the word \u201cinvoice\u201d as attachment name. \n\nChatgpt 4.0 couldn\u2019t do it. But I don\u2019t understand why this is? Is it because of a new format since 2021? Something else?",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/126epts/chatgpt_giving_me_invalid_code_in_power_automate/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-30T02:50:11",
+    "author": "godheid",
+    "subreddit": "ChatGPT",
+    "num_comments": 4,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}
