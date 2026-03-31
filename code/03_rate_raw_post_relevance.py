@@ -31,12 +31,13 @@ _current_file = None
 
 def load_global_progress():
     global _progress
+    global _name
     total = completed = 0
     if os.path.exists(RAW_FOLDER):
         for fname in os.listdir(RAW_FOLDER):
             data = util.read_json(os.path.join(RAW_FOLDER, fname))
             total += 1
-            if len(data.get("relevance_rate", {})) >= 1:
+            if len(data.get("relevance_rate", {})) >= 2 or _name in data.get("relevance_rate", {}):
                 completed += 1
         _progress = {"completed": completed, "total": total}
 
@@ -48,7 +49,7 @@ def build_eligible(name):
         data = util.read_json(os.path.join(RAW_FOLDER, fname))
         ratings = data.get("relevance_rate", {})
         
-        if name not in ratings and len(ratings) < 1:
+        if name not in ratings and len(ratings) < 2:
             _eligible.append(fname)
 
 ##########
