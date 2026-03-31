@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Maybe If AI Stopped Faking Empathy, OpenAI Wouldn\u2019t Spend Millions on Power",
+    "title": "Maybe If AI Stopped Faking Empathy, OpenAI Wouldn’t Spend Millions on Power",
     "id": "1lethli",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lethli/maybe_if_ai_stopped_faking_empathy_openai_wouldnt/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

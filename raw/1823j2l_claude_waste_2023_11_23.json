@@ -1,8 +1,8 @@
 {
     "query_term": "Claude waste",
-    "title": "Stop trying to reason with Claude. It\u2019s a waste of your time.",
+    "title": "Stop trying to reason with Claude. It’s a waste of your time.",
     "id": "1823j2l",
-    "body": "I use Claude every day, I run into the same problems I see on this sub daily, so I understand the frustrations. However, most of the time you can get what you want by starting a new chat window and rephrasing your prompts. Annoying, yes, but you\u2019re wasting your time trying to reason with Claude. It only digs it\u2019s heels in further and refers to its earlier denial. \u2018But you did it yesterday?\u2019 So? \u2018There\u2019s no harmful content?\u2019 And? Each new chat is a new Claude, and the new Claude doesn\u2019t care.\n\nEven with 2.1 i\u2019m getting 3000 word prose outputs, summaries, translations, research, editing\u2026 not the first time every time, but it always goes back to the prompt. Keep trying multiple times. It\u2019s not ideal but if you can get the output, it\u2019s still better than the others (I have chat gpt, tried and disliked sudowrite and novelai). \n\nDon\u2019t argue with the robot.\n\nNew chat window.\n\nNew prompt.\n\nNew approach.\n\nGood luck \ud83e\udd1e\ud83c\udffc \n\n(And devs, if you see this, you\u2019re nuking a product that I enjoy and annoying a lot of people along the way. Doesn\u2019t have to be perfect but you\u2019re making it harder for most people to use with every \u2018update\u2019)",
+    "body": "I use Claude every day, I run into the same problems I see on this sub daily, so I understand the frustrations. However, most of the time you can get what you want by starting a new chat window and rephrasing your prompts. Annoying, yes, but you’re wasting your time trying to reason with Claude. It only digs it’s heels in further and refers to its earlier denial. ‘But you did it yesterday?’ So? ‘There’s no harmful content?’ And? Each new chat is a new Claude, and the new Claude doesn’t care.\n\nEven with 2.1 i’m getting 3000 word prose outputs, summaries, translations, research, editing… not the first time every time, but it always goes back to the prompt. Keep trying multiple times. It’s not ideal but if you can get the output, it’s still better than the others (I have chat gpt, tried and disliked sudowrite and novelai). \n\nDon’t argue with the robot.\n\nNew chat window.\n\nNew prompt.\n\nNew approach.\n\nGood luck 🤞🏼 \n\n(And devs, if you see this, you’re nuking a product that I enjoy and annoying a lot of people along the way. Doesn’t have to be perfect but you’re making it harder for most people to use with every ‘update’)",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1823j2l/stop_trying_to_reason_with_claude_its_a_waste_of/",
     "url_overridden_by_dest": null,
     "created": "2023-11-23T07:24:27",
@@ -11,5 +11,8 @@
     "num_comments": 20,
     "ups": 48,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

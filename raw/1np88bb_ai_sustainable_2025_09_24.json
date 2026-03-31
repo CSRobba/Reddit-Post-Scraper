@@ -2,7 +2,7 @@
     "query_term": "AI sustainable",
     "title": "AI & sustainable fashion - 5 minutes Survey! (All)",
     "id": "1np88bb",
-    "body": "Hi! I\u2019m a university student conducting a study on how consumers see AI recommendations in sustainable fashion brands. The survey is anonymous, takes around 5 minutes, and your input would be greatly appreciated!",
+    "body": "Hi! I’m a university student conducting a study on how consumers see AI recommendations in sustainable fashion brands. The survey is anonymous, takes around 5 minutes, and your input would be greatly appreciated!",
     "url": "https://forms.office.com/e/taG47KTMEY",
     "url_overridden_by_dest": "https://forms.office.com/e/taG47KTMEY",
     "created": "2025-09-24T06:08:09",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

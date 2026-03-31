@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "[D] Are Big AI Companies Really Prioritizing Sustainability \u2014 or Just Saying So?",
+    "title": "[D] Are Big AI Companies Really Prioritizing Sustainability — or Just Saying So?",
     "id": "1kr2er3",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1kr2er3/d_are_big_ai_companies_really_prioritizing/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

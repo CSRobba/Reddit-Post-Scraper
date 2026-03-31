@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "Why AI Creators Waste $$$ on Tools They Don\u2019t Actually Need (and What to Try Instead)",
+    "title": "Why AI Creators Waste $$$ on Tools They Don’t Actually Need (and What to Try Instead)",
     "id": "1otb3jz",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/generativeAI/comments/1otb3jz/why_ai_creators_waste_on_tools_they_dont_actually/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
