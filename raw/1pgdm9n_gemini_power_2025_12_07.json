@@ -1,0 +1,15 @@
+{
+    "query_term": "Gemini power",
+    "title": "Local RAG with OCR & DeepSeek: Built with the power of Cursor & Gemini",
+    "id": "1pgdm9n",
+    "body": ">\n\nAn open-source local knowledge base that chats with scanned PDFs.  \n\u00a0**Tech Stack**: Deepseek API,Python, Streamlit, RapidOCR, Ollama.  \n\u00a0**Dev Process**: Accelerated by Cursor and Gemini.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pgdm9n/local_rag_with_ocr_deepseek_built_with_the_power/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-07T00:44:36",
+    "author": "Failed_Champion",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 3,
+    "ups": 2,
+    "upvote_ratio": 0.6299999952316284,
+    "view_count": null
+}
