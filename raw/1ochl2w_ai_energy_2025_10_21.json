@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Tesla Energy + Smart Home survey +AI= Wonderful Life",
     "id": "1ochl2w",
-    "body": "Casally is an AI Life Agent that understands human intent and orchestrates devices and daily life.\nIt\u2019s not another smart home app \u2014 it\u2019s an intent-driven, gentle system that brings calm and order back to technology.\nThis is the brand vision of our products. Are there any users who participate in our internal test experience and provide rewards?",
+    "body": "Casally is an AI Life Agent that understands human intent and orchestrates devices and daily life.\nIt’s not another smart home app — it’s an intent-driven, gentle system that brings calm and order back to technology.\nThis is the brand vision of our products. Are there any users who participate in our internal test experience and provide rewards?",
     "url": "https://www.reddit.com/r/energy/comments/1ochl2w/tesla_energy_smart_home_survey_ai_wonderful_life/",
     "url_overridden_by_dest": null,
     "created": "2025-10-21T12:27:20",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

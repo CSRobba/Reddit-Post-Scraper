@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence power",
-    "title": "\u201cResearchers warn darkly of \u201cQ-Day,\u201d when a combination of quantum-classical computing power and artificial intelligence technologies threaten to undermine data security encryption methods.\u201d",
+    "title": "“Researchers warn darkly of “Q-Day,” when a combination of quantum-classical computing power and artificial intelligence technologies threaten to undermine data security encryption methods.”",
     "id": "1evr7sl",
     "body": "https://l.smartnews.com/p-324zV/01tIhq",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1evr7sl/researchers_warn_darkly_of_qday_when_a/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

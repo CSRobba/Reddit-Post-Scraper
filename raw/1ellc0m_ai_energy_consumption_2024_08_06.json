@@ -1,8 +1,8 @@
 {
     "query_term": "AI energy consumption",
-    "title": "Broken again \u2026 more on AI energy consumption :",
+    "title": "Broken again … more on AI energy consumption :",
     "id": "1ellc0m",
-    "body": "\u201cIt\u2019s not just energy either. Many data centers additionally use water along with air to cool the servers as they crunch through terabytes of data in seconds.\n\nDobrin said too few people are even aware of the ecological impact when they use ChatGPT or Claude today. \u201c\n\nhttps://l.smartnews.com/p-x1RfP/Q7iQO0",
+    "body": "“It’s not just energy either. Many data centers additionally use water along with air to cool the servers as they crunch through terabytes of data in seconds.\n\nDobrin said too few people are even aware of the ecological impact when they use ChatGPT or Claude today. “\n\nhttps://l.smartnews.com/p-x1RfP/Q7iQO0",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1ellc0m/broken_again_more_on_ai_energy_consumption/",
     "url_overridden_by_dest": null,
     "created": "2024-08-06T08:52:35",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "We built an AI that rewards eco-actions. Turn your waste into wealth. \u267b\ufe0f\u2728",
+    "title": "We built an AI that rewards eco-actions. Turn your waste into wealth. ♻️✨",
     "id": "1okvux5",
     "body": "[removed]",
     "url": "https://i.redd.it/0l0qohmqhgyf1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

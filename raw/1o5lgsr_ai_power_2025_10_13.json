@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Sam, if AI porn hogs all the power in this dystopian dump and I lose my air conditioning in the sweltering summer, I am really going to feel like that\u2019s unfair.",
+    "title": "Sam, if AI porn hogs all the power in this dystopian dump and I lose my air conditioning in the sweltering summer, I am really going to feel like that’s unfair.",
     "id": "1o5lgsr",
     "body": "Love, biological Superintelligence ",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1o5lgsr/sam_if_ai_porn_hogs_all_the_power_in_this/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

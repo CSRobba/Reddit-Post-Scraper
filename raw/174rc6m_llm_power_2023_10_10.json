@@ -2,7 +2,7 @@
     "query_term": "LLM power",
     "title": "Is it Feasible to Boost LLM Performance by Connecting Two MacBooks for Increased RAM and CPU Power?",
     "id": "174rc6m",
-    "body": "I\u2019ve been pondering a way to supercharge my open-source LLM experiments and thought of an idea: what if we could connect two MacBooks together to combine their RAM and CPU power for running larger models and generating quicker responses from LLMs?\n\nMy question is twofold:\n\n\t1.\tIs there any software or method available to connect two MacBooks in a way that would effectively pool their resources, especially RAM and CPU power, to benefit LLM model performance?\n\t2.\tAdditionally, are the fastest USB-C cables on the market capable of transferring data at speeds high enough to make this kind of setup practical?\n\nI\u2019m really curious about the possibilities here and would appreciate any insights or experiences you all might have in experimenting with such a setup.",
+    "body": "I’ve been pondering a way to supercharge my open-source LLM experiments and thought of an idea: what if we could connect two MacBooks together to combine their RAM and CPU power for running larger models and generating quicker responses from LLMs?\n\nMy question is twofold:\n\n\t1.\tIs there any software or method available to connect two MacBooks in a way that would effectively pool their resources, especially RAM and CPU power, to benefit LLM model performance?\n\t2.\tAdditionally, are the fastest USB-C cables on the market capable of transferring data at speeds high enough to make this kind of setup practical?\n\nI’m really curious about the possibilities here and would appreciate any insights or experiences you all might have in experimenting with such a setup.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/174rc6m/is_it_feasible_to_boost_llm_performance_by/",
     "url_overridden_by_dest": null,
     "created": "2023-10-10T13:48:18",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

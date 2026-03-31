@@ -2,7 +2,7 @@
     "query_term": "AI sustainable",
     "title": "I am developing a 200MB LLM to be used for sustainable AI for phones.",
     "id": "1q2zfva",
-    "body": "Hello Reddit,\n\nOver the last few weeks, I\u2019ve written and trained a small LLM based on LLaMA 3.1.  \nIt\u2019s multilingual, supports reasoning, and only uses **\\~250 MB** of space.  \nIt can run locally on a **Samsung A15** (a very basic Android phone) at reasonable speed.\n\nMy goal is to make it work as a kind of **\u201cGoogle AI Overview\u201d**, focused on short, factual answers rather than chat.\n\nI\u2019m wondering:\n\n* Is this a reasonable direction, or am I wasting time?\n* Do you have any advice on how to improve or where to focus next?\n\nSorry for my English; I\u2019m a 17-year-old student from Italy.",
+    "body": "Hello Reddit,\n\nOver the last few weeks, I’ve written and trained a small LLM based on LLaMA 3.1.  \nIt’s multilingual, supports reasoning, and only uses **\\~250 MB** of space.  \nIt can run locally on a **Samsung A15** (a very basic Android phone) at reasonable speed.\n\nMy goal is to make it work as a kind of **“Google AI Overview”**, focused on short, factual answers rather than chat.\n\nI’m wondering:\n\n* Is this a reasonable direction, or am I wasting time?\n* Do you have any advice on how to improve or where to focus next?\n\nSorry for my English; I’m a 17-year-old student from Italy.",
     "url": "https://www.reddit.com/r/LLMDevs/comments/1q2zfva/i_am_developing_a_200mb_llm_to_be_used_for/",
     "url_overridden_by_dest": null,
     "created": "2026-01-03T11:49:54",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 33,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

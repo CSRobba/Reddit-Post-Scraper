@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "Is AI really an unprecedented environmental villain, or just a convenient scapegoat?",
     "id": "1m6oe24",
-    "body": "Even when the usual arguments against AI are met with solid reasoning (and someone somehow manages to avoid getting downvoted into oblivion for introducing nuance), just when it seems like the conversation might actually shift, someone plays the \u201cenvironmental impact\u201d card and that\u2019s it. Game over. That argument shuts everything down on Reddit. It\u2019s treated as the ultimate trump card, unbeatable and final.\n\nBut here\u2019s what I keep wondering; is AI really that uniquely destructive? Is its environmental impact truly so unprecedented that it stands apart from everything else we use or consume? Because if you go by the tone of most online discourse, you\u2019d think so. People talk like AI is a singular, apocalyptic energy hog, while conveniently ignoring the massive energy footprints of things like social media, streaming, gaming, or even just endlessly doomscrolling through feeds.\n\nIt\u2019s like AI has become the scapegoat for all tech related environmental guilt, while everything else gets a free pass or is somehow seen as a net positive. I\u2019m not saying AI has zero impact, but the way the conversation is framed makes it seem like only AI is the problem, and that feels not just misleading, but  bizarrely one-sided.",
+    "body": "Even when the usual arguments against AI are met with solid reasoning (and someone somehow manages to avoid getting downvoted into oblivion for introducing nuance), just when it seems like the conversation might actually shift, someone plays the “environmental impact” card and that’s it. Game over. That argument shuts everything down on Reddit. It’s treated as the ultimate trump card, unbeatable and final.\n\nBut here’s what I keep wondering; is AI really that uniquely destructive? Is its environmental impact truly so unprecedented that it stands apart from everything else we use or consume? Because if you go by the tone of most online discourse, you’d think so. People talk like AI is a singular, apocalyptic energy hog, while conveniently ignoring the massive energy footprints of things like social media, streaming, gaming, or even just endlessly doomscrolling through feeds.\n\nIt’s like AI has become the scapegoat for all tech related environmental guilt, while everything else gets a free pass or is somehow seen as a net positive. I’m not saying AI has zero impact, but the way the conversation is framed makes it seem like only AI is the problem, and that feels not just misleading, but  bizarrely one-sided.",
     "url": "https://www.reddit.com/r/aiwars/comments/1m6oe24/is_ai_really_an_unprecedented_environmental/",
     "url_overridden_by_dest": null,
     "created": "2025-07-22T15:57:48",
@@ -11,5 +11,8 @@
     "num_comments": 46,
     "ups": 17,
     "upvote_ratio": 0.7799999713897705,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

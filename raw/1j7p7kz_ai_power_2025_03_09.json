@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\ude80 Unlock the Power of AI with Manus AI! Automate Your Workflow and Gain Exclusive Access \ud83d\ude80",
+    "title": "🚀 Unlock the Power of AI with Manus AI! Automate Your Workflow and Gain Exclusive Access 🚀",
     "id": "1j7p7kz",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1j7p7kz/unlock_the_power_of_ai_with_manus_ai_automate/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

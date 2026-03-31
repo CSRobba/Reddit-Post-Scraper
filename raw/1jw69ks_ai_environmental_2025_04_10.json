@@ -1,8 +1,8 @@
 {
     "query_term": "AI environmental",
-    "title": "[request] what\u2019s the environmental cost of an AI model?",
+    "title": "[request] what’s the environmental cost of an AI model?",
     "id": "1jw69ks",
-    "body": "\nI know the post exaggerated it by using \u201cAGI\u201d which might not be a thing (yet). But realistically what\u2019s the actual impact of AI requests?  ",
+    "body": "\nI know the post exaggerated it by using “AGI” which might not be a thing (yet). But realistically what’s the actual impact of AI requests?  ",
     "url": "https://i.redd.it/a3hay7yk52ue1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/a3hay7yk52ue1.jpeg",
     "created": "2025-04-10T15:20:24",
@@ -11,5 +11,8 @@
     "num_comments": 146,
     "ups": 5351,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

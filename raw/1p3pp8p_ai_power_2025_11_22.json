@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u51e0\u591f\u529b (Not Enough Power) \u2013 AI Sci-Fi Satire MV Created With OpenArt (OMVA Entry)",
+    "title": "几够力 (Not Enough Power) – AI Sci-Fi Satire MV Created With OpenArt (OMVA Entry)",
     "id": "1p3pp8p",
     "body": "[removed]",
     "url": "https://youtu.be/rGcReJ_Ojk8",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

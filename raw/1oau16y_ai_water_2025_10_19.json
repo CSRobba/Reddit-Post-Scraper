@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "How much water does 2 videos of Sora Ai use?",
     "id": "1oau16y",
-    "body": "I made two videos on Sora Ai and now I feel bad because I\u2019m using a lot of water. But how much water in particular?",
+    "body": "I made two videos on Sora Ai and now I feel bad because I’m using a lot of water. But how much water in particular?",
     "url": "https://www.reddit.com/r/OpenAI/comments/1oau16y/how_much_water_does_2_videos_of_sora_ai_use/",
     "url_overridden_by_dest": null,
     "created": "2025-10-19T12:28:52",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.3100000023841858,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "There\u2019s a world wide power failure. Emergency alert appears on your phone \u201cThis is AI, good luck humanity\u201d what is your reaction?",
+    "title": "There’s a world wide power failure. Emergency alert appears on your phone “This is AI, good luck humanity” what is your reaction?",
     "id": "12yl0as",
     "body": "[deleted]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

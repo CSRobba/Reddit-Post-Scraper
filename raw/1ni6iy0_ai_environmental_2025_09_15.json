@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "A way of keeping track of the environmental cost of AI usage!",
     "id": "1ni6iy0",
-    "body": "I\u2019ve been working on a small side project over the past few weeks and would love to get some insight from the community on how I can improve it.\n\nThe concept is to measure the cost of a ChatGPT prompt. It\u2019s not perfect, it\u2019s based on some rough estimates from academic papers but the goal is to make the invisible costs of AI more visible. The intent isn\u2019t to guilt anyone out of using AI, but to show that it comes with real environmental impact and should be used intentionally.\n\nTo make it more relatable, I grounded the costs (carbon, electricity, and water) in everyday household items. For example, showing water use as a shot glass vs. a bathtub makes the numbers easier to understand.\n\nI\u2019d love your thoughts on whether the design choices work, and if you see other ways to make this kind of feedback meaningful.\n\nPrototype link:\u00a0[https://www.allan-macdonald.com/environmentgpt](https://www.allan-macdonald.com/environmentgpt)  \nWrite-up of my process:\u00a0[https://medium.com/p/b5ef13614bae](https://medium.com/p/b5ef13614bae)\n\nThanks in advance folks! Really curious what this community thinks.\n\nhttps://reddit.com/link/1ni6iy0/video/wkzlegrc2gpf1/player\n\n",
+    "body": "I’ve been working on a small side project over the past few weeks and would love to get some insight from the community on how I can improve it.\n\nThe concept is to measure the cost of a ChatGPT prompt. It’s not perfect, it’s based on some rough estimates from academic papers but the goal is to make the invisible costs of AI more visible. The intent isn’t to guilt anyone out of using AI, but to show that it comes with real environmental impact and should be used intentionally.\n\nTo make it more relatable, I grounded the costs (carbon, electricity, and water) in everyday household items. For example, showing water use as a shot glass vs. a bathtub makes the numbers easier to understand.\n\nI’d love your thoughts on whether the design choices work, and if you see other ways to make this kind of feedback meaningful.\n\nPrototype link: [https://www.allan-macdonald.com/environmentgpt](https://www.allan-macdonald.com/environmentgpt)  \nWrite-up of my process: [https://medium.com/p/b5ef13614bae](https://medium.com/p/b5ef13614bae)\n\nThanks in advance folks! Really curious what this community thinks.\n\nhttps://reddit.com/link/1ni6iy0/video/wkzlegrc2gpf1/player\n\n",
     "url": "https://www.reddit.com/r/SideProject/comments/1ni6iy0/a_way_of_keeping_track_of_the_environmental_cost/",
     "url_overridden_by_dest": null,
     "created": "2025-09-15T23:15:34",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

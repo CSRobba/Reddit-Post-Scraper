@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Meta\u2019s AI Data Center Sparks a Crisis in the Bible Belt Over the Power of Faith",
+    "title": "Meta’s AI Data Center Sparks a Crisis in the Bible Belt Over the Power of Faith",
     "id": "1p2gqhg",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1p2gqhg/metas_ai_data_center_sparks_a_crisis_in_the_bible/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

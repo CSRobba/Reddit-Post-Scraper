@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Survey on computational power needs for Machine Learning/AI/Coding (Coders)",
     "id": "1n1dypb",
-    "body": "Hi everyone!\n\nAs part of my internship, I am conducting research to understand the computational power needs of professionals who work with machine learning and AI. The goal is to learn how different practitioners approach their requirements for GPU and computational resources, and whether they prefer cloud platforms (with inbuilt ML tools) or value flexible, agile access to raw computational power.\n\nIf you work with machine learning (in industry, research, or as a student), I\u2019d greatly appreciate your participation in the following survey. Your insights will help inform future solutions for ML infrastructure.\n\nThe survey will take about two to three minutes. Here\u00b4s the link:\u00a0[https://survey.sogolytics.com/r/vTe8Sr](https://survey.sogolytics.com/r/vTe8Sr)\n\nThank you for your time! Your feedback is invaluable for understanding and improving ML infrastructure for professionals.",
+    "body": "Hi everyone!\n\nAs part of my internship, I am conducting research to understand the computational power needs of professionals who work with machine learning and AI. The goal is to learn how different practitioners approach their requirements for GPU and computational resources, and whether they prefer cloud platforms (with inbuilt ML tools) or value flexible, agile access to raw computational power.\n\nIf you work with machine learning (in industry, research, or as a student), I’d greatly appreciate your participation in the following survey. Your insights will help inform future solutions for ML infrastructure.\n\nThe survey will take about two to three minutes. Here´s the link: [https://survey.sogolytics.com/r/vTe8Sr](https://survey.sogolytics.com/r/vTe8Sr)\n\nThank you for your time! Your feedback is invaluable for understanding and improving ML infrastructure for professionals.",
     "url": "https://www.reddit.com/r/SampleSize/comments/1n1dypb/survey_on_computational_power_needs_for_machine/",
     "url_overridden_by_dest": null,
     "created": "2025-08-27T07:03:40",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Could Mycelium-Powered AI Be the Future of Sustainable Robotics? \ud83e\udd16\ud83c\udf44\"",
+    "title": "Could Mycelium-Powered AI Be the Future of Sustainable Robotics? 🤖🍄\"",
     "id": "1jbp8iu",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/askscience/comments/1jbp8iu/could_myceliumpowered_ai_be_the_future_of/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

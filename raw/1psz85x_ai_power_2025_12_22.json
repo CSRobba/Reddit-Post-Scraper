@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\"You Voted for This\": Retired auto workers who backed Trump are being crushed by a 10% energy hike just to power Big Tech\u2019s AI data centers",
+    "title": "\"You Voted for This\": Retired auto workers who backed Trump are being crushed by a 10% energy hike just to power Big Tech’s AI data centers",
     "id": "1psz85x",
     "body": "[removed]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "China Is Actually Subsidizing Electricity to Cover Up the \u2018Terrible\u2019 Power Efficiency of Domestic AI Chips, Slashing Data Center Bills by Up to 50%",
+    "title": "China Is Actually Subsidizing Electricity to Cover Up the ‘Terrible’ Power Efficiency of Domestic AI Chips, Slashing Data Center Bills by Up to 50%",
     "id": "1oof962",
     "body": "And you thought our data centers were energy-hungry.\n\nRenewables can't power growing power demands in the West & OECD Asia/Australia. Maybe that's why China keeps opening new coal plants ",
     "url": "https://wccftech.com/china-is-actually-subsidizing-electricity-to-cover-up-the-power-efficiency-of-domestic-ai-chips/",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 68,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

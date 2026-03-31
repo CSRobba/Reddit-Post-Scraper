@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environmental",
-    "title": "Where do y\u2019all stand with ChatGPT and its environmental impact?",
+    "title": "Where do y’all stand with ChatGPT and its environmental impact?",
     "id": "1i0oe1e",
     "body": "Given all the water and electricity used to cool down the systems, where do you stand when people say to not use ChatGPT for its environmental impact?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1i0oe1e/where_do_yall_stand_with_chatgpt_and_its/",
@@ -11,5 +11,8 @@
     "num_comments": 27,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

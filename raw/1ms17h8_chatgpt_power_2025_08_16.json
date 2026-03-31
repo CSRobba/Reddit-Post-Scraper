@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "The Ultimate Prompt to Unlock 100% of ChatGPT-5\u2019s Power.",
+    "title": "The Ultimate Prompt to Unlock 100% of ChatGPT-5’s Power.",
     "id": "1ms17h8",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/OpenAI/comments/1ms17h8/the_ultimate_prompt_to_unlock_100_of_chatgpt5s/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

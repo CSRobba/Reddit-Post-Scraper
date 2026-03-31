@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Weekend build: tool that suggests leaner / energy efficient AI prompts. Worth using?",
     "id": "1n0xzhb",
-    "body": "I hacked together a little Chrome tool called CleanPrompt \u2014 it underlines extra words in your prompts and suggests a leaner version.\n\nThe idea: you get the same answers, but with fewer tokens = faster + cheaper generations.\n\nI took some screenshots from my own tests where the suggested prompts were 20\u201340% shorter without changing the meaning.\n\nCurious: would you use something like this in your own workflow? And what would make it more valuable or worth installing for you?",
+    "body": "I hacked together a little Chrome tool called CleanPrompt — it underlines extra words in your prompts and suggests a leaner version.\n\nThe idea: you get the same answers, but with fewer tokens = faster + cheaper generations.\n\nI took some screenshots from my own tests where the suggested prompts were 20–40% shorter without changing the meaning.\n\nCurious: would you use something like this in your own workflow? And what would make it more valuable or worth installing for you?",
     "url": "https://i.redd.it/hogfnwcriflf1.png",
     "url_overridden_by_dest": "https://i.redd.it/hogfnwcriflf1.png",
     "created": "2025-08-26T17:09:09",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "This 8-second Monster\u2019s Energy Drink fully AI-generated? Now.. What\u2019s next?",
+    "title": "This 8-second Monster’s Energy Drink fully AI-generated? Now.. What’s next?",
     "id": "1rgpqwh",
     "body": "[removed]",
     "url": "https://v.redd.it/khfamjq355mg1",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

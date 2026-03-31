@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "AI data centers are now outbidding power utilities on transformers \u2014 and large power transformers now take 2-3 years to procure",
+    "title": "AI data centers are now outbidding power utilities on transformers — and large power transformers now take 2-3 years to procure",
     "id": "1rwifo5",
-    "body": "    Hyperscalers building AI data centers are competing directly with grid operators for the same physical components \u2014 including large power transformers that now require 2-3 years to procure (they took weeks before 2020).\n\n    This ATRILLIONDOORS episode covers the full picture: the grid aging crisis, the commodity supply chain vulnerabilities, and the transformation pathways (flexible load management, fusion investment, enhanced geothermal) that make the light assembly case.\n    WATCH:https://youtu.be/oqdLYUpBOsM",
+    "body": "    Hyperscalers building AI data centers are competing directly with grid operators for the same physical components — including large power transformers that now require 2-3 years to procure (they took weeks before 2020).\n\n    This ATRILLIONDOORS episode covers the full picture: the grid aging crisis, the commodity supply chain vulnerabilities, and the transformation pathways (flexible load management, fusion investment, enhanced geothermal) that make the light assembly case.\n    WATCH:https://youtu.be/oqdLYUpBOsM",
     "url": "https://www.reddit.com/r/energy/comments/1rwifo5/ai_data_centers_are_now_outbidding_power/",
     "url_overridden_by_dest": null,
     "created": "2026-03-17T16:29:48",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 38,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

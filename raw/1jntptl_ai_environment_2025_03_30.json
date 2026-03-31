@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "Seeking AI & Virtual Environment Developers for an Experimental Project \u2013 Fully Funded",
+    "title": "Seeking AI & Virtual Environment Developers for an Experimental Project – Fully Funded",
     "id": "1jntptl",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1jntptl/seeking_ai_virtual_environment_developers_for_an/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

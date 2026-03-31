@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "AI water consumption.",
     "id": "1n7rj75",
-    "body": "Global freshwater consumption is estimated at 3,880,000,000,000 m\u00b3. About 70% goes to agriculture, 19% to industry, and 11% to municipalities.\n\nNow, data centers in the USA consume roughly 66 million m\u00b3 of water directly. Around 45% of all data centers are in the USA. Let\u2019s be generous and assume that all data centers worldwide consume water at the same rate. That comes out to 146.6 million m\u00b3, which is a whopping \\*drum noises\\* 0.0037% of global water use.\n\n\u201c**Oh, but you didn\u2019t include indirect water consumption!!**\u201d you say?!? Alright, let\u2019s add that too. The indirect water footprint of US data centers is estimated at 800 million m\u00b3. Again, let\u2019s be generous and scale that globally using the USA standard. After the math, this increases the staggering total of 0.049%. :O\n\nAnd lemme tell you, this is for **ALL** data centers. AI only uses about 14% of those. So yeah, the numbers I gave you are roughly seven times higher than what AI actually consumes.\n\nSources:\n\n[https://unesdoc.unesco.org/ark:/48223/pf0000375724](https://unesdoc.unesco.org/ark:/48223/pf0000375724) ,\n\n[https://www.circleofblue.org/2025/water-energy/data-center-energy-demand-is-putting-pressure-on-u-s-water-supplies/](https://www.circleofblue.org/2025/water-energy/data-center-energy-demand-is-putting-pressure-on-u-s-water-supplies/)\n\n[https://www.eesi.org/articles/view/data-centers-and-water-consumption](https://www.eesi.org/articles/view/data-centers-and-water-consumption)",
+    "body": "Global freshwater consumption is estimated at 3,880,000,000,000 m³. About 70% goes to agriculture, 19% to industry, and 11% to municipalities.\n\nNow, data centers in the USA consume roughly 66 million m³ of water directly. Around 45% of all data centers are in the USA. Let’s be generous and assume that all data centers worldwide consume water at the same rate. That comes out to 146.6 million m³, which is a whopping \\*drum noises\\* 0.0037% of global water use.\n\n“**Oh, but you didn’t include indirect water consumption!!**” you say?!? Alright, let’s add that too. The indirect water footprint of US data centers is estimated at 800 million m³. Again, let’s be generous and scale that globally using the USA standard. After the math, this increases the staggering total of 0.049%. :O\n\nAnd lemme tell you, this is for **ALL** data centers. AI only uses about 14% of those. So yeah, the numbers I gave you are roughly seven times higher than what AI actually consumes.\n\nSources:\n\n[https://unesdoc.unesco.org/ark:/48223/pf0000375724](https://unesdoc.unesco.org/ark:/48223/pf0000375724) ,\n\n[https://www.circleofblue.org/2025/water-energy/data-center-energy-demand-is-putting-pressure-on-u-s-water-supplies/](https://www.circleofblue.org/2025/water-energy/data-center-energy-demand-is-putting-pressure-on-u-s-water-supplies/)\n\n[https://www.eesi.org/articles/view/data-centers-and-water-consumption](https://www.eesi.org/articles/view/data-centers-and-water-consumption)",
     "url": "https://www.reddit.com/r/aiwars/comments/1n7rj75/ai_water_consumption/",
     "url_overridden_by_dest": null,
     "created": "2025-09-03T17:27:29",
@@ -11,5 +11,8 @@
     "num_comments": 69,
     "ups": 35,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "United States: How Trump\u2019s anti-renewables campaign threatens the power supply and economic growth. For the past year, Trump has been slashing programs for climate action, science and renewables. Now his plans are threatening the power supply and the construction of AI data centers.",
+    "title": "United States: How Trump’s anti-renewables campaign threatens the power supply and economic growth. For the past year, Trump has been slashing programs for climate action, science and renewables. Now his plans are threatening the power supply and the construction of AI data centers.",
     "id": "1qdpes2",
     "body": "[deleted]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 9,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy use",
-    "title": "How Much Energy Does AI Use? The People Who Know Aren\u2019t Saying | A growing body of research attempts to put a number on energy use and AI\u2014even as the companies behind the most popular models keep their carbon emissions a secret.",
+    "title": "How Much Energy Does AI Use? The People Who Know Aren’t Saying | A growing body of research attempts to put a number on energy use and AI—even as the companies behind the most popular models keep their carbon emissions a secret.",
     "id": "1lfaybc",
     "body": "[deleted]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

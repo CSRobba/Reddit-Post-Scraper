@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "why don\u2019t they just make AI that\u2019s good for the environment?",
+    "title": "why don’t they just make AI that’s good for the environment?",
     "id": "1p5om6k",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1p5om6k/why_dont_they_just_make_ai_thats_good_for_the/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
