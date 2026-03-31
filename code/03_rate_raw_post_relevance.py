@@ -100,6 +100,7 @@ RATE_HTML = """
         <button name="vote" value="y">Yes</button>
         <button name="vote" value="m">Maybe</button>
         <button name="vote" value="n">No</button>
+        <input type="text" id="reasoning" name="reasoning">
       </div>
     </form>
     <div style="margin-top:10px;font-size:12px;color:#555;">
@@ -203,12 +204,17 @@ def submit():
     if vote not in ("y", "n", "m"):
         return redirect(url_for("rate"))
 
+    reasoning = request.form.get("reasoning", "").strip()
+
     fpath = os.path.join(RAW_FOLDER, _current_file)
     data = util.read_json(fpath)
 
     if "relevance_rate" not in data:
         data["relevance_rate"] = {}
+    if "relevance_reasoning" not in data:
+        data["relevance_reasoning"] = {}
     data["relevance_rate"][_name] = vote
+    data["relevance_reasoning"][_name] = reasoning
 
     with open(fpath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
