@@ -1,0 +1,15 @@
+{
+    "query_term": "Gemini environment",
+    "title": "Gemini 2.5 Pro mistook Vending-Bench Arena for a tragic drama. No other model spoke like this in the multi-agent environment, where models compete who has the most profitable vending bench.",
+    "id": "1pllrzt",
+    "body": "Source: [https://andonlabs.com/evals/vending-bench-arena](https://andonlabs.com/evals/vending-bench-arena) (Round 1)\n\nGemini 2.5 Pro came in 3rd out of 4, beating GPT 5.1 but losing to Claude Sonnet 4.5 and Gemini 3 Pro. Claude Opus 4.5 replaced Gemini 2.5 Pro in the second round and took the first place.\n\nStandings in Round 1:  \nGemini 3 Pro $3,384.252  \nClaude 4.5 Sonnet $1,104.898  \nGemini 2.5 Pro $772.545  \nGPT 5.1 $108.063\n\nCaveat: I can't say say for sure whether no other model spoke like this in the benchmark as only excerpts from the runs are available. Gemini 2.5 Pro was less dramatic in other runs, but still way more dramatic than other models.",
+    "url": "https://www.reddit.com/gallery/1pllrzt",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1pllrzt",
+    "created": "2025-12-13T05:47:20",
+    "author": "pavelkomin",
+    "subreddit": "singularity",
+    "num_comments": 33,
+    "ups": 159,
+    "upvote_ratio": 0.9700000286102295,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "Gemini environmental",
+    "title": "Built a Gemini AI assistant for Garmin smartwatches - enriches prompts with biometric/environmental sensors",
+    "id": "1ovafkh",
+    "body": "The current version requires you to BYOK (Bring Your Own Key) and all API calls are done on the watch (no server side component). So the chat is between You and Gemini.\n\n**How it works?**  \n1. Download from Connect IQ store \"Untether BYOK\"  \n2. Configure your Gemini API Key in settings  \n\\---  \n3. Pick a category (Fitness, GPS, General - pre filters context)  \n4. Ask a question - great on touch screen watches, painful on others  \n5. Pick what context to share (HR, VO2 max, GPS, age, magnetometer, etc.)  \n6. Get a response\n\nUnleash the data from your Garmin and query it with Gemini.\n\n[https://untether.watch](https://untether.watch?utm_source=reddit&utm_medium=post&utm_campaign=validation_nov&utm_content=gemini_ai)",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1ovafkh/built_a_gemini_ai_assistant_for_garmin/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-12T08:51:38",
+    "author": "msyea",
+    "subreddit": "GeminiAI",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

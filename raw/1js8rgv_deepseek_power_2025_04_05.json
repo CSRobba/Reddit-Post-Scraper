@@ -1,0 +1,15 @@
+{
+    "query_term": "DeepSeek power",
+    "title": "Help! I'm a noob and don't know how unleash the Deepseek API power on a safe enviroment/cloud",
+    "id": "1js8rgv",
+    "body": "Hi folks!\n\nLast week I used the Deepseek API for the first time, mostly because of price. I coded in Python and asked it to process 250 PDF files and make a summary of each one and give me an Excel File with columns name and summary. The result was fantastic, it worked with the unreasonable amount of documents I gave it and the unreasonable generated content I asked for. It only costed me $0.14. They were all random manuals and generic stuff.\n\nI want to try this this work files. But never in my life will I share this info with Deepseek/OpenAi or any provider thats not authorized by the company. Many of the files I want to work with are descriptions of operational process, so, I can't share them.\n\nIs there a way of using Deepseek's API power on other environment? I don't have the hardware to use the model locally and I don't think it can handle such big tasks, maybe I could use it in AWS, does that need that I have the model locally installed or is living on the Cloud?. \n\nAnyway, we use Azure at work, not AWS. I was thinking using Azure AI Foundry, but don't know if that can handle such a task. Azure OpenAi Studio never delivery any good results when I was using the OpenAi models and charged me like crazy.\n\nPlease help me, I'm a noobie\n\nThanks for reading!  \n",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1js8rgv/help_im_a_noob_and_dont_know_how_unleash_the/",
+    "url_overridden_by_dest": null,
+    "created": "2025-04-05T10:31:05",
+    "author": "Environmental-Way843",
+    "subreddit": "LLMDevs",
+    "num_comments": 3,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}
