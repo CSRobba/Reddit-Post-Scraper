@@ -1,0 +1,15 @@
+{
+    "query_term": "Llama power",
+    "title": "I made a program that gives LLMs running locally the power to search the internet for LLMs rugives LLMs running locally the power to search the internet for LLMs running via llama.cpp",
+    "id": "1fjh756",
+    "body": "Hey Reddit!\n\nI'm excited to share a project I've been pouring countless hours into: Web-LLM Assistant. It's a Python program that gives local LLMs running via llama.cpp the power to search the internet and provide up-to-date answers.\n\nHere's how it works:\n\n1. You ask a question to the LLM.\n2. The LLM crafts a search query and selects a timeframe.\n3. It performs a web search, collecting the top 10 results.\n4. The LLM picks the 2 most relevant results and fully web scrapes them.\n5. If the information is sufficient, it answers your question.\n6. If not, it refines the search up to 5 times to find the best answer.\n\nThis means your local LLM can now tackle questions about recent events or topics outside its training data!\n\nKey Features:\n\n* Real-time web searching\n* Intelligent result selection\n* Full web scraping of chosen results\n* Iterative search refinement\n* Works with your local LLM setup\n\nI'd love for you to check it out and give it a spin! You can find the project on GitHub:\n\n[https://github.com/TheBlewish/Web-LLM-Assistant-Llama-cpp](https://github.com/TheBlewish/Web-LLM-Assistant-Llama-cpp)\n\nLet me know what you think, and feel free to ask any questions. Your feedback is greatly appreciated!",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1fjh756/i_made_a_program_that_gives_llms_running_locally/",
+    "url_overridden_by_dest": null,
+    "created": "2024-09-17T18:36:25",
+    "author": "CuriousAustralianBoy",
+    "subreddit": "ChatGPT",
+    "num_comments": 3,
+    "ups": 11,
+    "upvote_ratio": 0.9200000166893005,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "Llama power",
+    "title": "Would it be possible to finetune a llama-7b model and use the adapter_model.bin for a bigger model to save computing power?",
+    "id": "127or7n",
+    "body": "Would it be possible to finetune a llama-7b model and use the adapter\\_model.bin for a bigger model to save computing power?\n\nWould be awesome if that was possible. I have no deep understanding about how a lora model is applied to the llama model, so I just wondering if one could \"upscale\" the lora model  with not much computing power and use it for bigger models up to the 65b model.If that was working I guess it could be a game changer for individual fine tuning.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/127or7n/would_it_be_possible_to_finetune_a_llama7b_model/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-31T08:19:03",
+    "author": "Ok-Scarcity-7875",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 14,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}
