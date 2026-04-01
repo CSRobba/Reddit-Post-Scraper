@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude environment",
+    "title": "Using Claude MCP for IT Ticketing (GLPI / ServiceNow / etc.) in a Hospital Environment",
+    "id": "1mlvgsv",
+    "body": "Hi! \nWant to use Claude to actually fix real-world problems instead of shipping another AI-powered coffee timer? Here\u2019s how it could run an entire hospital\u2019s IT ticketing.\n\nI\u2019m exploring how to integrate an LLM \u2014 and ideally Claude with MCP \u2014 into an IT ticketing workflow in a hospital setting.\n\nThe goals would be:\n\nTicket classification & routing: auto-detect category, urgency, impact from the ticket text.\n\nKnowledge retrieval: connect to internal documentation or past tickets to suggest solutions.\n\nAutomation: trigger scripts or ticket status changes based on LLM analysis.\n\nData privacy: keep everything on-prem or in a secure MCP setup.\n\n\nHas anyone here implemented an MCP toolchain (e.g., filesystem, API calls, search) with Claude for a ticketing system like GLPI, ServiceNow, or Jira?\n\nI\u2019m especially curious about:\n\nHow you structure MCP tools for multi-step ticket workflows.\n\nBest practices to keep sensitive hospital data safe.\n\nExamples of automation loops where the LLM actually performs actions, not just suggestions.\n\n\nThis is part of a public hospital / public-interest project \u2014 so if any contributor wants to jump in pro bono, you\u2019d be building something useful for society instead of coding for the South Park version of Mickey Mouse and his Satan\u2019s libertarian dust mites.\n#Team Baguette \ud83c\udde8\ud83c\uddf5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1mlvgsv/using_claude_mcp_for_it_ticketing_glpi_servicenow/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-09T10:44:14",
+    "author": "danielmerron",
+    "subreddit": "ClaudeAI",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

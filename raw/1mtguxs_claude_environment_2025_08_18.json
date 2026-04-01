@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude environment",
+    "title": "Is there a way to modify the Shell environment in which Claude Code runs commands?",
+    "id": "1mtguxs",
+    "body": "Basically I want to slightly modify the environment, e.g. export certain env variables, etc.\n\nThis way I can influence various tools' behavior. For example, I configure my Maven wrapper in such a way that if USE\\_MVND=false then it will run using Maven rather than Maven daemon - which is more reliable in the context of AI agent.\n\nI can achieve this by ensuring that I launch claude-code with certain env variables (which then be inherited all way down), but wondering if there is a better way?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1mtguxs/is_there_a_way_to_modify_the_shell_environment_in/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-18T02:06:10",
+    "author": "nikita2206",
+    "subreddit": "ClaudeAI",
+    "num_comments": 4,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}
