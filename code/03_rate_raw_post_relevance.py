@@ -39,7 +39,12 @@ def load_global_progress():
             total += 1
             if len(data.get("relevance_rate", {})) >= 2 or _name in data.get("relevance_rate", {}):
                 completed += 1
+            
+            relevant = 0
+            if "y" in data.get("relevance_rate", {}).values() or "m" in data.get("relevance_rate", {}).values():
+                relevant += 1 
         _progress = {"completed": completed, "total": total}
+        print(relevant, completed)
 
 def build_eligible(name):
     """Scan ``raw/'' folder once and return list of filenames eligible for NAME."""

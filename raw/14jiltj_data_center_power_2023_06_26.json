@@ -1,0 +1,15 @@
+{
+    "query_term": "data center power",
+    "title": "US Data Center Power Consumption",
+    "id": "14jiltj",
+    "body": "I am trying to do some research into US Data Center power consumption by area. Ideally I would like to find a free source that has historical County level data. Does anyone know of such a source?\n\nThings I have found so far:\n\n1. [https://www.datacentermap.com](https://www.datacentermap.com/)  good map but does not include capacities or easily dowlaodable data (API or CSV).\n2. [https://www.datacenterhawk.com](https://www.datacenterhawk.com/) appears to be a paid service and am not sure it is a mega-sheet I am looking for.\n3. CBRE, Cushman & Wakefield, and the IEA have okay data on new projects but again in lowsy PDFs. \n\nLet me know if any of you have seen something like this in the past! I would appreciate any help at all :)",
+    "url": "https://www.reddit.com/r/energy/comments/14jiltj/us_data_center_power_consumption/",
+    "url_overridden_by_dest": null,
+    "created": "2023-06-26T07:18:50",
+    "author": "EqualsMCquared",
+    "subreddit": "energy",
+    "num_comments": 2,
+    "ups": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "view_count": null
+}

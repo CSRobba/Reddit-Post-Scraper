@@ -1,0 +1,15 @@
+{
+    "query_term": "data center energy",
+    "title": "Data Center Engineers: Is DC energy optimization actually a top priority for you? (Quick Poll)",
+    "id": "1rp0mra",
+    "body": "Hi everyone,\n\nI\u2019m a dev looking into energy monitoring and optimization solution for DCs, but want to avoid working on a solution for a non-existent/non-priority problem.\n\nIf you have 30 seconds, I\u2019d love a quick \"A/B/C\"-response on three points:\n\n**Is energy optimization a Top 3 priority for your facility right now?**\n\n* (A) Yes, it\u2019s a massive KPI.\n* (B) No, uptime/security are 95% of the focus.\n* (C) Only because of new regulations.\n\n**How are you tracking it today?**\n\n* (A) High-end DCIM software.\n* (B) Custom Dashboards (Grafana/Prometheus).\n* (C) Monthly utility bills & Excel.\n\n**Is your current tool \"good enough\"?**\n\n* (A) Yes, it does everything we need.\n* (B) No, the data is too messy/delayed to be useful.\n\nI\u2019m just trying to see if this problem is real or if the industry is already \"solved\".\n\nAlso more in-depth responses are welcome as well. Thanks for any input!",
+    "url": "https://www.reddit.com/r/datacenter/comments/1rp0mra/data_center_engineers_is_dc_energy_optimization/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-09T06:46:20",
+    "author": "IronSea834",
+    "subreddit": "datacenter",
+    "num_comments": 4,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null
+}

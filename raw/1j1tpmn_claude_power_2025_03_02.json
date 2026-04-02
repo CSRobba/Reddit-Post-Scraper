@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude power",
+    "title": "Claude vs. GPT \u2013 Which LLM actually helps with Power Apps?",
+    "id": "1j1tpmn",
+    "body": "Hey, do you use LLMs for Power Apps, or are you still building everything manually?\n\nI personally use Chat GPT o3-mini to get a quick overview of code, have it explain entire screens, suggest optimizations, and help me structure parameter passing to Power Automate, especially for handling documents. In many cases, this saves me a ton of time\u2014but there are still blind spots.\n\nI\u2019m curious:\n\t\u2022\tWhich model do you use? GPT-4, Claude, Gemini?\n\t\u2022\tWhere do LLMs shine, and where do they completely fail?\n\t\u2022\tDo you have a better workflow than mine?\n\nOr do you think LLMs are just a gimmick and it\u2019s better to build everything yourself?\n\nLooking forward to your thoughts!",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1j1tpmn/claude_vs_gpt_which_llm_actually_helps_with_power/",
+    "url_overridden_by_dest": null,
+    "created": "2025-03-02T07:44:46",
+    "author": "Ancient-Outcome-7125",
+    "subreddit": "LLMDevs",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}

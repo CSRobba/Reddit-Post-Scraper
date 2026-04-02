@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude power",
+    "title": "OpenRouter Claude-API-Handler to Power OpenWebUI - How TF",
+    "id": "1j8hrfq",
+    "body": "How do I add my Claude API to OpenWebUI? I'm tearing hair out here. I've added my API to OpenRouter . AI but I can't even get it to render for a single message - all I get is :  \n\\`\\`\\`  \n{'message': \"Failed to execute 'json' on 'Response': Unexpected end of JSON input\"}  \n\\`\\`\\`\n\n  \nPlease help.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1j8hrfq/openrouter_claudeapihandler_to_power_openwebui/",
+    "url_overridden_by_dest": null,
+    "created": "2025-03-10T20:34:18",
+    "author": "manwhosayswhoa",
+    "subreddit": "ClaudeAI",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null
+}

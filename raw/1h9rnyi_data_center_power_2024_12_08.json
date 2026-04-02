@@ -1,0 +1,15 @@
+{
+    "query_term": "data center power",
+    "title": "Data Centers:  If a Data Center has a power demand of 1 GW, what amount of that would be direct current?  Aren't all semiconductors fundamentally direct current (or a chopped current like square wave)?",
+    "id": "1h9rnyi",
+    "body": "I assume fans, motors, and the like would be 60 cycle AC, but could the power supply to the data center just be a DC battery?",
+    "url": "https://www.reddit.com/r/AskEngineers/comments/1h9rnyi/data_centers_if_a_data_center_has_a_power_demand/",
+    "url_overridden_by_dest": null,
+    "created": "2024-12-08T12:14:27",
+    "author": "bonzoboy2000",
+    "subreddit": "AskEngineers",
+    "num_comments": 95,
+    "ups": 3,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null
+}

@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude power",
+    "title": "[Discussion] Which LLMs power today's AI tools? OpenAI, Claude, or Something Else?",
+    "id": "1h5glqs",
+    "body": "Hi everyone, I\u2019m not very familiar with the technical side of machine learning, but I\u2019ve been fascinated by how AI is transforming tools we use every day, like **GitHub Copilot**, [**Beautiful.ai**](http://Beautiful.ai), and **Gamma.app**. It\u2019s incredible how they simplify our workflows, but it also makes me curious:\n\n1. Are most of these tools built on well-known models like **OpenAI\u2019s GPT-4** or **Claude**, or do companies prefer to develop **proprietary models** for their specific use cases?\n2. For instance, GitHub Copilot openly relies on OpenAI, but for tools like [**Beautiful.ai**](http://Beautiful.ai) and others, it\u2019s not as clear. Does anyone here know how these systems are structured under the hood?\n\nI\u2019d love to hear from those who are more knowledgeable:\n\n* What factors influence a company\u2019s decision to use external models versus building their own?\n* Do you see proprietary models gaining traction as a way for companies to differentiate their tools, or is it more practical to stick with APIs from major LLM providers?\n\nI know this is a nuanced topic, and I\u2019d really appreciate any insights you\u2019re willing to share. Thank you in advance for helping someone who\u2019s still learning the ropes\u2014your expertise means a lot! \ud83d\ude0a\n\nLooking forward to hearing your thoughts!",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1h5glqs/discussion_which_llms_power_todays_ai_tools/",
+    "url_overridden_by_dest": null,
+    "created": "2024-12-02T21:49:25",
+    "author": "Fit-Strawberry2879",
+    "subreddit": "MachineLearning",
+    "num_comments": 6,
+    "ups": 0,
+    "upvote_ratio": 0.3700000047683716,
+    "view_count": null
+}
