@@ -11,5 +11,11 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "comparing AI footprint to footprint of other methods"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "AI Power Use Set to Outpace Bitcoin Mining Soon",
     "id": "1l00wj8",
-    "body": "* AI models may soon use nearly half of data center electricity, rivaling national energy consumption.\n* Growing demand for AI chips strains US power grids, spurring new fossil fuel and nuclear projects.\n* Lack of transparency and regional power sources complicate accurate tracking of AI\u2019s emissions impact.\n\nSource - [https://critiqs.ai/ai-news/ai-power-use-set-to-outpace-bitcoin-mining-soon/](https://critiqs.ai/ai-news/ai-power-use-set-to-outpace-bitcoin-mining-soon/)",
+    "body": "* AI models may soon use nearly half of data center electricity, rivaling national energy consumption.\n* Growing demand for AI chips strains US power grids, spurring new fossil fuel and nuclear projects.\n* Lack of transparency and regional power sources complicate accurate tracking of AI’s emissions impact.\n\nSource - [https://critiqs.ai/ai-news/ai-power-use-set-to-outpace-bitcoin-mining-soon/](https://critiqs.ai/ai-news/ai-power-use-set-to-outpace-bitcoin-mining-soon/)",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l00wj8/ai_power_use_set_to_outpace_bitcoin_mining_soon/",
     "url_overridden_by_dest": null,
     "created": "2025-05-31T12:16:14",
@@ -11,5 +11,11 @@
     "num_comments": 33,
     "ups": 11,
     "upvote_ratio": 0.7599999904632568,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "m"
+    },
+    "relevance_reasoning": {
+        "julie": "information giving"
+    }
 }

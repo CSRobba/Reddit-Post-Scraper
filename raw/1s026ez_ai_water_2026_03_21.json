@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "How AI can waste water (even though you can\u2019t destroy water) #carterpcs #tech #techtok #ai",
+    "title": "How AI can waste water (even though you can’t destroy water) #carterpcs #tech #techtok #ai",
     "id": "1s026ez",
     "body": "[deleted]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

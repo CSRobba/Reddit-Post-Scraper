@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Brain Organoids as Living AI: A New Frontier in Biocomputing | Researchers created a hybrid computing system, \u201cBrainoware,\u201d that combines electronic hardware with human brain organoids to bridge the gap between human brain power and AI.",
+    "title": "Brain Organoids as Living AI: A New Frontier in Biocomputing | Researchers created a hybrid computing system, “Brainoware,” that combines electronic hardware with human brain organoids to bridge the gap between human brain power and AI.",
     "id": "1js7nvm",
     "body": "",
     "url": "https://www.pcrm.org/news/innovative-science/brain-organoids-living-ai-new-frontier-biocomputing",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 17,
     "upvote_ratio": 0.6399999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

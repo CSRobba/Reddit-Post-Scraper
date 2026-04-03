@@ -2,7 +2,7 @@
     "query_term": "data center power",
     "title": "Moving from Utility Power Engineer to Data Center, Need Advice",
     "id": "1q8f5rk",
-    "body": "Hi all,\nI\u2019m based in the UAE with 3 years of experience in a government utility company. My background is mainly in electrical power networks, including feeder pillars, 11kV substations, and reviewing/approving SLDs for buildings, villas, and industrial projects.\n\nI\u2019m interested in shifting into the data center industry as a Power/Electrical Engineer and wanted some advice.\n\nIs CDCP certification enough to get started, or are there other certifications I should look into? Also, what key skills or knowledge should I focus on (UPS, generators, Tier levels, redundancy, operations, etc)?\n\nAnd if anyone has recommendations for companies in the UAE or region that are good for entry-level or transitioning roles into data centers, I\u2019d really appreciate that as well.",
+    "body": "Hi all,\nI’m based in the UAE with 3 years of experience in a government utility company. My background is mainly in electrical power networks, including feeder pillars, 11kV substations, and reviewing/approving SLDs for buildings, villas, and industrial projects.\n\nI’m interested in shifting into the data center industry as a Power/Electrical Engineer and wanted some advice.\n\nIs CDCP certification enough to get started, or are there other certifications I should look into? Also, what key skills or knowledge should I focus on (UPS, generators, Tier levels, redundancy, operations, etc)?\n\nAnd if anyone has recommendations for companies in the UAE or region that are good for entry-level or transitioning roles into data centers, I’d really appreciate that as well.",
     "url": "https://www.reddit.com/r/datacenter/comments/1q8f5rk/moving_from_utility_power_engineer_to_data_center/",
     "url_overridden_by_dest": null,
     "created": "2026-01-09T09:52:22",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

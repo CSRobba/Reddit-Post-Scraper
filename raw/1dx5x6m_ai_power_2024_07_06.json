@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u201cAfter this revelation, Mulder leads the charge in trying to destroy the AI with a virus, but the Department of Defense remains obsessed with trying to secure this new power for themselves. \u201c",
+    "title": "“After this revelation, Mulder leads the charge in trying to destroy the AI with a virus, but the Department of Defense remains obsessed with trying to secure this new power for themselves. “",
     "id": "1dx5x6m",
     "body": "https://l.smartnews.com/p-RKYCV/579unG",
     "url": "https://i.redd.it/vrahvj34b0bd1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

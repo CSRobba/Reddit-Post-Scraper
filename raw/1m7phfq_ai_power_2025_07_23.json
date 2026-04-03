@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The Imbalance of Power in the AI Era: What We\u2019re Not Being Told",
+    "title": "The Imbalance of Power in the AI Era: What We’re Not Being Told",
     "id": "1m7phfq",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1m7phfq/the_imbalance_of_power_in_the_ai_era_what_were/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }
