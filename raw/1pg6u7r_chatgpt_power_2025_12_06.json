@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "I built a Chrome extension for ChatGPT power users. Power users aren't showing up \ud83d\ude05",
+    "title": "I built a Chrome extension for ChatGPT power users. Power users aren't showing up 😅",
     "id": "1pg6u7r",
-    "body": "This is my first product, I\u2019m building a chrome extension to solve a problem I kept running into: my ChatGPT and Claude chats get super long, and scrolling back to find the useful parts gets pretty annoying.\u00a0\n\nThe extension lets you bookmark messages, highlight key sections, and jump back to them instantly. I want to keep building it into something like a lightweight Raycast for AI chats.\n\nMy biggest struggle right now is getting users. I\u2019ve mostly posted on Reddit, but the response has been pretty much silence lol. Not sure if it\u2019s my messaging or if the problem just isn\u2019t that interesting or painful for people.\u00a0\n\nWhat are your best strategies for getting your first users? And does this idea seem genuinely useful to you? At what point do you know it\u2019s time to pull the plug?\n\nI\u2019d really appreciate any advice. Thanks!\n\n",
+    "body": "This is my first product, I’m building a chrome extension to solve a problem I kept running into: my ChatGPT and Claude chats get super long, and scrolling back to find the useful parts gets pretty annoying. \n\nThe extension lets you bookmark messages, highlight key sections, and jump back to them instantly. I want to keep building it into something like a lightweight Raycast for AI chats.\n\nMy biggest struggle right now is getting users. I’ve mostly posted on Reddit, but the response has been pretty much silence lol. Not sure if it’s my messaging or if the problem just isn’t that interesting or painful for people. \n\nWhat are your best strategies for getting your first users? And does this idea seem genuinely useful to you? At what point do you know it’s time to pull the plug?\n\nI’d really appreciate any advice. Thanks!\n\n",
     "url": "https://v.redd.it/kfwwh2mezo5g1",
     "url_overridden_by_dest": "https://v.redd.it/kfwwh2mezo5g1",
     "created": "2025-12-06T21:21:48",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

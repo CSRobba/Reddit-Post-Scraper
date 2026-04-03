@@ -2,7 +2,7 @@
     "query_term": "ChatGPT environment",
     "title": "Chat Completions GUI: Interact with ChatGPT similarly to OpenAI's Playground, but in your local desktop environment",
     "id": "12hgyto",
-    "body": "Hello! Some of you all may have a use for this.\n\n[Screenshot](https://raw.githubusercontent.com/MultitudeVR/ChatCompletionsGUI/main/chat_completions_gui.png)\n\nhttps://github.com/MultitudeVR/ChatCompletionsGUI\n\nThis is a simple desktop program that allows you to use OpenAI's Chat Completions. \n\nOne big perk it has over OpenAI's Playground is that you can save and load your conversations as plain text. You supply your own API key.\n\nFeatures\n\n* Interact with GPT-3.5-turbo and GPT-4 models\n* Easily add, edit, and delete chat messages\n* Save and load chat logs as plain text\n* Customizable system message and model selection\n* Customizable temperature and max response length\n* Compatible with Windows, Mac, Linux, and Android (via PyDroid)\n* Sliding context window for when the context buffer gets too large (and you can mark messages as 'important', meaning they're less likely to be culled)\n\nSome things I want to add or change:\n\n* Controls for top p, frequency penalty, and presence penalty\n* Support for Markdown\n* Support for local llm models as an option\n* Customizable font size/type\n\nAnything else you all would like to see? Please give me suggestions in the comments (or submit an issue / pull request on GitHub) \ud83d\ude0a",
+    "body": "Hello! Some of you all may have a use for this.\n\n[Screenshot](https://raw.githubusercontent.com/MultitudeVR/ChatCompletionsGUI/main/chat_completions_gui.png)\n\nhttps://github.com/MultitudeVR/ChatCompletionsGUI\n\nThis is a simple desktop program that allows you to use OpenAI's Chat Completions. \n\nOne big perk it has over OpenAI's Playground is that you can save and load your conversations as plain text. You supply your own API key.\n\nFeatures\n\n* Interact with GPT-3.5-turbo and GPT-4 models\n* Easily add, edit, and delete chat messages\n* Save and load chat logs as plain text\n* Customizable system message and model selection\n* Customizable temperature and max response length\n* Compatible with Windows, Mac, Linux, and Android (via PyDroid)\n* Sliding context window for when the context buffer gets too large (and you can mark messages as 'important', meaning they're less likely to be culled)\n\nSome things I want to add or change:\n\n* Controls for top p, frequency penalty, and presence penalty\n* Support for Markdown\n* Support for local llm models as an option\n* Customizable font size/type\n\nAnything else you all would like to see? Please give me suggestions in the comments (or submit an issue / pull request on GitHub) 😊",
     "url": "https://www.reddit.com/r/OpenAI/comments/12hgyto/chat_completions_gui_interact_with_chatgpt/",
     "url_overridden_by_dest": null,
     "created": "2023-04-10T08:12:51",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 5,
     "upvote_ratio": 0.699999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

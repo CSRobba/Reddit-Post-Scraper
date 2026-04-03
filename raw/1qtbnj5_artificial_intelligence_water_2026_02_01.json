@@ -2,7 +2,7 @@
     "query_term": "artificial intelligence water",
     "title": "Artificial intelligence with water usage",
     "id": "1qtbnj5",
-    "body": "Hello everyone I am quite new to this Reddit group and wanted to ask about the water usage with ai. The reason I say this is that when you search something up on google, there is a pop up from Gemini.\n\nNow before I ask the question I\u2019ve seen for every interaction with ai, a lot of water is used.\n\nSo I ask when i search something up does the Gemini pop up count as an interaction and uses water each time?\n\nI\u2019m sure there is an obvious answer to this but I\u2019m not sure.\n\nThankyou all.",
+    "body": "Hello everyone I am quite new to this Reddit group and wanted to ask about the water usage with ai. The reason I say this is that when you search something up on google, there is a pop up from Gemini.\n\nNow before I ask the question I’ve seen for every interaction with ai, a lot of water is used.\n\nSo I ask when i search something up does the Gemini pop up count as an interaction and uses water each time?\n\nI’m sure there is an obvious answer to this but I’m not sure.\n\nThankyou all.",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qtbnj5/artificial_intelligence_with_water_usage/",
     "url_overridden_by_dest": null,
     "created": "2026-02-01T16:39:07",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 0,
     "upvote_ratio": 0.17000000178813934,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

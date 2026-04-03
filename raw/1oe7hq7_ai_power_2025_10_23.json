@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Data centers turn to commercial aircraft jet engines bolted onto trailers as AI power crunch bites \u2014 cast-off turbines generate up to 48 MW of electricity apiece",
+    "title": "Data centers turn to commercial aircraft jet engines bolted onto trailers as AI power crunch bites — cast-off turbines generate up to 48 MW of electricity apiece",
     "id": "1oe7hq7",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
@@ -11,5 +11,8 @@
     "num_comments": 111,
     "ups": 290,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

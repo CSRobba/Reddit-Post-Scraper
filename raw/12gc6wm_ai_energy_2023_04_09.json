@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "How much energy does AI use? There is no way all this AI work being done by everyone and their mom is going to be cheap from a energy perspective.",
     "id": "12gc6wm",
-    "body": "Powering the training, and application of AI must be massively expensive relative to energy use. Something tells me that in the wide ranging conversation in and around AI, the questions related to AI energy consumption are being left out of the public discourse.\n\nPeople talk about the impacts on jobs, but perhaps a equally important question is the impact on our energy grid, and in a bigger sense sustainability. \n\nLet\u2019s start from the beginning: If I ask AI \u201care you self aware?\u201d or \u201ccan you generate a poem?\u201d then how much energy was consumed to compute such an answer. All I know is, If someone was to ask me to write them a poem, I would need to take a nap afterwords",
+    "body": "Powering the training, and application of AI must be massively expensive relative to energy use. Something tells me that in the wide ranging conversation in and around AI, the questions related to AI energy consumption are being left out of the public discourse.\n\nPeople talk about the impacts on jobs, but perhaps a equally important question is the impact on our energy grid, and in a bigger sense sustainability. \n\nLet’s start from the beginning: If I ask AI “are you self aware?” or “can you generate a poem?” then how much energy was consumed to compute such an answer. All I know is, If someone was to ask me to write them a poem, I would need to take a nap afterwords",
     "url": "https://www.reddit.com/r/artificial/comments/12gc6wm/how_much_energy_does_ai_use_there_is_no_way_all/",
     "url_overridden_by_dest": null,
     "created": "2023-04-09T03:24:40",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 0,
     "upvote_ratio": 0.30000001192092896,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "ChatGPT environment",
     "title": "Why is ChatGPT trying to connect to my IDE or environment.",
     "id": "1kuarqb",
-    "body": "Every few prompts it tries to \u201edo\u201c stuff for me until it realizes that it can\u2019t connect to my ISE and then gives me the script or SQL statement. Why is this happening? Could it directly access my IDE?",
+    "body": "Every few prompts it tries to „do“ stuff for me until it realizes that it can’t connect to my ISE and then gives me the script or SQL statement. Why is this happening? Could it directly access my IDE?",
     "url": "https://www.reddit.com/r/ChatGPTPro/comments/1kuarqb/why_is_chatgpt_trying_to_connect_to_my_ide_or/",
     "url_overridden_by_dest": null,
     "created": "2025-05-24T08:45:33",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

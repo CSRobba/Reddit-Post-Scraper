@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "\u201cVivaldi has stated that it will not add AI to its browser, citing concerns about accuracy, ethics, and the environment.\u201d -Lifewire ",
+    "title": "“Vivaldi has stated that it will not add AI to its browser, citing concerns about accuracy, ethics, and the environment.” -Lifewire ",
     "id": "1dwmjgv",
     "body": "https://l.smartnews.com/p-MKLhz/Yg6W9m",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1dwmjgv/vivaldi_has_stated_that_it_will_not_add_ai_to_its/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }
