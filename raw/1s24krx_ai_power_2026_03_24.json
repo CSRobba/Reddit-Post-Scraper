@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Elon Musk unveils $25B Terafab chip factory to power AI and space future",
     "id": "1s24krx",
-    "body": "Elon Musk just announced a $25 billion semiconductor project called Terafab, and it\u2019s more ambitious than it sounds at first.\n\nInstead of relying on existing chip suppliers, the plan is to build a vertically integrated system across Tesla, SpaceX, and xAI.\n\nThe goal is to produce AI chips for:\n\n\u2022 self-driving systems\n\n\u2022 robotics\n\n\u2022 large-scale AI infrastructure\n\nBut the interesting part is that some of these chips are being designed for use in space, which ties into the idea of orbital data centers.\n\nIf this actually works, it could reduce dependence on existing chip giants and give Musk\u2019s companies tighter control over their AI stack.\n\nStill feels like a massive execution challenge though, especially given how complex semiconductor manufacturing is.",
+    "body": "Elon Musk just announced a $25 billion semiconductor project called Terafab, and it’s more ambitious than it sounds at first.\n\nInstead of relying on existing chip suppliers, the plan is to build a vertically integrated system across Tesla, SpaceX, and xAI.\n\nThe goal is to produce AI chips for:\n\n• self-driving systems\n\n• robotics\n\n• large-scale AI infrastructure\n\nBut the interesting part is that some of these chips are being designed for use in space, which ties into the idea of orbital data centers.\n\nIf this actually works, it could reduce dependence on existing chip giants and give Musk’s companies tighter control over their AI stack.\n\nStill feels like a massive execution challenge though, especially given how complex semiconductor manufacturing is.",
     "url": "https://techputs.com/elon-musk-terafab-chip-project/",
     "url_overridden_by_dest": "https://techputs.com/elon-musk-terafab-chip-project/",
     "created": "2026-03-24T00:57:20",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

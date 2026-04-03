@@ -1,8 +1,8 @@
 {
     "query_term": "AI water",
-    "title": "Billie Eilish posting misinformation about AI water usage. It\u2019s 10mL per query (Medium) not an entire bottle.",
+    "title": "Billie Eilish posting misinformation about AI water usage. It’s 10mL per query (Medium) not an entire bottle.",
     "id": "1n0fqjj",
-    "body": "Source: https://medium.com/readers-club/chatgpt-water-usage-1a1167244a5a\n\n\u201cacademic research and independent studies suggest the real number could be closer to 10 milliliters per query, factoring in the full lifecycle of data center cooling and energy production.\u201d",
+    "body": "Source: https://medium.com/readers-club/chatgpt-water-usage-1a1167244a5a\n\n“academic research and independent studies suggest the real number could be closer to 10 milliliters per query, factoring in the full lifecycle of data center cooling and energy production.”",
     "url": "https://i.redd.it/83p3v1vrkblf1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/83p3v1vrkblf1.jpeg",
     "created": "2025-08-26T03:53:12",
@@ -11,5 +11,8 @@
     "num_comments": 49,
     "ups": 141,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

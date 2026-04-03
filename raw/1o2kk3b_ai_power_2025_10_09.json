@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "I made an AI-generated anthem for Power BI users",
     "id": "1o2kk3b",
-    "body": "Hopefully you enjoy this rant about how Power BI visualizes and organizes data much better than Excel \ud83d\ude01",
+    "body": "Hopefully you enjoy this rant about how Power BI visualizes and organizes data much better than Excel 😁",
     "url": "https://suno.com/s/gBjzom3WYvwhzL1z",
     "url_overridden_by_dest": "https://suno.com/s/gBjzom3WYvwhzL1z",
     "created": "2025-10-09T18:56:02",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.10000000149011612,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

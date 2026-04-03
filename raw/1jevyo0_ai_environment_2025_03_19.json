@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "AI \ud83e\udd16 helps the Environment",
+    "title": "AI 🤖 helps the Environment",
     "id": "1jevyo0",
     "body": "[removed]",
     "url": "https://v.redd.it/h3ydpzaj5npe1",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

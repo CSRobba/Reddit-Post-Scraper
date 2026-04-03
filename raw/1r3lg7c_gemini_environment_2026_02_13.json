@@ -1,8 +1,8 @@
 {
     "query_term": "Gemini environment",
-    "title": "Is Google working on a \"Cowork\" killer? \ud83d\ude80 Why I\u2019m ready to ditch Claude for a unified Gemini environment.",
+    "title": "Is Google working on a \"Cowork\" killer? 🚀 Why I’m ready to ditch Claude for a unified Gemini environment.",
     "id": "1r3lg7c",
-    "body": "Hey everyone,\n\nI\u2019m reaching a breaking point with the Claude/Anthropic customer experience. As someone scaling B2B growth systems, I need reliability. Lately, their latest models have been bugging out on my complex projects, and their support is non-existent. No answers, just \"radio silence\" while my workflows stall. I'm moving away ASAP.\n\nHowever, I actually like the *approach* of integrated workspaces (like what they tried with the recent Cowork launch). It\u2019s got me thinking: **When is Google DeepMind going to drop the hammer?**\n\nWith the **Gemini 3** rollout and the new **\"Personal Intelligence\"** beta features that just hit, it feels like we\u2019re days away from a truly unified app. I\u2019m looking for:\n\n* **Unified Chat & Code:** No more switching between IDEs and browser tabs.\n* **Deep Workspace Integration:** Gemini actually \"seeing\" across my Sheets, Docs, and Gmail to execute multi-step tasks (not just summarize them).\n* **The \"Cowork\" Equivalent:** A persistent agentic environment for long-term projects.\n\nHas anyone heard rumors about a dedicated **\"Gemini Desktop\"** or a standalone **\"Gemini Work\"** app that rivals the Cowork/Canvas flow? Given their lead in \"Personal Intelligence\" (connecting to Photos, Search, and Gmail), it feels like the logical next step.\n\nWould love to hear from anyone in the loop or anyone else who's jumped ship from Anthropic recently. What\u2019s your current \"Reliable\" stack for 2026?\n\nBest, Vincent",
+    "body": "Hey everyone,\n\nI’m reaching a breaking point with the Claude/Anthropic customer experience. As someone scaling B2B growth systems, I need reliability. Lately, their latest models have been bugging out on my complex projects, and their support is non-existent. No answers, just \"radio silence\" while my workflows stall. I'm moving away ASAP.\n\nHowever, I actually like the *approach* of integrated workspaces (like what they tried with the recent Cowork launch). It’s got me thinking: **When is Google DeepMind going to drop the hammer?**\n\nWith the **Gemini 3** rollout and the new **\"Personal Intelligence\"** beta features that just hit, it feels like we’re days away from a truly unified app. I’m looking for:\n\n* **Unified Chat & Code:** No more switching between IDEs and browser tabs.\n* **Deep Workspace Integration:** Gemini actually \"seeing\" across my Sheets, Docs, and Gmail to execute multi-step tasks (not just summarize them).\n* **The \"Cowork\" Equivalent:** A persistent agentic environment for long-term projects.\n\nHas anyone heard rumors about a dedicated **\"Gemini Desktop\"** or a standalone **\"Gemini Work\"** app that rivals the Cowork/Canvas flow? Given their lead in \"Personal Intelligence\" (connecting to Photos, Search, and Gmail), it feels like the logical next step.\n\nWould love to hear from anyone in the loop or anyone else who's jumped ship from Anthropic recently. What’s your current \"Reliable\" stack for 2026?\n\nBest, Vincent",
     "url": "https://www.reddit.com/r/GeminiAI/comments/1r3lg7c/is_google_working_on_a_cowork_killer_why_im_ready/",
     "url_overridden_by_dest": null,
     "created": "2026-02-13T02:09:55",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.36000001430511475,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }
