@@ -1,0 +1,15 @@
+{
+    "query_term": "AI power",
+    "title": "World\u2019s smallest AI supercomputer: Tiiny Ai pocket Lab\u2014 the size of a power bank. Palm-sized machine that runs a 120B parameter model locally.",
+    "id": "1ple6fb",
+    "body": "This just got verified by **Guinness World Records** as the smallest mini PC capable of running a 100B parameter model locally.\n\n**The Hardware Specs (Slide 2):**\n\n* **RAM:** 80 GB LPDDR5X (This is the bottleneck breaker for local LLMs).\n* **Compute:** 160 TOPS dNPU + 30 TOPS iNPU.\n* **Power:** ~30W TDP.\n* **Size:** 142mm x 80mm (Basically the size of a large power bank).\n\n**Performance Claims:**\n\n* Runs **GPT-OSS 120B** locally.\n* **Decoding Speed:** 20+ tokens/s.\n* **First Token Latency:** 0.5s.\n\n**Secret Sauce:** They aren't just brute-forcing it. They are using a new architecture called **\"TurboSparse\"** (dual-level sparsity) combined with **\"PowerInfer\"** to accelerate inference on heterogeneous devices. It effectively makes the model **4x sparser** than a standard MoE (Mixture of Experts) to fit on the portable SoC.\n\n\nWe are finally seeing hardware specifically designed for *inference* rather than just gaming GPUs. 80GB of RAM in a handheld form factor suggests we are getting closer to **\"AGI in a pocket.\"**\n",
+    "url": "https://www.reddit.com/gallery/1ple6fb",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1ple6fb",
+    "created": "2025-12-12T21:58:32",
+    "author": "BuildwithVignesh",
+    "subreddit": "singularity",
+    "num_comments": 86,
+    "ups": 498,
+    "upvote_ratio": 0.9399999976158142,
+    "view_count": null
+}

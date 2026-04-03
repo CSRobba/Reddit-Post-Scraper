@@ -61,226 +61,226 @@
 59,59,ChatGPT,2022-11-30,2023-11-30,Llama environment,1,0,1
 60,60,MachineLearning,2022-11-30,2023-11-30,Llama environment,2,1,2
 61,61,LocalLLaMA,2023-11-30,2024-11-29,Llama environment,2,0,2
-62,62,aiwars,2025-06-30,2026-03-01,Ai environment,53,43,-1
-63,63,explainlikeimfive,2023-11-30,2024-11-29,ChatGPT environment,1,0,-1
-64,64,technology,2023-11-30,2024-11-29,ChatGPT environment,1,0,-1
-65,65,science,2023-11-30,2024-11-29,ChatGPT environment,1,0,-1
-66,66,sustainability,2024-11-29,2025-11-29,ChatGPT environment,2,1,-1
-67,67,ChatGPT,2024-11-29,2025-11-29,ChatGPT environment,13,9,-1
-68,68,artificial,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-69,69,DefendingAIArt,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-70,70,singularity,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-71,71,GeminiAI,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-72,72,explainlikeimfive,2024-11-29,2025-11-29,ChatGPT environment,11,4,-1
-73,73,CharacterAI,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-74,74,aiwars,2024-11-29,2025-11-29,ChatGPT environment,3,0,-1
-75,75,climatechange,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-76,76,climate,2024-11-29,2025-11-29,ChatGPT environment,2,0,-1
-77,77,technology,2024-11-29,2025-11-29,ChatGPT environment,2,0,-1
-78,78,AskReddit,2024-11-29,2025-11-29,ChatGPT environment,3,0,-1
-79,79,environment,2024-11-29,2025-11-29,ChatGPT environment,1,0,-1
-80,80,ChatGPT,2022-11-30,2023-11-30,ChatGPT pollution,2,0,-1
-81,81,ArtificialInteligence,2022-11-30,2023-11-30,ChatGPT pollution,1,0,-1
-82,82,MachineLearning,2022-11-30,2023-11-30,ChatGPT pollution,6,3,-1
-83,83,ChatGPT,2024-11-29,2025-11-29,ChatGPT pollution,1,0,-1
-84,84,dataisbeautiful,2022-11-30,2023-11-30,ChatGPT energy,1,0,-1
-85,85,ChatGPT,2022-11-30,2023-11-30,ChatGPT energy,21,15,-1
-86,86,OpenAI,2022-11-30,2023-11-30,ChatGPT energy,1,0,-1
-87,87,ChatGPT,2023-11-30,2024-11-29,ChatGPT energy,19,12,-1
-88,88,singularity,2023-11-30,2024-11-29,ChatGPT energy,1,0,-1
-89,89,Futurology,2023-11-30,2024-11-29,ChatGPT energy,1,0,-1
-90,90,dataisbeautiful,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-91,91,ChatGPT,2024-11-29,2025-11-29,ChatGPT energy,31,18,-1
-92,92,NoStupidQuestions,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-93,93,OpenAI,2024-11-29,2025-11-29,ChatGPT energy,2,1,-1
-94,94,singularity,2024-11-29,2025-11-29,ChatGPT energy,3,0,-1
-95,95,learnmachinelearning,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-96,96,Futurology,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-97,97,energy,2024-11-29,2025-11-29,ChatGPT energy,3,0,-1
-98,98,antiai,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-99,99,CharacterAI,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-100,100,aiwars,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-101,101,climatechange,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-102,102,Ethics,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-103,103,climate,2024-11-29,2025-11-29,ChatGPT energy,2,0,-1
-104,104,technology,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-105,105,AskReddit,2024-11-29,2025-11-29,ChatGPT energy,2,0,-1
-106,106,science,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-107,107,environment,2024-11-29,2025-11-29,ChatGPT energy,1,0,-1
-108,108,theydidthemath,2024-11-29,2025-11-29,ChatGPT energy,4,3,-1
-109,109,sustainability,2025-11-29,2026-11-29,ChatGPT energy,3,2,-1
-110,110,nottheonion,2025-11-29,2026-11-29,ChatGPT energy,1,0,-1
-111,111,NoStupidQuestions,2025-11-29,2026-11-29,ChatGPT energy,3,2,-1
-112,112,Sustainable,2025-11-29,2026-11-29,ChatGPT energy,2,0,-1
-113,113,energy,2025-11-29,2026-11-29,ChatGPT energy,1,0,-1
-114,114,technology,2025-11-29,2026-11-29,ChatGPT energy,2,0,-1
-115,115,environment,2025-11-29,2026-11-29,ChatGPT energy,1,0,-1
-116,116,theydidthemath,2025-11-29,2026-11-29,ChatGPT energy,3,0,-1
-117,117,ChatGPT,2022-11-30,2023-11-30,ChatGPT carbon,2,0,-1
-118,118,artificial,2022-11-30,2023-11-30,ChatGPT carbon,1,0,-1
-119,119,MachineLearning,2022-11-30,2023-11-30,ChatGPT carbon,2,1,-1
-120,120,ChatGPT,2023-11-30,2024-11-29,ChatGPT carbon,3,2,-1
-121,121,climateskeptics,2023-11-30,2024-11-29,ChatGPT carbon,1,0,-1
-122,122,sustainability,2024-11-29,2025-11-29,ChatGPT carbon,2,0,-1
-123,123,dataisbeautiful,2024-11-29,2025-11-29,ChatGPT carbon,1,0,-1
-124,124,ChatGPT,2024-11-29,2025-11-29,ChatGPT carbon,8,5,-1
-125,125,technology,2024-11-29,2025-11-29,ChatGPT carbon,1,0,-1
-126,126,science,2024-11-29,2025-11-29,ChatGPT carbon,1,0,-1
-127,127,ChatGPT,2022-11-30,2023-11-30,ChatGPT electricity,5,2,-1
-128,128,AskEngineers,2022-11-30,2023-11-30,ChatGPT electricity,1,0,-1
-129,129,ChatGPT,2023-11-30,2024-11-29,ChatGPT electricity,4,3,-1
-130,130,ArtificialInteligence,2023-11-30,2024-11-29,ChatGPT electricity,1,0,-1
-131,131,ChatGPT,2024-11-29,2025-11-29,ChatGPT electricity,6,2,-1
-132,132,OpenAI,2024-11-29,2025-11-29,ChatGPT electricity,1,0,-1
-133,133,antiai,2024-11-29,2025-11-29,ChatGPT electricity,1,0,-1
-134,134,technology,2024-11-29,2025-11-29,ChatGPT electricity,1,0,-1
-135,135,theydidthemath,2024-11-29,2025-11-29,ChatGPT electricity,3,1,-1
-136,136,ChatGPT,2025-11-29,2026-11-29,ChatGPT electricity,2,1,-1
-137,137,Sustainable,2025-11-29,2026-11-29,ChatGPT electricity,1,0,-1
-138,138,energy,2025-11-29,2026-11-29,ChatGPT electricity,1,0,-1
-139,139,climate,2025-11-29,2026-11-29,ChatGPT electricity,1,0,-1
-140,140,environment,2025-11-29,2026-11-29,ChatGPT electricity,2,0,-1
-141,141,datascience,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-142,142,aiArt,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-143,143,worldnews,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-144,144,ChatGPTCoding,2022-11-30,2023-11-30,ChatGPT power,14,6,-1
-145,145,ChatGPT,2022-11-30,2023-11-30,ChatGPT power,100,58,-1
-146,146,ArtificialInteligence,2022-11-30,2023-11-30,ChatGPT power,20,17,-1
-147,147,NoStupidQuestions,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-148,148,OpenAI,2022-11-30,2023-11-30,ChatGPT power,25,13,-1
-149,149,artificial,2022-11-30,2023-11-30,ChatGPT power,11,7,-1
-150,150,SideProject,2022-11-30,2023-11-30,ChatGPT power,5,3,-1
-151,151,ChatGPTPromptGenius,2022-11-30,2023-11-30,ChatGPT power,10,6,-1
-152,152,singularity,2022-11-30,2023-11-30,ChatGPT power,6,2,-1
-153,153,ChatGPTPro,2022-11-30,2023-11-30,ChatGPT power,14,11,-1
-154,154,learnmachinelearning,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-155,155,Futurology,2022-11-30,2023-11-30,ChatGPT power,3,1,-1
-156,156,MachineLearning,2022-11-30,2023-11-30,ChatGPT power,4,1,-1
-157,157,conspiracy,2022-11-30,2023-11-30,ChatGPT power,4,2,-1
-158,158,CharacterAI,2022-11-30,2023-11-30,ChatGPT power,2,0,-1
-159,159,aiwars,2022-11-30,2023-11-30,ChatGPT power,1,0,-1
-160,160,technology,2022-11-30,2023-11-30,ChatGPT power,16,3,-1
-161,161,AskReddit,2022-11-30,2023-11-30,ChatGPT power,7,2,-1
-162,162,solarpunk,2022-11-30,2023-11-30,ChatGPT power,2,1,-1
-163,163,ChatGPTCoding,2023-11-30,2024-11-29,ChatGPT power,4,3,-1
-164,164,ChatGPT,2023-11-30,2024-11-29,ChatGPT power,52,29,-1
-165,165,OpenAI,2023-11-30,2024-11-29,ChatGPT power,6,4,-1
-166,166,artificial,2023-11-30,2024-11-29,ChatGPT power,3,1,-1
-167,167,singularity,2023-11-30,2024-11-29,ChatGPT power,2,1,-1
-168,168,ChatGPTPro,2023-11-30,2024-11-29,ChatGPT power,4,3,-1
-169,169,learnmachinelearning,2023-11-30,2024-11-29,ChatGPT power,1,0,-1
-170,170,martechnewser,2023-11-30,2024-11-29,ChatGPT power,1,0,-1
-171,171,Futurology,2023-11-30,2024-11-29,ChatGPT power,2,0,-1
-172,172,technology,2023-11-30,2024-11-29,ChatGPT power,3,0,-1
-173,173,AskReddit,2023-11-30,2024-11-29,ChatGPT power,4,0,-1
-174,174,generativeAI,2023-11-30,2024-11-29,ChatGPT power,2,0,-1
-175,175,nottheonion,2024-11-29,2025-11-29,ChatGPT power,14,3,-1
-176,176,ChatGPTCoding,2024-11-29,2025-11-29,ChatGPT power,7,5,-1
-177,177,ChatGPT,2024-11-29,2025-11-29,ChatGPT power,90,48,-1
-178,178,ArtificialInteligence,2024-11-29,2025-11-29,ChatGPT power,5,3,-1
-179,179,artificial,2024-11-29,2025-11-29,ChatGPT power,1,0,-1
-180,180,singularity,2024-11-29,2025-11-29,ChatGPT power,4,2,-1
-181,181,Futurology,2024-11-29,2025-11-29,AI power,35,16,-1
-182,182,GeminiAI,2024-11-29,2025-11-29,AI power,11,5,-1
-183,183,GoogleGeminiAI,2024-11-29,2025-11-29,AI power,5,1,-1
-184,184,MachineLearning,2024-11-29,2025-11-29,AI power,10,9,-1
-185,185,Sustainable,2024-11-29,2025-11-29,AI power,1,0,-1
-186,186,conspiracy,2024-11-29,2025-11-29,AI power,20,16,-1
-187,187,energy,2024-11-29,2025-11-29,AI power,46,9,-1
-188,188,AItoolsCatalog,2024-11-29,2025-11-29,AI power,8,6,-1
-189,189,Anticonsumption,2024-11-29,2025-11-29,AI power,1,0,-1
-190,190,datacenter,2024-11-29,2025-11-29,AI power,8,7,-1
-191,191,explainlikeimfive,2024-11-29,2025-11-29,AI power,13,10,-1
-192,192,antiai,2024-11-29,2025-11-29,AI power,21,9,-1
-193,193,CharacterAI,2024-11-29,2025-11-29,AI power,6,3,-1
-194,194,aiwars,2024-11-29,2025-11-29,AI power,29,16,-1
-195,195,Ai_art_is_not_art,2024-11-29,2025-11-29,AI power,1,0,-1
-196,196,climatechange,2024-11-29,2025-11-29,AI power,2,1,-1
-197,197,ollama,2024-11-29,2025-11-29,AI power,2,0,-1
-198,198,environmental_science,2024-11-29,2025-11-29,AI power,1,0,-1
-199,199,AIDangers,2024-11-29,2025-11-29,AI power,3,2,-1
-200,200,climate,2024-11-29,2025-11-29,AI power,21,0,-1
-201,201,Advice,2024-11-29,2025-11-29,AI power,4,3,-1
-202,202,ClimateOffensive,2024-11-29,2025-11-29,AI power,2,0,-1
-203,203,technology,2024-11-29,2025-11-29,AI power,100,3,-1
-204,204,AskReddit,2024-11-29,2025-11-29,AI power,48,2,-1
-205,205,science,2024-11-29,2025-11-29,AI power,5,0,-1
-206,206,environment,2024-11-29,2025-11-29,AI power,14,0,-1
-207,207,theydidthemath,2024-11-29,2025-11-29,AI power,1,0,-1
-208,208,StableDiffusion,2024-11-29,2025-11-29,AI power,6,3,-1
-209,209,solarpunk,2024-11-29,2025-11-29,AI power,4,2,-1
-210,210,sustainability,2025-11-29,2026-11-29,AI power,6,2,-1
-211,211,nottheonion,2025-11-29,2026-11-29,AI power,3,0,-1
-212,212,LLMDevs,2025-11-29,2026-11-29,AI power,1,0,-1
-213,213,aiArt,2025-11-29,2026-11-29,AI power,2,0,-1
-214,214,worldnews,2025-11-29,2026-11-29,AI power,10,1,-1
-215,215,BetterOffline,2025-11-29,2026-11-29,AI power,3,0,-1
-216,216,dataisbeautiful,2025-11-29,2026-11-29,AI power,8,5,-1
-217,217,ChatGPT,2025-11-29,2026-11-29,AI power,16,11,-1
-218,218,ArtificialInteligence,2025-11-29,2026-11-29,AI power,42,35,-1
-219,219,NoStupidQuestions,2025-11-29,2026-11-29,AI power,8,7,-1
-220,220,OpenAI,2025-11-29,2026-11-29,AI power,19,12,-1
-221,221,LocalLLaMA,2025-11-29,2026-11-29,AI power,9,8,-1
-222,222,artificial,2025-11-29,2026-11-29,AI power,20,12,-1
-223,223,ClaudeAI,2025-11-29,2026-11-29,AI power,4,2,-1
-224,224,SideProject,2025-11-29,2026-11-29,AI power,8,7,-1
-225,225,singularity,2025-11-29,2026-11-29,AI power,17,11,-1
-226,226,Futurology,2025-11-29,2026-11-29,AI power,22,12,-1
-227,227,GeminiAI,2025-11-29,2026-11-29,AI power,9,7,-1
-228,228,GoogleGeminiAI,2025-11-29,2026-11-29,AI power,6,2,-1
-229,229,Sustainable,2025-11-29,2026-11-29,AI power,3,2,-1
-230,230,conspiracy,2025-11-29,2026-11-29,AI power,9,5,-1
-231,231,energy,2025-11-29,2026-11-29,AI power,49,12,-1
-232,232,Anticonsumption,2025-11-29,2026-11-29,AI power,2,0,-1
-233,233,datacenter,2025-11-29,2026-11-29,AI power,8,3,-1
-234,234,antiai,2025-11-29,2026-11-29,AI power,19,12,-1
-235,235,CharacterAI,2025-11-29,2026-11-29,AI power,2,1,-1
-236,236,aiwars,2025-11-29,2026-11-29,AI power,19,8,-1
-237,237,climatechange,2025-11-29,2026-11-29,AI power,5,4,-1
-238,238,AIDangers,2025-11-29,2026-11-29,AI power,7,6,-1
-239,239,climate,2025-11-29,2026-11-29,AI power,15,1,-1
-240,240,technology,2025-11-29,2026-11-29,AI power,42,4,-1
-241,241,ShitAIBrosSay,2025-11-29,2026-11-29,AI power,1,0,-1
-242,242,AskReddit,2025-11-29,2026-11-29,AI power,20,0,-1
-243,243,science,2025-11-29,2026-11-29,AI power,3,0,-1
-244,244,environment,2025-11-29,2026-11-29,AI power,9,1,-1
-245,245,generativeAI,2025-11-29,2026-11-29,AI power,2,1,-1
-246,246,theydidthemath,2025-11-29,2026-11-29,AI power,4,3,-1
-247,247,ChatGPT,2022-11-30,2023-11-30,artificial intelligence water,2,0,-1
-248,248,OpenAI,2022-11-30,2023-11-30,artificial intelligence water,1,0,-1
-249,249,Futurology,2022-11-30,2023-11-30,artificial intelligence water,1,0,-1
-250,250,AItoolsCatalog,2022-11-30,2023-11-30,artificial intelligence water,1,0,-1
-251,251,technology,2022-11-30,2023-11-30,artificial intelligence water,1,0,-1
-252,252,ChatGPT,2023-11-30,2024-11-29,artificial intelligence water,1,0,-1
-253,253,artificial,2023-11-30,2024-11-29,artificial intelligence water,2,1,-1
-254,254,singularity,2023-11-30,2024-11-29,artificial intelligence water,1,0,-1
-255,255,Futurology,2023-11-30,2024-11-29,artificial intelligence water,2,1,-1
-256,256,climatechange,2023-11-30,2024-11-29,artificial intelligence water,1,0,-1
-257,257,technology,2023-11-30,2024-11-29,artificial intelligence water,1,0,-1
-258,258,worldnews,2024-11-29,2025-11-29,artificial intelligence water,1,0,-1
-259,259,explainlikeimfive,2024-11-29,2025-11-29,artificial intelligence water,1,0,-1
-260,260,technology,2024-11-29,2025-11-29,artificial intelligence water,2,0,-1
-261,261,environment,2024-11-29,2025-11-29,artificial intelligence water,2,0,-1
-262,262,science,2025-11-29,2026-11-29,artificial intelligence water,1,0,-1
-263,263,sustainability,2023-11-30,2024-11-29,artificial intelligence sustainable,1,0,-1
-264,264,technology,2023-11-30,2024-11-29,artificial intelligence sustainable,3,0,-1
-265,265,environment,2023-11-30,2024-11-29,artificial intelligence sustainable,2,0,-1
-266,266,energy,2024-11-29,2025-11-29,artificial intelligence sustainable,1,0,-1
-267,267,science,2024-11-29,2025-11-29,artificial intelligence sustainable,2,0,-1
-268,268,science,2025-11-29,2026-11-29,artificial intelligence sustainable,1,0,-1
-269,269,sustainability,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,-1
-270,270,ArtificialInteligence,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,-1
-271,271,climate,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,-1
-272,272,technology,2022-11-30,2023-11-30,artificial intelligence sustainability,2,0,-1
-273,273,AskReddit,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,-1
-274,274,environment,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,-1
-275,275,sustainability,2023-11-30,2024-11-29,artificial intelligence sustainability,1,0,-1
-276,276,sustainability,2025-11-29,2026-11-29,artificial intelligence sustainability,2,0,-1
-277,277,ArtificialInteligence,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1
-278,278,Futurology,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1
-279,279,Sustainable,2025-11-29,2026-11-29,artificial intelligence sustainability,2,0,-1
-280,280,energy,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1
-281,281,environmental_science,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1
+62,62,aiwars,2025-06-30,2026-03-01,Ai environment,53,43,53
+63,63,explainlikeimfive,2023-11-30,2024-11-29,ChatGPT environment,1,0,1
+64,64,technology,2023-11-30,2024-11-29,ChatGPT environment,1,0,1
+65,65,science,2023-11-30,2024-11-29,ChatGPT environment,1,0,1
+66,66,sustainability,2024-11-29,2025-11-29,ChatGPT environment,2,1,2
+67,67,ChatGPT,2024-11-29,2025-11-29,ChatGPT environment,13,9,13
+68,68,artificial,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+69,69,DefendingAIArt,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+70,70,singularity,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+71,71,GeminiAI,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+72,72,explainlikeimfive,2024-11-29,2025-11-29,ChatGPT environment,11,4,9
+73,73,CharacterAI,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+74,74,aiwars,2024-11-29,2025-11-29,ChatGPT environment,3,0,3
+75,75,climatechange,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+76,76,climate,2024-11-29,2025-11-29,ChatGPT environment,2,0,2
+77,77,technology,2024-11-29,2025-11-29,ChatGPT environment,2,0,2
+78,78,AskReddit,2024-11-29,2025-11-29,ChatGPT environment,3,0,3
+79,79,environment,2024-11-29,2025-11-29,ChatGPT environment,1,0,1
+80,80,ChatGPT,2022-11-30,2023-11-30,ChatGPT pollution,2,0,2
+81,81,ArtificialInteligence,2022-11-30,2023-11-30,ChatGPT pollution,1,0,1
+82,82,MachineLearning,2022-11-30,2023-11-30,ChatGPT pollution,6,3,6
+83,83,ChatGPT,2024-11-29,2025-11-29,ChatGPT pollution,1,0,1
+84,84,dataisbeautiful,2022-11-30,2023-11-30,ChatGPT energy,1,0,1
+85,85,ChatGPT,2022-11-30,2023-11-30,ChatGPT energy,21,15,21
+86,86,OpenAI,2022-11-30,2023-11-30,ChatGPT energy,1,0,1
+87,87,ChatGPT,2023-11-30,2024-11-29,ChatGPT energy,19,12,19
+88,88,singularity,2023-11-30,2024-11-29,ChatGPT energy,1,0,1
+89,89,Futurology,2023-11-30,2024-11-29,ChatGPT energy,1,0,1
+90,90,dataisbeautiful,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+91,91,ChatGPT,2024-11-29,2025-11-29,ChatGPT energy,31,18,31
+92,92,NoStupidQuestions,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+93,93,OpenAI,2024-11-29,2025-11-29,ChatGPT energy,2,1,2
+94,94,singularity,2024-11-29,2025-11-29,ChatGPT energy,3,0,3
+95,95,learnmachinelearning,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+96,96,Futurology,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+97,97,energy,2024-11-29,2025-11-29,ChatGPT energy,3,0,3
+98,98,antiai,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+99,99,CharacterAI,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+100,100,aiwars,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+101,101,climatechange,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+102,102,Ethics,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+103,103,climate,2024-11-29,2025-11-29,ChatGPT energy,2,0,2
+104,104,technology,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+105,105,AskReddit,2024-11-29,2025-11-29,ChatGPT energy,2,0,2
+106,106,science,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+107,107,environment,2024-11-29,2025-11-29,ChatGPT energy,1,0,1
+108,108,theydidthemath,2024-11-29,2025-11-29,ChatGPT energy,4,3,4
+109,109,sustainability,2025-11-29,2026-11-29,ChatGPT energy,3,2,3
+110,110,nottheonion,2025-11-29,2026-11-29,ChatGPT energy,1,0,1
+111,111,NoStupidQuestions,2025-11-29,2026-11-29,ChatGPT energy,3,2,3
+112,112,Sustainable,2025-11-29,2026-11-29,ChatGPT energy,2,0,2
+113,113,energy,2025-11-29,2026-11-29,ChatGPT energy,1,0,1
+114,114,technology,2025-11-29,2026-11-29,ChatGPT energy,2,0,2
+115,115,environment,2025-11-29,2026-11-29,ChatGPT energy,1,0,1
+116,116,theydidthemath,2025-11-29,2026-11-29,ChatGPT energy,3,0,3
+117,117,ChatGPT,2022-11-30,2023-11-30,ChatGPT carbon,2,0,2
+118,118,artificial,2022-11-30,2023-11-30,ChatGPT carbon,1,0,1
+119,119,MachineLearning,2022-11-30,2023-11-30,ChatGPT carbon,2,1,2
+120,120,ChatGPT,2023-11-30,2024-11-29,ChatGPT carbon,3,2,3
+121,121,climateskeptics,2023-11-30,2024-11-29,ChatGPT carbon,1,0,1
+122,122,sustainability,2024-11-29,2025-11-29,ChatGPT carbon,2,0,2
+123,123,dataisbeautiful,2024-11-29,2025-11-29,ChatGPT carbon,1,0,1
+124,124,ChatGPT,2024-11-29,2025-11-29,ChatGPT carbon,8,5,7
+125,125,technology,2024-11-29,2025-11-29,ChatGPT carbon,1,0,1
+126,126,science,2024-11-29,2025-11-29,ChatGPT carbon,1,0,1
+127,127,ChatGPT,2022-11-30,2023-11-30,ChatGPT electricity,5,2,5
+128,128,AskEngineers,2022-11-30,2023-11-30,ChatGPT electricity,1,0,1
+129,129,ChatGPT,2023-11-30,2024-11-29,ChatGPT electricity,4,3,4
+130,130,ArtificialInteligence,2023-11-30,2024-11-29,ChatGPT electricity,1,0,1
+131,131,ChatGPT,2024-11-29,2025-11-29,ChatGPT electricity,6,2,6
+132,132,OpenAI,2024-11-29,2025-11-29,ChatGPT electricity,1,0,1
+133,133,antiai,2024-11-29,2025-11-29,ChatGPT electricity,1,0,1
+134,134,technology,2024-11-29,2025-11-29,ChatGPT electricity,1,0,1
+135,135,theydidthemath,2024-11-29,2025-11-29,ChatGPT electricity,3,1,3
+136,136,ChatGPT,2025-11-29,2026-11-29,ChatGPT electricity,2,1,2
+137,137,Sustainable,2025-11-29,2026-11-29,ChatGPT electricity,1,0,1
+138,138,energy,2025-11-29,2026-11-29,ChatGPT electricity,1,0,1
+139,139,climate,2025-11-29,2026-11-29,ChatGPT electricity,1,0,1
+140,140,environment,2025-11-29,2026-11-29,ChatGPT electricity,2,0,2
+141,141,datascience,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+142,142,aiArt,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+143,143,worldnews,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+144,144,ChatGPTCoding,2022-11-30,2023-11-30,ChatGPT power,14,6,14
+145,145,ChatGPT,2022-11-30,2023-11-30,ChatGPT power,100,58,100
+146,146,ArtificialInteligence,2022-11-30,2023-11-30,ChatGPT power,20,17,20
+147,147,NoStupidQuestions,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+148,148,OpenAI,2022-11-30,2023-11-30,ChatGPT power,25,13,25
+149,149,artificial,2022-11-30,2023-11-30,ChatGPT power,11,7,11
+150,150,SideProject,2022-11-30,2023-11-30,ChatGPT power,5,3,5
+151,151,ChatGPTPromptGenius,2022-11-30,2023-11-30,ChatGPT power,10,6,10
+152,152,singularity,2022-11-30,2023-11-30,ChatGPT power,6,2,6
+153,153,ChatGPTPro,2022-11-30,2023-11-30,ChatGPT power,14,11,14
+154,154,learnmachinelearning,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+155,155,Futurology,2022-11-30,2023-11-30,ChatGPT power,3,1,3
+156,156,MachineLearning,2022-11-30,2023-11-30,ChatGPT power,4,1,4
+157,157,conspiracy,2022-11-30,2023-11-30,ChatGPT power,4,2,4
+158,158,CharacterAI,2022-11-30,2023-11-30,ChatGPT power,2,0,2
+159,159,aiwars,2022-11-30,2023-11-30,ChatGPT power,1,0,1
+160,160,technology,2022-11-30,2023-11-30,ChatGPT power,16,3,15
+161,161,AskReddit,2022-11-30,2023-11-30,ChatGPT power,7,2,7
+162,162,solarpunk,2022-11-30,2023-11-30,ChatGPT power,2,1,2
+163,163,ChatGPTCoding,2023-11-30,2024-11-29,ChatGPT power,4,3,4
+164,164,ChatGPT,2023-11-30,2024-11-29,ChatGPT power,52,29,52
+165,165,OpenAI,2023-11-30,2024-11-29,ChatGPT power,6,4,6
+166,166,artificial,2023-11-30,2024-11-29,ChatGPT power,3,1,3
+167,167,singularity,2023-11-30,2024-11-29,ChatGPT power,2,1,2
+168,168,ChatGPTPro,2023-11-30,2024-11-29,ChatGPT power,4,3,4
+169,169,learnmachinelearning,2023-11-30,2024-11-29,ChatGPT power,1,0,1
+170,170,martechnewser,2023-11-30,2024-11-29,ChatGPT power,1,0,1
+171,171,Futurology,2023-11-30,2024-11-29,ChatGPT power,2,0,2
+172,172,technology,2023-11-30,2024-11-29,ChatGPT power,3,0,3
+173,173,AskReddit,2023-11-30,2024-11-29,ChatGPT power,4,0,4
+174,174,generativeAI,2023-11-30,2024-11-29,ChatGPT power,2,0,2
+175,175,nottheonion,2024-11-29,2025-11-29,ChatGPT power,14,3,14
+176,176,ChatGPTCoding,2024-11-29,2025-11-29,ChatGPT power,7,5,7
+177,177,ChatGPT,2024-11-29,2025-11-29,ChatGPT power,90,48,90
+178,178,ArtificialInteligence,2024-11-29,2025-11-29,ChatGPT power,5,3,5
+179,179,artificial,2024-11-29,2025-11-29,ChatGPT power,1,0,1
+180,180,singularity,2024-11-29,2025-11-29,ChatGPT power,4,2,4
+181,181,Futurology,2024-11-29,2025-11-29,AI power,35,16,34
+182,182,GeminiAI,2024-11-29,2025-11-29,AI power,11,5,11
+183,183,GoogleGeminiAI,2024-11-29,2025-11-29,AI power,5,1,5
+184,184,MachineLearning,2024-11-29,2025-11-29,AI power,10,9,10
+185,185,Sustainable,2024-11-29,2025-11-29,AI power,1,0,1
+186,186,conspiracy,2024-11-29,2025-11-29,AI power,20,16,20
+187,187,energy,2024-11-29,2025-11-29,AI power,46,9,46
+188,188,AItoolsCatalog,2024-11-29,2025-11-29,AI power,8,6,7
+189,189,Anticonsumption,2024-11-29,2025-11-29,AI power,1,0,1
+190,190,datacenter,2024-11-29,2025-11-29,AI power,8,7,8
+191,191,explainlikeimfive,2024-11-29,2025-11-29,AI power,13,10,13
+192,192,antiai,2024-11-29,2025-11-29,AI power,21,9,21
+193,193,CharacterAI,2024-11-29,2025-11-29,AI power,6,3,6
+194,194,aiwars,2024-11-29,2025-11-29,AI power,29,16,28
+195,195,Ai_art_is_not_art,2024-11-29,2025-11-29,AI power,1,0,1
+196,196,climatechange,2024-11-29,2025-11-29,AI power,2,1,2
+197,197,ollama,2024-11-29,2025-11-29,AI power,2,0,2
+198,198,environmental_science,2024-11-29,2025-11-29,AI power,1,0,1
+199,199,AIDangers,2024-11-29,2025-11-29,AI power,3,2,3
+200,200,climate,2024-11-29,2025-11-29,AI power,21,0,21
+201,201,Advice,2024-11-29,2025-11-29,AI power,4,3,4
+202,202,ClimateOffensive,2024-11-29,2025-11-29,AI power,2,0,2
+203,203,technology,2024-11-29,2025-11-29,AI power,100,3,99
+204,204,AskReddit,2024-11-29,2025-11-29,AI power,48,2,48
+205,205,science,2024-11-29,2025-11-29,AI power,5,0,4
+206,206,environment,2024-11-29,2025-11-29,AI power,14,0,14
+207,207,theydidthemath,2024-11-29,2025-11-29,AI power,1,0,1
+208,208,StableDiffusion,2024-11-29,2025-11-29,AI power,6,3,6
+209,209,solarpunk,2024-11-29,2025-11-29,AI power,4,2,4
+210,210,sustainability,2025-11-29,2026-11-29,AI power,6,2,6
+211,211,nottheonion,2025-11-29,2026-11-29,AI power,3,0,3
+212,212,LLMDevs,2025-11-29,2026-11-29,AI power,1,0,1
+213,213,aiArt,2025-11-29,2026-11-29,AI power,2,0,1
+214,214,worldnews,2025-11-29,2026-11-29,AI power,10,1,10
+215,215,BetterOffline,2025-11-29,2026-11-29,AI power,3,0,3
+216,216,dataisbeautiful,2025-11-29,2026-11-29,AI power,8,5,9
+217,217,ChatGPT,2025-11-29,2026-11-29,AI power,16,11,16
+218,218,ArtificialInteligence,2025-11-29,2026-11-29,AI power,42,35,43
+219,219,NoStupidQuestions,2025-11-29,2026-11-29,AI power,8,7,8
+220,220,OpenAI,2025-11-29,2026-11-29,AI power,19,12,16
+221,221,LocalLLaMA,2025-11-29,2026-11-29,AI power,9,8,10
+222,222,artificial,2025-11-29,2026-11-29,AI power,20,12,20
+223,223,ClaudeAI,2025-11-29,2026-11-29,AI power,4,2,4
+224,224,SideProject,2025-11-29,2026-11-29,AI power,8,7,8
+225,225,singularity,2025-11-29,2026-11-29,AI power,17,11,19
+226,226,Futurology,2025-11-29,2026-11-29,AI power,22,12,22
+227,227,GeminiAI,2025-11-29,2026-11-29,AI power,9,7,9
+228,228,GoogleGeminiAI,2025-11-29,2026-11-29,AI power,6,2,6
+229,229,Sustainable,2025-11-29,2026-11-29,AI power,3,2,3
+230,230,conspiracy,2025-11-29,2026-11-29,AI power,9,5,9
+231,231,energy,2025-11-29,2026-11-29,AI power,49,12,50
+232,232,Anticonsumption,2025-11-29,2026-11-29,AI power,2,0,2
+233,233,datacenter,2025-11-29,2026-11-29,AI power,8,3,8
+234,234,antiai,2025-11-29,2026-11-29,AI power,19,12,21
+235,235,CharacterAI,2025-11-29,2026-11-29,AI power,2,1,2
+236,236,aiwars,2025-11-29,2026-11-29,AI power,19,8,22
+237,237,climatechange,2025-11-29,2026-11-29,AI power,5,4,5
+238,238,AIDangers,2025-11-29,2026-11-29,AI power,7,6,7
+239,239,climate,2025-11-29,2026-11-29,AI power,15,1,16
+240,240,technology,2025-11-29,2026-11-29,AI power,42,4,41
+241,241,ShitAIBrosSay,2025-11-29,2026-11-29,AI power,1,0,1
+242,242,AskReddit,2025-11-29,2026-11-29,AI power,20,0,21
+243,243,science,2025-11-29,2026-11-29,AI power,3,0,3
+244,244,environment,2025-11-29,2026-11-29,AI power,9,1,10
+245,245,generativeAI,2025-11-29,2026-11-29,AI power,2,1,2
+246,246,theydidthemath,2025-11-29,2026-11-29,AI power,4,3,3
+247,247,ChatGPT,2022-11-30,2023-11-30,artificial intelligence water,2,0,2
+248,248,OpenAI,2022-11-30,2023-11-30,artificial intelligence water,1,0,1
+249,249,Futurology,2022-11-30,2023-11-30,artificial intelligence water,1,0,1
+250,250,AItoolsCatalog,2022-11-30,2023-11-30,artificial intelligence water,1,0,1
+251,251,technology,2022-11-30,2023-11-30,artificial intelligence water,1,0,1
+252,252,ChatGPT,2023-11-30,2024-11-29,artificial intelligence water,1,0,1
+253,253,artificial,2023-11-30,2024-11-29,artificial intelligence water,2,1,2
+254,254,singularity,2023-11-30,2024-11-29,artificial intelligence water,1,0,1
+255,255,Futurology,2023-11-30,2024-11-29,artificial intelligence water,2,1,2
+256,256,climatechange,2023-11-30,2024-11-29,artificial intelligence water,1,0,1
+257,257,technology,2023-11-30,2024-11-29,artificial intelligence water,1,0,1
+258,258,worldnews,2024-11-29,2025-11-29,artificial intelligence water,1,0,1
+259,259,explainlikeimfive,2024-11-29,2025-11-29,artificial intelligence water,1,0,1
+260,260,technology,2024-11-29,2025-11-29,artificial intelligence water,2,0,2
+261,261,environment,2024-11-29,2025-11-29,artificial intelligence water,2,0,2
+262,262,science,2025-11-29,2026-11-29,artificial intelligence water,1,0,1
+263,263,sustainability,2023-11-30,2024-11-29,artificial intelligence sustainable,1,0,1
+264,264,technology,2023-11-30,2024-11-29,artificial intelligence sustainable,3,0,3
+265,265,environment,2023-11-30,2024-11-29,artificial intelligence sustainable,2,0,2
+266,266,energy,2024-11-29,2025-11-29,artificial intelligence sustainable,1,0,1
+267,267,science,2024-11-29,2025-11-29,artificial intelligence sustainable,2,0,2
+268,268,science,2025-11-29,2026-11-29,artificial intelligence sustainable,1,0,1
+269,269,sustainability,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,1
+270,270,ArtificialInteligence,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,1
+271,271,climate,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,1
+272,272,technology,2022-11-30,2023-11-30,artificial intelligence sustainability,2,0,2
+273,273,AskReddit,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,1
+274,274,environment,2022-11-30,2023-11-30,artificial intelligence sustainability,1,0,1
+275,275,sustainability,2023-11-30,2024-11-29,artificial intelligence sustainability,1,0,1
+276,276,sustainability,2025-11-29,2026-11-29,artificial intelligence sustainability,2,0,2
+277,277,ArtificialInteligence,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,1
+278,278,Futurology,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,1
+279,279,Sustainable,2025-11-29,2026-11-29,artificial intelligence sustainability,2,0,2
+280,280,energy,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,1
+281,281,environmental_science,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,1
 282,282,climate,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1
 283,283,technology,2025-11-29,2026-11-29,artificial intelligence sustainability,3,0,-1
 284,284,science,2025-11-29,2026-11-29,artificial intelligence sustainability,1,0,-1

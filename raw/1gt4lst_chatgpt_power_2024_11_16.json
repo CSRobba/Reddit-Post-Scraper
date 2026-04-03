@@ -5,14 +5,11 @@
     "body": "One thing that has interested me is the idea of giving chatgpt or really any LLM the ability to do things other than just chat. One of the things that keeps crossing my mind is what if I wrote some code that executed whatever commands on a computer it felt like running and reported the output back? What if I wrote some code to give it control of the mouse and keyboard and provide it screen shots and ask it to move the mouse and type on the keyboard?\n\n\nI'm really interested in the concept of letting it do things and take actions beyond just answering questions. As a basic example wouldn't it be cool if there was a program backed by chatgpt or other LLMs that you could just ask it to do \"computer things\" and it would do them for you? Imagine if you could just type into the terminal \"setup a desktop and a python development environment for me with the latest version, create a skeleton project called foobar that has some basic code to scrape data from site XYZ\" and it would just do it!\n\nHave any of you done anytjing like this before? Of so how did it go? Are there any cool open source projects that are doing things like this?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1gt4lst/giving_chatgpt_the_power_to_take_actions/",
     "url_overridden_by_dest": null,
-    "created": "2024-11-16T22:28:20",
+    "created": "2024-11-16T19:28:20",
     "author": "rpg36",
     "subreddit": "ChatGPT",
     "num_comments": 9,
     "ups": 1,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

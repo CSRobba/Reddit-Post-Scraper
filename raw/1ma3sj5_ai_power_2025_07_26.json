@@ -5,7 +5,7 @@
     "body": "So with lossless scaling, instead of having to render every frame to get a specific fps, you can just generate frames so less rendering has to be done. This is more power efficient for the same fps so you can place an fps cap of 30.",
     "url": "https://www.reddit.com/r/aiwars/comments/1ma3sj5/instance_of_ai_reducing_power_usage/",
     "url_overridden_by_dest": null,
-    "created": "2025-07-26T16:43:19",
+    "created": "2025-07-26T13:43:19",
     "author": "Capital_Pension5814",
     "subreddit": "aiwars",
     "num_comments": 0,

@@ -5,7 +5,7 @@
     "body": "The Problem: \nMost \"Read Later\" apps are just graveyards. We save links, feel guilty, and never look at them again.\nThe Solution: \nI built Readie to triage content before it piles up.\nThe Workflow (See Video):\n1. Share to App + Instant Extraction;\n2. 5-Second Summary: LLM generates a structured brief immediately.\n3.The Triage: Decide in seconds\u2014Delete (got the gist) or Dive In (actually worth the time).\n\nNext step:\nMy next step is to let the AI to build your knowledge web which connecs the articles you read. Do you think this is worthy?\n\nWhy I'm posting:\nMy first time on mobile app. I\u2019m at the MVP stage and want to build what people actually need. Does this \"Triage\" flow solve the \"link guilt\" for you?",
     "url": "https://v.redd.it/9vq2y4ywfhjg1",
     "url_overridden_by_dest": "https://v.redd.it/9vq2y4ywfhjg1",
-    "created": "2026-02-14T10:57:15",
+    "created": "2026-02-14T07:57:15",
     "author": "StatusIndividual4007",
     "subreddit": "SideProject",
     "num_comments": 2,

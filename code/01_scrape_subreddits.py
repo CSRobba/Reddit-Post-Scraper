@@ -43,7 +43,7 @@ def process_request(data, params, logger):
         title = post.get('title', '')
         body = post.get('selftext', '')
         
-        if util.is_english(post.get('title', '')): #and len(body) > 5:
+        if util.is_english(post.get('title', '')): # Note: I had a condition **len(post.get('selftext', '')) > 5)** where I removed posts with short bodies. However, if we are interested in discourse analysis, then even posts with relevant titles, and their comments, should count. 
             post_id = post.get('id')
             
             result = {

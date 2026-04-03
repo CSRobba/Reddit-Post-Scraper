@@ -5,7 +5,7 @@
     "body": "I'm conducting some research in this area. It seems like some software solutions have been implemented to address the large power fluctuations (e.g. scheduler, dummy load), but no good solution exists especially for the rapid load drops. On the hardware side, BESS designed for the grid seems way too expensive for load smoothing.\n\nI read some reports from SemiAnalysis and Google, but it's not clear to me how difficult this problem is.\n\nIs this something that can be effectively addressed with the currently available technology?",
     "url": "https://www.reddit.com/r/datacenter/comments/1m0bt78/large_power_fluctuations_in_ai_data_centers_how/",
     "url_overridden_by_dest": null,
-    "created": "2025-07-15T03:54:16",
+    "created": "2025-07-15T00:54:16",
     "author": "brodds_c",
     "subreddit": "datacenter",
     "num_comments": 5,

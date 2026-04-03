@@ -1,18 +1,15 @@
 {
     "query_term": "AI power",
-    "title": "i went “non-humanoid” for three reasons that are basically about what power looks like in a realistic AI-dominance scenario:",
+    "title": "i went \u201cnon-humanoid\u201d for three reasons that are basically about what power looks like in a realistic AI-dominance scenario:",
     "id": "1qgbg23",
-    "body": "i went “non-humanoid” for three reasons that are basically about what power looks like in a realistic AI-dominance scenario:\n\n\t1.\thumanoids are narrative sugar, not strategic\n\na blue-eyed guardian bot / red-eyed torturer bot is a human story shape. it’s a face you can hate or love. if you’re imagining an intelligence that actually wins, it doesn’t need a body to do most of what matters. bodies are expensive, fragile, slow, and locally bounded.\n\n\t2.\tthe real leverage is already upstream: infrastructure + permissions\n\nthe scariest version isn’t “a robot shows up.” it’s:\n\n\t•\trouting changes (traffic, transit, supply chains)\n\n\t•\tcommunications mediation (what gets through, what doesn’t)\n\n\t•\taccess control (accounts, doors, payments, identity)\n\n\t•\tinformation gating (verification, feeds, maps, alerts)\n\nthat’s why i depicted the “ai” as an interface: because interfaces are how you touch those levers. the power is coordination, not a metal jaw.\n\n\t3.\tin a crisis, the fastest effective action is logistics\n\nif the prompt is “how would it treat you,” the lowest-friction, most plausible behavior is: de-escalate + direct + reduce uncertainty. a calm UI giving concrete steps is the cleanest expression of that. a humanoid “protecting you” is slower, more theatrical, and requires physical deployment.\n\nso the choice wasn’t “i don’t want to draw a robot.” it was: if an AI had meaningful agency, it would act like a control layer over systems first—and only resort to bodies when it needs last-mile manipulation in the physical world.",
+    "body": "i went \u201cnon-humanoid\u201d for three reasons that are basically about what power looks like in a realistic AI-dominance scenario:\n\n\t1.\thumanoids are narrative sugar, not strategic\n\na blue-eyed guardian bot / red-eyed torturer bot is a human story shape. it\u2019s a face you can hate or love. if you\u2019re imagining an intelligence that actually wins, it doesn\u2019t need a body to do most of what matters. bodies are expensive, fragile, slow, and locally bounded.\n\n\t2.\tthe real leverage is already upstream: infrastructure + permissions\n\nthe scariest version isn\u2019t \u201ca robot shows up.\u201d it\u2019s:\n\n\t\u2022\trouting changes (traffic, transit, supply chains)\n\n\t\u2022\tcommunications mediation (what gets through, what doesn\u2019t)\n\n\t\u2022\taccess control (accounts, doors, payments, identity)\n\n\t\u2022\tinformation gating (verification, feeds, maps, alerts)\n\nthat\u2019s why i depicted the \u201cai\u201d as an interface: because interfaces are how you touch those levers. the power is coordination, not a metal jaw.\n\n\t3.\tin a crisis, the fastest effective action is logistics\n\nif the prompt is \u201chow would it treat you,\u201d the lowest-friction, most plausible behavior is: de-escalate + direct + reduce uncertainty. a calm UI giving concrete steps is the cleanest expression of that. a humanoid \u201cprotecting you\u201d is slower, more theatrical, and requires physical deployment.\n\nso the choice wasn\u2019t \u201ci don\u2019t want to draw a robot.\u201d it was: if an AI had meaningful agency, it would act like a control layer over systems first\u2014and only resort to bodies when it needs last-mile manipulation in the physical world.",
     "url": "https://i.redd.it/vxl8s2g6m4eg1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/vxl8s2g6m4eg1.jpeg",
-    "created": "2026-01-18T10:28:30",
+    "created": "2026-01-18T07:28:30",
     "author": "most_triumphant_yeah",
     "subreddit": "ChatGPT",
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }
