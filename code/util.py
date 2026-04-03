@@ -168,7 +168,7 @@ def run_arcticpush_query(row, base_url, process_request, logger):
    params = {
      'subreddit': subreddit,
      # include this tag if we want to only search in the title of the post
-     'title': f"{row['ai']} {row['env']}",
+     'title': f"{row['query_term']}", #f"{row['ai']} {row['env']}",
      # include this tag if we want to only search in both title and body of the post
      # 'query': f"{row['ai']} {row['env']}",
      'after': after,
