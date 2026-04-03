@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI says U.S. needs more power to stay ahead of China in AI: \u2018Electrons are the new oil\u2019",
+    "title": "OpenAI says U.S. needs more power to stay ahead of China in AI: ‘Electrons are the new oil’",
     "id": "1pw01pu",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/energy/comments/1pw01pu/openai_says_us_needs_more_power_to_stay_ahead_of/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

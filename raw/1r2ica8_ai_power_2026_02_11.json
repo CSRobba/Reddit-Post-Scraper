@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "It\u2019s not \"AI Slop,\" it\u2019s \"Human Slop.\" Why are we refusing to use the power tools of our era?",
+    "title": "It’s not \"AI Slop,\" it’s \"Human Slop.\" Why are we refusing to use the power tools of our era?",
     "id": "1r2ica8",
     "body": "[removed]",
     "url": "https://i.redd.it/fdswgj5ddzig1.png",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

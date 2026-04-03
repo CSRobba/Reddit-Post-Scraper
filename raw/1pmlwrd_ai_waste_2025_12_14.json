@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "Spent $2,400 on AI visibility tools in 6 months \u2013 here's what actually worked (and what was a waste)",
+    "title": "Spent $2,400 on AI visibility tools in 6 months – here's what actually worked (and what was a waste)",
     "id": "1pmlwrd",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pmlwrd/spent_2400_on_ai_visibility_tools_in_6_months/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

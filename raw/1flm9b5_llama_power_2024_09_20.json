@@ -1,6 +1,6 @@
 {
     "query_term": "Llama power",
-    "title": "Experience Auto-Search: A Smarter Way to Chat with Bots! \ud83d\ude80 (Non-GPU Power from SambaNova and Llama 405B) [D]",
+    "title": "Experience Auto-Search: A Smarter Way to Chat with Bots! 🚀 (Non-GPU Power from SambaNova and Llama 405B) [D]",
     "id": "1flm9b5",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1flm9b5/experience_autosearch_a_smarter_way_to_chat_with/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

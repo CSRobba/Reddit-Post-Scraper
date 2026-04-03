@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83c\udfa4 Murf AI \u2014 elevated voice-over production through generative audio. Turn text into professional voice-over with AI power \ud83d\udde3\ufe0f\ud83e\udd16",
+    "title": "🎤 Murf AI — elevated voice-over production through generative audio. Turn text into professional voice-over with AI power 🗣️🤖",
     "id": "1ocnuru",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/OpenAI/comments/1ocnuru/murf_ai_elevated_voiceover_production_through/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

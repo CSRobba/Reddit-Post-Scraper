@@ -1,6 +1,6 @@
 {
     "query_term": "Gemini power",
-    "title": "Attention is power, and ChatGPT doesn\u2019t deserve yours. Move to Gemini.",
+    "title": "Attention is power, and ChatGPT doesn’t deserve yours. Move to Gemini.",
     "id": "1o405em",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1o405em/attention_is_power_and_chatgpt_doesnt_deserve/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

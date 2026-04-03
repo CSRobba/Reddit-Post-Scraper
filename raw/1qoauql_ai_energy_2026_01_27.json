@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI's $150B energy crisis might have a solution\u2014and it involves human biology",
+    "title": "AI's $150B energy crisis might have a solution—and it involves human biology",
     "id": "1qoauql",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/Futurology/comments/1qoauql/ais_150b_energy_crisis_might_have_a_solutionand/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

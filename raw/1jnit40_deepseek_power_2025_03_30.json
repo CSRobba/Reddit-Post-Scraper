@@ -1,6 +1,6 @@
 {
     "query_term": "DeepSeek power",
-    "title": "Unlock the Power of LLMs Like DeepSeek for FREE on Your PC! \ud83d\udcbb\u2728",
+    "title": "Unlock the Power of LLMs Like DeepSeek for FREE on Your PC! 💻✨",
     "id": "1jnit40",
     "body": "[removed]",
     "url": "https://youtube.com/watch?v=dr4Vs9nWr4c&si=oe4t3SsquekoH7pQ",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

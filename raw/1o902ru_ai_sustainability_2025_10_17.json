@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "AI x Sustainability: How Can We Make Events Smarter and Greener? (Mumbai-based respondents only \ud83c\udf3f)",
+    "title": "AI x Sustainability: How Can We Make Events Smarter and Greener? (Mumbai-based respondents only 🌿)",
     "id": "1o902ru",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SampleSize/comments/1o902ru/ai_x_sustainability_how_can_we_make_events/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

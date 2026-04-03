@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "I built an Energy-based Model (EBM) for enterprise AI security \u2014 88.7% accuracy after 2 months. Ship it or keep tuning? Honest results inside.",
+    "title": "I built an Energy-based Model (EBM) for enterprise AI security — 88.7% accuracy after 2 months. Ship it or keep tuning? Honest results inside.",
     "id": "1rpcued",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rpcued/i_built_an_energybased_model_ebm_for_enterprise/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

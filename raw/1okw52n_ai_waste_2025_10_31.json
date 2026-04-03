@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "We built an AI that rewards eco-actions. Turn your waste into wealth. \u267b\ufe0f\u2728",
+    "title": "We built an AI that rewards eco-actions. Turn your waste into wealth. ♻️✨",
     "id": "1okw52n",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/Futurology/comments/1okw52n/we_built_an_ai_that_rewards_ecoactions_turn_your/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

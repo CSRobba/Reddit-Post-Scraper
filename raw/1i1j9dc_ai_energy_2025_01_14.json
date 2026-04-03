@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Could Keir Starmer\u2019s AI dream derail his own green energy promise? | Artificial intelligence (AI)",
+    "title": "Could Keir Starmer’s AI dream derail his own green energy promise? | Artificial intelligence (AI)",
     "id": "1i1j9dc",
     "body": "[removed]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

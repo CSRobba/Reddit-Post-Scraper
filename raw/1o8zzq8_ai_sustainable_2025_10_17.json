@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "How can AI make Indian events more sustainable & meaningful? (5\u20137 min student survey)",
+    "title": "How can AI make Indian events more sustainable & meaningful? (5–7 min student survey)",
     "id": "1o8zzq8",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SampleSize/comments/1o8zzq8/how_can_ai_make_indian_events_more_sustainable/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The Software-Defined Vehicle as Infrastructure of Power: China\u2019s AI-Driven Mobility Ecosystem",
+    "title": "The Software-Defined Vehicle as Infrastructure of Power: China’s AI-Driven Mobility Ecosystem",
     "id": "1jiufwu",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/singularity/comments/1jiufwu/the_softwaredefined_vehicle_as_infrastructure_of/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

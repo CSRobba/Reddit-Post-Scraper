@@ -1,6 +1,6 @@
 {
     "query_term": "Claude power",
-    "title": "Soon, Claude will power something very unique. \ud83d\ude09",
+    "title": "Soon, Claude will power something very unique. 😉",
     "id": "1rrav09",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1rrav09/soon_claude_will_power_something_very_unique/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

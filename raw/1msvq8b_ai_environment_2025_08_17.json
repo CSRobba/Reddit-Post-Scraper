@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "ELI5: Why doesn\u2019t AI run on your own device instead of their servers? Wouldn\u2019t that fix its problems with the environment?",
+    "title": "ELI5: Why doesn’t AI run on your own device instead of their servers? Wouldn’t that fix its problems with the environment?",
     "id": "1msvq8b",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1msvq8b/eli5_why_doesnt_ai_run_on_your_own_device_instead/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

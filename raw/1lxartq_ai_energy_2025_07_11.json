@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI can now tell if your DMs are giving \u201crun\u201d energy",
+    "title": "AI can now tell if your DMs are giving “run” energy",
     "id": "1lxartq",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/Futurology/comments/1lxartq/ai_can_now_tell_if_your_dms_are_giving_run_energy/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

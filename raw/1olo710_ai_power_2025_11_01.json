@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Who is going to win, those who believe in the power of AI, or those who don\u2019t?",
+    "title": "Who is going to win, those who believe in the power of AI, or those who don’t?",
     "id": "1olo710",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1olo710/who_is_going_to_win_those_who_believe_in_the/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

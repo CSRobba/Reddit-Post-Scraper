@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Been diving into running local LLMs (GPT4All, LM Studio, etc.) and came across this Beelink mini PC \u2014 seems to be a sweet spot between price and power for local AI stuff.",
+    "title": "Been diving into running local LLMs (GPT4All, LM Studio, etc.) and came across this Beelink mini PC — seems to be a sweet spot between price and power for local AI stuff.",
     "id": "1kwd59w",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1kwd59w/been_diving_into_running_local_llms_gpt4all_lm/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

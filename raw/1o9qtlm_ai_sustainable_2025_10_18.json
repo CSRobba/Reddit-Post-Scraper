@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "[Academic] How can AI make Mumbai events more sustainable? (India, ages 20\u201345)",
+    "title": "[Academic] How can AI make Mumbai events more sustainable? (India, ages 20–45)",
     "id": "1o9qtlm",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SurveyExchange/comments/1o9qtlm/academic_how_can_ai_make_mumbai_events_more/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

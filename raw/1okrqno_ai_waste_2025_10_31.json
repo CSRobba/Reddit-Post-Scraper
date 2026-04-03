@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "\ud83c\udf0d Just launched Eco Oracle \u2014 an AI that rewards eco-actions. Turn your waste into wealth. \u267b\ufe0f\u2728",
+    "title": "🌍 Just launched Eco Oracle — an AI that rewards eco-actions. Turn your waste into wealth. ♻️✨",
     "id": "1okrqno",
     "body": "[removed]",
     "url": "https://i.redd.it/spcia94tkfyf1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

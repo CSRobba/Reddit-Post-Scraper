@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Looking for sustainable AI platforms \u2014 what do you use?",
+    "title": "Looking for sustainable AI platforms — what do you use?",
     "id": "1mo1jlb",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/sustainability/comments/1mo1jlb/looking_for_sustainable_ai_platforms_what_do_you/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

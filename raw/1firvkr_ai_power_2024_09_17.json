@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "[Book Release] Generative AI in Action \u2013 Unlocking the Power of Generative AI in Enterprises",
+    "title": "[Book Release] Generative AI in Action – Unlocking the Power of Generative AI in Enterprises",
     "id": "1firvkr",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/OpenAI/comments/1firvkr/book_release_generative_ai_in_action_unlocking/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

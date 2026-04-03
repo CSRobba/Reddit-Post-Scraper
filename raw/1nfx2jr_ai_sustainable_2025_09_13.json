@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "The future of sustainable finance depends on AI, but the research isn\u2019t there yet",
+    "title": "The future of sustainable finance depends on AI, but the research isn’t there yet",
     "id": "1nfx2jr",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/Futurology/comments/1nfx2jr/the_future_of_sustainable_finance_depends_on_ai/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

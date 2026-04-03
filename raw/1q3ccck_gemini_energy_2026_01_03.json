@@ -1,6 +1,6 @@
 {
     "query_term": "Gemini energy",
-    "title": "Can Gemini actually 'read' energy? I built a fully immersive Tarot web app to test AI\u2019s spiritual capabilities. Tech stack inside.",
+    "title": "Can Gemini actually 'read' energy? I built a fully immersive Tarot web app to test AI’s spiritual capabilities. Tech stack inside.",
     "id": "1q3ccck",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SideProject/comments/1q3ccck/can_gemini_actually_read_energy_i_built_a_fully/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

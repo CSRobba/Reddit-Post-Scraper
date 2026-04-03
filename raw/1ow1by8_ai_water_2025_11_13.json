@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "How AI is quietly transforming CSR in India \u2014 examples from water, health, and education",
+    "title": "How AI is quietly transforming CSR in India — examples from water, health, and education",
     "id": "1ow1by8",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ow1by8/how_ai_is_quietly_transforming_csr_in_india/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

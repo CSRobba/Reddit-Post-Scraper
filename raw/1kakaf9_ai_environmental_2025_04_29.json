@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "We need self-motivated, self-architecting, lifelong-learning, self-correcting, value-forming intelligences with internal world models and environmental interaction \u2014 capabilities that are barely beginning in current AI research.",
+    "title": "We need self-motivated, self-architecting, lifelong-learning, self-correcting, value-forming intelligences with internal world models and environmental interaction — capabilities that are barely beginning in current AI research.",
     "id": "1kakaf9",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/OpenAI/comments/1kakaf9/we_need_selfmotivated_selfarchitecting/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

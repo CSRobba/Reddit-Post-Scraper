@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u2018A different set of rules\u2019: thermal drone footage shows Musk\u2019s AI power plant flouting clean air regulations",
+    "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
     "id": "1r5n45h",
     "body": "[removed]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

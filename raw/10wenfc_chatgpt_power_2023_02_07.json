@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "I\u2019m a Tech journalist at Fortune, and author of our latest cover story going behind the scenes of OpenAI\u2019s rise to power and launch of ChatGPT. I know about the potential and perils of A.I. - AMA!",
+    "title": "I’m a Tech journalist at Fortune, and author of our latest cover story going behind the scenes of OpenAI’s rise to power and launch of ChatGPT. I know about the potential and perils of A.I. - AMA!",
     "id": "10wenfc",
     "body": "[removed]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 4,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }
