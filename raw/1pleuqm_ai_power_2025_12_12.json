@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The world\u2019s smallest AI supercomputer: Tiiny Ai Pocket Lab \u2014 size of a power bank",
+    "title": "The world’s smallest AI supercomputer: Tiiny Ai Pocket Lab — size of a power bank",
     "id": "1pleuqm",
     "body": "",
     "url": "https://www.digitaltrends.com/computing/the-worlds-smallest-ai-supercomputer-is-the-size-of-a-power-bank/",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 8,
     "upvote_ratio": 0.7200000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

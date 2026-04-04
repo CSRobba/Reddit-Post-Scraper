@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Humanoid robots dance to folk tunes on China\u2019s New Year Gala with AI power",
+    "title": "Humanoid robots dance to folk tunes on China’s New Year Gala with AI power",
     "id": "1ijxqsi",
     "body": "",
     "url": "https://youtu.be/IOuG8fHkod8?si=jjCe1fVqrusCqUgw",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

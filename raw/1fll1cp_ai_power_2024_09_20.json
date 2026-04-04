@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "'Hellscape': Microsoft Deal Would Reopen Three Mile Island Nuclear Plant to Power AI",
     "id": "1fll1cp",
-    "body": "The corporation that owns the shuttered nuclear plant on Three Mile Island on Friday [announced](https://www.constellationenergy.com/newsroom/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html) a deal with Microsoft to reopen the facility to provide power to the tech company for data centers using artificial intelligence.\n\nThree Mile Island is well-known as the site of largest nuclear [disaster](https://www.britannica.com/event/Three-Mile-Island-accident) in U.S. history\u2014a reactor there, Unit 2, partially melted down in 1979. However, the site's other reactor, Unit 1, continued to operate safely until 2019, when it was closed for economic reasons.\n\nWith the help of tax breaks from the [Inflation Reduction Act](https://www.commondreams.org/news/2022/08/16/progressives-applaud-biden-signs-landmark-ira-law) (IRA), plant owner Constellation Energy plans to spend $1.6 billion to restart Unit 1, with all of the power going to Microsoft for the first 20 years. Microsoft and other tech firms use [inordinate amounts of energy](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) to power data centers used for AI and have advocated for nuclear as a zero-emissions power source.",
+    "body": "The corporation that owns the shuttered nuclear plant on Three Mile Island on Friday [announced](https://www.constellationenergy.com/newsroom/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html) a deal with Microsoft to reopen the facility to provide power to the tech company for data centers using artificial intelligence.\n\nThree Mile Island is well-known as the site of largest nuclear [disaster](https://www.britannica.com/event/Three-Mile-Island-accident) in U.S. history—a reactor there, Unit 2, partially melted down in 1979. However, the site's other reactor, Unit 1, continued to operate safely until 2019, when it was closed for economic reasons.\n\nWith the help of tax breaks from the [Inflation Reduction Act](https://www.commondreams.org/news/2022/08/16/progressives-applaud-biden-signs-landmark-ira-law) (IRA), plant owner Constellation Energy plans to spend $1.6 billion to restart Unit 1, with all of the power going to Microsoft for the first 20 years. Microsoft and other tech firms use [inordinate amounts of energy](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) to power data centers used for AI and have advocated for nuclear as a zero-emissions power source.",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1fll1cp/hellscape_microsoft_deal_would_reopen_three_mile/",
     "url_overridden_by_dest": null,
     "created": "2024-09-20T15:57:54",
@@ -11,5 +11,8 @@
     "num_comments": 12,
     "ups": 0,
     "upvote_ratio": 0.49000000953674316,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

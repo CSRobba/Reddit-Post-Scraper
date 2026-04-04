@@ -1,8 +1,8 @@
 {
     "query_term": "AI water",
-    "title": "Why don\u2019t we cool AI data centres with salt water?",
+    "title": "Why don’t we cool AI data centres with salt water?",
     "id": "1rlnyrs",
-    "body": "One huge problem with AI data centres is that clean, drinkable water is used to cool them, which can strain water available for municipalities. If the water is just being used as a heat sink, why aren\u2019t we using salt water instead?",
+    "body": "One huge problem with AI data centres is that clean, drinkable water is used to cool them, which can strain water available for municipalities. If the water is just being used as a heat sink, why aren’t we using salt water instead?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1rlnyrs/why_dont_we_cool_ai_data_centres_with_salt_water/",
     "url_overridden_by_dest": null,
     "created": "2026-03-05T12:38:23",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 0,
     "upvote_ratio": 0.28999999165534973,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }
