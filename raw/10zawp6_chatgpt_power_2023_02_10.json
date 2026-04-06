@@ -2,7 +2,7 @@
     "query_term": "ChatGPT power",
     "title": "How do I get the power of something like ChatGPT to search confidential corporate information and not feed it back into the larger training dataset?",
     "id": "10zawp6",
-    "body": "I work for a large company and I\u2019m interested in eventually using something like ChatGPT to provide information from our ServiceNow Knowledge Base and some Microsoft SharePoints. I do not want our IP shared back with the greater community.  Where should I be exploring? Is this possible to use the LLM that\u2019s trained on massive swathes of content but then still feed it specific proprietary information?",
+    "body": "I work for a large company and I’m interested in eventually using something like ChatGPT to provide information from our ServiceNow Knowledge Base and some Microsoft SharePoints. I do not want our IP shared back with the greater community.  Where should I be exploring? Is this possible to use the LLM that’s trained on massive swathes of content but then still feed it specific proprietary information?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/10zawp6/how_do_i_get_the_power_of_something_like_chatgpt/",
     "url_overridden_by_dest": null,
     "created": "2023-02-10T19:23:15",
@@ -11,5 +11,8 @@
     "num_comments": 28,
     "ups": 14,
     "upvote_ratio": 0.8500000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

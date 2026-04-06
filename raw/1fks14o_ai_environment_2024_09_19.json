@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Need help finding an AI short film. It was a series of screens and the AI gained sentience, tried to kill everyone, but then realized it was in a test environment and shut down. ",
     "id": "1fks14o",
-    "body": "It was probably like 3 min long. Very funny. Can\u2019t find it since I first saw it. ",
+    "body": "It was probably like 3 min long. Very funny. Can’t find it since I first saw it. ",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1fks14o/need_help_finding_an_ai_short_film_it_was_a/",
     "url_overridden_by_dest": null,
     "created": "2024-09-19T11:31:37",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

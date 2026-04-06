@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Europe moves ahead on AI regulation, challenging tech giants\u2019 power",
+    "title": "Europe moves ahead on AI regulation, challenging tech giants’ power",
     "id": "14a2opx",
     "body": "",
     "url": "https://www.washingtonpost.com/technology/2023/06/14/eu-parliament-approves-ai-act/",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 12,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

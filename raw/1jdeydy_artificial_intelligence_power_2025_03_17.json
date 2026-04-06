@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence power",
-    "title": "If an actual non-biased (won\u2019t put us first but also won\u2019t go all Skynet)Artificial General Intelligence was ever created, why do you think it should/should not be given political power?",
+    "title": "If an actual non-biased (won’t put us first but also won’t go all Skynet)Artificial General Intelligence was ever created, why do you think it should/should not be given political power?",
     "id": "1jdeydy",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1jdeydy/if_an_actual_nonbiased_wont_put_us_first_but_also/",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

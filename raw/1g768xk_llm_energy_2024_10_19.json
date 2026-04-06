@@ -1,6 +1,6 @@
 {
     "query_term": "LLM energy",
-    "title": "Microsoft LLM breakthrough?  You can now \"run 100B parameter models on local devices with up to 6x speed improvements and 82% less energy consumption\u2014all without a GPU!\"",
+    "title": "Microsoft LLM breakthrough?  You can now \"run 100B parameter models on local devices with up to 6x speed improvements and 82% less energy consumption—all without a GPU!\"",
     "id": "1g768xk",
     "body": "",
     "url": "https://x.com/akshay_pachaar/status/1847312752941085148",
@@ -11,5 +11,8 @@
     "num_comments": 82,
     "ups": 684,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
