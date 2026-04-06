@@ -2,7 +2,7 @@
     "query_term": "artificial intelligence waste",
     "title": "[Article] \"E-waste challenges of generative artificial intelligence.\" By Peng Wang, Ling-Yu Zhang, Asaf Tzachor & Wei-Qiang Chen.",
     "id": "1obn666",
-    "body": "* **DOI/PMID/ISBN:**\u00a0[https://doi.org/10.1038/s43588-024-00712-6](https://doi.org/10.1038/s43588-024-00712-6)\n* \\[**URL**\\]: [https://www.nature.com/articles/s43588-024-00712-6](https://www.nature.com/articles/s43588-024-00712-6)",
+    "body": "* **DOI/PMID/ISBN:** [https://doi.org/10.1038/s43588-024-00712-6](https://doi.org/10.1038/s43588-024-00712-6)\n* \\[**URL**\\]: [https://www.nature.com/articles/s43588-024-00712-6](https://www.nature.com/articles/s43588-024-00712-6)",
     "url": "https://www.reddit.com/r/Scholar/comments/1obn666/article_ewaste_challenges_of_generative/",
     "url_overridden_by_dest": null,
     "created": "2025-10-20T09:36:51",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

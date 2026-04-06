@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI's Sam Altman Talks the Future of AI, Safety and Power \u2014 Live at TED2025",
+    "title": "OpenAI's Sam Altman Talks the Future of AI, Safety and Power — Live at TED2025",
     "id": "1jxlr0s",
     "body": "Discussion from TED conference. Some really interesting discussions here, e.g., a business model that sends revenue to artists and writers when their work is referenced in models, agentic systems in scientific research and software development, and the risks of AGI (they don't internally have AGI or a self-improving models).",
     "url": "https://www.youtube.com/watch?v=5MWT_doo68k",
@@ -11,5 +11,8 @@
     "num_comments": 61,
     "ups": 71,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

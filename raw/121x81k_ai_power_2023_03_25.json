@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83e\udd16Asked Ai: \"Make me a rap song in the style of Eminem about 'world government doing bad things for people' \" - Song Title: \"Shadows of Power\"",
+    "title": "🤖Asked Ai: \"Make me a rap song in the style of Eminem about 'world government doing bad things for people' \" - Song Title: \"Shadows of Power\"",
     "id": "121x81k",
     "body": "",
     "url": "https://www.youtube.com/watch?v=TC9SaZ2JznU",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

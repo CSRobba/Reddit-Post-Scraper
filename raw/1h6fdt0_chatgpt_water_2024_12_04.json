@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "Anyone else noticed ChatGPT can swear? It\u2019s dropping F-bombs as casually as a cat knocking over a glass of water.",
+    "title": "Anyone else noticed ChatGPT can swear? It’s dropping F-bombs as casually as a cat knocking over a glass of water.",
     "id": "1h6fdt0",
     "body": "",
     "url": "https://i.redd.it/uwlow5vtxt4e1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 2,
     "upvote_ratio": 0.5799999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "DeepSeek just blew up the AI industry\u2019s narrative that it needs more money and power | CNN Business",
+    "title": "DeepSeek just blew up the AI industry’s narrative that it needs more money and power | CNN Business",
     "id": "1ic0h1m",
     "body": "",
     "url": "https://www.cnn.com/2025/01/28/business/deepseek-ai-nvidia-nightcap/index.html",
@@ -11,5 +11,8 @@
     "num_comments": 669,
     "ups": 10291,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

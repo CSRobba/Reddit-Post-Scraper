@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Elon is a moron Optimus is not the future it\u2019s like DC electricity. Animals controlled by AI through VR HMDs are the future",
+    "title": "Elon is a moron Optimus is not the future it’s like DC electricity. Animals controlled by AI through VR HMDs are the future",
     "id": "18i7dy1",
     "body": "",
     "url": "https://youtu.be/cpraXaw7dyc?si=w18fG1piX_s_F0H9",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

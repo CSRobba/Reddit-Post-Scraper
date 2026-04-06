@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
+    "title": "David Sacks tried to kill state AI laws — and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America’s AI policy gatekeeper.",
     "id": "1p76ck2",
     "body": "",
     "url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 10,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

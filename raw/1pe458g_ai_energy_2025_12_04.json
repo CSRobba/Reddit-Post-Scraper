@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Trump\u2019s AI Push May Hinge on Renewable Energy. Trump is pro-AI and anti-renewables. But those two stances are increasingly contradictory: Data centers need quick power on the cheap, and that\u2019s exactly what renewables offer. \u201cIn the next 10 years, there\u2019s really nothing to replace renewables.\u201d",
+    "title": "Trump’s AI Push May Hinge on Renewable Energy. Trump is pro-AI and anti-renewables. But those two stances are increasingly contradictory: Data centers need quick power on the cheap, and that’s exactly what renewables offer. “In the next 10 years, there’s really nothing to replace renewables.”",
     "id": "1pe458g",
     "body": "",
     "url": "https://www.bloomberg.com/news/newsletters/2025-12-04/how-trump-s-renewables-roadblocks-can-stall-the-ai-boom",
@@ -11,5 +11,8 @@
     "num_comments": 20,
     "ups": 36,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

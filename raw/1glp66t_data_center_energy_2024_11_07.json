@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "Meta gets stung: Rare bees block Zuckerberg\u2019s nuclear-powered data center plans | Tech companies, including Meta, are increasingly turning to nuclear power to meet the massive energy demands of AI.",
+    "title": "Meta gets stung: Rare bees block Zuckerberg’s nuclear-powered data center plans | Tech companies, including Meta, are increasingly turning to nuclear power to meet the massive energy demands of AI.",
     "id": "1glp66t",
     "body": "",
     "url": "https://interestingengineering.com/energy/bee-halts-metas-nuclear-powered-ai-center",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 8,
     "upvote_ratio": 0.7300000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

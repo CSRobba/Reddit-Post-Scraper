@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "\u201cThe energy needs of AI are shifting the calculus of energy companies. They\u2019re now exploring previously untenable options, such as restarting a nuclear reactor at the Three Mile Island power plant that has been dormant since the infamous disaster in 1979.\u201d",
+    "title": "“The energy needs of AI are shifting the calculus of energy companies. They’re now exploring previously untenable options, such as restarting a nuclear reactor at the Three Mile Island power plant that has been dormant since the infamous disaster in 1979.”",
     "id": "1e39dn3",
     "body": "https://l.smartnews.com/p-yBToh/1qOyLi",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1e39dn3/the_energy_needs_of_ai_are_shifting_the_calculus/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

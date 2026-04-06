@@ -40,7 +40,7 @@ def automatic_rating():
         for fname in os.listdir(RAW_FOLDER):
             data = util.read_json(os.path.join(RAW_FOLDER, fname))
             data["filename"] = fname
-            data["body"] = data.get("body", "").strip()
+            data["body"] = data.get("body", "").strip().lower()
             
             if data["body"] == "[removed]" or data["body"] == "[deleted]":
                 if "relevance_rate" not in data:
@@ -89,7 +89,7 @@ def load_global_progress():
                 if "y" in list(data.get("relevance_rate", {}).values()) or "m" in list(data.get("relevance_rate", {}).values()):
                     relevant += 1 
         _progress = {"completed": completed, "total": total, "relevant": relevant}
-        print(relevant, completed)
+        print(f"Relevant: {relevant}, Completed: {completed}, Total: {total}")
 
 def build_eligible(name):
     """Scan ``raw/'' folder once and return list of filenames eligible for NAME."""
@@ -102,7 +102,7 @@ def build_eligible(name):
         if name not in ratings and len(ratings) < 2:
             _eligible.append(fname)
     
-    print(len(_eligible))
+    print(f"Number of eligible posts: {len(_eligible)}")
 
 ##########
 # HTML

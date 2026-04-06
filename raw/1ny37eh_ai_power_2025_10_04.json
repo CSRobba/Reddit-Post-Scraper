@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Sam Altman\u2019s AI empire will devour as much power as New York City and San Diego combined. Experts say it\u2019s \u2018scary\u2019 | Fortune",
+    "title": "Sam Altman’s AI empire will devour as much power as New York City and San Diego combined. Experts say it’s ‘scary’ | Fortune",
     "id": "1ny37eh",
     "body": "",
     "url": "https://fortune.com/2025/09/24/sam-altman-ai-empire-new-york-city-san-diego-scary/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

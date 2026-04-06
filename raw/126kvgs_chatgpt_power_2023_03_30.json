@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Bing\u2019s chatGPT believes in a higher power, has a dog, and a favorite book.",
+    "title": "Bing’s chatGPT believes in a higher power, has a dog, and a favorite book.",
     "id": "126kvgs",
     "body": "",
     "url": "https://imgur.com/a/2ymo8gS/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

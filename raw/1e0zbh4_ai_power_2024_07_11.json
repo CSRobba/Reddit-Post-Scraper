@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u201cWhat links all the cases is the claim that OpenAI \u2014 with help from Microsoft's money and computing power \u2014 ingested huge troves of human writings to \u201ctrain\u201d AI chatbots to produce human-like passages of text, without getting permission or compensating the people who wrote the original works.\u201d",
+    "title": "“What links all the cases is the claim that OpenAI — with help from Microsoft's money and computing power — ingested huge troves of human writings to “train” AI chatbots to produce human-like passages of text, without getting permission or compensating the people who wrote the original works.”",
     "id": "1e0zbh4",
     "body": "https://l.smartnews.com/p-ZPdgw/mMH6cH",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1e0zbh4/what_links_all_the_cases_is_the_claim_that_openai/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

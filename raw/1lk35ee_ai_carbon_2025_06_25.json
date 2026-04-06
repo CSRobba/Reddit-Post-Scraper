@@ -1,8 +1,8 @@
 {
     "query_term": "AI carbon",
-    "title": "Ocean AI \u2013 Your New Ally in Carbon Transparency",
+    "title": "Ocean AI – Your New Ally in Carbon Transparency",
     "id": "1lk35ee",
-    "body": "Hey everyone!\n\nWe just launched Ocean AI, a free tool that lets you search over 10,000+ verified carbon credit projects by name or registry ID \u2013 all in one place.\n\nYou can also chat with an AI assistant to:\n\t\u2022\t\ud83e\uddee Calculate your carbon footprint\n\t\u2022\t\ud83c\udf31 Get personalized carbon credit suggestions.\n\t\u2022\t\u267b\ufe0f Learn how to reduce emissions\n\nIt also features real-time stats on ocean plastic, global CO\u2082 levels, and forest loss. Plus, there\u2019s a built-in community space to share questions and ideas.\n\nGive it a try: www.hestiya.com/oceanai\nWould love your feedback \ud83d\ude4f\n",
+    "body": "Hey everyone!\n\nWe just launched Ocean AI, a free tool that lets you search over 10,000+ verified carbon credit projects by name or registry ID – all in one place.\n\nYou can also chat with an AI assistant to:\n\t•\t🧮 Calculate your carbon footprint\n\t•\t🌱 Get personalized carbon credit suggestions.\n\t•\t♻️ Learn how to reduce emissions\n\nIt also features real-time stats on ocean plastic, global CO₂ levels, and forest loss. Plus, there’s a built-in community space to share questions and ideas.\n\nGive it a try: www.hestiya.com/oceanai\nWould love your feedback 🙏\n",
     "url": "https://i.redd.it/6ha8837k629f1.gif",
     "url_overridden_by_dest": "https://i.redd.it/6ha8837k629f1.gif",
     "created": "2025-06-25T04:28:00",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 5,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

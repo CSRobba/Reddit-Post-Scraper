@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The $40 Billion AI Grid Heist: BlackRock\u2019s Power Play",
+    "title": "The $40 Billion AI Grid Heist: BlackRock’s Power Play",
     "id": "1q0sol5",
     "body": "",
     "url": "https://trendytechtribe.com/markets/the-40-billion-data-center-heist-blackrock-privatizing-ai-grid",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 5,
     "upvote_ratio": 0.7799999713897705,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

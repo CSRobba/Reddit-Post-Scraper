@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u201cGoogle agrees to pause AI workloads to protect the grid when power demand spikes\u201d",
+    "title": "“Google agrees to pause AI workloads to protect the grid when power demand spikes”",
     "id": "1mib5hb",
     "body": "",
     "url": "https://www.theregister.com/2025/08/04/google_ai_datacenter_grid/",
@@ -11,5 +11,8 @@
     "num_comments": 21,
     "ups": 78,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
