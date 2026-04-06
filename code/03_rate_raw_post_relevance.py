@@ -40,6 +40,7 @@ def automatic_rating():
         for fname in os.listdir(RAW_FOLDER):
             data = util.read_json(os.path.join(RAW_FOLDER, fname))
             data["filename"] = fname
+            data["body"] = data.get("body", "").strip()
             
             if data["body"] == "[removed]" or data["body"] == "[deleted]":
                 if "relevance_rate" not in data:

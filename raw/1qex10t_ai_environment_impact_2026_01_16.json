@@ -1,8 +1,8 @@
 {
     "query_term": "AI environment impact",
-    "title": "I\u2019m against AI but can we please stop spreading misinformation about it\u2019s impact on the environment.",
+    "title": "I’m against AI but can we please stop spreading misinformation about it’s impact on the environment.",
     "id": "1qex10t",
-    "body": "I am generally against AI from a human standpoint, but I keep seeing people online jerk each other off by saying how they stopped using AI to help the environment, while ignoring the actual impactful things you can do like eat less meat etc. It also trivializes the climate change issue as something that can be fixed if \u201cyou just don\u2019t use AI\u201d. Sorry had to make a quick rant there.",
+    "body": "I am generally against AI from a human standpoint, but I keep seeing people online jerk each other off by saying how they stopped using AI to help the environment, while ignoring the actual impactful things you can do like eat less meat etc. It also trivializes the climate change issue as something that can be fixed if “you just don’t use AI”. Sorry had to make a quick rant there.",
     "url": "https://www.reddit.com/r/antiai/comments/1qex10t/im_against_ai_but_can_we_please_stop_spreading/",
     "url_overridden_by_dest": null,
     "created": "2026-01-16T16:07:23",
@@ -11,5 +11,8 @@
     "num_comments": 64,
     "ups": 0,
     "upvote_ratio": 0.4699999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

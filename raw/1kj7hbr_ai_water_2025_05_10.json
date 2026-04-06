@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "AI Data Centers Boom is Draining Water From Drought-Prone Areas \u2013 Sustainability Tipping Point?",
+    "title": "AI Data Centers Boom is Draining Water From Drought-Prone Areas – Sustainability Tipping Point?",
     "id": "1kj7hbr",
     "body": "",
     "url": "https://www.techrepublic.com/article/news-ai-data-centers-drought/",
@@ -11,5 +11,8 @@
     "num_comments": 19,
     "ups": 139,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Ecosia\u2019s Path To A Sustainable, AI-Powered Search Engine",
+    "title": "Ecosia’s Path To A Sustainable, AI-Powered Search Engine",
     "id": "1h196gv",
     "body": "",
     "url": "https://www.forbes.com/sites/federicoguerrini/2024/11/26/ecosias-path-to-a-sustainable-ai-powered-search-engine/",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.4099999964237213,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

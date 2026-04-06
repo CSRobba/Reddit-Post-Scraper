@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI and Nvidia\u2019s $100B AI plan will require power equal to 10 nuclear reactors | \"This is a giant project,\" Nvidia CEO said of new 10-gigawatt AI infrastructure deal.",
+    "title": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors | \"This is a giant project,\" Nvidia CEO said of new 10-gigawatt AI infrastructure deal.",
     "id": "1nnxp01",
     "body": "",
     "url": "https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/",
@@ -11,5 +11,8 @@
     "num_comments": 74,
     "ups": 240,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

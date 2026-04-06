@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "India's Adani to invest $100 billion to develop renewable energy-powered AI-ready data centers over the next decade, seeking to establish the world\u2019s largest integrated data center platform.",
+    "title": "India's Adani to invest $100 billion to develop renewable energy-powered AI-ready data centers over the next decade, seeking to establish the world’s largest integrated data center platform.",
     "id": "1r74i7g",
     "body": "",
     "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 8,
     "upvote_ratio": 0.7099999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
