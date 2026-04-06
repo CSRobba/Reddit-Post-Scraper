@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "AI energy demand revised up 36% in new BloombergNEF forecast",
     "id": "1pdgyny",
-    "body": "A new\u00a0[report](https://about.bnef.com/insights/clean-energy/ai-and-the-power-grid-where-the-rubber-meets-the-road/)\u00a0from Bloomberg New Energy Foundation expects data-center power demand to hit 106 GW by 2035. This represents a \"36% jump from the previous outlook, published just seven months ago.\"\n\nThe report also points out the growing size of new centers:\n\n>\n\nAs well as the changing geography of new data center construction in the US:\n\n>\n\nFinally, it points out how power generation is not keeping up with new data center demand:\n\n>",
+    "body": "A new [report](https://about.bnef.com/insights/clean-energy/ai-and-the-power-grid-where-the-rubber-meets-the-road/) from Bloomberg New Energy Foundation expects data-center power demand to hit 106 GW by 2035. This represents a \"36% jump from the previous outlook, published just seven months ago.\"\n\nThe report also points out the growing size of new centers:\n\n>\n\nAs well as the changing geography of new data center construction in the US:\n\n>\n\nFinally, it points out how power generation is not keeping up with new data center demand:\n\n>",
     "url": "https://about.bnef.com/insights/clean-energy/ai-and-the-power-grid-where-the-rubber-meets-the-road/",
     "url_overridden_by_dest": "https://about.bnef.com/insights/clean-energy/ai-and-the-power-grid-where-the-rubber-meets-the-road/",
     "created": "2025-12-03T13:24:22",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 77,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

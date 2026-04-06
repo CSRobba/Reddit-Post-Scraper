@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Power users of AI tools, what\u2019s one tip or trick you wish everyone knew?",
+    "title": "Power users of AI tools, what’s one tip or trick you wish everyone knew?",
     "id": "1liwjku",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1liwjku/power_users_of_ai_tools_whats_one_tip_or_trick/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

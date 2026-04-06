@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "AI energy draw from Chicago datacenters to rise ninefold - A global problem",
     "id": "1c8u2h7",
-    "body": "US energy provider Exelon has calculated that power demand from datacenters in the Chicago area is set to increase ninefold, in more evidence that [AI adoption is putting further strain on electricity supplies](https://www.theregister.com/2024/04/19/ai_set_to_drive_up/).\n\nIf you want to stay ahead of the curve in AI and tech,\u00a0[look here first](https://smmry.tech/?utm_source=reddit).\n\n**Key findings:**\n\n* This surge is fueled by a wave of planned data center projects, estimated to require a whopping 5 GW of power \u2013 a significant strain on the current grid.\n* This rise in data center energy consumption puts immense pressure on existing electricity supplies.\n* The rise in data center energy use puts strain on electricity grids and may lead to exploring alternative energy sources like nuclear.  \n* This trend isn't unique to Chicago. AI's growing thirst for power is a global concern, raising questions about its environmental impact on energy consumption.\n\n[Source (The Register)](https://www.theregister.com/2024/04/19/ai_set_to_drive_up/)",
+    "body": "US energy provider Exelon has calculated that power demand from datacenters in the Chicago area is set to increase ninefold, in more evidence that [AI adoption is putting further strain on electricity supplies](https://www.theregister.com/2024/04/19/ai_set_to_drive_up/).\n\nIf you want to stay ahead of the curve in AI and tech, [look here first](https://smmry.tech/?utm_source=reddit).\n\n**Key findings:**\n\n* This surge is fueled by a wave of planned data center projects, estimated to require a whopping 5 GW of power – a significant strain on the current grid.\n* This rise in data center energy consumption puts immense pressure on existing electricity supplies.\n* The rise in data center energy use puts strain on electricity grids and may lead to exploring alternative energy sources like nuclear.  \n* This trend isn't unique to Chicago. AI's growing thirst for power is a global concern, raising questions about its environmental impact on energy consumption.\n\n[Source (The Register)](https://www.theregister.com/2024/04/19/ai_set_to_drive_up/)",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1c8u2h7/ai_energy_draw_from_chicago_datacenters_to_rise/",
     "url_overridden_by_dest": null,
     "created": "2024-04-20T09:28:43",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 69,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

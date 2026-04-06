@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Bill Gates says the massive power draw required for AI processing is nothing to worry about as AI will ultimately identify ways to help cut power consumption and drive the transition to sustainable energy. --- \"Isn't that the plot to the Matrix?\" \ud83d\ude05",
+    "title": "Bill Gates says the massive power draw required for AI processing is nothing to worry about as AI will ultimately identify ways to help cut power consumption and drive the transition to sustainable energy. --- \"Isn't that the plot to the Matrix?\" 😅",
     "id": "1drlwh2",
     "body": "",
     "url": "https://www.theregister.com/2024/06/28/bill_gates_ai_power_consumption/",
@@ -11,5 +11,8 @@
     "num_comments": 121,
     "ups": 231,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

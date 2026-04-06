@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "When do you think open-source AI models will be as capable as Gemini 3.0 Pro? And when will it be possible to run models with that level of power on a personal computer that costs around 2,000\u20133,000 dollars?",
+    "title": "When do you think open-source AI models will be as capable as Gemini 3.0 Pro? And when will it be possible to run models with that level of power on a personal computer that costs around 2,000–3,000 dollars?",
     "id": "1p3zh67",
     "body": "the questions say it all.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1p3zh67/when_do_you_think_opensource_ai_models_will_be_as/",
@@ -11,5 +11,8 @@
     "num_comments": 23,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

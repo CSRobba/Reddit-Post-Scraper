@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Google\u2019s emissions climb nearly 50% in five years due to AI energy demand",
+    "title": "Google’s emissions climb nearly 50% in five years due to AI energy demand",
     "id": "1dtyxyq",
     "body": "",
     "url": "https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 332,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

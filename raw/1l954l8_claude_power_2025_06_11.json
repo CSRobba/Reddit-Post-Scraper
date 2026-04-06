@@ -1,6 +1,6 @@
 {
     "query_term": "Claude power",
-    "title": "Who\u2019s king: Gemini or Claude? Gemini leads in raw coding power and context size.",
+    "title": "Who’s king: Gemini or Claude? Gemini leads in raw coding power and context size.",
     "id": "1l954l8",
     "body": "",
     "url": "https://roocode.com/evals",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

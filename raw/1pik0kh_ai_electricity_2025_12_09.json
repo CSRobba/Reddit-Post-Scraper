@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Mapping Private Equity\u2019s Gas Fleet: Climate Footprint, Health Impacts, and AI-Driven Demand - selected PE firms are linked to an additional 82 million metric tons of CO\u2082-equivalent emissions per year, or roughly the same climate impact as the annual electricity use of 17 million U.S. homes",
+    "title": "Mapping Private Equity’s Gas Fleet: Climate Footprint, Health Impacts, and AI-Driven Demand - selected PE firms are linked to an additional 82 million metric tons of CO₂-equivalent emissions per year, or roughly the same climate impact as the annual electricity use of 17 million U.S. homes",
     "id": "1pik0kh",
     "body": "",
     "url": "https://www.peclimaterisks.org/private-equity-gas-fleet/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

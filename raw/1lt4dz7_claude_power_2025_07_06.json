@@ -2,7 +2,7 @@
     "query_term": "Claude power",
     "title": "Claude Code, love the power, hate the context anxiety. Any tips?",
     "id": "1lt4dz7",
-    "body": "I have tried several concepts from Reddit but yet to find a sweet spot to reduce the context anxiety, from shorter CLAUDE.md, using slash commands with a custom compact message, using mcps like Serena, using sub agents, a few other tricks but nothing compares to the quality once the context is carefully gathered into the context like in the initial planning, which is a problem for a large scale implementation over multiple sessions.   Opus is amazing but like a F1 with feather trigger accelerator, it can so easily steer off track into rabbit hole land. Looking to see if any folks have found a good system for elevating this constant battle, that works over multiple session and doesn\u2019t take half a day to prepare each time. ",
+    "body": "I have tried several concepts from Reddit but yet to find a sweet spot to reduce the context anxiety, from shorter CLAUDE.md, using slash commands with a custom compact message, using mcps like Serena, using sub agents, a few other tricks but nothing compares to the quality once the context is carefully gathered into the context like in the initial planning, which is a problem for a large scale implementation over multiple sessions.   Opus is amazing but like a F1 with feather trigger accelerator, it can so easily steer off track into rabbit hole land. Looking to see if any folks have found a good system for elevating this constant battle, that works over multiple session and doesn’t take half a day to prepare each time. ",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1lt4dz7/claude_code_love_the_power_hate_the_context/",
     "url_overridden_by_dest": null,
     "created": "2025-07-06T08:46:14",
@@ -11,5 +11,8 @@
     "num_comments": 50,
     "ups": 24,
     "upvote_ratio": 0.8999999761581421,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI is eating up Pennsylvania's power, governor threatens to pull state from the grid \u2014 new plants aren't being built fast enough to keep up with demand",
+    "title": "AI is eating up Pennsylvania's power, governor threatens to pull state from the grid — new plants aren't being built fast enough to keep up with demand",
     "id": "1lvtppb",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-up-pennsylvanias-power-governor-threatens-to-pull-state-from-the-grid-new-plants-arent-being-built-fast-enough-to-keep-up-with-demand",
@@ -11,5 +11,8 @@
     "num_comments": 37,
     "ups": 412,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

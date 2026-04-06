@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "The environmental consequences of big tech\u2019s push to ease regulations for AI development",
+    "title": "The environmental consequences of big tech’s push to ease regulations for AI development",
     "id": "1mtgzqv",
     "body": "",
     "url": "https://www.pbs.org/newshour/show/the-environmental-consequences-of-big-techs-push-to-ease-regulations-for-ai-development",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 63,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
