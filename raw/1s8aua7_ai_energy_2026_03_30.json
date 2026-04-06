@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Iran-Hormuz Conflict Full Investor Report (Glass AI) \u2013 Energy + Defense $10k allocation for moderate-risk portfolios",
+    "title": "Iran-Hormuz Conflict Full Investor Report (Glass AI) – Energy + Defense $10k allocation for moderate-risk portfolios",
     "id": "1s8aua7",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/energy/comments/1s8aua7/iranhormuz_conflict_full_investor_report_glass_ai/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

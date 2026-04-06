@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT energy",
-    "title": "Each ChatGPT query uses up to 10x more energy than Google \u2014 and training one AI model can emit 500+ tons of CO\u2082 (that's hundreds of flights across the Atlantic)",
+    "title": "Each ChatGPT query uses up to 10x more energy than Google — and training one AI model can emit 500+ tons of CO₂ (that's hundreds of flights across the Atlantic)",
     "id": "1k8f48v",
     "body": "",
     "url": "https://medium.com/the-environment/ai-environmental-cost-chatgpt-82d09c13dd5a",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

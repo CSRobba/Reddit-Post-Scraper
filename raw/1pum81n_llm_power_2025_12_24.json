@@ -1,6 +1,6 @@
 {
     "query_term": "LLM power",
-    "title": "LLM Excessive Agency: When Your AI Gets Too Much Power \ud83e\udd16",
+    "title": "LLM Excessive Agency: When Your AI Gets Too Much Power 🤖",
     "id": "1pum81n",
     "body": "",
     "url": "https://instatunnel.my/blog/llm-excessive-agency-when-your-ai-gets-too-much-power",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

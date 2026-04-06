@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Is phone AI bad for the environment?",
     "id": "1mgbsjz",
-    "body": "Okay, i dont know if this is the best subreddit for this but i don\u2019t really use Reddit so bear with me. I\u2019m getting a new phone, the Motorola razr and it has quite a few AI features that I initially intend to try and disable once I get it. I\u2019m not sure if that\u2019s entirely possible, but I\u2019m not super interested in it because I don\u2019t want to fuck with AI. But I\u2019m curious if I can\u2019t turn it off I\u2019m not sure if the AI in the phone is the same or has the same effect on the environment as generative AI, I read something online that generative AI is the worst for the environment and that some AI doesn\u2019t really affect the environment, but I\u2019m not sure if that\u2019s true because you know it\u2019s the Internet. so I was wondering if anyone who knows more than me about all of this. Let me know if it would be a bad idea to use it, like at all. I\u2019m heavily against chatGPT, and I don\u2019t wanna use the AI on my phone if it\u2019s just as bad as that.",
+    "body": "Okay, i dont know if this is the best subreddit for this but i don’t really use Reddit so bear with me. I’m getting a new phone, the Motorola razr and it has quite a few AI features that I initially intend to try and disable once I get it. I’m not sure if that’s entirely possible, but I’m not super interested in it because I don’t want to fuck with AI. But I’m curious if I can’t turn it off I’m not sure if the AI in the phone is the same or has the same effect on the environment as generative AI, I read something online that generative AI is the worst for the environment and that some AI doesn’t really affect the environment, but I’m not sure if that’s true because you know it’s the Internet. so I was wondering if anyone who knows more than me about all of this. Let me know if it would be a bad idea to use it, like at all. I’m heavily against chatGPT, and I don’t wanna use the AI on my phone if it’s just as bad as that.",
     "url": "https://www.reddit.com/r/antiai/comments/1mgbsjz/is_phone_ai_bad_for_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-08-02T22:58:40",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

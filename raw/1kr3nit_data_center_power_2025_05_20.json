@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "Taiwan\u2019s Foxconn says AI data center with Nvidia to have 100 MW of power",
+    "title": "Taiwan’s Foxconn says AI data center with Nvidia to have 100 MW of power",
     "id": "1kr3nit",
     "body": "",
     "url": "https://www.cnbc.com/2025/05/20/taiwans-foxconn-ai-data-center-with-nvidia-to-have-100-mw-of-power.html",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 12,
     "upvote_ratio": 0.699999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

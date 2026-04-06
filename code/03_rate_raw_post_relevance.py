@@ -29,6 +29,10 @@ _eligible = None
 _name = None
 _current_file = None
 
+def _make_list(x):
+    T = tuple(x)
+    return T
+
 def automatic_rating():
     global _name
     posts = []
@@ -52,8 +56,24 @@ def automatic_rating():
             posts.append(data)
     
     posts = pandas.DataFrame(posts)
-    posts = posts.groupby(["title", "body"]).agg({"filename": "list", "vote": "max"}).reset_index()
-    print(posts.head())
+    posts = posts.groupby(["title", "body"]).agg({"filename": _make_list, "vote": "max"}).reset_index()
+
+    print(f"Number of de-duplicated posts: {posts.shape[0]}")
+    rated_posts = posts[posts["vote"] != -1]
+    num_ratings_added = 0
+    for idx, row in rated_posts.iterrows():
+        for fname in row["filename"]:
+            fpath = os.path.join(RAW_FOLDER, fname)
+            data = util.read_json(fpath)
+            if "relevance_rate" not in data:
+                data["relevance_rate"] = {}
+            if _name not in data["relevance_rate"]:
+                data["relevance_rate"][_name] = "y" if row["vote"] == 1 else ("m" if row["vote"] == 0.5 else "n")
+                num_ratings_added += 1
+            with open(fpath, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4, ensure_ascii=False)
+
+    print(f"Number of ratings added: {num_ratings_added}")
 
 def load_global_progress():
     global _progress

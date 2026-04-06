@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "China\u2019s AI and power infrastructure strategy, highlighted by the \u201cEast Data West Compute\u201d initiative, has built twice the electricity generation capacity of the U.S",
+    "title": "China’s AI and power infrastructure strategy, highlighted by the “East Data West Compute” initiative, has built twice the electricity generation capacity of the U.S",
     "id": "1pkn66n",
-    "body": "In parallel, China\u2019s AI and power infrastructure strategy, highlighted by the \u201cEast Data West Compute\u201d initiative, has built twice the electricity generation capacity of the U.S., with wholesale power fees as low as 3 cents/kWh enabling colossal AI data centre operations projected to rival France\u2019s entire consumption by 2030. This significant infrastructural advantage allows deployment of massively parallel domestic chips, compensating for foreign semiconductor access restrictions. U.S. data centres face higher electricity costs (7-9 cents/kWh) and regulatory grid constraints, impeding rapid scale-up.",
+    "body": "In parallel, China’s AI and power infrastructure strategy, highlighted by the “East Data West Compute” initiative, has built twice the electricity generation capacity of the U.S., with wholesale power fees as low as 3 cents/kWh enabling colossal AI data centre operations projected to rival France’s entire consumption by 2030. This significant infrastructural advantage allows deployment of massively parallel domestic chips, compensating for foreign semiconductor access restrictions. U.S. data centres face higher electricity costs (7-9 cents/kWh) and regulatory grid constraints, impeding rapid scale-up.",
     "url": "https://labs.jamessawyer.co.uk/newsdesk/20251212-002321/",
     "url_overridden_by_dest": "https://labs.jamessawyer.co.uk/newsdesk/20251212-002321/",
     "created": "2025-12-12T00:51:53",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 15,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

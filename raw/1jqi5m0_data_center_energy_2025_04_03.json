@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "Trump\u2019s fossil-fuel donors to profit from data-center boom and green rollbacks | Energy Transfer, a top backer of US president, has received requests to power even more energy-guzzling data centers",
+    "title": "Trump’s fossil-fuel donors to profit from data-center boom and green rollbacks | Energy Transfer, a top backer of US president, has received requests to power even more energy-guzzling data centers",
     "id": "1jqi5m0",
     "body": "",
     "url": "https://www.theguardian.com/environment/2025/apr/03/trump-fossil-fuel-donors-data-centers",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 19,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

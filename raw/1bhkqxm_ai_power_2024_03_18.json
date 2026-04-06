@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Apple Is in Talks to Let Google\u2019s Gemini Power iPhone Generative AI Features",
+    "title": "Apple Is in Talks to Let Google’s Gemini Power iPhone Generative AI Features",
     "id": "1bhkqxm",
     "body": "",
     "url": "https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools?utm_campaign=instagram-bio-link&utm_content=business&utm_medium=social&utm_source=instagram",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 10,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

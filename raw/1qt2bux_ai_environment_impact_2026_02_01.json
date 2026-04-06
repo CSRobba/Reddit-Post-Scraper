@@ -2,7 +2,7 @@
     "query_term": "AI environment impact",
     "title": "What do you think about AI & its potential impact on our environment?",
     "id": "1qt2bux",
-    "body": "I\u2019ve been doing research on AI and how it affects the environment. Data centers using too much water and electricity when training a new AI model. (Water used for cooling). \n\nI\u2019m looking for everyone else\u2019s opinions on this. & are people even going to step up and take action against this problem or no, do you think?",
+    "body": "I’ve been doing research on AI and how it affects the environment. Data centers using too much water and electricity when training a new AI model. (Water used for cooling). \n\nI’m looking for everyone else’s opinions on this. & are people even going to step up and take action against this problem or no, do you think?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qt2bux/what_do_you_think_about_ai_its_potential_impact/",
     "url_overridden_by_dest": null,
     "created": "2026-02-01T08:03:46",
@@ -11,5 +11,8 @@
     "num_comments": 38,
     "ups": 0,
     "upvote_ratio": 0.3199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

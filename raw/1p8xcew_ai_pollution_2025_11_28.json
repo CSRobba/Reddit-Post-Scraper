@@ -1,6 +1,6 @@
 {
     "query_term": "AI pollution",
-    "title": "Pollution from coal plants was dropping. Then came Trump and AI. | Data centers\u2019 hunger for electricity is prompting some states to keep their coal-burning power plants from closing \u2014 while DC relaxes air pollution limits.",
+    "title": "Pollution from coal plants was dropping. Then came Trump and AI. | Data centers’ hunger for electricity is prompting some states to keep their coal-burning power plants from closing — while DC relaxes air pollution limits.",
     "id": "1p8xcew",
     "body": "",
     "url": "https://www.politico.com/news/2025/11/27/ai-gives-coal-plants-a-lifeline-as-trump-makes-them-dirtier-00661839",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 9,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

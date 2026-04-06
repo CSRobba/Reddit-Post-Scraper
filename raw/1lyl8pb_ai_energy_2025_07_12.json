@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Ambiq IPO \u2013 The Future of Energy-Efficient AI Chips?",
+    "title": "Ambiq IPO – The Future of Energy-Efficient AI Chips?",
     "id": "1lyl8pb",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1lyl8pb/ambiq_ipo_the_future_of_energyefficient_ai_chips/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

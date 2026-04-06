@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Google quietly removes net-zero carbon goal from website amid rapid power-hungry AI data center buildout \u2014 industry-first sustainability pledge moved to background amidst AI energy crisis",
+    "title": "Google quietly removes net-zero carbon goal from website amid rapid power-hungry AI data center buildout — industry-first sustainability pledge moved to background amidst AI energy crisis",
     "id": "1nblbxa",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/google-quietly-removes-net-zero-carbon-goal-from-website-amid-rapid-power-hungry-ai-data-center-buildout-industry-first-sustainability-pledge-moved-to-background-amidst-ai-energy-crisis",
@@ -11,5 +11,8 @@
     "num_comments": 17,
     "ups": 47,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

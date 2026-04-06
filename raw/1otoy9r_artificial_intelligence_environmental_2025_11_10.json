@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence environmental",
-    "title": "New analysis tries to calculate the coming environmental footprint of AI in the US and finds that the ideal sites for data centers aren\u2019t where they\u2019re being built | Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA",
+    "title": "New analysis tries to calculate the coming environmental footprint of AI in the US and finds that the ideal sites for data centers aren’t where they’re being built | Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA",
     "id": "1otoy9r",
     "body": "",
     "url": "https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 417,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

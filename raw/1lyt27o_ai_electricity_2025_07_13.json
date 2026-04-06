@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "AI Is Driving Up Your Electricity Bill\u2014Here\u2019s Why Some States Are Seeing 20% Price Hikes",
+    "title": "AI Is Driving Up Your Electricity Bill—Here’s Why Some States Are Seeing 20% Price Hikes",
     "id": "1lyt27o",
     "body": "",
     "url": "https://esstnews.com/ai-your-electricity-bill/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

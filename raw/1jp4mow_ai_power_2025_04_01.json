@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Viral Studio Ghibli-style AI images showcase power \u2013 and copyright concerns \u2013 of ChatGPT update",
+    "title": "Viral Studio Ghibli-style AI images showcase power – and copyright concerns – of ChatGPT update",
     "id": "1jp4mow",
     "body": "",
     "url": "https://www.cnn.com/2025/03/27/style/chatgpt-studio-ghibli-ai-images-intl-hnk/index.html",
@@ -11,5 +11,8 @@
     "num_comments": 44,
     "ups": 0,
     "upvote_ratio": 0.46000000834465027,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

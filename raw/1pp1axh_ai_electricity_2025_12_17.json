@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "AI\u2019s water and electricity use soars in 2025: A new study estimates the environmental impact of AI in 2025 and calls for more transparency from companies on their pollution and water consumption.",
+    "title": "AI’s water and electricity use soars in 2025: A new study estimates the environmental impact of AI in 2025 and calls for more transparency from companies on their pollution and water consumption.",
     "id": "1pp1axh",
     "body": "",
     "url": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water?utm_content=bufferc2acc&utm_medium=social&utm_source=bsky.app&utm_campaign=verge_social",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "Gemini sustainable",
-    "title": "Transform your city with Urban Green! \ud83c\udf3f\u2728 Adopt local plants, get care tips from Gemini AI, and earn achievements. Let's make our cities greener and more sustainable together\ud83c\udf31!",
+    "title": "Transform your city with Urban Green! 🌿✨ Adopt local plants, get care tips from Gemini AI, and earn achievements. Let's make our cities greener and more sustainable together🌱!",
     "id": "1eb1inj",
     "body": "",
     "url": "https://stoobit.github.io/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83e\udd16 Unleash the Power of AI with Us!",
+    "title": "🤖 Unleash the Power of AI with Us!",
     "id": "17i6uin",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/17i6uin/unleash_the_power_of_ai_with_us/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

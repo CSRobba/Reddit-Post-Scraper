@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "Google\u2019s greenhouse gas emissions climbed nearly 50 percent in five years due to AI | The company's 2024 Environmental Report showed how energy-guzzling data centers used to power AI are complicating the company\u2019s path to carbon neutrality.",
+    "title": "Google’s greenhouse gas emissions climbed nearly 50 percent in five years due to AI | The company's 2024 Environmental Report showed how energy-guzzling data centers used to power AI are complicating the company’s path to carbon neutrality.",
     "id": "1du1ni3",
     "body": "",
     "url": "https://www.engadget.com/googles-greenhouse-gas-emissions-climbed-nearly-50-percent-in-five-years-due-to-ai-002646115.html",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 53,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

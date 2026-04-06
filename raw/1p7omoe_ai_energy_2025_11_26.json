@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "AI energy consumption",
     "id": "1p7omoe",
-    "body": "I was reading about AI energy consumption and came across the article [https://arxiv.org/html/2505.09598v6](https://arxiv.org/html/2505.09598v6) which talks about how much AI consumes on the per prompt level. It found the GPT-4o uses about 0.423 \u00b1 0.085 Wh per short prompt (100 word input-300 word output).\n\nChatGPT receives around 2.5 billions prompts daily and, 2.5 billion x 0.423 = 1,057,500,000 Wh\n\n  \nNow, I understand that energy consumption for AI depends on a lot of variables like the device youre using, the prompt and the Ai model youre using, but if averaged out, is this a reasonable number to attribute to AI energy consumption, or am I missing something here? I'm having trouble finding a solid number for how much energy AI consumes daily. ",
+    "body": "I was reading about AI energy consumption and came across the article [https://arxiv.org/html/2505.09598v6](https://arxiv.org/html/2505.09598v6) which talks about how much AI consumes on the per prompt level. It found the GPT-4o uses about 0.423 ± 0.085 Wh per short prompt (100 word input-300 word output).\n\nChatGPT receives around 2.5 billions prompts daily and, 2.5 billion x 0.423 = 1,057,500,000 Wh\n\n  \nNow, I understand that energy consumption for AI depends on a lot of variables like the device youre using, the prompt and the Ai model youre using, but if averaged out, is this a reasonable number to attribute to AI energy consumption, or am I missing something here? I'm having trouble finding a solid number for how much energy AI consumes daily. ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1p7omoe/ai_energy_consumption/",
     "url_overridden_by_dest": null,
     "created": "2025-11-26T16:47:00",
@@ -11,5 +11,8 @@
     "num_comments": 18,
     "ups": 6,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

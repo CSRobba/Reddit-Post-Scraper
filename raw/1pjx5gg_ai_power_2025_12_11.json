@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "China\u2019s AI Power Play: Cheap Electricity From World\u2019s Biggest Grid",
+    "title": "China’s AI Power Play: Cheap Electricity From World’s Biggest Grid",
     "id": "1pjx5gg",
     "body": "",
     "url": "https://www.wsj.com/tech/china-ai-electricity-data-centers-d2a86935?st=sjG8GY&reflink=desktopwebshare_permalink",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 51,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

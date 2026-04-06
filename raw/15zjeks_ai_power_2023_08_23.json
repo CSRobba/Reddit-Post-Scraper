@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "IBM Research\u2019s newest prototype chips use drastically less power to solve AI tasks | In a paper published in Nature today, IBM showed it\u2019s possible to build analog AI chips that can handle natural-language AI tasks with an estimated 14 times more energy efficiency",
+    "title": "IBM Research’s newest prototype chips use drastically less power to solve AI tasks | In a paper published in Nature today, IBM showed it’s possible to build analog AI chips that can handle natural-language AI tasks with an estimated 14 times more energy efficiency",
     "id": "15zjeks",
     "body": "",
     "url": "https://research.ibm.com/blog/analog-ai-chip-low-power",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 106,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

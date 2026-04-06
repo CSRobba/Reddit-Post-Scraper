@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Microsoft used ~700,000 liters of water to cool servers during GPT-3\u2019s training. Generating a single AI image can emit as much CO2 as charging a smartphone",
+    "title": "Microsoft used ~700,000 liters of water to cool servers during GPT-3’s training. Generating a single AI image can emit as much CO2 as charging a smartphone",
     "id": "1jsb41k",
     "body": "",
     "url": "https://i.redd.it/1e68c15nf2te1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
