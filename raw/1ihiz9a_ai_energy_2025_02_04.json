@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "DeepSeek\u2019s Energy Breakthrough: A New Era for AI",
+    "title": "DeepSeek’s Energy Breakthrough: A New Era for AI",
     "id": "1ihiz9a",
     "body": "",
     "url": "https://www.energyinsider.io/post/deepseeks-energy-breakthrough-a-new-era-for-ai",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

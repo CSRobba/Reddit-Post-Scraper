@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "\u201cI can\u2019t wait for the AI bubble to finally burst! RAM prices and electricity bills will go down, we\u2019ll stop trashing the environment, and human artists will be compensated for their craft again!\u201d",
+    "title": "“I can’t wait for the AI bubble to finally burst! RAM prices and electricity bills will go down, we’ll stop trashing the environment, and human artists will be compensated for their craft again!”",
     "id": "1qnmsn0",
     "body": "",
     "url": "https://i.redd.it/a43je952cqfg1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 67,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

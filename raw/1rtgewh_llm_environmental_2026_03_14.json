@@ -2,7 +2,7 @@
     "query_term": "LLM environmental",
     "title": "[R] Academic survey: How practitioners evaluate the environmental impact of LLM usage",
     "id": "1rtgewh",
-    "body": "Hi everyone,\n\nI'm conducting a short **5\u20137 minute survey** as part of my Master's thesis on how the **environmental impact of Large Language Models used in software engineering** is evaluated in practice.\n\nI'm particularly interested in responses from:\n\n\u2022 ML engineers  \n\u2022 software engineers  \n\u2022 researchers  \n\u2022 practitioners using tools like ChatGPT, Copilot or Code Llama\n\n\ud83d\udc49 Survey link:  \n[https://forms.gle/pjUXd9Mn1rGXXXQ58](https://forms.gle/pjUXd9Mn1rGXXXQ58)\n\nThe survey is **anonymous** and **purely academic**.\n\nThanks a lot for your help!",
+    "body": "Hi everyone,\n\nI'm conducting a short **5–7 minute survey** as part of my Master's thesis on how the **environmental impact of Large Language Models used in software engineering** is evaluated in practice.\n\nI'm particularly interested in responses from:\n\n• ML engineers  \n• software engineers  \n• researchers  \n• practitioners using tools like ChatGPT, Copilot or Code Llama\n\n👉 Survey link:  \n[https://forms.gle/pjUXd9Mn1rGXXXQ58](https://forms.gle/pjUXd9Mn1rGXXXQ58)\n\nThe survey is **anonymous** and **purely academic**.\n\nThanks a lot for your help!",
     "url": "https://www.reddit.com/r/Sustainable/comments/1rtgewh/r_academic_survey_how_practitioners_evaluate_the/",
     "url_overridden_by_dest": null,
     "created": "2026-03-14T06:54:21",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

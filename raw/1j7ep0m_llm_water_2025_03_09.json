@@ -1,6 +1,6 @@
 {
     "query_term": "LLM water",
-    "title": "12V-2x6 Power Connector Cooks At Over 150\u00b0C With A \"Water-Cooled\" NVIDIA GeForce RTX 5090 -- For Those Thinking About Buying One or More For LLM Usage",
+    "title": "12V-2x6 Power Connector Cooks At Over 150°C With A \"Water-Cooled\" NVIDIA GeForce RTX 5090 -- For Those Thinking About Buying One or More For LLM Usage",
     "id": "1j7ep0m",
     "body": "",
     "url": "https://wccftech.com/12v-2x6-power-connector-cooks-at-over-150c-with-a-water-cooled-nvidia-geforce-rtx-5090/",
@@ -11,5 +11,8 @@
     "num_comments": 21,
     "ups": 31,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

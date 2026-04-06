@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "We are filmmakers utilising the power of AI \u2013 here's our thoughts!",
+    "title": "We are filmmakers utilising the power of AI – here's our thoughts!",
     "id": "15noqrs",
     "body": "",
     "url": "/r/DefendingAIArt/comments/15nhr45/we_are_filmmakers_utilising_the_power_of_ai_heres/",
@@ -11,5 +11,8 @@
     "num_comments": 18,
     "ups": 21,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

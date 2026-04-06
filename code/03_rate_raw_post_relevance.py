@@ -32,18 +32,16 @@ _current_file = None
 def load_global_progress():
     global _progress
     global _name
-    total = completed = 0
+    total = completed = relevant = 0
     if os.path.exists(RAW_FOLDER):
         for fname in os.listdir(RAW_FOLDER):
             data = util.read_json(os.path.join(RAW_FOLDER, fname))
             total += 1
             if len(data.get("relevance_rate", {})) >= 2 or _name in data.get("relevance_rate", {}):
                 completed += 1
-            
-            relevant = 0
-            if "y" in data.get("relevance_rate", {}).values() or "m" in data.get("relevance_rate", {}).values():
-                relevant += 1 
-        _progress = {"completed": completed, "total": total}
+                if "y" in list(data.get("relevance_rate", {}).values()) or "m" in list(data.get("relevance_rate", {}).values()):
+                    relevant += 1 
+        _progress = {"completed": completed, "total": total, "relevant": relevant}
         print(relevant, completed)
 
 def build_eligible(name):
@@ -56,6 +54,8 @@ def build_eligible(name):
         
         if name not in ratings and len(ratings) < 2:
             _eligible.append(fname)
+    
+    print(len(_eligible))
 
 ##########
 # HTML
@@ -213,6 +213,8 @@ def submit():
 
     reasoning = request.form.get("reasoning", "").strip()
 
+    print(RAW_FOLDER)
+    print(_current_file)
     fpath = os.path.join(RAW_FOLDER, _current_file)
     data = util.read_json(fpath)
 
@@ -232,8 +234,7 @@ def submit():
         _eligible.remove(_current_file)
     
     # Incrementally update global progress cache
-    if _progress and len(data["relevance_rate"]) == 1:
-        _progress["completed"] += 1
+    _progress["completed"] += 1
 
     return redirect(url_for("rate"))
 

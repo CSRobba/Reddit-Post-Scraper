@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "Environmental impact of AI: \u201cCreating a 5-second AI video is like running a microwave for an hour\u201d",
+    "title": "Environmental impact of AI: “Creating a 5-second AI video is like running a microwave for an hour”",
     "id": "1kvwpg7",
     "body": "",
     "url": "https://mashable.com/article/energy-ai-worse-than-we-thought",
@@ -11,5 +11,8 @@
     "num_comments": 26,
     "ups": 73,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

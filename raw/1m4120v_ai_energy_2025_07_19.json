@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "This startup made a video blaming their own app for an HR scandal. Peak 2025 energy.                   I thought it was a parody at first. They basically said, \u201cour AI is so good, our users got too productive and ended up in \u2018inappropriate collaboration\u2019.\u201dLike\u2026 what even is this timeline anymore?",
+    "title": "This startup made a video blaming their own app for an HR scandal. Peak 2025 energy.                   I thought it was a parody at first. They basically said, “our AI is so good, our users got too productive and ended up in ‘inappropriate collaboration’.”Like… what even is this timeline anymore?",
     "id": "1m4120v",
     "body": "",
     "url": "https://x.com/merlinaibyfoyer/status/1946544418158530870?s=46",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

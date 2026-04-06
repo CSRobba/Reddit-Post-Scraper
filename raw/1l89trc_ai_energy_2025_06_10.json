@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI Demands to Be Fed. We\u2019re All Servers Now |   Data centres must run 24-7 and need constant supplies of energy. So renewables like wind and solar, even with a massive battery farm, aren\u2019t a first choice  \n#GlobalCarbonFeeAndDividendPetition",
+    "title": "AI Demands to Be Fed. We’re All Servers Now |   Data centres must run 24-7 and need constant supplies of energy. So renewables like wind and solar, even with a massive battery farm, aren’t a first choice  \n#GlobalCarbonFeeAndDividendPetition",
     "id": "1l89trc",
     "body": "",
     "url": "https://thetyee.ca/Analysis/2025/06/10/AI-Demands-Be-Fed-All-Servers-Now/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 22,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
