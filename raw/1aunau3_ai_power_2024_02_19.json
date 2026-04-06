@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI Learns the Universe:\u00a0The Power of General World Models \u2728",
+    "title": "AI Learns the Universe: The Power of General World Models ✨",
     "id": "1aunau3",
     "body": "",
     "url": "https://youtu.be/ZLTQ0UUDzug?si=_cDx5higQOWwTLwS",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

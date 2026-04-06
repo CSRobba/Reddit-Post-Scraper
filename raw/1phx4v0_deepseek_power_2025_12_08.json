@@ -1,6 +1,6 @@
 {
     "query_term": "DeepSeek power",
-    "title": "ChatGPT, Gemini,  DeepSeek, Claude, Perplexity,  and Grok give response to this article about what one person\u2019s power means.",
+    "title": "ChatGPT, Gemini,  DeepSeek, Claude, Perplexity,  and Grok give response to this article about what one person’s power means.",
     "id": "1phx4v0",
     "body": "",
     "url": "https://v.redd.it/3p1lyw5jk36g1",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 4,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

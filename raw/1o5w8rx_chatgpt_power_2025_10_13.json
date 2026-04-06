@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "OpenAI\u2019s New Energy Chief Is a Trump Administration Natural Gas Evangelist | The ChatGPT creator hired John McCarrick, a gas-loving former Trump energy official, to guide how the company will source huge quantities of power for its colossal supercomputers.",
+    "title": "OpenAI’s New Energy Chief Is a Trump Administration Natural Gas Evangelist | The ChatGPT creator hired John McCarrick, a gas-loving former Trump energy official, to guide how the company will source huge quantities of power for its colossal supercomputers.",
     "id": "1o5w8rx",
     "body": "",
     "url": "https://www.desmog.com/2025/10/13/openais-new-energy-chief-is-a-trump-administration-natural-gas-evangelist/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 20,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

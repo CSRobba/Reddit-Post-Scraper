@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "Sam Altman claims an average ChatGPT query uses \u2018roughly one fifteenth of a teaspoon\u2019 of water",
+    "title": "Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water",
     "id": "1lbo4f5",
     "body": "",
     "url": "https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water",
@@ -11,5 +11,8 @@
     "num_comments": 50,
     "ups": 398,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

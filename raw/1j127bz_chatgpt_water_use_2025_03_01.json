@@ -2,7 +2,7 @@
     "query_term": "ChatGPT water use",
     "title": "ELI5 How does ChatGPT use water?",
     "id": "1j127bz",
-    "body": "How does an app use so many precious resources that there\u2019s a whole movement against it? How is it different than the resources required to maintain the internet? ",
+    "body": "How does an app use so many precious resources that there’s a whole movement against it? How is it different than the resources required to maintain the internet? ",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1j127bz/eli5_how_does_chatgpt_use_water/",
     "url_overridden_by_dest": null,
     "created": "2025-03-01T07:39:31",
@@ -11,5 +11,8 @@
     "num_comments": 404,
     "ups": 394,
     "upvote_ratio": 0.7599999904632568,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

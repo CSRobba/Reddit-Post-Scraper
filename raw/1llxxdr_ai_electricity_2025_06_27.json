@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Google\u2019s emissions up 51% as AI electricity demand derails efforts to go green | Google",
+    "title": "Google’s emissions up 51% as AI electricity demand derails efforts to go green | Google",
     "id": "1llxxdr",
     "body": "",
     "url": "https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green",
@@ -11,5 +11,8 @@
     "num_comments": 40,
     "ups": 693,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

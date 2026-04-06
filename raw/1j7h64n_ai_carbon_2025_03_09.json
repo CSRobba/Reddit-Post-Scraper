@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "Chinese scientists develop world\u2019s first carbon-based AI chip | The new chip processes data not just in ones and zeros, but also in a third state.",
+    "title": "Chinese scientists develop world’s first carbon-based AI chip | The new chip processes data not just in ones and zeros, but also in a third state.",
     "id": "1j7h64n",
     "body": "",
     "url": "https://tribune.com.pk/story/2533072/chinese-scientists-develop-worlds-first-carbon-based-ai-chip",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

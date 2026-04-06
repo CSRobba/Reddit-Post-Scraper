@@ -1,8 +1,8 @@
 {
     "query_term": "AI environment harm",
-    "title": "how does AI harm the environment in a way that just using a lot of electricity doesn\u2019t?",
+    "title": "how does AI harm the environment in a way that just using a lot of electricity doesn’t?",
     "id": "1ku2evh",
-    "body": "just now i saw a post about how ai chatbots are drying places up by using water to run data centers. i\u2019ve also generally seen the sentiment that it is bad for the environment. i get that the water makes the electricity, but i don\u2019t understand how ai uses up more water than anything else you do on your computer. wouldn\u2019t anything that uses a lot of electricity made with water be harmful?",
+    "body": "just now i saw a post about how ai chatbots are drying places up by using water to run data centers. i’ve also generally seen the sentiment that it is bad for the environment. i get that the water makes the electricity, but i don’t understand how ai uses up more water than anything else you do on your computer. wouldn’t anything that uses a lot of electricity made with water be harmful?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1ku2evh/how_does_ai_harm_the_environment_in_a_way_that/",
     "url_overridden_by_dest": null,
     "created": "2025-05-23T20:41:52",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

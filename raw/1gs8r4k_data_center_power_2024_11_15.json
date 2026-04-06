@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "Huge gas plant eyed to power mystery $5B Louisiana data center | Entergy proposes a new $3.2 billion natural gas plant to run a \u2018game changing\u2019 data center in northeast Louisiana; critics question the move",
+    "title": "Huge gas plant eyed to power mystery $5B Louisiana data center | Entergy proposes a new $3.2 billion natural gas plant to run a ‘game changing’ data center in northeast Louisiana; critics question the move",
     "id": "1gs8r4k",
     "body": "",
     "url": "https://floodlightnews.org/huge-gas-plant-eyed-to-power-mystery-5b-louisiana-data-center/",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 9,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
