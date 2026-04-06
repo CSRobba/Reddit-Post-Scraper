@@ -11,5 +11,13 @@
     "num_comments": 6,
     "ups": 0,
     "upvote_ratio": 0.30000001192092896,
+<<<<<<< HEAD
     "view_count": null
+=======
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+>>>>>>> 6603cb9dad071baa2efabf82d5f5287ed92b3b06
 }

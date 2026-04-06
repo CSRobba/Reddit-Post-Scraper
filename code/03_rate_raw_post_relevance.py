@@ -123,12 +123,14 @@ RATE_HTML = """
 ##########
 @app.route("/", methods=["GET", "POST"])
 def index():
-    global _name
+    global _name, _progress, _eligible
     if request.method == "POST":
         name = request.form.get("name", "").strip()
         if name:
             session["name"] = name
             _name = name
+            _progress = None
+            _eligible = None
             return redirect(url_for("rate"))
     return INDEX_HTML
 
@@ -216,10 +218,11 @@ def submit():
 
     if "relevance_rate" not in data:
         data["relevance_rate"] = {}
-    if "relevance_reasoning" not in data:
-        data["relevance_reasoning"] = {}
     data["relevance_rate"][_name] = vote
-    data["relevance_reasoning"][_name] = reasoning
+    if reasoning:
+        if "relevance_reasoning" not in data:
+            data["relevance_reasoning"] = {}
+        data["relevance_reasoning"][_name] = reasoning
 
     with open(fpath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
@@ -236,9 +239,13 @@ def submit():
 
 @app.route("/logout")
 def logout():
+    global _name, _progress, _eligible, _current_file
     session.clear()
+    _name = None
+    _progress = None
+    _eligible = None
+    _current_file = None
     return redirect(url_for("index"))
 
 if __name__ == "__main__":
-    load_global_progress()
     app.run(debug=True)

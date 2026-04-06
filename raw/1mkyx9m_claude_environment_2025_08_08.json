@@ -1,6 +1,6 @@
 {
     "query_term": "Claude environment",
-    "title": "When Claude Won\u2019t Read the README: My Python Environment Nightmare \ud83d\ude21\ud83d\udc0d",
+    "title": "When Claude Won’t Read the README: My Python Environment Nightmare 😡🐍",
     "id": "1mkyx9m",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1mkyx9m/when_claude_wont_read_the_readme_my_python/",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

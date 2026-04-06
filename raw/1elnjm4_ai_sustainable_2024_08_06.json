@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "\u201cWe\u2019re getting less and less efficient with every step, and this has coincided with the rise of AI, which unfortunately uses the most energy intensive and hottest chips out there,\u201d Tim Rosenfield, co-founder and co-CEO of Sustainable Metal Cloud, told the conference.\u201d",
+    "title": "“We’re getting less and less efficient with every step, and this has coincided with the rise of AI, which unfortunately uses the most energy intensive and hottest chips out there,” Tim Rosenfield, co-founder and co-CEO of Sustainable Metal Cloud, told the conference.”",
     "id": "1elnjm4",
     "body": "https://l.smartnews.com/p-x1RfP/8DyVh8",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1elnjm4/were_getting_less_and_less_efficient_with_every/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

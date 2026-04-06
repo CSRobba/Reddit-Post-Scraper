@@ -2,7 +2,7 @@
     "query_term": "AI water usage",
     "title": "Datacenter water usage is NOT an AI issue.",
     "id": "1qq2q0m",
-    "body": "It would be ignorant to say that AI datacenters don't have environmental effects. They do. But that is not AI(the technology)'s fault. \n\nIt's capitalism and bad management. Some nations force the construction of datacenters, even if freshwater supply in that location is scarce. \n\n\"Since 2022, more than two-thirds of new data centers have been built in water-stressed areas, including Texas, Arizona, Saudi Arabia, and India, where freshwater scarcity is already a critical issue.\" - Wikipedia \n\n\"In regions like Aragon, Spain, Amazon's planned data centers are licensed to withdraw 755,720 cubic metres (612.67 acre\u22c5ft) of water per year, sparking conflicts with farmers who rely on the same dwindling supplies.\" - Wikipedia \n\nIf the same datacenters were to be setup in a location where it wouldn't stress the local populace, it wouldn't be an issue. But, due to mismanagement, and capitalist mindset of prioritising profits, these datacenters are allowed to be made. \n\nAI as a technology is not bad, if managed well. We as a species cannot be expected to halt technological progress, but what we can do is limit damage. Which isn't happening. And this should be our biggest focus, not pointless hatred on AI. ",
+    "body": "It would be ignorant to say that AI datacenters don't have environmental effects. They do. But that is not AI(the technology)'s fault. \n\nIt's capitalism and bad management. Some nations force the construction of datacenters, even if freshwater supply in that location is scarce. \n\n\"Since 2022, more than two-thirds of new data centers have been built in water-stressed areas, including Texas, Arizona, Saudi Arabia, and India, where freshwater scarcity is already a critical issue.\" - Wikipedia \n\n\"In regions like Aragon, Spain, Amazon's planned data centers are licensed to withdraw 755,720 cubic metres (612.67 acre⋅ft) of water per year, sparking conflicts with farmers who rely on the same dwindling supplies.\" - Wikipedia \n\nIf the same datacenters were to be setup in a location where it wouldn't stress the local populace, it wouldn't be an issue. But, due to mismanagement, and capitalist mindset of prioritising profits, these datacenters are allowed to be made. \n\nAI as a technology is not bad, if managed well. We as a species cannot be expected to halt technological progress, but what we can do is limit damage. Which isn't happening. And this should be our biggest focus, not pointless hatred on AI. ",
     "url": "https://www.reddit.com/r/aiwars/comments/1qq2q0m/datacenter_water_usage_is_not_an_ai_issue/",
     "url_overridden_by_dest": null,
     "created": "2026-01-29T00:07:44",
@@ -11,5 +11,8 @@
     "num_comments": 23,
     "ups": 13,
     "upvote_ratio": 0.7400000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

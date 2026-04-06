@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "query_term": "AI environment",
     "title": "Anti-AI folks don\u2019t actually care about the environment, copyright, morality, or even the definition of \u201cart\u201d as applied to AI. Those are all excuses.",
+=======
+    "query_term": "Ai environment",
+    "title": "Anti-AI folks don’t actually care about the environment, copyright, morality, or even the definition of “art” as applied to AI. Those are all excuses.",
+>>>>>>> 6603cb9dad071baa2efabf82d5f5287ed92b3b06
     "id": "1n0hbr9",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/aiwars/comments/1n0hbr9/antiai_folks_dont_actually_care_about_the/",
@@ -11,5 +16,8 @@
     "num_comments": 155,
     "ups": 10,
     "upvote_ratio": 0.5400000214576721,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

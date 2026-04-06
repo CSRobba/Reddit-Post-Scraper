@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environment",
-    "title": "Why Can\u2019t I Create a Codex Environment in ChatGPT? \u201cCreate Environment\u201d Button Greyed Out",
+    "title": "Why Can’t I Create a Codex Environment in ChatGPT? “Create Environment” Button Greyed Out",
     "id": "1l47hfr",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1l47hfr/why_cant_i_create_a_codex_environment_in_chatgpt/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

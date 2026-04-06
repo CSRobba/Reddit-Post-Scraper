@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "I built an AI-powered tool for students preparing for competitive exams who don\u2019t want to waste time on full-length courses - www.getcurio.ai",
+    "title": "I built an AI-powered tool for students preparing for competitive exams who don’t want to waste time on full-length courses - www.getcurio.ai",
     "id": "1i5t50y",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SideProject/comments/1i5t50y/i_built_an_aipowered_tool_for_students_preparing/",
@@ -11,5 +11,11 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "removed"
+    }
 }

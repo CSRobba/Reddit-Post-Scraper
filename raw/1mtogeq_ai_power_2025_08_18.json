@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Multiverse Computing (\ud83c\uddea\ud83c\uddf8) shrinks AI models by 95% without losing power -- for realz?",
+    "title": "Multiverse Computing (🇪🇸) shrinks AI models by 95% without losing power -- for realz?",
     "id": "1mtogeq",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mtogeq/multiverse_computing_shrinks_ai_models_by_95/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

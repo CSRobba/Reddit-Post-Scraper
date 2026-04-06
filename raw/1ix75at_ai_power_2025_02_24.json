@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "World\u2019s largest data center gets go-ahead from Korean govt \u2014 facility to require 3 GW of power | SFR has got big AI dreams in South Korea.",
+    "title": "World’s largest data center gets go-ahead from Korean govt — facility to require 3 GW of power | SFR has got big AI dreams in South Korea.",
     "id": "1ix75at",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-data-center-gets-go-ahead-from-korean-govt-facility-to-require-3-gw-of-power",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

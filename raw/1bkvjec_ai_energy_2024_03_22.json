@@ -1,8 +1,8 @@
 {
     "query_term": "AI energy",
-    "title": "AI energy efficient IF E_AI_cost\u200b \u2212 E_AI_saved\u200b < E_Human_cost\u200b \u2212 E_Human_saved (\"Equation of The Anonymizer\" lol, remember the human brain is super energy efficient much more than LLMs)",
+    "title": "AI energy efficient IF E_AI_cost​ − E_AI_saved​ < E_Human_cost​ − E_Human_saved (\"Equation of The Anonymizer\" lol, remember the human brain is super energy efficient much more than LLMs)",
     "id": "1bkvjec",
-    "body": "AI  energy efficient IF E\\_AI\\_cost\u200b \u2212 E\\_AI\\_saved\u200b < E\\_Human\\_cost\u200b \u2212 E\\_Human\\_saved (\"Equation of The Anonymizer\" lol, remember the human brain is super energy efficient much more than LLMs)",
+    "body": "AI  energy efficient IF E\\_AI\\_cost​ − E\\_AI\\_saved​ < E\\_Human\\_cost​ − E\\_Human\\_saved (\"Equation of The Anonymizer\" lol, remember the human brain is super energy efficient much more than LLMs)",
     "url": "https://www.reddit.com/r/artificial/comments/1bkvjec/ai_energy_efficient_if_e_ai_cost_e_ai_saved_e/",
     "url_overridden_by_dest": null,
     "created": "2024-03-22T02:55:56",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

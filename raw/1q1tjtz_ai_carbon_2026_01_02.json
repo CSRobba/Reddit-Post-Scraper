@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "Built Berlin EcoCoach AI \u2013 free carbon calculator with tips",
+    "title": "Built Berlin EcoCoach AI – free carbon calculator with tips",
     "id": "1q1tjtz",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/climatechange/comments/1q1tjtz/built_berlin_ecocoach_ai_free_carbon_calculator/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

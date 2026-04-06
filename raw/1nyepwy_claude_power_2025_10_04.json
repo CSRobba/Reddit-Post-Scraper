@@ -1,6 +1,6 @@
 {
     "query_term": "Claude power",
-    "title": "Sidekick: Power to the Editor \u2013 Use Claude Code without surrendering your Neovim workflow",
+    "title": "Sidekick: Power to the Editor – Use Claude Code without surrendering your Neovim workflow",
     "id": "1nyepwy",
     "body": "[removed]",
     "url": "https://github.com/NishantJoshi00/sidekick",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

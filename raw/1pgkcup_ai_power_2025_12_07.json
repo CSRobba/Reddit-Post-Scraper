@@ -11,5 +11,8 @@
     "num_comments": 76,
     "ups": 364,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\udca1Harness the power of AI to earn online! \ud83d\ude80",
+    "title": "💡Harness the power of AI to earn online! 🚀",
     "id": "1f34mjk",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1f34mjk/harness_the_power_of_ai_to_earn_online/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

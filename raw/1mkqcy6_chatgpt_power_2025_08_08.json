@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Hot take: ChatGPT isn\u2019t for power users anymore. If you want the real GPT\u20115 use the API",
+    "title": "Hot take: ChatGPT isn’t for power users anymore. If you want the real GPT‑5 use the API",
     "id": "1mkqcy6",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/singularity/comments/1mkqcy6/hot_take_chatgpt_isnt_for_power_users_anymore_if/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

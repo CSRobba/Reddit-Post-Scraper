@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "This is the environmental disaster behind AI",
     "id": "1petjkw",
-    "body": "In this clip from\u00a0**AsapSCIENCE**, we learn the shocking truth: massive AI data centers from Microsoft, Meta, Tesla, Google, and Amazon consume enormous amounts of electricity\u00a0*and*\u00a0millions of gallons of fresh water just to stay cool.",
+    "body": "In this clip from **AsapSCIENCE**, we learn the shocking truth: massive AI data centers from Microsoft, Meta, Tesla, Google, and Amazon consume enormous amounts of electricity *and* millions of gallons of fresh water just to stay cool.",
     "url": "https://v.redd.it/5bfz60rend5g1",
     "url_overridden_by_dest": "https://v.redd.it/5bfz60rend5g1",
     "created": "2025-12-05T07:14:27",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 0,
     "upvote_ratio": 0.28999999165534973,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

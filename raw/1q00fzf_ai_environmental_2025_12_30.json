@@ -1,8 +1,8 @@
 {
     "query_term": "AI environmental",
-    "title": "Environmental impacts of AI are not \u201cminor\u201d, contrary to ai bros, they\u2019re disgusting as hell, look at this new study!",
+    "title": "Environmental impacts of AI are not “minor”, contrary to ai bros, they’re disgusting as hell, look at this new study!",
     "id": "1q00fzf",
-    "body": "AI systems already account for an estimated 15 to 20 percent of global data center electricity use, with a worldwide power demand of around 23 gigawatts, comparable to the average electricity consumption of the United Kingdom. \n\n\n\nTheir operation produces roughly 32.6 to 79.7 million tons of CO\u2082 annually, similar to the emissions of a large city like New York, and the massive energy demand has even led to considerations of reopening the decommissioned Three Mile Island nuclear power plant. \n\n\n\nCooling these data centers and power plants requires between 312.5 and 764.6 billion liters of water each year, roughly equivalent to the world\u2019s annual bottled water consumption.\n\n  \nThese figures are very conservative(!!), and they will only get higher over the years.(!!!)",
+    "body": "AI systems already account for an estimated 15 to 20 percent of global data center electricity use, with a worldwide power demand of around 23 gigawatts, comparable to the average electricity consumption of the United Kingdom. \n\n\n\nTheir operation produces roughly 32.6 to 79.7 million tons of CO₂ annually, similar to the emissions of a large city like New York, and the massive energy demand has even led to considerations of reopening the decommissioned Three Mile Island nuclear power plant. \n\n\n\nCooling these data centers and power plants requires between 312.5 and 764.6 billion liters of water each year, roughly equivalent to the world’s annual bottled water consumption.\n\n  \nThese figures are very conservative(!!), and they will only get higher over the years.(!!!)",
     "url": "https://www.pcgameshardware.de/Kuenstliche-Intelligenz-Hardware-279517/News/Studie-sieht-massive-Umweltbelastung-1489389/",
     "url_overridden_by_dest": "https://www.pcgameshardware.de/Kuenstliche-Intelligenz-Hardware-279517/News/Studie-sieht-massive-Umweltbelastung-1489389/",
     "created": "2025-12-30T17:49:55",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 70,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Is AI's Power Consumption Overhyped?",
     "id": "1l68nqm",
-    "body": "I\u2019ve been seeing lots of posts saying using AI is bad for the planet, but they ignore stuff like gaming PCs, fast phone chargers, 4K Netflix, and TVs running all day and even more stuff. So why is asking a bot a question suddenly a climate problem? It feels like people who hype these things up just want to seem like they care about the environment, even though they\u2019re still using energy-inefficient electronics. The energy used for one AI answer is tiny, just a rounding error in your electricity bill. Training AI models uses a lot of power, but I\u2019m pretty sure companies try hard to use energy efficiently. Plus, what does that have to do with public using AI? If we really care about energy, shouldn't we look at our everyday electricity use before blaming a chatbot.\n\nWhat do you think?",
+    "body": "I’ve been seeing lots of posts saying using AI is bad for the planet, but they ignore stuff like gaming PCs, fast phone chargers, 4K Netflix, and TVs running all day and even more stuff. So why is asking a bot a question suddenly a climate problem? It feels like people who hype these things up just want to seem like they care about the environment, even though they’re still using energy-inefficient electronics. The energy used for one AI answer is tiny, just a rounding error in your electricity bill. Training AI models uses a lot of power, but I’m pretty sure companies try hard to use energy efficiently. Plus, what does that have to do with public using AI? If we really care about energy, shouldn't we look at our everyday electricity use before blaming a chatbot.\n\nWhat do you think?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1l68nqm/is_ais_power_consumption_overhyped/",
     "url_overridden_by_dest": null,
     "created": "2025-06-08T03:05:05",
@@ -11,5 +11,8 @@
     "num_comments": 33,
     "ups": 2,
     "upvote_ratio": 0.5699999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

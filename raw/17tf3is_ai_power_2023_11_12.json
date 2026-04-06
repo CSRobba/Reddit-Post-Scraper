@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\"Unlock the power of AI in my latest blog! \ud83d\ude80 Dive into cutting-edge insights, practical tips, and real-world applications. From machine learning to neural networks, discover the future of technology.",
+    "title": "\"Unlock the power of AI in my latest blog! 🚀 Dive into cutting-edge insights, practical tips, and real-world applications. From machine learning to neural networks, discover the future of technology.",
     "id": "17tf3is",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/17tf3is/unlock_the_power_of_ai_in_my_latest_blog_dive/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

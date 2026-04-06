@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Experience the Power of AI \u2014 Launch Day is Here",
+    "title": "Experience the Power of AI — Launch Day is Here",
     "id": "1ny0a7b",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SideProject/comments/1ny0a7b/experience_the_power_of_ai_launch_day_is_here/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

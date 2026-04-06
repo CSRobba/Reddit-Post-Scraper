@@ -2,7 +2,7 @@
     "query_term": "Claude environment",
     "title": "Other people seeing this? API Error: Claude's response exceeded the 32000 output token maximum. To configure this behavior, set the CLAUDE_CODE_MAX_OUTPUT_TOKENS environment variable.",
     "id": "1rdpbc5",
-    "body": "API Error: Claude's response exceeded the 32000 output token maximum. To configure this behavior, set the CLAUDE\\_CODE\\_MAX\\_OUTPUT\\_TOKENS environment variable.\n\nYou've hit your limit \u00b7 resets 6pm (America/Sao\\_Paulo)  \n\n\nIt used up all my Pro tokens within an hour on a simple task, normally would last 4 hours easily. Any ideas?",
+    "body": "API Error: Claude's response exceeded the 32000 output token maximum. To configure this behavior, set the CLAUDE\\_CODE\\_MAX\\_OUTPUT\\_TOKENS environment variable.\n\nYou've hit your limit · resets 6pm (America/Sao\\_Paulo)  \n\n\nIt used up all my Pro tokens within an hour on a simple task, normally would last 4 hours easily. Any ideas?",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1rdpbc5/other_people_seeing_this_api_error_claudes/",
     "url_overridden_by_dest": null,
     "created": "2026-02-24T11:04:10",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 4,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

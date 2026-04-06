@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "AI Alchemist\u2013 Making the Environmental Impact of AI Visible",
+    "title": "AI Alchemist– Making the Environmental Impact of AI Visible",
     "id": "1n6hi9h",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/OpenAI/comments/1n6hi9h/ai_alchemist_making_the_environmental_impact_of/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

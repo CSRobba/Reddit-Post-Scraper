@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Today\u2019s power grids aren\u2019t designed for AI workloads",
+    "title": "Today’s power grids aren’t designed for AI workloads",
     "id": "1orqufb",
     "body": "",
     "url": "https://www.forbes.com/sites/richkarlgaard/2025/11/06/the-coming-crunch/",
@@ -11,5 +11,8 @@
     "num_comments": 73,
     "ups": 336,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "m"
+    }
 }

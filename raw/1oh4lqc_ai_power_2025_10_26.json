@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI is quietly building its own AI chips \u2014 and it could change everything about the power balance in tech.",
+    "title": "OpenAI is quietly building its own AI chips — and it could change everything about the power balance in tech.",
     "id": "1oh4lqc",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/Futurology/comments/1oh4lqc/openai_is_quietly_building_its_own_ai_chips_and/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

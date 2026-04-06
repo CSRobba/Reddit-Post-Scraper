@@ -1,6 +1,6 @@
 {
     "query_term": "AI waste",
-    "title": "We only get one chance with AI. Don\u2019t waste it.",
+    "title": "We only get one chance with AI. Don’t waste it.",
     "id": "1mtc856",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1mtc856/we_only_get_one_chance_with_ai_dont_waste_it/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

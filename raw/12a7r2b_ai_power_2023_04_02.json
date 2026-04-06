@@ -11,5 +11,13 @@
     "num_comments": 130,
     "ups": 255,
     "upvote_ratio": 0.8100000023841858,
+<<<<<<< HEAD
     "view_count": null
+=======
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+>>>>>>> 6603cb9dad071baa2efabf82d5f5287ed92b3b06
 }

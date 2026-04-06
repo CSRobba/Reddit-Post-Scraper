@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Apple now leaning toward Google\u2019s Gemini instead of ChatGPT to power revamped Siri AI",
+    "title": "Apple now leaning toward Google’s Gemini instead of ChatGPT to power revamped Siri AI",
     "id": "1mxcxtq",
     "body": "",
     "url": "https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

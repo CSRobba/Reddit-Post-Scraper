@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI\u2019s $8.3 Billion Power Move: Why This Changes Everything for AI",
+    "title": "OpenAI’s $8.3 Billion Power Move: Why This Changes Everything for AI",
     "id": "1mfh9yh",
     "body": "[removed]",
     "url": "https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

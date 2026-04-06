@@ -11,5 +11,11 @@
     "num_comments": 178,
     "ups": 83,
     "upvote_ratio": 0.7099999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "ai space consumption technically counts for environmental costs"
+    }
 }

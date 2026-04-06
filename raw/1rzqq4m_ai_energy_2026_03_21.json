@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "I applied Energy-Based Models to AI security \u2014 tested on 13K real attack patterns",
+    "title": "I applied Energy-Based Models to AI security — tested on 13K real attack patterns",
     "id": "1rzqq4m",
     "body": "[removed]",
     "url": "https://www.reddit.com/gallery/1rzqq4m",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

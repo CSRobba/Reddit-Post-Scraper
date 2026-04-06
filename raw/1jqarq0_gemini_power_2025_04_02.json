@@ -2,7 +2,7 @@
     "query_term": "Gemini power",
     "title": "Using Gemini 2.5 Pro to create  a question and answer bank based on pdfs and power points",
     "id": "1jqarq0",
-    "body": "Hi All\n\nI am looking to have Gemini 2.4 Pro create a set of multiple choice questions and answers based on 1-2 ingested documents on sales to test my understanding of concepts in the documents\n\nI\u2019d like the questions and answers to be of varying difficulty. Right now the results are weird. The questions either seem too simple or not challenging enough or not grounded in the document. \n\nDoes anyone have advice on how to approach this? It could be the way I am prompting it or there could better suited reasoning models\n",
+    "body": "Hi All\n\nI am looking to have Gemini 2.4 Pro create a set of multiple choice questions and answers based on 1-2 ingested documents on sales to test my understanding of concepts in the documents\n\nI’d like the questions and answers to be of varying difficulty. Right now the results are weird. The questions either seem too simple or not challenging enough or not grounded in the document. \n\nDoes anyone have advice on how to approach this? It could be the way I am prompting it or there could better suited reasoning models\n",
     "url": "https://www.reddit.com/r/GeminiAI/comments/1jqarq0/using_gemini_25_pro_to_create_a_question_and/",
     "url_overridden_by_dest": null,
     "created": "2025-04-02T22:57:17",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

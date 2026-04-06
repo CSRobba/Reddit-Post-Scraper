@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "What kind of environment would be more fascinating for an embodied AI to explore in a 3D world \u2014 a historical museum or a simulated computer desktop? And why?",
+    "title": "What kind of environment would be more fascinating for an embodied AI to explore in a 3D world — a historical museum or a simulated computer desktop? And why?",
     "id": "1m3vu1i",
     "body": "[removed]",
     "url": "",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

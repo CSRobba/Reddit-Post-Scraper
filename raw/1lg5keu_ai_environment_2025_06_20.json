@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "An academic survey about people's views on AI influence in academic environment (Anyone can take it but students are preferred)",
     "id": "1lg5keu",
-    "body": "\nHello everybody! So recently I was tasked with a mini project to collect opinion on \"AI usage in acadmic workspace\" in my university. Will you please kindly complete the survey I have given here? I promise it will not ask you to put any sensitive information. Please help out a fellow student. Thank you in advance!\n\nP.S. The question about age and gender will only be used for demographic purposes although it has alternative options. The primary demographic is students from different departments/subjects.\n\n[Take the survey here]\ud83d\udc49\n[https://docs.google.com/forms/d/e/1FAIpQLSf7ELd-OEznq\\_4xqQVkmlTJ61guDaFHwXhnqEKSRKT3MevNEQ/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSf7ELd-OEznq_4xqQVkmlTJ61guDaFHwXhnqEKSRKT3MevNEQ/viewform?usp=header)\n",
+    "body": "\nHello everybody! So recently I was tasked with a mini project to collect opinion on \"AI usage in acadmic workspace\" in my university. Will you please kindly complete the survey I have given here? I promise it will not ask you to put any sensitive information. Please help out a fellow student. Thank you in advance!\n\nP.S. The question about age and gender will only be used for demographic purposes although it has alternative options. The primary demographic is students from different departments/subjects.\n\n[Take the survey here]👉\n[https://docs.google.com/forms/d/e/1FAIpQLSf7ELd-OEznq\\_4xqQVkmlTJ61guDaFHwXhnqEKSRKT3MevNEQ/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSf7ELd-OEznq_4xqQVkmlTJ61guDaFHwXhnqEKSRKT3MevNEQ/viewform?usp=header)\n",
     "url": "https://www.reddit.com/r/SampleSize/comments/1lg5keu/an_academic_survey_about_peoples_views_on_ai/",
     "url_overridden_by_dest": null,
     "created": "2025-06-20T10:35:50",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

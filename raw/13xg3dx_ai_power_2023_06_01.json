@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Unleashing the Creative Power: How Photoshop\u2019s Generative AI is Revolutionizing Photo Editing!",
+    "title": "Unleashing the Creative Power: How Photoshop’s Generative AI is Revolutionizing Photo Editing!",
     "id": "13xg3dx",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/StableDiffusion/comments/13xg3dx/unleashing_the_creative_power_how_photoshops/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

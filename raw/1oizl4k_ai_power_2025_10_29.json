@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "One Month of Real AI Power \u2014 No Payment, No Tricks",
+    "title": "One Month of Real AI Power — No Payment, No Tricks",
     "id": "1oizl4k",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/BetterOffline/comments/1oizl4k/one_month_of_real_ai_power_no_payment_no_tricks/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

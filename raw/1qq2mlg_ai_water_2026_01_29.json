@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "Article on AI deployment in India exacerbating local energy and water demands.",
     "id": "1qq2mlg",
-    "body": "Hello everyone, just sharing our latest\u00a0[longform\u00a0](https://climaterubik.com/how-ai-usage-in-india-is-a-special-case/)on the local externalities from AI deployment in India. Would like to hear your thoughts on this.\n\nIllustration credit: Orchi (Instagram:\u00a0[Orchisnoman](https://www.instagram.com/orchisnoman/)).",
+    "body": "Hello everyone, just sharing our latest [longform ](https://climaterubik.com/how-ai-usage-in-india-is-a-special-case/)on the local externalities from AI deployment in India. Would like to hear your thoughts on this.\n\nIllustration credit: Orchi (Instagram: [Orchisnoman](https://www.instagram.com/orchisnoman/)).",
     "url": "https://i.redd.it/8l9n8wqgw8gg1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/8l9n8wqgw8gg1.jpeg",
     "created": "2026-01-29T03:02:13",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 40,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "LLM environment",
-    "title": "\ud83d\udd77GotHub: An LLM-Native Interactive Programming Environment",
+    "title": "🕷GotHub: An LLM-Native Interactive Programming Environment",
     "id": "18dg8rt",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ChatGPT/comments/18dg8rt/gothub_an_llmnative_interactive_programming/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "Why don\u2019t we have these AI data centers run on nuclear power?",
+    "title": "Why don’t we have these AI data centers run on nuclear power?",
     "id": "1o342xz",
-    "body": "It seems that people are concerned about the energy costs, but wouldn\u2019t this eliminate that? It would also be much more compact than solar or wind. ",
+    "body": "It seems that people are concerned about the energy costs, but wouldn’t this eliminate that? It would also be much more compact than solar or wind. ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1o342xz/why_dont_we_have_these_ai_data_centers_run_on/",
     "url_overridden_by_dest": null,
     "created": "2025-10-10T08:29:18",
@@ -11,5 +11,8 @@
     "num_comments": 19,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y"
+    }
 }

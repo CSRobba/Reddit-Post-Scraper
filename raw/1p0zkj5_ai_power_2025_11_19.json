@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Palantir\u2019s AI: When Prediction, Surveillance, and Power Collide\u2014Must-Watch Deep Dive",
+    "title": "Palantir’s AI: When Prediction, Surveillance, and Power Collide—Must-Watch Deep Dive",
     "id": "1p0zkj5",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1p0zkj5/palantirs_ai_when_prediction_surveillance_and/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

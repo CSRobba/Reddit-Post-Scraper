@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "AI + Carbon Management: what actually works \ud83c\udf0d\ud83e\udd16",
+    "title": "AI + Carbon Management: what actually works 🌍🤖",
     "id": "1nigi8s",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/sustainability/comments/1nigi8s/ai_carbon_management_what_actually_works/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

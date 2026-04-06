@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "ChatGPT on whether courts still have the ability to check the president\u2019s power",
+    "title": "ChatGPT on whether courts still have the ability to check the president’s power",
     "id": "1lodnqy",
     "body": "",
     "url": "https://chatgpt.com/share/6862c91c-e508-8010-979d-5553c2a70d71",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

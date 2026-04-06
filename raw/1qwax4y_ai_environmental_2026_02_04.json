@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "Environmental impact of AI: what should \u201cresponsible use\u201d mean in practice?",
+    "title": "Environmental impact of AI: what should “responsible use” mean in practice?",
     "id": "1qwax4y",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qwax4y/environmental_impact_of_ai_what_should/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

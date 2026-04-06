@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "ELI5: If we are truly worried about the existential risk of AI, why couldn\u2019t humans just eliminate its power source?",
+    "title": "ELI5: If we are truly worried about the existential risk of AI, why couldn’t humans just eliminate its power source?",
     "id": "1kgauv9",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1kgauv9/eli5_if_we_are_truly_worried_about_the/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }

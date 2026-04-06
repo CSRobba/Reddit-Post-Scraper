@@ -1,6 +1,6 @@
 {
     "query_term": "LLM energy",
-    "title": "Energy-Efficient, Threshold-Based GPU Architecture for Core Reallocation in LLM/Transformer Workloads \u2013 Open Paper & Benchmarks",
+    "title": "Energy-Efficient, Threshold-Based GPU Architecture for Core Reallocation in LLM/Transformer Workloads – Open Paper & Benchmarks",
     "id": "1moitjh",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1moitjh/energyefficient_thresholdbased_gpu_architecture/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n"
+    }
 }
