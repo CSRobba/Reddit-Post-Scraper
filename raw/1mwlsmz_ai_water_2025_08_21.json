@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Google says a typical AI text prompt only uses 5 drops of water \u2014 experts say that\u2019s misleading",
+    "title": "Google says a typical AI text prompt only uses 5 drops of water — experts say that’s misleading",
     "id": "1mwlsmz",
     "body": "",
     "url": "https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

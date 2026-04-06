@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "OpenAI\u2019s Sam Altman Says It Takes More Energy to Train Humans Than AI",
+    "title": "OpenAI’s Sam Altman Says It Takes More Energy to Train Humans Than AI",
     "id": "1rcciqk",
     "body": "",
     "url": "https://www.complex.com/life/a/jadegomez510/openai-energy-train-human",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

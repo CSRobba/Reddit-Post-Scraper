@@ -2,7 +2,7 @@
     "query_term": "AI sustainable",
     "title": "A Pragmatic Approach to Sustainable AI",
     "id": "1l9ucmk",
-    "body": "Inspired by the ongoing spat between Microsoft and Hugging Face regarding how to determine GHG emissions from AI, I\u2019ve written a short piece in which I argue in favor of a pragmatic approach to Sustainable AI. This approach takes for granted that AI will continue to develop and contends that in light of this reality we should put our energy into greening AI infrastructure and powering it with renewable energy. You can read the post here: https://josh-gellers.medium.com/from-shrugging-face-to-sustainable-ai-in-defense-of-pragmatism-6ef1f6e1ae61",
+    "body": "Inspired by the ongoing spat between Microsoft and Hugging Face regarding how to determine GHG emissions from AI, I’ve written a short piece in which I argue in favor of a pragmatic approach to Sustainable AI. This approach takes for granted that AI will continue to develop and contends that in light of this reality we should put our energy into greening AI infrastructure and powering it with renewable energy. You can read the post here: https://josh-gellers.medium.com/from-shrugging-face-to-sustainable-ai-in-defense-of-pragmatism-6ef1f6e1ae61",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1l9ucmk/a_pragmatic_approach_to_sustainable_ai/",
     "url_overridden_by_dest": null,
     "created": "2025-06-12T11:43:01",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 0.7599999904632568,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

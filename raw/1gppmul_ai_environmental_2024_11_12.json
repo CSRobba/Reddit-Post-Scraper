@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "Donald Trump\u2019s EPA pick wants to \u2018make America the AI capital of the world\u2019 / Trump\u2019s choice to lead the Environmental Protection Agency is making AI a priority.",
+    "title": "Donald Trump’s EPA pick wants to ‘make America the AI capital of the world’ / Trump’s choice to lead the Environmental Protection Agency is making AI a priority.",
     "id": "1gppmul",
     "body": "",
     "url": "https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

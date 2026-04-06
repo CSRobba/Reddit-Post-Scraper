@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Built a small Chrome extension for ChatGPT power users \u2014 need honest feedback",
+    "title": "Built a small Chrome extension for ChatGPT power users — need honest feedback",
     "id": "1o8takf",
-    "body": "Hey pros,\n\nI\u2019ve built a small Chrome extension called **Leaked Prompts**.\n\n  \nIt sits *inside ChatGPT* and lets you save, tag, and search your prompts all without leaving the chat.\n\n\n\nThe idea came from a simple pain:  \n\\> I use ChatGPT every day for work, and I kept losing my best prompts.  \n\\> The ones that actually got results were buried under random chats.  \n\\> So I made this tiny tool you just type \u201c!\u201d in ChatGPT, and it opens a drop-down with all your saved prompts.\n\n\n\nYou can:\n\n* Save prompts instantly\n* Add tags for easy grouping\n* Search by title or even words inside the prompt\n* Sync everything securely through your browser\n\nIt\u2019s free right now. I just want real feedback before I push it wide.  \nWould love your thoughts on:\n\n1. Is this genuinely useful for you?\n2. What feature would make it 10x better?\n\n\n\nHere\u2019s the link: \\[leakedprompts.com\\]\n\n\n\nBe brutally honest,\n\nI\u2019d rather fix it early than hype it later.",
+    "body": "Hey pros,\n\nI’ve built a small Chrome extension called **Leaked Prompts**.\n\n  \nIt sits *inside ChatGPT* and lets you save, tag, and search your prompts all without leaving the chat.\n\n\n\nThe idea came from a simple pain:  \n\\> I use ChatGPT every day for work, and I kept losing my best prompts.  \n\\> The ones that actually got results were buried under random chats.  \n\\> So I made this tiny tool you just type “!” in ChatGPT, and it opens a drop-down with all your saved prompts.\n\n\n\nYou can:\n\n* Save prompts instantly\n* Add tags for easy grouping\n* Search by title or even words inside the prompt\n* Sync everything securely through your browser\n\nIt’s free right now. I just want real feedback before I push it wide.  \nWould love your thoughts on:\n\n1. Is this genuinely useful for you?\n2. What feature would make it 10x better?\n\n\n\nHere’s the link: \\[leakedprompts.com\\]\n\n\n\nBe brutally honest,\n\nI’d rather fix it early than hype it later.",
     "url": "http://leakedprompts.com",
     "url_overridden_by_dest": "http://leakedprompts.com",
     "created": "2025-10-17T01:48:48",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 2,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

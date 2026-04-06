@@ -1,6 +1,6 @@
 {
     "query_term": "data center water",
-    "title": "I really don\u2019t think a cup of water is comparable to an entire data center",
+    "title": "I really don’t think a cup of water is comparable to an entire data center",
     "id": "1q9tucs",
     "body": "",
     "url": "https://i.redd.it/ls0tgwnfhocg1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 38,
     "ups": 89,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

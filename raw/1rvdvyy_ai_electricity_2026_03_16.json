@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "My first AI-built project: Interactive Global Electricity Map \ud83c\udf0d\u26a1",
+    "title": "My first AI-built project: Interactive Global Electricity Map 🌍⚡",
     "id": "1rvdvyy",
     "body": "",
     "url": "/r/energy/comments/1rvdvk5/my_first_aibuilt_project_interactive_global/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

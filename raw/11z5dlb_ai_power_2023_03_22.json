@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Unlock the power of generative AI to scale your content operations: https://writer.com/",
     "id": "11z5dlb",
-    "body": "**tags:** content, automating, efficient\n\n\n**for:** content creator,\u00a0content editor,\u00a0marketer\n\n\n**read more about this project:** https://domore.ai/tools/writer.com",
+    "body": "**tags:** content, automating, efficient\n\n\n**for:** content creator, content editor, marketer\n\n\n**read more about this project:** https://domore.ai/tools/writer.com",
     "url": "https://www.reddit.com/r/AItoolsCatalog/comments/11z5dlb/unlock_the_power_of_generative_ai_to_scale_your/",
     "url_overridden_by_dest": null,
     "created": "2023-03-22T19:13:24",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

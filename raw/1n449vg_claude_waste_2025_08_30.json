@@ -1,8 +1,8 @@
 {
     "query_term": "Claude waste",
-    "title": "\u26a0\ufe0f Don\u2019t waste your money on Claude Pro!",
+    "title": "⚠️ Don’t waste your money on Claude Pro!",
     "id": "1n449vg",
-    "body": "Let me be clear: the chat limits on Claude are ridiculous. After just a few conversations your credits run out, and then you\u2019re stuck waiting for hours. You can\u2019t even switch to a basic version \u2014 you\u2019re just completely blocked until it resets.\nFor the price they charge, it\u2019s a joke. Avoid the Pro plan, it\u2019s really not worth it.",
+    "body": "Let me be clear: the chat limits on Claude are ridiculous. After just a few conversations your credits run out, and then you’re stuck waiting for hours. You can’t even switch to a basic version — you’re just completely blocked until it resets.\nFor the price they charge, it’s a joke. Avoid the Pro plan, it’s really not worth it.",
     "url": "https://www.reddit.com/r/GeminiAI/comments/1n449vg/dont_waste_your_money_on_claude_pro/",
     "url_overridden_by_dest": null,
     "created": "2025-08-30T08:20:06",
@@ -11,5 +11,8 @@
     "num_comments": 105,
     "ups": 209,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

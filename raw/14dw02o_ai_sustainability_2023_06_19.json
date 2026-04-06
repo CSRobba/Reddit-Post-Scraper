@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "\u201cIn next week\u2019s Hedera Corner, we will be joined by another Governing Council member! Shyam Nagarajan - Executive Partner at IBM Topics: - Public/Private Blockchains - Web3 - Sustainability - Intersection of AI & DLT - And more Set your reminders\u201d",
+    "title": "“In next week’s Hedera Corner, we will be joined by another Governing Council member! Shyam Nagarajan - Executive Partner at IBM Topics: - Public/Private Blockchains - Web3 - Sustainability - Intersection of AI & DLT - And more Set your reminders”",
     "id": "14dw02o",
     "body": "https://twitter.com/i/spaces/1MYxNgVEPmVKw",
     "url": "https://i.redd.it/y7rk4qr3k27b1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 28,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

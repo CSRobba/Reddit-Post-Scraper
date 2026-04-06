@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "How does energy demand vary in AI requests?",
     "id": "1r64nni",
-    "body": "I\u2019m doing a school research on AI, and I want to investigate the environmental impact different people have based on their AI use?\n\nAnyone well-researched on AI? (The different calculations it undergoes to do its job, etc.) or know good resources I can start digging through? It would be much appreciated. ",
+    "body": "I’m doing a school research on AI, and I want to investigate the environmental impact different people have based on their AI use?\n\nAnyone well-researched on AI? (The different calculations it undergoes to do its job, etc.) or know good resources I can start digging through? It would be much appreciated. ",
     "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1r64nni/how_does_energy_demand_vary_in_ai_requests/",
     "url_overridden_by_dest": null,
     "created": "2026-02-16T03:56:53",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

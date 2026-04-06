@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environment",
-    "title": "I put a bunch of templates to Congress into a WordPress environment then had ChatGPT build a \u201cmodest language model\u201d from it.   This is not run from ChatGPT, it was just partially built by it.  This model is specifically trained to make templates.",
+    "title": "I put a bunch of templates to Congress into a WordPress environment then had ChatGPT build a “modest language model” from it.   This is not run from ChatGPT, it was just partially built by it.  This model is specifically trained to make templates.",
     "id": "1dlugw2",
     "body": "",
     "url": "https://martianmaterial.com/?query=disinformation",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 4,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

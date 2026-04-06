@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Has AI de-democratised the flow of technological power to the people?",
     "id": "1ngchh2",
-    "body": "I have seen the theory often since the ChatGPT 5 launch that the real \u201cgood stuff\u201d is now reserved for the high paying corporate users. Effectively this is the moment in history when ordinary citizens loose easy access to the tech, and this new  universal Means of Production passes to the capitalist 1%.\nIn effect the tide of the till-now technological history has turned away from democratising and reducing the cost of new tech, perhaps simply because this one is so profoundly powerful and potentially (perhaps literally) revolutionary.\nIs this true? Is it accurate that the latest iteration of AI is a backward step only for the public, and its power continues to surge as before behind closed C-suite doors?\nOr has it just played out its fantasy phase of convincing pseudo-consciousness, and turned out to be less than most of us thought?",
+    "body": "I have seen the theory often since the ChatGPT 5 launch that the real “good stuff” is now reserved for the high paying corporate users. Effectively this is the moment in history when ordinary citizens loose easy access to the tech, and this new  universal Means of Production passes to the capitalist 1%.\nIn effect the tide of the till-now technological history has turned away from democratising and reducing the cost of new tech, perhaps simply because this one is so profoundly powerful and potentially (perhaps literally) revolutionary.\nIs this true? Is it accurate that the latest iteration of AI is a backward step only for the public, and its power continues to surge as before behind closed C-suite doors?\nOr has it just played out its fantasy phase of convincing pseudo-consciousness, and turned out to be less than most of us thought?",
     "url": "https://www.reddit.com/r/OpenAI/comments/1ngchh2/has_ai_dedemocratised_the_flow_of_technological/",
     "url_overridden_by_dest": null,
     "created": "2025-09-13T16:52:30",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 2,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

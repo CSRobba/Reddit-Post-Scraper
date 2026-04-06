@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Trump's 'Big, Beautiful' bill will cause a US energy shortage. SEIA analysis paints a grim picture: Nearly 300,000 US jobs are at risk. \u201cPassing this bill would create a catastrophic energy shortfall, cede AI and tech leadership to China, and damage some of the most vital sectors of the US economy.\u201d",
+    "title": "Trump's 'Big, Beautiful' bill will cause a US energy shortage. SEIA analysis paints a grim picture: Nearly 300,000 US jobs are at risk. “Passing this bill would create a catastrophic energy shortfall, cede AI and tech leadership to China, and damage some of the most vital sectors of the US economy.”",
     "id": "1krwsi9",
     "body": "",
     "url": "https://electrek.co/2025/05/20/trumps-big-beautiful-bill-will-cause-a-us-energy-shortage-seia/",
@@ -11,5 +11,8 @@
     "num_comments": 39,
     "ups": 353,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

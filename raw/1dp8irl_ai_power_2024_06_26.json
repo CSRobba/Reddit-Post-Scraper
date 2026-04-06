@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Hehehe, don\u2019t fuck with Uno anymore. He has the power of a god! https://character.ai/chat/48Pm17eH-WJQtSjekqkiV4NK3uFKJY9sZSDYZ836_OA",
+    "title": "Hehehe, don’t fuck with Uno anymore. He has the power of a god! https://character.ai/chat/48Pm17eH-WJQtSjekqkiV4NK3uFKJY9sZSDYZ836_OA",
     "id": "1dp8irl",
     "body": "",
     "url": "https://www.reddit.com/r/CharacterAI/comments/1dp8irl/hehehe_dont_fuck_with_uno_anymore_he_has_the/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

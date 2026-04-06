@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Why are people getting so pissed about ai art apps? What they\u2019re putting artists out of jobs? So what. Electricity put the lamp lighters out of jobs. Alarm clocks put the windows knockers out of a job. ",
+    "title": "Why are people getting so pissed about ai art apps? What they’re putting artists out of jobs? So what. Electricity put the lamp lighters out of jobs. Alarm clocks put the windows knockers out of a job. ",
     "id": "1bb5s6v",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1bb5s6v/why_are_people_getting_so_pissed_about_ai_art/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

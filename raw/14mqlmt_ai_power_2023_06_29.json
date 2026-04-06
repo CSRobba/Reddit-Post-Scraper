@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\ude80 Unleashing the Power of GANs: A Deep Dive into DragGAN - Join https://www.reddit.com/r/AI_in_Web3/ for more discussions in AI and Web3",
+    "title": "🚀 Unleashing the Power of GANs: A Deep Dive into DragGAN - Join https://www.reddit.com/r/AI_in_Web3/ for more discussions in AI and Web3",
     "id": "14mqlmt",
     "body": "",
     "url": "https://v.redd.it/no0xmuzqx29b1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 7,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

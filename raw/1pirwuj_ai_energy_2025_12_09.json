@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Data centers for AI could nearly triple San Jose\u2019s energy use. Who foots the bill?",
+    "title": "Data centers for AI could nearly triple San Jose’s energy use. Who foots the bill?",
     "id": "1pirwuj",
     "body": "",
     "url": "https://apnews.com/article/industry-regulation-california-data-management-and-storage-pg-e-corp-san-jose-61b9752878ef885fd7f0142e003138a8",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

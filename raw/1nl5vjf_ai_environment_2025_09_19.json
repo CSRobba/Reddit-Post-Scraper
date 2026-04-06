@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Is AI truly bad for the environment?",
     "id": "1nl5vjf",
-    "body": "If so, how? I\u2019m not very tech savvy, so I really don\u2019t understand. Unless it\u2019s about energy consumption, which I can understand.\n\nIt started with something I read that said something like \u201cPeople need to stop saying thank you to AI\u201d because it \u201cwreaks havoc on the environment.\u201d \n\nWhen I look for clarification, I don\u2019t really find anything definitive. Or maybe I just don\u2019t understand all the technical terms. \n\nCan someone help me understand? Thank you!",
+    "body": "If so, how? I’m not very tech savvy, so I really don’t understand. Unless it’s about energy consumption, which I can understand.\n\nIt started with something I read that said something like “People need to stop saying thank you to AI” because it “wreaks havoc on the environment.” \n\nWhen I look for clarification, I don’t really find anything definitive. Or maybe I just don’t understand all the technical terms. \n\nCan someone help me understand? Thank you!",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1nl5vjf/is_ai_truly_bad_for_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-09-19T07:59:06",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

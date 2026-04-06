@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Idea: 'Sign in with ChatGPT' \u2013 a new way to bring LLM power to apps without devs paying the cost",
+    "title": "Idea: 'Sign in with ChatGPT' – a new way to bring LLM power to apps without devs paying the cost",
     "id": "1jwnzv6",
-    "body": "Hey everyone, I\u2019ve been thinking about an idea and wanted to get your thoughts.\n\nWe all know how apps let users sign in with Google, Facebook, or Apple. What if LLM companies like OpenAI (ChatGPT), DeepSeek, Claude, etc., offered \"Sign in with LLM\"\u2014a way for apps to authenticate users through their AI accounts?\n\nBut here\u2019s the twist: once a user is authenticated, the app can also tap into the AI capabilities tied to that user\u2019s account, using their own subscription or usage quota.\n\nSo instead of the app developer paying for every token or API call, the user brings their own LLM access. This would:\n\n\u2022 Let devs offer powerful AI features without high backend costs\n\n\u2022 Empower users to use their own AI plans inside third-party apps\n\n\u2022 Encourage wider adoption of AI without needing to reinvent the wheel\n\n\u2022 Open the door for more AI-powered tools by indie devs and startups\n\nFor example, I could build a note-taking app, and if the user signs in with ChatGPT or DeepSeek, I can offer summarization, rewriting, Q&A, etc.\u2014all using their own LLM access.\n\nThere are obviously challenges: security, privacy, abuse prevention, and whether LLM providers are ready to act as identity providers. But I think this could be a game-changer for both devs and users.\n\nWhat do you think? Is this a viable direction? Has anyone seen something like this being explored already?",
+    "body": "Hey everyone, I’ve been thinking about an idea and wanted to get your thoughts.\n\nWe all know how apps let users sign in with Google, Facebook, or Apple. What if LLM companies like OpenAI (ChatGPT), DeepSeek, Claude, etc., offered \"Sign in with LLM\"—a way for apps to authenticate users through their AI accounts?\n\nBut here’s the twist: once a user is authenticated, the app can also tap into the AI capabilities tied to that user’s account, using their own subscription or usage quota.\n\nSo instead of the app developer paying for every token or API call, the user brings their own LLM access. This would:\n\n• Let devs offer powerful AI features without high backend costs\n\n• Empower users to use their own AI plans inside third-party apps\n\n• Encourage wider adoption of AI without needing to reinvent the wheel\n\n• Open the door for more AI-powered tools by indie devs and startups\n\nFor example, I could build a note-taking app, and if the user signs in with ChatGPT or DeepSeek, I can offer summarization, rewriting, Q&A, etc.—all using their own LLM access.\n\nThere are obviously challenges: security, privacy, abuse prevention, and whether LLM providers are ready to act as identity providers. But I think this could be a game-changer for both devs and users.\n\nWhat do you think? Is this a viable direction? Has anyone seen something like this being explored already?",
     "url": "https://www.reddit.com/r/Futurology/comments/1jwnzv6/idea_sign_in_with_chatgpt_a_new_way_to_bring_llm/",
     "url_overridden_by_dest": null,
     "created": "2025-04-11T04:54:08",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

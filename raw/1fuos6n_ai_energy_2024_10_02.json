@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI will guzzle energy, and that\u2019s good for the climate.",
+    "title": "AI will guzzle energy, and that’s good for the climate.",
     "id": "1fuos6n",
     "body": "",
     "url": "https://climate.benjames.io/ai-go-brrr/",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.25999999046325684,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "A lot of smart people are worried about AI eventually causing human extinction. Why couldn\u2019t we simply kill an AI power switch?",
+    "title": "A lot of smart people are worried about AI eventually causing human extinction. Why couldn’t we simply kill an AI power switch?",
     "id": "1kbvmcj",
     "body": "AI will need power to survive, right?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1kbvmcj/a_lot_of_smart_people_are_worried_about_ai/",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

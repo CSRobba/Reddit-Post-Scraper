@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Elon Musk\u2019s Secret Power Plant \u2014 The Hidden AI Pollution Scandal in Memphis",
+    "title": "Elon Musk’s Secret Power Plant — The Hidden AI Pollution Scandal in Memphis",
     "id": "1pnwfev",
     "body": "",
     "url": "https://v.redd.it/9srvahdfc0xf1",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 84,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

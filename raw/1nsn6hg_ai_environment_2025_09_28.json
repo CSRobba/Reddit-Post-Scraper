@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "Is there no AI on Reddit which that mean it\u2019s good for our environment?",
+    "title": "Is there no AI on Reddit which that mean it’s good for our environment?",
     "id": "1nsn6hg",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1nsn6hg/is_there_no_ai_on_reddit_which_that_mean_its_good/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

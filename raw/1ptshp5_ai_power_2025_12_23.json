@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\udcf0 Morgan Stanley Raises Apple Target to $315 Citing AI and Pricing Power . .Sources : Healines24.co",
+    "title": "📰 Morgan Stanley Raises Apple Target to $315 Citing AI and Pricing Power . .Sources : Healines24.co",
     "id": "1ptshp5",
     "body": "",
     "url": "https://www.headlines24.co",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

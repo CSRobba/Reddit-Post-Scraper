@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "U.S. Power Utilities Seek Price Hikes Due to Increased AI Data Center Demand -- a 142% increase since 2024. \"A lot of states don\u2019t have a playbook for how they can meet rising [data centre] demand while balancing affordability and utility bills.\u201d",
+    "title": "U.S. Power Utilities Seek Price Hikes Due to Increased AI Data Center Demand -- a 142% increase since 2024. \"A lot of states don’t have a playbook for how they can meet rising [data centre] demand while balancing affordability and utility bills.”",
     "id": "1lz2lw0",
     "body": "",
     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Power-Utilities-Seek-Price-Hikes-on-AI-Demand.html",
@@ -11,5 +11,8 @@
     "num_comments": 194,
     "ups": 1159,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

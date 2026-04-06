@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Use the new ChatGPT \u201cinfinite memory\u201d to create a powerful System Prompt to power a chatbot of yourself!",
+    "title": "Use the new ChatGPT “infinite memory” to create a powerful System Prompt to power a chatbot of yourself!",
     "id": "1jwfzb2",
-    "body": "PROMPT: \n\n\u201cBased on your long term memory of me, write a system prompt to power a realistic AI chatbot of myself.\u201d",
+    "body": "PROMPT: \n\n“Based on your long term memory of me, write a system prompt to power a realistic AI chatbot of myself.”",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1jwfzb2/use_the_new_chatgpt_infinite_memory_to_create_a/",
     "url_overridden_by_dest": null,
     "created": "2025-04-10T19:59:32",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 17,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

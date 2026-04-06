@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "The world-changing \u2018killer app\u2019 for AI could be nuclear fusion - The goal of limitless clean energy is now clearly on the horizon, thanks to AI accelerating research.",
+    "title": "The world-changing ‘killer app’ for AI could be nuclear fusion - The goal of limitless clean energy is now clearly on the horizon, thanks to AI accelerating research.",
     "id": "1ewv8n9",
     "body": "",
     "url": "https://www.washingtonpost.com/opinions/2024/08/20/artificial-intelligence-nuclear-fusion-research/",
@@ -11,5 +11,8 @@
     "num_comments": 98,
     "ups": 962,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

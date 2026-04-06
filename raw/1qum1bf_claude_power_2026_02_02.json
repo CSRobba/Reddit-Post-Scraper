@@ -2,7 +2,7 @@
     "query_term": "Claude power",
     "title": "[Open Source] Automatic quota management for Claude power users (ClaudeDesk v3.8.0)",
     "id": "1qum1bf",
-    "body": "If you use Claude heavily, you\u2019ve probably hit usage limits mid-workflow and lost your flow.\n\nI just shipped **Budget Allocator** in **ClaudeDesk v3.8.0** to make Claude\u2019s 5-hour and weekly limits more predictable and less disruptive.\n\n**What it does:**\n\n* Real-time tracking of 5-hour & weekly limits\n* Burn rate + time-to-limit estimates\n* Automatic, progressive degradation:\n   * 70% \u2192 confirm before expensive sends\n   * 85% \u2192 auto-switch to **Haiku**\n   * 95% \u2192 pause queued messages\n   * 100% \u2192 block new sessions\n* Auto-reverts to Sonnet when quota resets\n\nGoal: **stay productive instead of hitting a hard stop**.\n\nOpen source (MIT):  \n[https://github.com/carloluisito/claudedesk](https://github.com/carloluisito/claudedesk)\n\nHow are you handling Claude usage limits today?",
+    "body": "If you use Claude heavily, you’ve probably hit usage limits mid-workflow and lost your flow.\n\nI just shipped **Budget Allocator** in **ClaudeDesk v3.8.0** to make Claude’s 5-hour and weekly limits more predictable and less disruptive.\n\n**What it does:**\n\n* Real-time tracking of 5-hour & weekly limits\n* Burn rate + time-to-limit estimates\n* Automatic, progressive degradation:\n   * 70% → confirm before expensive sends\n   * 85% → auto-switch to **Haiku**\n   * 95% → pause queued messages\n   * 100% → block new sessions\n* Auto-reverts to Sonnet when quota resets\n\nGoal: **stay productive instead of hitting a hard stop**.\n\nOpen source (MIT):  \n[https://github.com/carloluisito/claudedesk](https://github.com/carloluisito/claudedesk)\n\nHow are you handling Claude usage limits today?",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1qum1bf/open_source_automatic_quota_management_for_claude/",
     "url_overridden_by_dest": null,
     "created": "2026-02-02T23:55:42",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

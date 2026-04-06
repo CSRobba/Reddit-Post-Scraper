@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Apple paying Google $1B a year to power Siri with Gemini smart shortcut or proof they\u2019ve fallen behind in AI?",
+    "title": "Apple paying Google $1B a year to power Siri with Gemini smart shortcut or proof they’ve fallen behind in AI?",
     "id": "1otalm6",
     "body": "",
     "url": "https://i.redd.it/q5y4chsgid0g1.png",
@@ -11,5 +11,8 @@
     "num_comments": 61,
     "ups": 132,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

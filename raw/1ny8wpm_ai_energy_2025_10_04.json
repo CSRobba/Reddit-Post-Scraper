@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI Data Centers Are Skyrocketing Regular People\u2019s Energy Bills",
+    "title": "AI Data Centers Are Skyrocketing Regular People’s Energy Bills",
     "id": "1ny8wpm",
     "body": "",
     "url": "https://www.bloomberg.com/graphics/2025-ai-data-centers-electricity-prices/?embedded-checkout=true",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 201,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

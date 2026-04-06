@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Why do the AI prompters think it\u2019s ok to raise our energy bills?",
+    "title": "Why do the AI prompters think it’s ok to raise our energy bills?",
     "id": "1o0574q",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1o0574q/why_do_the_ai_prompters_think_its_ok_to_raise_our/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

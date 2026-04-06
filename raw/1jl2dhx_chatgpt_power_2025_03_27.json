@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "I\u2019m using ChatGPT 4o and I\u2019m trying to get it to analyze a video of a gaming benchmark where 8 have on screen system data like FPS, CPU and GPU temperature and power data (W). This data is refreshed every second. The connection keeps resetting and can\u2019t figure out how to get it to work. Any ideas?",
+    "title": "I’m using ChatGPT 4o and I’m trying to get it to analyze a video of a gaming benchmark where 8 have on screen system data like FPS, CPU and GPU temperature and power data (W). This data is refreshed every second. The connection keeps resetting and can’t figure out how to get it to work. Any ideas?",
     "id": "1jl2dhx",
     "body": "",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1jl2dhx/im_using_chatgpt_4o_and_im_trying_to_get_it_to/",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

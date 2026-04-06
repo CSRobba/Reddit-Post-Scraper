@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "In brief\u2026 Hedera is the trust layer for sustainability.\n\nBuilt for enterprise-scale AI, tokenization, and ESG, without compromising performance or cost.\n\nWith Guardian, ESG policies become verifiable, transparent digital records used across climate finance",
+    "title": "In brief… Hedera is the trust layer for sustainability.\n\nBuilt for enterprise-scale AI, tokenization, and ESG, without compromising performance or cost.\n\nWith Guardian, ESG policies become verifiable, transparent digital records used across climate finance",
     "id": "1s9lwtx",
     "body": "",
     "url": "https://v.redd.it/ocwh75wb8lsg1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 6,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Sam Altman's Under-The-Radar SPAC Fuses AI Expertise With Nuclear Energy: Here Are The Others Involved \u2014 TradingView News ",
+    "title": "Sam Altman's Under-The-Radar SPAC Fuses AI Expertise With Nuclear Energy: Here Are The Others Involved — TradingView News ",
     "id": "1bp07xv",
     "body": "",
     "url": "https://www.tradingview.com/news/benzinga:e5d3f316a094b:0-sam-altman-s-under-the-radar-spac-fuses-ai-expertise-with-nuclear-energy-here-are-the-others-involved/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

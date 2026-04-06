@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "ELI5: How does AI \u201cconsume\u201d water? If it\u2019s used for cooling, why can\u2019t it be reused? If it evaporates, won\u2019t it still turn back into water eventually?",
+    "title": "ELI5: How does AI “consume” water? If it’s used for cooling, why can’t it be reused? If it evaporates, won’t it still turn back into water eventually?",
     "id": "1o3a525",
     "body": "",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1o3a525/eli5_how_does_ai_consume_water_if_its_used_for/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

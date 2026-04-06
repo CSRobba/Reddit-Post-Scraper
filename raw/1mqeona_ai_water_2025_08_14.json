@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "Has there been any side by side of how much water an ai prompt uses Vs. how much water it takes to make a pencil and paper?",
     "id": "1mqeona",
-    "body": "I\u2019m trying to research this right now but I\u2019m getting tons of weird obviously biased sources. I see a lot of the \u201cai uses so much water\u201d and \u201cpick up a pencil and paper!\u201d. And I\u2019ve seen studies that say 40 prompts you put it use up the amount of water that comes out in one second of a shower. And then I saw a person say that and get downvoted to hell with relies like \u201cbut it\u2019s bad if a million people are doing it!\u201d\u2026 They also love to encourage people to pick up a pencil and paper. Soooo, I\u2019m just wondering how much water it takes to make one pencil and one paper (even though you can\u2019t usually buy them in that quantity so let\u2019s say 1 notebook and 1 pack of 3 pencils? I\u2019m researching but maybe others are better than I am. And please cite sources. Thanks!",
+    "body": "I’m trying to research this right now but I’m getting tons of weird obviously biased sources. I see a lot of the “ai uses so much water” and “pick up a pencil and paper!”. And I’ve seen studies that say 40 prompts you put it use up the amount of water that comes out in one second of a shower. And then I saw a person say that and get downvoted to hell with relies like “but it’s bad if a million people are doing it!”… They also love to encourage people to pick up a pencil and paper. Soooo, I’m just wondering how much water it takes to make one pencil and one paper (even though you can’t usually buy them in that quantity so let’s say 1 notebook and 1 pack of 3 pencils? I’m researching but maybe others are better than I am. And please cite sources. Thanks!",
     "url": "https://www.reddit.com/r/DefendingAIArt/comments/1mqeona/has_there_been_any_side_by_side_of_how_much_water/",
     "url_overridden_by_dest": null,
     "created": "2025-08-14T14:59:24",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 13,
     "upvote_ratio": 0.8500000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "\u201cA new way of building AI data centers is flexible computing, where the key idea is to compute more when electricity is cheaper, more available and greener, and less when it\u2019s more expensive, scarce and polluting.\u201d",
+    "title": "“A new way of building AI data centers is flexible computing, where the key idea is to compute more when electricity is cheaper, more available and greener, and less when it’s more expensive, scarce and polluting.”",
     "id": "1e39lav",
     "body": "https://l.smartnews.com/p-yBToh/vtcAIF",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1e39lav/a_new_way_of_building_ai_data_centers_is_flexible/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

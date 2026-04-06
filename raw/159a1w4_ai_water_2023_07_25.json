@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Google Is Really, Really Thirsty | Google said it consumed 5.6 billion gallons of water in 2022\u2014its push into AI is likely to make that amount skyrocket.",
+    "title": "Google Is Really, Really Thirsty | Google said it consumed 5.6 billion gallons of water in 2022—its push into AI is likely to make that amount skyrocket.",
     "id": "159a1w4",
     "body": "",
     "url": "https://gizmodo.com/google-water-usage-exploding-with-ai-development-1850673427",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

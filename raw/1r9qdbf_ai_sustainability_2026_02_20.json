@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "Free GCC/UAE AI Agent Pack \u2013 12 Tools for ESG, Sustainability & Productivity",
+    "title": "Free GCC/UAE AI Agent Pack – 12 Tools for ESG, Sustainability & Productivity",
     "id": "1r9qdbf",
     "body": "",
     "url": "https://gccaiagents.carrd.co/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

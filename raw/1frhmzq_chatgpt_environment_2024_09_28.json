@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environment",
-    "title": "ChatGPT helps improve complex behavioral studies by assisting researchers with their analyzes, here in the area of \u200b\u200bexpressing anger in a professional environment",
+    "title": "ChatGPT helps improve complex behavioral studies by assisting researchers with their analyzes, here in the area of ​​expressing anger in a professional environment",
     "id": "1frhmzq",
     "body": "",
     "url": "https://epistella.fr/2024/09/28/chat-gpt-etude-comportementale/",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 0,
     "upvote_ratio": 0.4099999964237213,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "AI waste",
-    "title": "Building an AI fridge assistant to fight food waste \u2013 looking for beta testers!",
+    "title": "Building an AI fridge assistant to fight food waste – looking for beta testers!",
     "id": "1lr47hs",
-    "body": "Hey r/SideProject, I'm working on something I'm calling 'FridgeAI' (might change the name!). The big idea is to help tackle household food waste and make meal planning way simpler. I've been super frustrated with food going bad or staring into the fridge with no idea what to make, so I decided to build a solution.\n\nRight now, I'm focused on really nailing the core features:\n-   **Smart inventory tracking**: Trying to make receipt scanning super accurate so you don't have to type everything in. This was a pain point from some early feedback, so aiming for top-notch accuracy.\n-   **Expiry alerts**: Giving genuinely useful nudges before things spoil, with 'use-it-up' recipe ideas.\n-   **AI-powered recipe suggestions**: Generating meal ideas based *only* on what's actually in your fridge, and trying to make the AI smart enough to handle dietary preferences (vegetarian, gluten-free, etc.). We're actually A/B testing different AI models for this now to see which is most useful!\n\nAlso, a previous version had a broken privacy policy link, which was a huge trust issue \u2013 we've definately fixed that, it's working now!\n\nI'm looking for folks who are interested in giving this a try and providing candid feedback. Especially keen to hear if the receipt scanning is accurate for you, if the expiry date predictions feel right, and if the AI recipes are actually practical and yummy. Your thoughts would be super helpful as I refine things. Drop a comment if you're interested or have any questions!",
+    "body": "Hey r/SideProject, I'm working on something I'm calling 'FridgeAI' (might change the name!). The big idea is to help tackle household food waste and make meal planning way simpler. I've been super frustrated with food going bad or staring into the fridge with no idea what to make, so I decided to build a solution.\n\nRight now, I'm focused on really nailing the core features:\n-   **Smart inventory tracking**: Trying to make receipt scanning super accurate so you don't have to type everything in. This was a pain point from some early feedback, so aiming for top-notch accuracy.\n-   **Expiry alerts**: Giving genuinely useful nudges before things spoil, with 'use-it-up' recipe ideas.\n-   **AI-powered recipe suggestions**: Generating meal ideas based *only* on what's actually in your fridge, and trying to make the AI smart enough to handle dietary preferences (vegetarian, gluten-free, etc.). We're actually A/B testing different AI models for this now to see which is most useful!\n\nAlso, a previous version had a broken privacy policy link, which was a huge trust issue – we've definately fixed that, it's working now!\n\nI'm looking for folks who are interested in giving this a try and providing candid feedback. Especially keen to hear if the receipt scanning is accurate for you, if the expiry date predictions feel right, and if the AI recipes are actually practical and yummy. Your thoughts would be super helpful as I refine things. Drop a comment if you're interested or have any questions!",
     "url": "https://www.reddit.com/r/SideProject/comments/1lr47hs/building_an_ai_fridge_assistant_to_fight_food/",
     "url_overridden_by_dest": null,
     "created": "2025-07-03T16:34:46",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

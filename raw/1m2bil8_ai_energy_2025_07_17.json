@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Trump\u2019s big AI energy pitch is just microgrids by another name. Interest in microgrids has emerged in the tech and telecom consciousness in recent years in response to a need for increased reliability (hello, wireless networks) and rising demand for more power (go ahead and blame AI).",
+    "title": "Trump’s big AI energy pitch is just microgrids by another name. Interest in microgrids has emerged in the tech and telecom consciousness in recent years in response to a need for increased reliability (hello, wireless networks) and rising demand for more power (go ahead and blame AI).",
     "id": "1m2bil8",
     "body": "",
     "url": "https://www.fierce-network.com/cloud/trumps-big-ai-energy-pitch-just-microgrids-another-name",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 5,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

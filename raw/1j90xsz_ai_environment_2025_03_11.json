@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "For some context, OP of that post asked or Character AI was bad for the environment \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+    "title": "For some context, OP of that post asked or Character AI was bad for the environment 🤦🏻‍♂️",
     "id": "1j90xsz",
     "body": "",
     "url": "https://i.redd.it/wo1ljbf1f4oe1.png",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 25,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "I\u2019m building a native iOS HN client for power users: semantic filtering + AI summaries",
+    "title": "I’m building a native iOS HN client for power users: semantic filtering + AI summaries",
     "id": "1pzr5q3",
     "body": ">",
     "url": "https://www.reddit.com/r/SideProject/comments/1pzr5q3/im_building_a_native_ios_hn_client_for_power/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

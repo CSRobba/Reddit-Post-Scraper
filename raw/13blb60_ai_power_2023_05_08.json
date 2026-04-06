@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "We have just released an AI video featuring Nami from One Piece! \ud83d\udd25 Watch her come to life with stunning animations and vivid colors. \ud83c\udfa8 Our AI technology has truly brought out the beauty and power of this iconic character. \ud83d\ude0d",
+    "title": "We have just released an AI video featuring Nami from One Piece! 🔥 Watch her come to life with stunning animations and vivid colors. 🎨 Our AI technology has truly brought out the beauty and power of this iconic character. 😍",
     "id": "13blb60",
     "body": "",
     "url": "https://v.redd.it/onnf7d7x6lya1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
