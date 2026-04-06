@@ -13,6 +13,7 @@
     "upvote_ratio": 0.27000001072883606,
     "view_count": null,
     "relevance_rate": {
-        "nino": "n"
+        "nino": "n",
+        "null": "n"
     }
 }
