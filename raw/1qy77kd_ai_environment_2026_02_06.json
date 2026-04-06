@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "Web-based builders are toys for \"prototypes\" apps. If you\u2019re still building in a browser tab, you\u2019re already behind.  Extern AI just dropped a Desktop IDE that handles real scale for non-techs. Use a local environment or get left with a prototype while others build real companies.",
+    "title": "Web-based builders are toys for \"prototypes\" apps. If you’re still building in a browser tab, you’re already behind.  Extern AI just dropped a Desktop IDE that handles real scale for non-techs. Use a local environment or get left with a prototype while others build real companies.",
     "id": "1qy77kd",
     "body": "",
     "url": "https://www.extern.co.za/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

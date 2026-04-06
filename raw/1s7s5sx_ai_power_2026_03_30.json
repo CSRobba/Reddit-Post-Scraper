@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana\u2014more than triple the initial plans",
+    "title": "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plans",
     "id": "1s7s5sx",
-    "body": "Meta will pay for a total of 10 gas-fired power plants\u2014enough to power more than 5 million homes\u2014to electrify its rapidly expanding plans for its massive AI data center complex in northeastern Louisiana, dubbed Hyperion.\n\nMeta\u2019s agreement with New Orleans\u2013based Entergy, announced March 27, is to build and finance seven new power plants in Louisiana. That comes on top of plans approved last year to build three gas power plants for the sprawling AI hub. \n\nThe 10 power plants with 7.5 gigawatts of capacity would represent a more than 30% increase to Louisiana\u2019s entire grid capacity, not even counting up to 2.5 gigawatts of renewable energy capacity, including battery storage, that Meta also agreed to help fund.\n\nMeta initially announced plans for a $10 billion investment in December 2024 for a 2,250-acre data center campus in northeastern Louisiana in rural Richland Parish. But Meta recently, and quietly, acquired an additional 1,400 acres, as Fortune reported in February. \n\nRead more: [https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/](https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/)",
+    "body": "Meta will pay for a total of 10 gas-fired power plants—enough to power more than 5 million homes—to electrify its rapidly expanding plans for its massive AI data center complex in northeastern Louisiana, dubbed Hyperion.\n\nMeta’s agreement with New Orleans–based Entergy, announced March 27, is to build and finance seven new power plants in Louisiana. That comes on top of plans approved last year to build three gas power plants for the sprawling AI hub. \n\nThe 10 power plants with 7.5 gigawatts of capacity would represent a more than 30% increase to Louisiana’s entire grid capacity, not even counting up to 2.5 gigawatts of renewable energy capacity, including battery storage, that Meta also agreed to help fund.\n\nMeta initially announced plans for a $10 billion investment in December 2024 for a 2,250-acre data center campus in northeastern Louisiana in rural Richland Parish. But Meta recently, and quietly, acquired an additional 1,400 acres, as Fortune reported in February. \n\nRead more: [https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/](https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/)",
     "url": "https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/",
     "url_overridden_by_dest": "https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/",
     "created": "2026-03-30T07:28:57",
@@ -11,5 +11,8 @@
     "num_comments": 72,
     "ups": 318,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

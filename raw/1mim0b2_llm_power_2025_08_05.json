@@ -2,7 +2,7 @@
     "query_term": "LLM power",
     "title": "Searching flights just got better with the power of LLM (and a bit of reverse engineering)",
     "id": "1mim0b2",
-    "body": "Im a digital nomad who likes to find the best cheap flights to exotic destinations, and as a side project I reverse engineered Google Flights & Sky Scanner, and wrapped it with an LLM (currently using OpenAI) - to create an engine that can accommodate more powerful searches, i.e.:\n\n\\- comparing the best flights\u00a0**over months of flex range**  \n\\- comparing\u00a0**multiple destinations at once**  \n\\- Visualizing results (calendar heat-map, price/duration graph, etc.)  \nand more powerful stuff.  \n  \n\"3 nights on a Greek island end of October, beginning of November from Cologne or Frankfurt, Thursday-Sunday only\"  \n(;et's see you pull this search off in SkyScanner)\n\nWe're two months in, and seeing it at work and even other people using it - is just incredibly satisfying.\n\nThe future of search engines with LLMs getting better is interesting",
+    "body": "Im a digital nomad who likes to find the best cheap flights to exotic destinations, and as a side project I reverse engineered Google Flights & Sky Scanner, and wrapped it with an LLM (currently using OpenAI) - to create an engine that can accommodate more powerful searches, i.e.:\n\n\\- comparing the best flights **over months of flex range**  \n\\- comparing **multiple destinations at once**  \n\\- Visualizing results (calendar heat-map, price/duration graph, etc.)  \nand more powerful stuff.  \n  \n\"3 nights on a Greek island end of October, beginning of November from Cologne or Frankfurt, Thursday-Sunday only\"  \n(;et's see you pull this search off in SkyScanner)\n\nWe're two months in, and seeing it at work and even other people using it - is just incredibly satisfying.\n\nThe future of search engines with LLMs getting better is interesting",
     "url": "https://i.redd.it/z8wnj4qoq9hf1.png",
     "url_overridden_by_dest": "https://i.redd.it/z8wnj4qoq9hf1.png",
     "created": "2025-08-05T14:30:04",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

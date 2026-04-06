@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Emmanuel Macron Says France's Nuclear Energy Capacity Gives Them A Great Advantage To Run AI Data Because There Is No Need To Drill But Only \u201cPlug, Baby, Plug.\"",
+    "title": "Emmanuel Macron Says France's Nuclear Energy Capacity Gives Them A Great Advantage To Run AI Data Because There Is No Need To Drill But Only “Plug, Baby, Plug.\"",
     "id": "1imx89w",
     "body": "",
     "url": "https://imgur.com/a/x4h2Qix",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

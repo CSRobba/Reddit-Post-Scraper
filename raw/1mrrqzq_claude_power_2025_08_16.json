@@ -1,6 +1,6 @@
 {
     "query_term": "Claude power",
-    "title": "Claude now has the power to ghost us\u2026 finally equality!",
+    "title": "Claude now has the power to ghost us… finally equality!",
     "id": "1mrrqzq",
     "body": "",
     "url": "https://i.redd.it/6fekno8w1djf1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 4,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

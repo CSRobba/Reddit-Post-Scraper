@@ -2,7 +2,7 @@
     "query_term": "data center power",
     "title": "Are grid impacts from data center power demands impacting home electronics? Did Bloomberg story get this right?",
     "id": "1qk956e",
-    "body": "The main argument seems to be that these centers create \"harmonics\" (distortions in the electricity) that travel miles down the grid and damage our electronics.\n\n[https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/)\u00a0\u00a0\n\nDo we have any electrical engineers or grid experts in this group? :)  That article came out in 2024 but I haven\u2019t seen more research or reports about collateral damage to in home electronics. I\u2019d love to know:\n\n1. Is it actually physically possible for \"bad harmonics\" from a data center to travel through transformers and substations to a house?\n2. Has anyone seen actual proof or a study or a documented case that links a specific appliance failure, computer failure, or fires to a nearby data center?\n\nIf anyone has the technical background to explain this or point me toward real research (not just news headlines), I\u2019d really appreciate it!",
+    "body": "The main argument seems to be that these centers create \"harmonics\" (distortions in the electricity) that travel miles down the grid and damage our electronics.\n\n[https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/)  \n\nDo we have any electrical engineers or grid experts in this group? :)  That article came out in 2024 but I haven’t seen more research or reports about collateral damage to in home electronics. I’d love to know:\n\n1. Is it actually physically possible for \"bad harmonics\" from a data center to travel through transformers and substations to a house?\n2. Has anyone seen actual proof or a study or a documented case that links a specific appliance failure, computer failure, or fires to a nearby data center?\n\nIf anyone has the technical background to explain this or point me toward real research (not just news headlines), I’d really appreciate it!",
     "url": "https://www.reddit.com/r/datacenter/comments/1qk956e/are_grid_impacts_from_data_center_power_demands/",
     "url_overridden_by_dest": null,
     "created": "2026-01-22T14:39:13",
@@ -11,5 +11,8 @@
     "num_comments": 26,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

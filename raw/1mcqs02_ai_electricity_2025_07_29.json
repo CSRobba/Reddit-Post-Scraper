@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "AI in Wyoming may soon use more electricity than state\u2019s human residents",
+    "title": "AI in Wyoming may soon use more electricity than state’s human residents",
     "id": "1mcqs02",
     "body": "",
     "url": "https://arstechnica.com/information-technology/2025/07/ai-in-wyoming-may-soon-use-more-electricity-than-states-human-residents/",
@@ -11,5 +11,8 @@
     "num_comments": 162,
     "ups": 4806,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

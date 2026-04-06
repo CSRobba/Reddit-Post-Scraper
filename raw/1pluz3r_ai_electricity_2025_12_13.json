@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Trump dismisses Wall Street Journal report on electricity for AI. Trump blasted a WSJ report suggesting China is beating the US in the AI and energy race, which has become a major issue for tech leaders. \u201cWe are leading the World in AI, BY FAR, because of a gentleman named DONALD J. TRUMP!\"",
+    "title": "Trump dismisses Wall Street Journal report on electricity for AI. Trump blasted a WSJ report suggesting China is beating the US in the AI and energy race, which has become a major issue for tech leaders. “We are leading the World in AI, BY FAR, because of a gentleman named DONALD J. TRUMP!\"",
     "id": "1pluz3r",
     "body": "",
     "url": "https://thehill.com/homenews/media/5646116-trump-wall-street-journal-electricity-ai-claims/",
@@ -11,5 +11,8 @@
     "num_comments": 57,
     "ups": 171,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

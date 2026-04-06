@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "AI fusion with quantum power: First time a real quantum computer has been used to fine-tune a large language model in a practical setting",
     "id": "1jv170p",
-    "body": ">Chinese researchers say they have achieved a global first in using a real [quantum computer](https://www.scmp.com/topics/quantum-computing?module=inline&pgtype=article) to fine-tune an [artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=inline&pgtype=article) model with 1 billion parameters, showing the potential of quantum computing to help better train large language models.\n\n>Using [Origin Wukong](https://www.scmp.com/news/china/science/article/3248664/us-users-rush-china-opens-its-top-quantum-computer-origin-wukong-world-state-media-reports?module=inline&pgtype=article), China\u2019s third-generation superconducting quantum computer with 72 qubits, a team in Hefei has achieved an 8.4 per cent improvement in training performance while reducing the number of parameters by 76 per cent, state-owned Science and Technology Daily reported on Monday.",
+    "body": ">Chinese researchers say they have achieved a global first in using a real [quantum computer](https://www.scmp.com/topics/quantum-computing?module=inline&pgtype=article) to fine-tune an [artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=inline&pgtype=article) model with 1 billion parameters, showing the potential of quantum computing to help better train large language models.\n\n>Using [Origin Wukong](https://www.scmp.com/news/china/science/article/3248664/us-users-rush-china-opens-its-top-quantum-computer-origin-wukong-world-state-media-reports?module=inline&pgtype=article), China’s third-generation superconducting quantum computer with 72 qubits, a team in Hefei has achieved an 8.4 per cent improvement in training performance while reducing the number of parameters by 76 per cent, state-owned Science and Technology Daily reported on Monday.",
     "url": "https://www.scmp.com/news/china/science/article/3305761/first-encounter-chinese-ai-meets-quantum-power-and-gets-smarter-faster",
     "url_overridden_by_dest": "https://www.scmp.com/news/china/science/article/3305761/first-encounter-chinese-ai-meets-quantum-power-and-gets-smarter-faster",
     "created": "2025-04-09T01:55:47",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 23,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

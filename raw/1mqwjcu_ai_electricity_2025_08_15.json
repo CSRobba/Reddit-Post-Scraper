@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "U.S. AI boom is completely upending the electricity market \u2014 small businesses and households could foot the bill as industry watchers warn of sharp price increases",
+    "title": "U.S. AI boom is completely upending the electricity market — small businesses and households could foot the bill as industry watchers warn of sharp price increases",
     "id": "1mqwjcu",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-ai-boom-is-completely-upending-the-electricity-market-small-businesses-and-households-could-foot-the-bill-as-industry-watchers-warn-of-sharp-price-increases",
@@ -11,5 +11,8 @@
     "num_comments": 156,
     "ups": 2156,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

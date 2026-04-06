@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "AI\u2019s hunger for electric power is threatening U.S. climate goals | Electric utility companies are building more power plants that will burn methane gas to meet demands of a data center construction boom.",
+    "title": "AI’s hunger for electric power is threatening U.S. climate goals | Electric utility companies are building more power plants that will burn methane gas to meet demands of a data center construction boom.",
     "id": "1gwodw0",
     "body": "",
     "url": "https://www.washingtonpost.com/climate-environment/2024/11/19/ai-cop29-climate-data-centers/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzMyMTY1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzMzNTQ3NTk5LCJpYXQiOjE3MzIxNjUyMDAsImp0aSI6Ijc0YzM4Zjk1LTliMjItNDhkMy1iODhkLTQ5ZjcyOWVhOTc3MSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLWVudmlyb25tZW50LzIwMjQvMTEvMTkvYWktY29wMjktY2xpbWF0ZS1kYXRhLWNlbnRlcnMvIn0.5h9C0zC1RQShmVO5mMTS8mGrHDqOLfqX3k5CVjZ_Rao",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 36,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

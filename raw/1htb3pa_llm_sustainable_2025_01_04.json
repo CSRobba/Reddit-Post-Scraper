@@ -1,6 +1,6 @@
 {
     "query_term": "LLM sustainable",
-    "title": "\u269b Quantum-BIO-LLMs-sustainable-energy-efficient The Quantum-BIO-LLM project aims to enhance the efficiency of Large Language Models (LLMs) both in training and utilization. By leveraging advanced techniques from ray tracing, optical physics, and, most importantly",
+    "title": "⚛ Quantum-BIO-LLMs-sustainable-energy-efficient The Quantum-BIO-LLM project aims to enhance the efficiency of Large Language Models (LLMs) both in training and utilization. By leveraging advanced techniques from ray tracing, optical physics, and, most importantly",
     "id": "1htb3pa",
     "body": "",
     "url": "https://www.researchgate.net/publication/387720812_Quantum-BIO-LLMs-sustainable-energy-efficient",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

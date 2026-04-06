@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "Existing data centers must coordinate white space and gray space,Today, the entire data center ecosystem\u2014including developers, EPCs, hyperscalers, and utilities\u2014is scrambling to bring new facilincluding cooling and power, into a single, converged system to maximize AI compute capacity per megawatt.",
+    "title": "Existing data centers must coordinate white space and gray space,Today, the entire data center ecosystem—including developers, EPCs, hyperscalers, and utilities—is scrambling to bring new facilincluding cooling and power, into a single, converged system to maximize AI compute capacity per megawatt.",
     "id": "1r9hrfe",
     "body": "",
     "url": "https://eepower.com/industry-articles/orchestrating-white-and-gray-space-to-maximize-ai-compute/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

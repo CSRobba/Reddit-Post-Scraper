@@ -2,7 +2,7 @@
     "query_term": "AI waste",
     "title": "I built an AI that rates YouTube videos before you waste time watching them",
     "id": "1r0fb0f",
-    "body": "You know that feeling when you're 15 minutes into a 45-minute video and realize it's garbage? Yeah, I got tired of that.\n\n\n\nSo I built Distill.\n\n\n\nPaste any YouTube URL and get:\n\n\n\n\\- Worth It Score (1-10) \u2014 tells you if the video is actually worth your time\n\n\\- AI summary in seconds \u2014 not just a transcript dump, actual key insights\n\n\\- 3 modes \u2014 Quick (2 min read), Detailed (5 min), or Study Mode (for actually learning)\n\n\\- Smart detection \u2014 knows if it's finance, education, or podcast and adjusts accordingly\n\n\n\nThe Worth It score is the killer feature. I've skipped so many clickbait videos that looked promising but scored 4/10.\n\n\n\nFree to use (10 videos/month).\n\n\n\n\ud83d\udd17 Chrome extension: [https://chromewebstore.google.com/detail/distill-youtube-video-sum/plllepklppgopiobiecalocnfcdoekjg](https://chromewebstore.google.com/detail/distill-youtube-video-sum/plllepklppgopiobiecalocnfcdoekjg)\n\n\ud83d\udd17 Web app: [https://distill-web-sigma.vercel.app](https://distill-web-sigma.vercel.app)\n\n\n\nCurious what videos you'd test it on \u2014 drop a link and I'll tell you what it scores.",
+    "body": "You know that feeling when you're 15 minutes into a 45-minute video and realize it's garbage? Yeah, I got tired of that.\n\n\n\nSo I built Distill.\n\n\n\nPaste any YouTube URL and get:\n\n\n\n\\- Worth It Score (1-10) — tells you if the video is actually worth your time\n\n\\- AI summary in seconds — not just a transcript dump, actual key insights\n\n\\- 3 modes — Quick (2 min read), Detailed (5 min), or Study Mode (for actually learning)\n\n\\- Smart detection — knows if it's finance, education, or podcast and adjusts accordingly\n\n\n\nThe Worth It score is the killer feature. I've skipped so many clickbait videos that looked promising but scored 4/10.\n\n\n\nFree to use (10 videos/month).\n\n\n\n🔗 Chrome extension: [https://chromewebstore.google.com/detail/distill-youtube-video-sum/plllepklppgopiobiecalocnfcdoekjg](https://chromewebstore.google.com/detail/distill-youtube-video-sum/plllepklppgopiobiecalocnfcdoekjg)\n\n🔗 Web app: [https://distill-web-sigma.vercel.app](https://distill-web-sigma.vercel.app)\n\n\n\nCurious what videos you'd test it on — drop a link and I'll tell you what it scores.",
     "url": "https://www.reddit.com/r/SideProject/comments/1r0fb0f/i_built_an_ai_that_rates_youtube_videos_before/",
     "url_overridden_by_dest": null,
     "created": "2026-02-09T12:20:03",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

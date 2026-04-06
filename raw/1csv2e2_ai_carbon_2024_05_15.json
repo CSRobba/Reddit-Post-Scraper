@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "Microsoft\u2019s AI Push Imperils Climate Goal as Carbon Emissions Jump 30%",
+    "title": "Microsoft’s AI Push Imperils Climate Goal as Carbon Emissions Jump 30%",
     "id": "1csv2e2",
     "body": "",
     "url": "https://www.bloomberg.com/news/articles/2024-05-15/microsoft-s-ai-investment-imperils-climate-goal-as-emissions-jump-30",
@@ -11,5 +11,8 @@
     "num_comments": 28,
     "ups": 260,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

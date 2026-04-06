@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence power",
-    "title": "Tourism Jasper harnessing power of AI: \u2018The sky is the limit\u2019 An Alberta tourism agency is researching how artificial intelligence could help optimize operations and improve the visitor experience. It could be used on everything from travel patterns, weather, accommodation occupancy and ...",
+    "title": "Tourism Jasper harnessing power of AI: ‘The sky is the limit’ An Alberta tourism agency is researching how artificial intelligence could help optimize operations and improve the visitor experience. It could be used on everything from travel patterns, weather, accommodation occupancy and ...",
     "id": "15opv2g",
     "body": "",
     "url": "https://elblogdefamosas.com/tourism-jasper-harnessing-power-of-ai-the-sky-is-the-limit/?feed_id=26947&_unique_id=64d6d38b4ba15",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

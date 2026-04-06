@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Do any other AI artists out there use the AI as a filtering tool, as you would in Photoshop, or harking back to the days of Kai\u2019s Power tools? The first photo is of my watercolor sketch that I painted specifically for using in AI. The following are filtered works.",
+    "title": "Do any other AI artists out there use the AI as a filtering tool, as you would in Photoshop, or harking back to the days of Kai’s Power tools? The first photo is of my watercolor sketch that I painted specifically for using in AI. The following are filtered works.",
     "id": "16sp6vh",
     "body": "",
     "url": "https://www.reddit.com/gallery/16sp6vh",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

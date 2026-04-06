@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Illinois running low on power as AI data centers spike electricity demand | The news is a blow to Gov. JB Pritzker\u2019s climate change-fighting goals too, as demand from AI data centers soars while wind and solar development stalls.",
+    "title": "Illinois running low on power as AI data centers spike electricity demand | The news is a blow to Gov. JB Pritzker’s climate change-fighting goals too, as demand from AI data centers soars while wind and solar development stalls.",
     "id": "1ppagp0",
     "body": "",
     "url": "https://www.wbez.org/environment/2025/12/16/illinois-pritzker-energy-needs-nuclear-gas-power-plants-climate-change-renewable",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 4,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

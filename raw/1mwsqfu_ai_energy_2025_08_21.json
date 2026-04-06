@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "In a first, Google has released data on how much energy an AI prompt uses. It\u2019s the most transparent estimate yet from one of the big AI companies, and a long-awaited peek behind the curtain for researchers.",
+    "title": "In a first, Google has released data on how much energy an AI prompt uses. It’s the most transparent estimate yet from one of the big AI companies, and a long-awaited peek behind the curtain for researchers.",
     "id": "1mwsqfu",
     "body": "",
     "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
@@ -11,5 +11,8 @@
     "num_comments": 41,
     "ups": 368,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "AI in Wyoming may soon use more electricity than state\u2019s human residents | Proposed data center would demand 5x Wyoming's current power use at full deployment.",
+    "title": "AI in Wyoming may soon use more electricity than state’s human residents | Proposed data center would demand 5x Wyoming's current power use at full deployment.",
     "id": "1mfmybj",
     "body": "",
     "url": "https://arstechnica.com/information-technology/2025/07/ai-in-wyoming-may-soon-use-more-electricity-than-states-human-residents/",
@@ -11,5 +11,8 @@
     "num_comments": 37,
     "ups": 291,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

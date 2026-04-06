@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "OceanHero: the Web Browser that\u2019d Environmental Friendly, NO AI, and Donates to the Ocean",
+    "title": "OceanHero: the Web Browser that’d Environmental Friendly, NO AI, and Donates to the Ocean",
     "id": "1mfbeac",
     "body": "",
     "url": "https://apps.apple.com/app/id1536398518",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 6,
     "upvote_ratio": 0.800000011920929,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

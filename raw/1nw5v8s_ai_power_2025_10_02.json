@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI-Driven Demand for Gas Turbines Risks a New Energy Crunch | Orders for turbines to power natural gas plants are vastly outpacing supply, threatening the world\u2019s ability to keep pace with rising electricity demand.",
+    "title": "AI-Driven Demand for Gas Turbines Risks a New Energy Crunch | Orders for turbines to power natural gas plants are vastly outpacing supply, threatening the world’s ability to keep pace with rising electricity demand.",
     "id": "1nw5v8s",
     "body": "",
     "url": "https://www.bloomberg.com/features/2025-bottlenecks-gas-turbines/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTQwMjMwMCwiZXhwIjoxNzYwMDA3MTAwLCJhcnRpY2xlSWQiOiJUM0hLR0JHUFFRNlcwMCIsImJjb25uZWN0SWQiOiIwQzg4NkY0NTI0NzY0RUE0OEY2QTk4RTk1NDc5RTI2NSJ9.ig72WvOUiU6FJgeq8NU9C72__IQb5d1ONjO8xM1QrTQ",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

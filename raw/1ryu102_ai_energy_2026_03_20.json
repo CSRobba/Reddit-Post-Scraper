@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "I\u2019m building a company called Brief Group focused on smart energy monitoring, AI fault detection, automated reporting, and digital infrastructure tools. The goal is to help businesses reduce energy waste, predict failures, and improve operations. We\u2019re also planning a marketplace for p",
+    "title": "I’m building a company called Brief Group focused on smart energy monitoring, AI fault detection, automated reporting, and digital infrastructure tools. The goal is to help businesses reduce energy waste, predict failures, and improve operations. We’re also planning a marketplace for p",
     "id": "1ryu102",
     "body": "",
     "url": "https://www.reddit.com/r/energy/comments/1ryu102/im_building_a_company_called_brief_group_focused/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

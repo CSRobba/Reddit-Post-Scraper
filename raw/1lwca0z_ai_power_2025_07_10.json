@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI-based price trend detection for power & gas markets \u2013 application in EU and potential for ERCOT & CAISO",
+    "title": "AI-based price trend detection for power & gas markets – application in EU and potential for ERCOT & CAISO",
     "id": "1lwca0z",
     "body": "",
     "url": "http://salzmannone.com",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 4,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

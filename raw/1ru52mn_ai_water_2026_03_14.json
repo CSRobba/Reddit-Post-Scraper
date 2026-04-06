@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Sam Altman says AI will eventually be sold like electricity and water \u2014 by companies like OpenAI",
+    "title": "Sam Altman says AI will eventually be sold like electricity and water — by companies like OpenAI",
     "id": "1ru52mn",
     "body": "",
     "url": "https://www.businessinsider.com/sam-altman-ai-utility-electricity-water-openai-2026-3",
@@ -11,5 +11,8 @@
     "num_comments": 45,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

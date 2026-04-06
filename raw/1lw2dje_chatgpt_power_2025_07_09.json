@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "I built a site that collects useful prompts \u2014 kind of like a \"Prompt Pinterest\" for ChatGPT power users",
+    "title": "I built a site that collects useful prompts — kind of like a \"Prompt Pinterest\" for ChatGPT power users",
     "id": "1lw2dje",
-    "body": "Hey everyone :wave:\n\n\n\nI\u2019ve been using ChatGPT almost daily, and like many of you, I kept stumbling upon really good prompts on Reddit, Twitter, and blog posts. But saving them... got messy fast.\n\n\n\nSo I built PromptPot (https://v0-prompt-pot-web-interface.vercel.app/) \u2014 a clean little website where I collect and organize actually useful prompts. Think of it as a kind of \u201cPrompt Pinterest\u201d \u2014 searchable, tagged, and designed to be fast.\n\n\n\nRight now it includes prompts for:\n\n\\- Writing & blogging\n\n\\- Coding & debugging\n\n\\- Productivity & thinking\n\n\\- Brainstorming & idea generation\n\n\\- Personal reflection\n\n\\- Fun, random stuff\n\n\n\nYou don\u2019t need to log in to browse, but you can sign in (or stay anonymous) if you want to save your favorites or copy them easily.\n\n\n\nIt\u2019s still a work in progress, but I\u2019d love for you to check it out and let me know:\n\n\\- What prompts you'd love to see added?\n\n\\- What kind of filtering or features would be most helpful?\n\n\n\nI\u2019m making it for people like you \u2014 so feedback would be amazing :pray:\n\nThanks for reading!",
+    "body": "Hey everyone :wave:\n\n\n\nI’ve been using ChatGPT almost daily, and like many of you, I kept stumbling upon really good prompts on Reddit, Twitter, and blog posts. But saving them... got messy fast.\n\n\n\nSo I built PromptPot (https://v0-prompt-pot-web-interface.vercel.app/) — a clean little website where I collect and organize actually useful prompts. Think of it as a kind of “Prompt Pinterest” — searchable, tagged, and designed to be fast.\n\n\n\nRight now it includes prompts for:\n\n\\- Writing & blogging\n\n\\- Coding & debugging\n\n\\- Productivity & thinking\n\n\\- Brainstorming & idea generation\n\n\\- Personal reflection\n\n\\- Fun, random stuff\n\n\n\nYou don’t need to log in to browse, but you can sign in (or stay anonymous) if you want to save your favorites or copy them easily.\n\n\n\nIt’s still a work in progress, but I’d love for you to check it out and let me know:\n\n\\- What prompts you'd love to see added?\n\n\\- What kind of filtering or features would be most helpful?\n\n\n\nI’m making it for people like you — so feedback would be amazing :pray:\n\nThanks for reading!",
     "url": "https://www.reddit.com/r/SideProject/comments/1lw2dje/i_built_a_site_that_collects_useful_prompts_kind/",
     "url_overridden_by_dest": null,
     "created": "2025-07-09T23:16:24",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

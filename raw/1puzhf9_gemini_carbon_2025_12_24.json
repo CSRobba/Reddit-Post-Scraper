@@ -1,6 +1,6 @@
 {
     "query_term": "Gemini carbon",
-    "title": "Concept Study: The \"Mark XI Gemini\" \u2013 A Dual-Aluminum Solid-State Battery. Using a Nano-Gyroid Carbon Host to cycle between AlF3 and AlH3. (Zero Gas Phase).",
+    "title": "Concept Study: The \"Mark XI Gemini\" – A Dual-Aluminum Solid-State Battery. Using a Nano-Gyroid Carbon Host to cycle between AlF3 and AlH3. (Zero Gas Phase).",
     "id": "1puzhf9",
     "body": "",
     "url": "https://i.redd.it/8swhvc8ie89g1.png",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Power of ChatGPT and DALL\u00b7E 2 image creation directly on WhatsApp! Try for free.",
+    "title": "Power of ChatGPT and DALL·E 2 image creation directly on WhatsApp! Try for free.",
     "id": "10a7202",
     "body": "",
     "url": "https://www.whot.tech/",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

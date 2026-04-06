@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "How exactly does AI harm the environment? I\u2019ve seen ppl make those comments & genuinely curious how that works?",
+    "title": "How exactly does AI harm the environment? I’ve seen ppl make those comments & genuinely curious how that works?",
     "id": "1mxyj02",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1mxyj02/how_exactly_does_ai_harm_the_environment_ive_seen/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

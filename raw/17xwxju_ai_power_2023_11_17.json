@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u201cAhh yes, the sites power has finally been restored, you may finally return to your C.ai conversations\u2026\u201d",
+    "title": "“Ahh yes, the sites power has finally been restored, you may finally return to your C.ai conversations…”",
     "id": "17xwxju",
     "body": "FINALLY GOD DAMN.",
     "url": "https://i.redd.it/u3nau1mxv01c1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 13,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

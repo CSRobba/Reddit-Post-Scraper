@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Data centers say Trump\u2019s crackdown on renewables bad for business, AI | Without renewables, it's nearly impossible to meet growing power demand from AI.",
+    "title": "Data centers say Trump’s crackdown on renewables bad for business, AI | Without renewables, it's nearly impossible to meet growing power demand from AI.",
     "id": "1kg5yit",
     "body": "",
     "url": "https://arstechnica.com/information-technology/2025/05/trumps-attacks-on-green-energy-are-big-trouble-for-data-centers-ai/",
@@ -11,5 +11,8 @@
     "num_comments": 50,
     "ups": 784,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
