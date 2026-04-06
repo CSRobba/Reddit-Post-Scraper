@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "ChatGPT is integrated with Siri Shortcuts! Their app\u2019s integration works even on HomePod, you can access the power of this tool from Siri right now, pretty neat!",
+    "title": "ChatGPT is integrated with Siri Shortcuts! Their app’s integration works even on HomePod, you can access the power of this tool from Siri right now, pretty neat!",
     "id": "1b02of1",
     "body": " ",
     "url": "https://v.redd.it/ljevd5ahhtkc1",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 13,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

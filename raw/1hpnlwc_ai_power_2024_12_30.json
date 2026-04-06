@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI Needs So Much Power, It\u2019s Making Yours Worse",
+    "title": "AI Needs So Much Power, It’s Making Yours Worse",
     "id": "1hpnlwc",
     "body": "",
     "url": "https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/",
@@ -11,5 +11,8 @@
     "num_comments": 40,
     "ups": 73,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

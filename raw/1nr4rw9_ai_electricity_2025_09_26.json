@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "No, the US Doesn\u2019t Need Fossil Fuels to Win \u2018an AI Arms Race\u2019 Against China. The Trump admin is pushing a false narrative. \u201cThe idea that AI simply requires natural gas and nothing else is absolutely false.\u201d Solar is the fastest growing source of electricity in the US and globally, followed by wind.",
+    "title": "No, the US Doesn’t Need Fossil Fuels to Win ‘an AI Arms Race’ Against China. The Trump admin is pushing a false narrative. “The idea that AI simply requires natural gas and nothing else is absolutely false.” Solar is the fastest growing source of electricity in the US and globally, followed by wind.",
     "id": "1nr4rw9",
     "body": "",
     "url": "https://www.desmog.com/2025/09/24/us-doesnt-need-fossil-fuels-ai-arms-race-china-renewables/",
@@ -11,5 +11,8 @@
     "num_comments": 30,
     "ups": 467,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

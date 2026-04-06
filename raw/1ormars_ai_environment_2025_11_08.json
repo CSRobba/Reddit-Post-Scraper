@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Built a Multi-AI Dev Environment That Cut My Costs 70%",
     "id": "1ormars",
-    "body": "I built an orchestrator that routes tasks to 5 AI systems (Claude, Gemini, Copilot, OpenHands, Rover).\n\n* 70% of dev work (docs, analysis, GitHub ops) run FREE on Gemini/Copilot.\n* Only complex stuff needs paid Claude.\n* 18 MCP servers, parallel AI execution (Docker), auto-fix GitHub issues, CI/CD, 3-5x faster dev.\n\n**Setup:** 5 minutes  \n**GitHub:** [https://github.com/LEEI1337/ai-dev-orchestrator](https://github.com/LEEI1337/ai-dev-orchestrator)\n\nBuilt in Austria \ud83c\udde6\ud83c\uddf9. Beta testers & feedback welcome!",
+    "body": "I built an orchestrator that routes tasks to 5 AI systems (Claude, Gemini, Copilot, OpenHands, Rover).\n\n* 70% of dev work (docs, analysis, GitHub ops) run FREE on Gemini/Copilot.\n* Only complex stuff needs paid Claude.\n* 18 MCP servers, parallel AI execution (Docker), auto-fix GitHub issues, CI/CD, 3-5x faster dev.\n\n**Setup:** 5 minutes  \n**GitHub:** [https://github.com/LEEI1337/ai-dev-orchestrator](https://github.com/LEEI1337/ai-dev-orchestrator)\n\nBuilt in Austria 🇦🇹. Beta testers & feedback welcome!",
     "url": "https://www.reddit.com/r/SideProject/comments/1ormars/built_a_multiai_dev_environment_that_cut_my_costs/",
     "url_overridden_by_dest": null,
     "created": "2025-11-08T02:38:33",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

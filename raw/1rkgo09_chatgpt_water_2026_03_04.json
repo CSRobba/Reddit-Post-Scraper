@@ -2,7 +2,7 @@
     "query_term": "ChatGPT water",
     "title": "An entire year of heavy ChatGPT use has a smaller water footprint than a single beef burger",
     "id": "1rkgo09",
-    "body": "If you\u2019re worried about AI harming the environment, here\u2019s a stat that surprised me:\n\nA year of heavy ChatGPT use:\n\n\\~0.3\u20138 kg CO\u2082\n\n\\~110\u2013275 L of water\n\nGoing vegan for a year:\n\n\\~800\u20131600 kg CO\u2082 saved\n\n\\~500,000\u20131,000,000 L of water saved\n\nEssentially, an entire year of heavy ChatGPT use has a smaller water footprint than a single beef burger.\n\nIf someone is concerned about the environmental impact of AI, the biggest lever isn\u2019t avoiding technology.\n\nIt\u2019s what we eat.\n\n\u2e3b\n\nSources\n\n\u2022 AI water use estimates (\u2248500 ml per 20\u201350 prompts): research from University of California, Riverside on AI data-centre water consumption \n\nhttps://news.ucr.edu/articles/2023/04/28/ai-programs-consume-large-volumes-scarce-water\n\n\u2022 Environmental impact of diets: large global food system analysis led by researchers at University of Oxford showing vegan diets have \\~70\u201375% lower environmental impact than high meat diet\n\nhttps://www.ox.ac.uk/news/2023-07-20-vegan-diet-cuts-environmental-damage-climate-heating-emissions-study\n\n\u2022 Water footprint of beef (\\~2000\u20132500 L per burger equivalent): estimates from Water Footprint Network food lifecycle analysis\n\nhttps://waterfootprint.org/en/resources/interactive-tools/product-gallery/",
+    "body": "If you’re worried about AI harming the environment, here’s a stat that surprised me:\n\nA year of heavy ChatGPT use:\n\n\\~0.3–8 kg CO₂\n\n\\~110–275 L of water\n\nGoing vegan for a year:\n\n\\~800–1600 kg CO₂ saved\n\n\\~500,000–1,000,000 L of water saved\n\nEssentially, an entire year of heavy ChatGPT use has a smaller water footprint than a single beef burger.\n\nIf someone is concerned about the environmental impact of AI, the biggest lever isn’t avoiding technology.\n\nIt’s what we eat.\n\n⸻\n\nSources\n\n• AI water use estimates (≈500 ml per 20–50 prompts): research from University of California, Riverside on AI data-centre water consumption \n\nhttps://news.ucr.edu/articles/2023/04/28/ai-programs-consume-large-volumes-scarce-water\n\n• Environmental impact of diets: large global food system analysis led by researchers at University of Oxford showing vegan diets have \\~70–75% lower environmental impact than high meat diet\n\nhttps://www.ox.ac.uk/news/2023-07-20-vegan-diet-cuts-environmental-damage-climate-heating-emissions-study\n\n• Water footprint of beef (\\~2000–2500 L per burger equivalent): estimates from Water Footprint Network food lifecycle analysis\n\nhttps://waterfootprint.org/en/resources/interactive-tools/product-gallery/",
     "url": "https://www.reddit.com/r/OpenAI/comments/1rkgo09/an_entire_year_of_heavy_chatgpt_use_has_a_smaller/",
     "url_overridden_by_dest": null,
     "created": "2026-03-04T04:05:45",
@@ -11,5 +11,8 @@
     "num_comments": 100,
     "ups": 260,
     "upvote_ratio": 0.7400000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

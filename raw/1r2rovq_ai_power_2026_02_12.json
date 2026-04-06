@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Water, power, and the future of conflict. Converging shocks \u2014 from climate volatility and geopolitical fragmentation to energy transition and AI-driven demand \u2014 are turning 2026 into a defining year for fresh water.",
+    "title": "Water, power, and the future of conflict. Converging shocks — from climate volatility and geopolitical fragmentation to energy transition and AI-driven demand — are turning 2026 into a defining year for fresh water.",
     "id": "1r2rovq",
     "body": "",
     "url": "https://www.circleofblue.org/2026/water-policy-politics/stress-conflict-migration/water-power-and-the-future-of-conflict/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 4,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

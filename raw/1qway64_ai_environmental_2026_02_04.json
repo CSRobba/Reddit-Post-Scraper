@@ -1,8 +1,8 @@
 {
     "query_term": "AI environmental",
-    "title": "Environmental impact of AI: what should \u201cresponsible use\u201d mean in practice?",
+    "title": "Environmental impact of AI: what should “responsible use” mean in practice?",
     "id": "1qway64",
-    "body": "I\u2019m trying to map how people think about the environmental footprint of everyday AI use, beyond vague claims.\n\nWhat matters most to you when you think \u201cAI sustainability\u201d?\n\n* carbon / energy\n* water\n* hardware lifecycle and e-waste\n* data center energy mix and location\n* other\n\nWhat are the most practical changes you\u2019d actually make (as a user or builder)?\n\nIf you prefer to respond in a structured format, there\u2019s an optional short survey here:  \n[https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV\\_9ELhLj2tBcO9Age?Q\\_CHL=social&Q\\_SocialSource=reddit](https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV_9ELhLj2tBcO9Age?Q_CHL=social&Q_SocialSource=reddit)\n\n",
+    "body": "I’m trying to map how people think about the environmental footprint of everyday AI use, beyond vague claims.\n\nWhat matters most to you when you think “AI sustainability”?\n\n* carbon / energy\n* water\n* hardware lifecycle and e-waste\n* data center energy mix and location\n* other\n\nWhat are the most practical changes you’d actually make (as a user or builder)?\n\nIf you prefer to respond in a structured format, there’s an optional short survey here:  \n[https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV\\_9ELhLj2tBcO9Age?Q\\_CHL=social&Q\\_SocialSource=reddit](https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV_9ELhLj2tBcO9Age?Q_CHL=social&Q_SocialSource=reddit)\n\n",
     "url": "https://www.reddit.com/r/generativeAI/comments/1qway64/environmental_impact_of_ai_what_should/",
     "url_overridden_by_dest": null,
     "created": "2026-02-04T23:01:55",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

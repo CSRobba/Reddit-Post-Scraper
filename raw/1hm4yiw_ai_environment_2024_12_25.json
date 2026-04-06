@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "So, What Does AI Really Mean for Decarbonization: Jesse hosts a panel discussion at the annual meeting of Princeton\u2019s Andlinger Center for Energy and the Environment.",
+    "title": "So, What Does AI Really Mean for Decarbonization: Jesse hosts a panel discussion at the annual meeting of Princeton’s Andlinger Center for Energy and the Environment.",
     "id": "1hm4yiw",
     "body": "",
     "url": "https://heatmap.news/podcast/shift-key-s2-e19-ai-decarbonization",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 7,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

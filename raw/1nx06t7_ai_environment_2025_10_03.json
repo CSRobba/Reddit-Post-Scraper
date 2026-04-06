@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "I thought this was AI but it's real. Inside this particular model, the Origin M1, there are up to 25 tiny motors that control the head\u2019s expressions. The bot also has cameras embedded in its pupils to help it \"see\" its environment, along with built-in speakers and microphones it can use to interact.",
+    "title": "I thought this was AI but it's real. Inside this particular model, the Origin M1, there are up to 25 tiny motors that control the head’s expressions. The bot also has cameras embedded in its pupils to help it \"see\" its environment, along with built-in speakers and microphones it can use to interact.",
     "id": "1nx06t7",
     "body": "",
     "url": "https://v.redd.it/32qgk88dmwsf1",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

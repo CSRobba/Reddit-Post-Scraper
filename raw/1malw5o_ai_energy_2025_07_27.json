@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "The IEA\u2019s Energy and AI Observatory provides up-to-date data and analysis on the growing links between the energy sector and artificial intelligence (AI)",
+    "title": "The IEA’s Energy and AI Observatory provides up-to-date data and analysis on the growing links between the energy sector and artificial intelligence (AI)",
     "id": "1malw5o",
     "body": "",
     "url": "/r/DataCentres/comments/1malvhc/the_ieas_energy_and_ai_observatory_provides/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

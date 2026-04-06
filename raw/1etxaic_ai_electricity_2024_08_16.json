@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "\u201cGoogle's real goal is to build the \"best AI systems that they can.\" This comes with an environmental price tag, as these centers rely on \"bigger data centers all the way up to supercomputers, which incurs a tremendous amount of electricity consumption and therefore CO2 emissions.\"",
+    "title": "“Google's real goal is to build the \"best AI systems that they can.\" This comes with an environmental price tag, as these centers rely on \"bigger data centers all the way up to supercomputers, which incurs a tremendous amount of electricity consumption and therefore CO2 emissions.\"",
     "id": "1etxaic",
     "body": "https://l.smartnews.com/p-7tMak/hbDCdf",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1etxaic/googles_real_goal_is_to_build_the_best_ai_systems/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "What AI artists (and most people) do during a power outage",
     "id": "1k0vhnr",
-    "body": "AI artists, video editors, photographers, gamers, and pretty much everyone who uses a computer, during a power outage\n\nBecause art is just one of life\u2019s joys and doesn\u2019t have the phrase \u201cexcept things that require electricity\u201d in its definition",
+    "body": "AI artists, video editors, photographers, gamers, and pretty much everyone who uses a computer, during a power outage\n\nBecause art is just one of life’s joys and doesn’t have the phrase “except things that require electricity” in its definition",
     "url": "https://i.redd.it/8vekhq91i9ve1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/8vekhq91i9ve1.jpeg",
     "created": "2025-04-16T14:07:04",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 61,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

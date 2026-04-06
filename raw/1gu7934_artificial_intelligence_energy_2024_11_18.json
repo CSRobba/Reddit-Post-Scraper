@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence energy",
-    "title": "What\u2019s the Impact of Artificial Intelligence on Energy Demand? / This article argues that the climate threat from artificial intelligence is overblown. IMHO, AI has the potential to help us solve the climate crisis if combined with a fossil fuel fee or carbon tax. We must learn to do more with less",
+    "title": "What’s the Impact of Artificial Intelligence on Energy Demand? / This article argues that the climate threat from artificial intelligence is overblown. IMHO, AI has the potential to help us solve the climate crisis if combined with a fossil fuel fee or carbon tax. We must learn to do more with less",
     "id": "1gu7934",
     "body": "",
     "url": "https://www.sustainabilitybynumbers.com/p/ai-energy-demand",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 0,
     "upvote_ratio": 0.4099999964237213,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Prompt Injection 2.0 shows AI prompts can power real cyber-attacks",
     "id": "1ma3urv",
-    "body": "\u2022New paper maps how malicious prompts team up with classic web exploits (XSS, CSRF) to spread AI worms and steal data.\n\n\u2022Standard LLM filters and web firewalls fail in every test.\n\n\u2022Authors call for \u201cprompt-aware firewalls\u201d plus strict privilege isolation before agents go mainstream.\n\n\nFull study (free PDF):  https://arxiv.org/abs/2507.13169\n\n",
+    "body": "•New paper maps how malicious prompts team up with classic web exploits (XSS, CSRF) to spread AI worms and steal data.\n\n•Standard LLM filters and web firewalls fail in every test.\n\n•Authors call for “prompt-aware firewalls” plus strict privilege isolation before agents go mainstream.\n\n\nFull study (free PDF):  https://arxiv.org/abs/2507.13169\n\n",
     "url": "https://www.reddit.com/r/singularity/comments/1ma3urv/prompt_injection_20_shows_ai_prompts_can_power/",
     "url_overridden_by_dest": null,
     "created": "2025-07-26T13:45:59",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

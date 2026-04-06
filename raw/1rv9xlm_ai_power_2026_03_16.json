@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "How American Companies Can Power The World\u2019s AI Future",
+    "title": "How American Companies Can Power The World’s AI Future",
     "id": "1rv9xlm",
     "body": "",
     "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/03/16/how-american-companies-can-power-the-worlds-ai-future/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

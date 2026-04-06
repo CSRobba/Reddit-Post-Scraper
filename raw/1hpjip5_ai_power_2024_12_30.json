@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\ude80 @OscarAInetwork: A decentralized cloud computing project built on the Sui blockchain, designed to revolutionize AI training. With its upcoming $OAI token launch, it offers affordable computing power for businesses, miners, and investors. \ud83c\udf10",
+    "title": "🚀 @OscarAInetwork: A decentralized cloud computing project built on the Sui blockchain, designed to revolutionize AI training. With its upcoming $OAI token launch, it offers affordable computing power for businesses, miners, and investors. 🌐",
     "id": "1hpjip5",
     "body": "",
     "url": "/r/sui/comments/1ho05oc/oscarainetwork_a_decentralized_cloud_computing/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

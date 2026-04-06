@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Google Unveils Project IDX: An Innovative AI-Driven Development Environment",
     "id": "15m3bs6",
-    "body": " Google is stepping up its game in the world of development environments with the introduction of Project IDX, aiming to revolutionize web and multiplatform app creation through AI.\n\n**Key Takeaways:**\n\n* **Framework Support:** Project IDX currently champions frameworks such as Angular, Flutter, Next.js, React, and more, with languages like Dart and JavaScript. Python & Go are in the pipeline.\n* **Integration with Visual Studio Code:** Google smartly utilizes **Visual Studio Code - Open Source** as the foundation for IDX.\n* **Google's Codey Integration:** IDX is powered by Google's **Codey**, a PaLM 2-based model, boosting features like smart code completion and advanced AI chatbot assistance.\n* **Cloud Connectivity:** Seamless integration with Google\u2019s Firebase Hosting and Google Cloud Functions. It also offers easy pulls from GitHub repositories.\n* **Advanced Workspace Features:** Each workspace boasts a Linux-based VM with promises of future in-browser Android and iOS simulators.\n\n**Personal Opinions:**  \nThe emergence of Project IDX emphasizes Google's commitment to pushing technological boundaries. This AI-powered development environment could possibly be a game-changer in the coding realm. While competitors like GitHub's Copilot are notable, the integration and capabilities of IDX make it uniquely promising. I am genuinely excited to witness its evolution and impact on the developer community.",
+    "body": " Google is stepping up its game in the world of development environments with the introduction of Project IDX, aiming to revolutionize web and multiplatform app creation through AI.\n\n**Key Takeaways:**\n\n* **Framework Support:** Project IDX currently champions frameworks such as Angular, Flutter, Next.js, React, and more, with languages like Dart and JavaScript. Python & Go are in the pipeline.\n* **Integration with Visual Studio Code:** Google smartly utilizes **Visual Studio Code - Open Source** as the foundation for IDX.\n* **Google's Codey Integration:** IDX is powered by Google's **Codey**, a PaLM 2-based model, boosting features like smart code completion and advanced AI chatbot assistance.\n* **Cloud Connectivity:** Seamless integration with Google’s Firebase Hosting and Google Cloud Functions. It also offers easy pulls from GitHub repositories.\n* **Advanced Workspace Features:** Each workspace boasts a Linux-based VM with promises of future in-browser Android and iOS simulators.\n\n**Personal Opinions:**  \nThe emergence of Project IDX emphasizes Google's commitment to pushing technological boundaries. This AI-powered development environment could possibly be a game-changer in the coding realm. While competitors like GitHub's Copilot are notable, the integration and capabilities of IDX make it uniquely promising. I am genuinely excited to witness its evolution and impact on the developer community.",
     "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/15m3bs6/google_unveils_project_idx_an_innovative_aidriven/",
     "url_overridden_by_dest": null,
     "created": "2023-08-08T23:18:04",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

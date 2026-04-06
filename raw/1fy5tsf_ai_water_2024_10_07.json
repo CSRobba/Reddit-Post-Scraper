@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Leaked picture of Stable Diffusion server located at underwater, where the AI photobashing millions of images from data using cloud server everytime a user click \"Generate\" button that drains 1000 gallons of water every generation \ud83d\ude44.\n",
+    "title": "Leaked picture of Stable Diffusion server located at underwater, where the AI photobashing millions of images from data using cloud server everytime a user click \"Generate\" button that drains 1000 gallons of water every generation 🙄.\n",
     "id": "1fy5tsf",
     "body": "",
     "url": "https://i.redd.it/lk59k2owpbtd1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 8,
     "ups": 84,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

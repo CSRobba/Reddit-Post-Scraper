@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence energy",
-    "title": "AI likely to increase energy use and accelerate climate misinformation \u2013 report | Artificial intelligence (AI)",
+    "title": "AI likely to increase energy use and accelerate climate misinformation – report | Artificial intelligence (AI)",
     "id": "1bfm5a5",
     "body": "",
     "url": "https://theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 28,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

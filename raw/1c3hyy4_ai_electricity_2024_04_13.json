@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Researchers at Tsinghua University in China have developed a revolutionary new AI chip that uses light instead of electricity to process data. Dubbed \u201cTaichi,\u201d the chip is reportedly over 1,000 times more energy-efficient than Nvidia\u2019s high performance H100 GPU chip",
+    "title": "Researchers at Tsinghua University in China have developed a revolutionary new AI chip that uses light instead of electricity to process data. Dubbed “Taichi,” the chip is reportedly over 1,000 times more energy-efficient than Nvidia’s high performance H100 GPU chip",
     "id": "1c3hyy4",
     "body": "",
     "url": "https://interestingengineering.com/science/taichi-light-based-chip",
@@ -11,5 +11,8 @@
     "num_comments": 104,
     "ups": 722,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

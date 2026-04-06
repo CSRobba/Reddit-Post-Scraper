@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "Wyoming\u2019s new AI data center will need its own power plant and still might overheat the region\u2019s economy",
+    "title": "Wyoming’s new AI data center will need its own power plant and still might overheat the region’s economy",
     "id": "1mpghs0",
     "body": "",
     "url": "https://www.techradar.com/pro/a-massive-wyoming-data-center-will-soon-use-5x-more-power-than-the-states-human-occupants-and-no-one-knows-who-is-using-it",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "[Book Release] Generative AI in Action \u2013 Unlocking the Power of Generative AI in Enterprises",
+    "title": "[Book Release] Generative AI in Action – Unlocking the Power of Generative AI in Enterprises",
     "id": "1firxt4",
-    "body": "I'm excited to announce that my new book, **Generative AI in Action**, has just been published by Manning Publications! \ud83d\udcda\n\nIn today's rapidly evolving tech landscape, understanding and leveraging Generative AI is becoming essential for businesses and tech professionals alike. This book is a comprehensive guide that dives deep into:\n\n* **Foundational Concepts**: Get up to speed with Generative AI, large language models (LLMs), and small language models (SLMs).\n* **Hands-On Techniques**: Learn practical skills like prompt engineering, retrieval-augmented generation (RAG), and model fine-tuning.\n* **Advanced Topics**: Explore reinforcement learning from human feedback (RLHF), chain-of-thought reasoning, and building AI-powered chat systems.\n* **Ethical AI Practices**: Understand the importance of privacy, security, and bias mitigation in AI deployments.\n\n**Special Launch Offer:**\n\nAs a thank-you to the community, you can get **45% off** the book in all formats using the code **pbbahree**. This offer is valid until **September 30, 2023**.\n\n\ud83d\udc49 [Get your discounted copy here](http://mng.bz/D9By) and my blog has more details on the book: [\ud83c\udf89Announcing My New Book: Generative AI in Action\ud83d\udcda | Amit Bahree's (useless?) insight! (desigeek.com)](https://blog.desigeek.com/post/2024/16/book-release-genai-in-action/)\n\nWhether you're a developer, data scientist, or tech enthusiast, I hope this book provides valuable insights to help you harness the power of Generative AI in your projects.\n\nThanks!",
+    "body": "I'm excited to announce that my new book, **Generative AI in Action**, has just been published by Manning Publications! 📚\n\nIn today's rapidly evolving tech landscape, understanding and leveraging Generative AI is becoming essential for businesses and tech professionals alike. This book is a comprehensive guide that dives deep into:\n\n* **Foundational Concepts**: Get up to speed with Generative AI, large language models (LLMs), and small language models (SLMs).\n* **Hands-On Techniques**: Learn practical skills like prompt engineering, retrieval-augmented generation (RAG), and model fine-tuning.\n* **Advanced Topics**: Explore reinforcement learning from human feedback (RLHF), chain-of-thought reasoning, and building AI-powered chat systems.\n* **Ethical AI Practices**: Understand the importance of privacy, security, and bias mitigation in AI deployments.\n\n**Special Launch Offer:**\n\nAs a thank-you to the community, you can get **45% off** the book in all formats using the code **pbbahree**. This offer is valid until **September 30, 2023**.\n\n👉 [Get your discounted copy here](http://mng.bz/D9By) and my blog has more details on the book: [🎉Announcing My New Book: Generative AI in Action📚 | Amit Bahree's (useless?) insight! (desigeek.com)](https://blog.desigeek.com/post/2024/16/book-release-genai-in-action/)\n\nWhether you're a developer, data scientist, or tech enthusiast, I hope this book provides valuable insights to help you harness the power of Generative AI in your projects.\n\nThanks!",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1firxt4/book_release_generative_ai_in_action_unlocking/",
     "url_overridden_by_dest": null,
     "created": "2024-09-16T23:28:37",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 2,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Considering the latest UN report on Water Bankruptcy Era, can\u2019t AI data centers just consume sea water or any other water that isn\u2019t drinkable?",
+    "title": "Considering the latest UN report on Water Bankruptcy Era, can’t AI data centers just consume sea water or any other water that isn’t drinkable?",
     "id": "1qojwv6",
     "body": "Why is this such a problem? Genuine question ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1qojwv6/considering_the_latest_un_report_on_water/",
@@ -11,5 +11,8 @@
     "num_comments": 16,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

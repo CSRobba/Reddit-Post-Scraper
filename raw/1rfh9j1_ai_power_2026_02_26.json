@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Elon Musk's makeshift AI power plant generates sound and fury in Mississippi. The 27 temporary gas turbines roar like jet engines day and night to power data centers, residents say. \u201cThis was not a thoughtful, phased development. It was an industrial surge imposed on our residential community.\u201d",
+    "title": "Elon Musk's makeshift AI power plant generates sound and fury in Mississippi. The 27 temporary gas turbines roar like jet engines day and night to power data centers, residents say. “This was not a thoughtful, phased development. It was an industrial surge imposed on our residential community.”",
     "id": "1rfh9j1",
     "body": "",
     "url": "https://www.nbcnews.com/news/us-news/musks-ai-power-plant-generates-sound-fury-mississippi-rcna258594",
@@ -11,5 +11,8 @@
     "num_comments": 67,
     "ups": 1086,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

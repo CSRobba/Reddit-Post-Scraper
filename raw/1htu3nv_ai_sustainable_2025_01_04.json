@@ -2,7 +2,7 @@
     "query_term": "AI sustainable",
     "title": "Visualizing Sustainable Futures: How Can AI Art Inspire Real-World Change?",
     "id": "1htu3nv",
-    "body": "Stable Diffusion empowers us to reimagine the world. Let\u2019s discuss how we can use AI-generated art to depict sustainable lifestyles, ecological balance, and harmonious urban designs. What visual elements best capture the essence of a regenerative future?",
+    "body": "Stable Diffusion empowers us to reimagine the world. Let’s discuss how we can use AI-generated art to depict sustainable lifestyles, ecological balance, and harmonious urban designs. What visual elements best capture the essence of a regenerative future?",
     "url": "https://www.reddit.com/r/StableDiffusion/comments/1htu3nv/visualizing_sustainable_futures_how_can_ai_art/",
     "url_overridden_by_dest": null,
     "created": "2025-01-04T20:27:08",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.4399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

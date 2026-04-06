@@ -13,7 +13,8 @@
     "upvote_ratio": 1,
     "view_count": null,
     "relevance_rate": {
-        "julie": "m"
+        "julie": "m",
+        "nino": "n"
     },
     "relevance_reasoning": {
         "julie": "interesting for understanding how people think about env impact, but does not explicitly mention it"

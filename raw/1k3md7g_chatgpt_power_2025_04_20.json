@@ -2,7 +2,7 @@
     "query_term": "ChatGPT power",
     "title": "Sam Altman Admits That Saying \"Please\" and \"Thank You\" to ChatGPT Is Wasting Millions of Dollars in Computing Power",
     "id": "1k3md7g",
-    "body": "OpenAI CEO and tech billionaire Sam Altman recently admitted that people politely saying \"please\" and \"thank you\" to their AI chatbots is costing him bigtime.\n\nWhen one poster on X-formerly-Twitter\u00a0wondered aloud\u00a0\"how much money OpenAI has lost in electricity costs from people saying 'please' and 'thank you' to their models,\"\u00a0Altman chimed in, saying it's \"tens of millions of dollars well spent.\"\n\n\"You never know,\" he added.",
+    "body": "OpenAI CEO and tech billionaire Sam Altman recently admitted that people politely saying \"please\" and \"thank you\" to their AI chatbots is costing him bigtime.\n\nWhen one poster on X-formerly-Twitter wondered aloud \"how much money OpenAI has lost in electricity costs from people saying 'please' and 'thank you' to their models,\" Altman chimed in, saying it's \"tens of millions of dollars well spent.\"\n\n\"You never know,\" he added.",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1k3md7g/sam_altman_admits_that_saying_please_and_thank/",
     "url_overridden_by_dest": null,
     "created": "2025-04-20T06:18:28",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

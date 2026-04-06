@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbc Transforming Your Business with the Power of Azure AI Services \ud83e\udd16",
+    "title": "👨🏻‍💼 Transforming Your Business with the Power of Azure AI Services 🤖",
     "id": "179t6bl",
     "body": "",
     "url": "https://devtoys.io/2023/10/16/%f0%9f%91%a8%f0%9f%8f%bb%f0%9f%92%bc-transforming-your-business-with-the-power-of-azure-ai-services-%f0%9f%a4%96/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

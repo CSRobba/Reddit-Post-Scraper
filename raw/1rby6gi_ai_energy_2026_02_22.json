@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "SAM ALTMAN: \u201cPeople talk about how much energy it takes to train an AI model \u2026 But it also takes a lot of energy to train a human. It takes like 20 years of life and all of the food you eat during that time before you get smart.\u201d",
+    "title": "SAM ALTMAN: “People talk about how much energy it takes to train an AI model … But it also takes a lot of energy to train a human. It takes like 20 years of life and all of the food you eat during that time before you get smart.”",
     "id": "1rby6gi",
     "body": "",
     "url": "https://v.redd.it/mvplet1w54lg1",
@@ -11,5 +11,8 @@
     "num_comments": 195,
     "ups": 40,
     "upvote_ratio": 0.7400000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

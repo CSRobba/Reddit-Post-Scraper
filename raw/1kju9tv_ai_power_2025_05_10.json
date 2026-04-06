@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "I\u2019ve recently started a Youtube/Tiktok with the power of Ai",
+    "title": "I’ve recently started a Youtube/Tiktok with the power of Ai",
     "id": "1kju9tv",
     "body": "",
     "url": "/r/generativeAI/comments/1kgpmrg/ive_recently_started_a_youtubetiktok_with_the/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

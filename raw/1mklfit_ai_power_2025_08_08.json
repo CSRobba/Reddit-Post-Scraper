@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Can GPT-5 bridge the gap between AI power and average users?",
     "id": "1mklfit",
-    "body": "One of the biggest gaps in AI adoption has been usability.\nGPT 4 is powerful but still require careful prompting, context management, and human correction. \n\nGPT-5 seems to:\n\t\u2022\tHandle vague prompts better\n\t\u2022\tRequire less hand-holding\n\t\u2022\tOutput more natural and structured results\n\t\u2022\tUnderstand context over longer sessions\n\nIs this the version where non-technical users can finally get consistent value without being \u201cAI-savvy\u201d ? What do you think ?",
+    "body": "One of the biggest gaps in AI adoption has been usability.\nGPT 4 is powerful but still require careful prompting, context management, and human correction. \n\nGPT-5 seems to:\n\t•\tHandle vague prompts better\n\t•\tRequire less hand-holding\n\t•\tOutput more natural and structured results\n\t•\tUnderstand context over longer sessions\n\nIs this the version where non-technical users can finally get consistent value without being “AI-savvy” ? What do you think ?",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1mklfit/can_gpt5_bridge_the_gap_between_ai_power_and/",
     "url_overridden_by_dest": null,
     "created": "2025-08-08T00:12:06",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "ChatGPT Prompt of the Day: \u201cMicrosoft Power Automate Systems Architect: PRDs, PlantUML, and AI-Ready Power Automate Flows\u201d",
+    "title": "ChatGPT Prompt of the Day: “Microsoft Power Automate Systems Architect: PRDs, PlantUML, and AI-Ready Power Automate Flows”",
     "id": "1n45a0i",
     "body": "",
     "url": "/r/ChatGPTPromptGenius/comments/1n459st/chatgpt_prompt_of_the_day_microsoft_power/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

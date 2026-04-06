@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "Soluna is leveraging co-located 273 MW wind farm\u2019s surplus energy to expand the Kati 1 data center project in Texas, killing two birds with one stone",
+    "title": "Soluna is leveraging co-located 273 MW wind farm’s surplus energy to expand the Kati 1 data center project in Texas, killing two birds with one stone",
     "id": "1moghr8",
     "body": "",
     "url": "https://constructionreviewonline.com/news/soluna-scales-up-kati-1-data-center-project-in-texas-leveraging-co-located-wind-farms-energy/",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 13,
     "upvote_ratio": 0.7900000214576721,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

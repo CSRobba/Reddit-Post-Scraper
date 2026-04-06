@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI: Five charts that put data-centre energy use \u2013 and emissions \u2013 into context",
+    "title": "AI: Five charts that put data-centre energy use – and emissions – into context",
     "id": "1nr3srt",
     "body": "",
     "url": "https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

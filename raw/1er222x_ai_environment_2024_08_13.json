@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "What do you wish AI could do for the environment?",
     "id": "1er222x",
-    "body": "Hi y\u2019all! I\u2019m branching into tech, learning to program and all that jazz, and it is impossible to not to hear people swoon over AI in my circles. I\u2019m not pro shoving AI into everything and using it unsustainably (as it is being used now). But the chatter amongst my peers is it\u2019s inevitable that it\u2019s going to creep into a lot of tech we use daily.\n\nSo I\u2019m trying to strike up ideas, for fun and for serious consideration, on how AI can be used to improve sustainability. For example, someone I know is interested in the ability of AI to help everyday people sort their waste for recycling with an app that scans different waste items. Another idea I\u2019ve heard is using AI to determine the best possible positioning for solar panels (don\u2019t know how this one works entirely but I guess it\u2019s something). Do y\u2019all wish there was a way that AI could make being more sustainable and environmentally conscious easier for you?",
+    "body": "Hi y’all! I’m branching into tech, learning to program and all that jazz, and it is impossible to not to hear people swoon over AI in my circles. I’m not pro shoving AI into everything and using it unsustainably (as it is being used now). But the chatter amongst my peers is it’s inevitable that it’s going to creep into a lot of tech we use daily.\n\nSo I’m trying to strike up ideas, for fun and for serious consideration, on how AI can be used to improve sustainability. For example, someone I know is interested in the ability of AI to help everyday people sort their waste for recycling with an app that scans different waste items. Another idea I’ve heard is using AI to determine the best possible positioning for solar panels (don’t know how this one works entirely but I guess it’s something). Do y’all wish there was a way that AI could make being more sustainable and environmentally conscious easier for you?",
     "url": "https://www.reddit.com/r/solarpunk/comments/1er222x/what_do_you_wish_ai_could_do_for_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2024-08-13T00:49:49",
@@ -11,5 +11,8 @@
     "num_comments": 61,
     "ups": 33,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

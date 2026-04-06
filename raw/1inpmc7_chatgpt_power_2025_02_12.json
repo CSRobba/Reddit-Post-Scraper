@@ -2,7 +2,7 @@
     "query_term": "ChatGPT power",
     "title": "ChatGPT may not be as power-hungry as once assumed | TechCrunch",
     "id": "1inpmc7",
-    "body": "So apparently the calculations for how much power it takes to run LLMs was using older inefficient hardware. Instead of using 10 times the power of a Google search, it turns out it's about the same. I wonder when they're going to start complaining about how much energy Google uses now? \ud83e\udd14",
+    "body": "So apparently the calculations for how much power it takes to run LLMs was using older inefficient hardware. Instead of using 10 times the power of a Google search, it turns out it's about the same. I wonder when they're going to start complaining about how much energy Google uses now? 🤔",
     "url": "https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/",
     "url_overridden_by_dest": "https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/",
     "created": "2025-02-12T07:26:52",
@@ -11,5 +11,8 @@
     "num_comments": 12,
     "ups": 43,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

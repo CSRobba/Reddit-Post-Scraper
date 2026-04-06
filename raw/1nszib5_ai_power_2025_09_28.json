@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Africa doesn\u2019t need nuclear power for AI data centers",
+    "title": "Africa doesn’t need nuclear power for AI data centers",
     "id": "1nszib5",
     "body": "",
     "url": "https://open.substack.com/pub/kaykluz/p/why-africa-doesnt-need-nuclear-power?r=bz76t&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

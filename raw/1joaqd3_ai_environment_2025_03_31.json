@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "AI and the environment",
     "id": "1joaqd3",
-    "body": "Hi I just wanted to come on here and open a discussion to hear your thoughts on the issues regarding generative AI and the environment.\n\nI have a few general prompt questions to start off but feel free to add or discuss anything else about the topic \n\n1. Do you think AI is at a place where we can\u2019t live without it? \n2. How aware are about the implications that AI has on the environment \n3. Do you think the good outweighs the bad?\n4. If power and water consumption are the concerns, how would you propose we regulate it, and how would you enforce it? \n5. Would these regulations be implemented for all equally or would they have exemption for certain companies.",
+    "body": "Hi I just wanted to come on here and open a discussion to hear your thoughts on the issues regarding generative AI and the environment.\n\nI have a few general prompt questions to start off but feel free to add or discuss anything else about the topic \n\n1. Do you think AI is at a place where we can’t live without it? \n2. How aware are about the implications that AI has on the environment \n3. Do you think the good outweighs the bad?\n4. If power and water consumption are the concerns, how would you propose we regulate it, and how would you enforce it? \n5. Would these regulations be implemented for all equally or would they have exemption for certain companies.",
     "url": "https://www.reddit.com/r/energy/comments/1joaqd3/ai_and_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-03-31T11:45:49",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

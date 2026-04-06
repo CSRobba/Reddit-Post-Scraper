@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "A new AI model can predict human lifespan, researchers say. They want to make sure it\u2019s used for good | Researchers hope the model, built on a massive Danish data set and the technology that powers models like ChatGPT, can kickstart a public conversation about the power of these tools",
+    "title": "A new AI model can predict human lifespan, researchers say. They want to make sure it’s used for good | Researchers hope the model, built on a massive Danish data set and the technology that powers models like ChatGPT, can kickstart a public conversation about the power of these tools",
     "id": "18uxsz3",
     "body": "",
     "url": "https://news.northeastern.edu/2023/12/19/predictive-ai-human-lifespan-model/",
@@ -11,5 +11,8 @@
     "num_comments": 44,
     "ups": 119,
     "upvote_ratio": 0.7699999809265137,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

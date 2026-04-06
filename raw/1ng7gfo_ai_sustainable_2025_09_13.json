@@ -1,8 +1,8 @@
 {
     "query_term": "AI sustainable",
-    "title": "The future of sustainable finance depends on AI, but the research isn\u2019t there yet",
+    "title": "The future of sustainable finance depends on AI, but the research isn’t there yet",
     "id": "1ng7gfo",
-    "body": "A recent review of 1000 academic papers on sustainable finance revealed a surprising gap. While industries from healthcare to logistics already rely on AI, blockchain and machine learning, sustainable finance research has barely touched them.\n\nMost studies still depend on backward-looking data, archival records, and manual classification of ESG practices. Greenwashing is flagged after the fact. Predictive tools that could forecast risks, detect fraud, or integrate real-time sentiment are almost nonexistent. In fields like supply chains and marketing, machine learning is standard. In sustainable finance, it is nearly absent.\n\nThis matters because the research base of today sets the frameworks of tomorrow. ESG standards and investment rules don\u2019t emerge from nowhere. They are informed by academic literature, tested models, and accepted methods. If that foundation is built on outdated tools, the resulting frameworks will be easy to game and slow to respond to crises.\n\nThe irony is stark. Sustainable finance is supposed to fund the transition to the future. Yet the knowledge base guiding it is rooted in the past. Unless AI and advanced analytics are integrated soon, ESG risks becoming more of a branding exercise than a reliable mechanism for channeling capital to genuinely sustainable projects.",
+    "body": "A recent review of 1000 academic papers on sustainable finance revealed a surprising gap. While industries from healthcare to logistics already rely on AI, blockchain and machine learning, sustainable finance research has barely touched them.\n\nMost studies still depend on backward-looking data, archival records, and manual classification of ESG practices. Greenwashing is flagged after the fact. Predictive tools that could forecast risks, detect fraud, or integrate real-time sentiment are almost nonexistent. In fields like supply chains and marketing, machine learning is standard. In sustainable finance, it is nearly absent.\n\nThis matters because the research base of today sets the frameworks of tomorrow. ESG standards and investment rules don’t emerge from nowhere. They are informed by academic literature, tested models, and accepted methods. If that foundation is built on outdated tools, the resulting frameworks will be easy to game and slow to respond to crises.\n\nThe irony is stark. Sustainable finance is supposed to fund the transition to the future. Yet the knowledge base guiding it is rooted in the past. Unless AI and advanced analytics are integrated soon, ESG risks becoming more of a branding exercise than a reliable mechanism for channeling capital to genuinely sustainable projects.",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960605",
     "url_overridden_by_dest": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960605",
     "created": "2025-09-13T16:10:23",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

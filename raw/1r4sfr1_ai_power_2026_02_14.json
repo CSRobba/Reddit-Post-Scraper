@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u2018A different set of rules\u2019: thermal drone footage shows Musk\u2019s AI power plant flouting clean air regulations",
+    "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
     "id": "1r4sfr1",
     "body": "",
     "url": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi?CMP=Share_AndroidApp_Other",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 8,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

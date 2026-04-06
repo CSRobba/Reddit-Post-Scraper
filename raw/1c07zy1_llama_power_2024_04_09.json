@@ -2,7 +2,7 @@
     "query_term": "Llama power",
     "title": "Meta's Mini Llama 3 Models to Bring Elite AI Power to Your Business Without Breaking the Bank!",
     "id": "1c07zy1",
-    "body": "Meta is releasing smaller, cheaper versions of its upcoming Llama 3 large language model family as early as next week before the full ***Llama 3 model launches in the summer***, which Meta claims to be \u201clooser\u201d than the previous version and will be able to answer controversial questions Llama 2 was not allowed to answer.  \n\n\nhttps://preview.redd.it/qdspmg8dqjtc1.jpg?width=640&format=pjpg&auto=webp&s=f46c3f27ede5cd208d2afc1c83aa370c7062de92\n\nThese smaller Llama 3 models aim to compete with recent entrants like Microsoft's 2B Phi and Google's Gemma in the efficient, task-specific AI assistant category.\n\n\ud83d\udcf7**Fun fact:** While these small models typically cannot handle long strings of instructions from users, they are faster, more flexible, and, most importantly, cheaper to run than a regular-sized model.  \n\n\n**How it might impact you:** While not ideal for long-form generation, the smaller Llama 3 models could enable businesses to run tailored AI assistants on-device for tasks like coding, API integrations, document summarization, etc.  \n\n\nThe ability to self-host these relatively capable models privately could be a game changer for any enterprise, especially the smaller ones.",
+    "body": "Meta is releasing smaller, cheaper versions of its upcoming Llama 3 large language model family as early as next week before the full ***Llama 3 model launches in the summer***, which Meta claims to be “looser” than the previous version and will be able to answer controversial questions Llama 2 was not allowed to answer.  \n\n\nhttps://preview.redd.it/qdspmg8dqjtc1.jpg?width=640&format=pjpg&auto=webp&s=f46c3f27ede5cd208d2afc1c83aa370c7062de92\n\nThese smaller Llama 3 models aim to compete with recent entrants like Microsoft's 2B Phi and Google's Gemma in the efficient, task-specific AI assistant category.\n\n📷**Fun fact:** While these small models typically cannot handle long strings of instructions from users, they are faster, more flexible, and, most importantly, cheaper to run than a regular-sized model.  \n\n\n**How it might impact you:** While not ideal for long-form generation, the smaller Llama 3 models could enable businesses to run tailored AI assistants on-device for tasks like coding, API integrations, document summarization, etc.  \n\n\nThe ability to self-host these relatively capable models privately could be a game changer for any enterprise, especially the smaller ones.",
     "url": "https://www.reddit.com/r/martechnewser/comments/1c07zy1/metas_mini_llama_3_models_to_bring_elite_ai_power/",
     "url_overridden_by_dest": null,
     "created": "2024-04-09T17:25:24",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

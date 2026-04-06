@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Trump\u2019s plan for AI dominance threatened by his own attacks on solar, wind power. Hindering renewable energy projects risks slowing the AI boom - and will exacerbate rising electricity prices, a slew of data suggests. Renewable energy remains the fastest and cheapest option to add power to the grid.",
+    "title": "Trump’s plan for AI dominance threatened by his own attacks on solar, wind power. Hindering renewable energy projects risks slowing the AI boom - and will exacerbate rising electricity prices, a slew of data suggests. Renewable energy remains the fastest and cheapest option to add power to the grid.",
     "id": "1pftead",
     "body": "",
     "url": "https://www.detroitnews.com/story/business/2025/12/04/trumps-plan-for-ai-dominance-threatened-by-his-own-attacks-on-solar-wind-power/87602107007/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

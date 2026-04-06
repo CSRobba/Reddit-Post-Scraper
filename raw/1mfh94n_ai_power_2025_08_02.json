@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "OpenAI\u2019s $8.3 Billion Power Move: Why This Changes Everything for AI",
+    "title": "OpenAI’s $8.3 Billion Power Move: Why This Changes Everything for AI",
     "id": "1mfh94n",
-    "body": "When OpenAI\u2014yeah, the same folks behind ChatGPT\u2014pulls in\u00a0**$8.3 billion**\u00a0and hits a\u00a0[$300 billion valuation](https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/), you\u2019re not looking at just another flashy funding round. This is a turning point. A tectonic shift in the tech world. And whether you\u2019re a startup founder, software dev, freelancer, or just someone curious about the future, this changes the game for you.  \nRead More :\u00a0[https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/](https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/)",
+    "body": "When OpenAI—yeah, the same folks behind ChatGPT—pulls in **$8.3 billion** and hits a [$300 billion valuation](https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/), you’re not looking at just another flashy funding round. This is a turning point. A tectonic shift in the tech world. And whether you’re a startup founder, software dev, freelancer, or just someone curious about the future, this changes the game for you.  \nRead More : [https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/](https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/)",
     "url": "https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/",
     "url_overridden_by_dest": "https://frontbackgeek.com/openais-8-3-billion-power-move-why-this-changes-everything-for-ai/",
     "created": "2025-08-02T00:12:53",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.10999999940395355,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

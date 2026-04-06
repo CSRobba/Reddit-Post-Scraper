@@ -2,7 +2,7 @@
     "query_term": "ChatGPT environment",
     "title": "The beginning of the everything app. Someone was able to find over 80 secret plugins part of the ChatGPT plugin environment",
     "id": "121anfi",
-    "body": "Someone was able to find over 80 plugins that aren't yet available in ChatGPT. \\[[Link](https://twitter.com/rez0__/status/1639259413553750021)\\] (This has now been patched)\n\nThere's like 6 To Do List apps, a Shop one, a Netflix one, a Chess one, a Slack one, one that gives you data on politics, a UN one, an NBA one, one to run SQL, one to send emails etc.\n\nThe most interesting one for me is the Langchain one. Langchain is a library that lets you build applications on top of LLMS like for document Q&amp;A, building chatbots and other things. So building a chatbot on a certain person or documents might be very, very simple with this. I guess we'll find out.\n\nI was surprised by the DAN plugin as well. I thought they wouldn't integrate that in, maybe it'll be a watered down version? Guess we'll see. Also wth is a froge plugin \ud83d\ude02\n\nWill this be the death of Google and browser based search? Very well could be tbh\n\nI'm gona be writing about Chatgpt plugins, what people are building with them, how to create them based on the docs and their implications going into the future as well as general AI news/advancements. You can [sub here](https://nofil.beehiiv.com/subscribe) if you wanna stay posted\n\nhttps://preview.redd.it/139sjm2e3tpa1.jpg?width=1410&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=2026e6886e5dc9e82330ce96b67bb839f15ac3cb",
+    "body": "Someone was able to find over 80 plugins that aren't yet available in ChatGPT. \\[[Link](https://twitter.com/rez0__/status/1639259413553750021)\\] (This has now been patched)\n\nThere's like 6 To Do List apps, a Shop one, a Netflix one, a Chess one, a Slack one, one that gives you data on politics, a UN one, an NBA one, one to run SQL, one to send emails etc.\n\nThe most interesting one for me is the Langchain one. Langchain is a library that lets you build applications on top of LLMS like for document Q&amp;A, building chatbots and other things. So building a chatbot on a certain person or documents might be very, very simple with this. I guess we'll find out.\n\nI was surprised by the DAN plugin as well. I thought they wouldn't integrate that in, maybe it'll be a watered down version? Guess we'll see. Also wth is a froge plugin 😂\n\nWill this be the death of Google and browser based search? Very well could be tbh\n\nI'm gona be writing about Chatgpt plugins, what people are building with them, how to create them based on the docs and their implications going into the future as well as general AI news/advancements. You can [sub here](https://nofil.beehiiv.com/subscribe) if you wanna stay posted\n\nhttps://preview.redd.it/139sjm2e3tpa1.jpg?width=1410&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=2026e6886e5dc9e82330ce96b67bb839f15ac3cb",
     "url": "https://www.reddit.com/r/ChatGPT/comments/121anfi/the_beginning_of_the_everything_app_someone_was/",
     "url_overridden_by_dest": null,
     "created": "2023-03-25T00:32:22",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 55,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

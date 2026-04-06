@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "China: World\u2019s 1st light-based AI chip beats NVIDIA H100 in energy efficiency",
+    "title": "China: World’s 1st light-based AI chip beats NVIDIA H100 in energy efficiency",
     "id": "1eol14v",
     "body": "",
     "url": "https://www.scihb.com/2024/08/china-worlds-1st-light-based-ai-chip.html",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

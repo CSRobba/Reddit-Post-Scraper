@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "How Much Energy Does AI Use? The People Who Know Aren\u2019t Saying",
+    "title": "How Much Energy Does AI Use? The People Who Know Aren’t Saying",
     "id": "1lf7k80",
     "body": "",
     "url": "https://www.wired.com/story/ai-carbon-emissions-energy-unknown-mystery-research/",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 18,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

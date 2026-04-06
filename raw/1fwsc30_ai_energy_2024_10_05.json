@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI will use a lot of energy, and that\u2019s good for the climate.",
+    "title": "AI will use a lot of energy, and that’s good for the climate.",
     "id": "1fwsc30",
     "body": "",
     "url": "https://climate.benjames.io/ai-go-brrr/",
@@ -11,5 +11,8 @@
     "num_comments": 8,
     "ups": 0,
     "upvote_ratio": 0.18000000715255737,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

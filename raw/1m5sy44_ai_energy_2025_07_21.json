@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Microsoft will bury 4.9M tons of \"manure\" in a secretive deal \u2014 all to offset its AI energy demands that drive emissions up by 168%",
+    "title": "Microsoft will bury 4.9M tons of \"manure\" in a secretive deal — all to offset its AI energy demands that drive emissions up by 168%",
     "id": "1m5sy44",
     "body": "",
     "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-will-bury-4-9m-tons-of-manure",
@@ -11,5 +11,8 @@
     "num_comments": 80,
     "ups": 1093,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "I Built a Stylized UE5 Environment Using Only 3D AI Assets",
     "id": "1rsdv1i",
-    "body": "**I created this stylized 3D environment in Unreal Engine 5 using only 3D AI assets, with a bit of manual cleanup and polish.**\n\n**Tools used:**  \n**\u2014 Varco 3D**  \n**\u2014 Hunyuan 3D**  \n**\u2014 Tripo**  \n**\u2014 Character Rig - Mixamo**  \n**\u2014 Some texture adjustments and paintovers in Substance Painter**\n\n**The houses are around 100k polygons, and the full scene is around 400k polygons in total.**\n\n**This was an experiment to see how far I could push a fully AI-assisted environment workflow\u00a0inside a real-time game scene.**  \n**it took less than a day**  \nmade for\u00a0[r/TopologyAI](https://www.reddit.com/r/TopologyAI/)",
+    "body": "**I created this stylized 3D environment in Unreal Engine 5 using only 3D AI assets, with a bit of manual cleanup and polish.**\n\n**Tools used:**  \n**— Varco 3D**  \n**— Hunyuan 3D**  \n**— Tripo**  \n**— Character Rig - Mixamo**  \n**— Some texture adjustments and paintovers in Substance Painter**\n\n**The houses are around 100k polygons, and the full scene is around 400k polygons in total.**\n\n**This was an experiment to see how far I could push a fully AI-assisted environment workflow inside a real-time game scene.**  \n**it took less than a day**  \nmade for [r/TopologyAI](https://www.reddit.com/r/TopologyAI/)",
     "url": "https://v.redd.it/ksplsmbmrqog1",
     "url_overridden_by_dest": "https://v.redd.it/ksplsmbmrqog1",
     "created": "2026-03-12T21:39:41",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

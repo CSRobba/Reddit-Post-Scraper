@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "TeeGenius.ai, where innovation meets fashion! \ud83d\ude80 Say hello to our game-changing AI-designed clothes that are bound to turn heads. \ud83c\udfa8 Gone are the days of settling for mundane designs. With TeeGenius.ai, you have the power to create custom apparel in just minutes, allowing you to express yourself!",
+    "title": "TeeGenius.ai, where innovation meets fashion! 🚀 Say hello to our game-changing AI-designed clothes that are bound to turn heads. 🎨 Gone are the days of settling for mundane designs. With TeeGenius.ai, you have the power to create custom apparel in just minutes, allowing you to express yourself!",
     "id": "1bdb48n",
     "body": "",
     "url": "http://teegenius.ai",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

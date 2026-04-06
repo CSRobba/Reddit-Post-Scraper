@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Yuval Noah Harari says you can think about the AI revolution as \u201ca wave of billions of AI immigrants.\u201d They don't arrive on boats. They come at the speed of light. They'll take jobs. They may seek power. And no one's talking about it.",
+    "title": "Yuval Noah Harari says you can think about the AI revolution as “a wave of billions of AI immigrants.” They don't arrive on boats. They come at the speed of light. They'll take jobs. They may seek power. And no one's talking about it.",
     "id": "1likkfj",
     "body": "",
     "url": "https://v.redd.it/384cfrlu8p8f1",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 4,
     "upvote_ratio": 0.6100000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

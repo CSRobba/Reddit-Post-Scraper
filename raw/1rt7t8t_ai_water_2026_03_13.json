@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "If AI and automation advanced to the point where all basic human needs were met without human labor (food, water, housing, etc.), what fields of study do you think would boom? What would people choose to study if survival wasn\u2019t the main driver anymore?",
+    "title": "If AI and automation advanced to the point where all basic human needs were met without human labor (food, water, housing, etc.), what fields of study do you think would boom? What would people choose to study if survival wasn’t the main driver anymore?",
     "id": "1rt7t8t",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1rt7t8t/if_ai_and_automation_advanced_to_the_point_where/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

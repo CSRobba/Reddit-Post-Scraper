@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "Environmental impact of AI: what should we measure, and what actually works?",
     "id": "1qwd2eb",
-    "body": "Hey all,\n\nI\u2019m trying to map how people think about the environmental footprint of everyday AI use, beyond vague claims. What matters most to you when you think \u201cAI sustainability\u201d? Would love your help on this survey (takes \\~5-7 mins), and I need 100 participants! Thanksss :)\n\n[https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV\\_9ELhLj2tBcO9Age?Q\\_CHL=social&Q\\_SocialSource=reddit](https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV_9ELhLj2tBcO9Age?Q_CHL=social&Q_SocialSource=reddit)",
+    "body": "Hey all,\n\nI’m trying to map how people think about the environmental footprint of everyday AI use, beyond vague claims. What matters most to you when you think “AI sustainability”? Would love your help on this survey (takes \\~5-7 mins), and I need 100 participants! Thanksss :)\n\n[https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV\\_9ELhLj2tBcO9Age?Q\\_CHL=social&Q\\_SocialSource=reddit](https://qualtricsxmyk7dwt36l.qualtrics.com/jfe/form/SV_9ELhLj2tBcO9Age?Q_CHL=social&Q_SocialSource=reddit)",
     "url": "https://www.reddit.com/r/SurveyExchange/comments/1qwd2eb/environmental_impact_of_ai_what_should_we_measure/",
     "url_overridden_by_dest": null,
     "created": "2026-02-05T00:46:25",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

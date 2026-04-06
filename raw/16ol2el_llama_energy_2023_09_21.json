@@ -2,7 +2,7 @@
     "query_term": "Llama energy",
     "title": "Looking for an Energy-Efficient NUC like or Single-Board computer to Run llama models",
     "id": "16ol2el",
-    "body": "Hi everyone! Do any of you guys have any recommendations for a energy-efficient NUC like or single-board computer capable of running Llama models like 7B and 13B (or even larger ones if that\u2019s even possible) with decent speed?\nThanks in advance",
+    "body": "Hi everyone! Do any of you guys have any recommendations for a energy-efficient NUC like or single-board computer capable of running Llama models like 7B and 13B (or even larger ones if that’s even possible) with decent speed?\nThanks in advance",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/16ol2el/looking_for_an_energyefficient_nuc_like_or/",
     "url_overridden_by_dest": null,
     "created": "2023-09-21T09:59:25",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 10,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

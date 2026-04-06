@@ -2,7 +2,7 @@
     "query_term": "data center energy",
     "title": "The AI data center boom is becoming a major energy demand shock, how prepared is the grid?",
     "id": "1qzk6tp",
-    "body": "Over the past two years, AI-driven data center expansion has accelerated at a pace that feels unprecedented from an energy perspective.\n\nHyperscalers are committing hundreds of billions to new data centers and chip infrastructure, and in places like Oregon, Texas, and the Midwest, this is translating into sudden, localized spikes in electricity demand, often on grids that were not designed for this kind of load growth.\n\nBeyond electricity, there are knock-on effects: competition for transformers and generation equipment, delays in non\u2013data center projects, increased water use for cooling, and renewed interest in baseload sources.",
+    "body": "Over the past two years, AI-driven data center expansion has accelerated at a pace that feels unprecedented from an energy perspective.\n\nHyperscalers are committing hundreds of billions to new data centers and chip infrastructure, and in places like Oregon, Texas, and the Midwest, this is translating into sudden, localized spikes in electricity demand, often on grids that were not designed for this kind of load growth.\n\nBeyond electricity, there are knock-on effects: competition for transformers and generation equipment, delays in non–data center projects, increased water use for cooling, and renewed interest in baseload sources.",
     "url": "https://ecency.com/hive-167922/@justmythoughts/ais-surge-is-squeezing-supplies-all-over-lrf",
     "url_overridden_by_dest": "https://ecency.com/hive-167922/@justmythoughts/ais-surge-is-squeezing-supplies-all-over-lrf",
     "created": "2026-02-08T12:41:36",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 10,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

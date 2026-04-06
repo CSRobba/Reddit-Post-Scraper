@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence electricity",
-    "title": "The Unknown Toll Of The AI Takeover \u2014 As artificial intelligence guzzles water supplies and jacks up consumers\u2019 electricity rates, why isn\u2019t anyone tracking the resources being consumed?, The Lever, Jun 19, 2024",
+    "title": "The Unknown Toll Of The AI Takeover — As artificial intelligence guzzles water supplies and jacks up consumers’ electricity rates, why isn’t anyone tracking the resources being consumed?, The Lever, Jun 19, 2024",
     "id": "1dlq2s4",
     "body": "",
     "url": "https://web.archive.org/web/20240619120622/https://www.levernews.com/the-unknown-toll-of-the-ai-takeover/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

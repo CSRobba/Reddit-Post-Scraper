@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Riding the High From Data Centers, the Grid Cannot Kick Its Gas Habit | Big Tech\u2019s AI frenzy is pressing up electricity demand around the country. The power grid is stuck in natural gas-fuelled inertia, slow to bring new clean energy projects online and leaving consumers on the hook.",
+    "title": "Riding the High From Data Centers, the Grid Cannot Kick Its Gas Habit | Big Tech’s AI frenzy is pressing up electricity demand around the country. The power grid is stuck in natural gas-fuelled inertia, slow to bring new clean energy projects online and leaving consumers on the hook.",
     "id": "1ngrqsy",
     "body": "",
     "url": "https://insideclimatenews.org/news/14092025/data-center-ai-demand-natural-gas-power/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 38,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

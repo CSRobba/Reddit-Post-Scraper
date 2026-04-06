@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83c\udfa5 I made a short film using AI tools \u2014 \u201cReconnect\u201d is about the power of taking action when no one else does.",
+    "title": "🎥 I made a short film using AI tools — “Reconnect” is about the power of taking action when no one else does.",
     "id": "1lyw9j6",
     "body": "",
     "url": "https://youtu.be/ZM_o92Hq0cI?si=R263lgY-3i3ijoTO",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

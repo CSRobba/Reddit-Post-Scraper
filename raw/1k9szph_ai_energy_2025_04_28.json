@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Ex-Google CEO Eric Schmidt told Congress that AI could eventually consume 99% of the world\u2019s electricity. But can\u2019t AI itself figure out how to use energy more efficient.",
+    "title": "Ex-Google CEO Eric Schmidt told Congress that AI could eventually consume 99% of the world’s electricity. But can’t AI itself figure out how to use energy more efficient.",
     "id": "1k9szph",
     "body": "",
     "url": "https://v.redd.it/ualmswl54kxe1",
@@ -11,5 +11,8 @@
     "num_comments": 27,
     "ups": 19,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

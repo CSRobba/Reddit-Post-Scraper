@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT electricity",
-    "title": "Being too polite to ChatGPT is burning through millions in electricity, according to OpenAI\u2019s CEO",
+    "title": "Being too polite to ChatGPT is burning through millions in electricity, according to OpenAI’s CEO",
     "id": "1k435r0",
     "body": "",
     "url": "https://i.redd.it/2ahej7g8p3we1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

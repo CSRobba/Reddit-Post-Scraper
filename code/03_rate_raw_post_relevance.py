@@ -56,7 +56,7 @@ def automatic_rating():
             posts.append(data)
     
     posts = pandas.DataFrame(posts)
-    posts = posts.groupby(["title", "body"]).agg({"filename": _make_list, "vote": "max"}).reset_index()
+    posts = posts.groupby(["title"]).agg({"filename": _make_list, "vote": "max"}).reset_index()
 
     print(f"Number of de-duplicated posts: {posts.shape[0]}")
     rated_posts = posts[posts["vote"] != -1]
