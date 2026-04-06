@@ -29,6 +29,32 @@ _eligible = None
 _name = None
 _current_file = None
 
+def automatic_rating():
+    global _name
+    posts = []
+    if os.path.exists(RAW_FOLDER):
+        for fname in os.listdir(RAW_FOLDER):
+            data = util.read_json(os.path.join(RAW_FOLDER, fname))
+            data["filename"] = fname
+            
+            if data["body"] == "[removed]" or data["body"] == "[deleted]":
+                if "relevance_rate" not in data:
+                    data["relevance_rate"] = {}
+                data["relevance_rate"][_name] = "n"
+            
+            ratings = data.get("relevance_rate", {})
+            name_vote = -1
+            if _name in ratings:
+                name_vote = ratings.get(_name, -1)
+                name_vote = 1 if name_vote == "y" else (0.5 if name_vote == "m" else 0)
+            
+            data["vote"] = name_vote
+            posts.append(data)
+    
+    posts = pandas.DataFrame(posts)
+    posts = posts.groupby(["title", "body"]).agg({"filename": "list", "vote": "max"}).reset_index()
+    print(posts.head())
+
 def load_global_progress():
     global _progress
     global _name
@@ -140,6 +166,8 @@ def rate():
     global _name
     global _eligible
     global _current_file
+
+    automatic_rating()
     
     # Build eligible list once per session; pop from it on each vote
     if _eligible is None:
