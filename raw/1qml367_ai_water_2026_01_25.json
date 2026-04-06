@@ -11,9 +11,6 @@
     "num_comments": 13,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-<<<<<<< HEAD
-    "view_count": null
-=======
     "view_count": null,
     "relevance_rate": {
         "nino": "n",
@@ -22,5 +19,4 @@
     "relevance_reasoning": {
         "julie": "how people think about AI!"
     }
->>>>>>> 6603cb9dad071baa2efabf82d5f5287ed92b3b06
 }

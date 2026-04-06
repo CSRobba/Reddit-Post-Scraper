@@ -13,9 +13,13 @@ import traceback
 
 ###### Read Config Logger ######
 def read_json(file):
-    with open(file, 'r') as f:
+   try:
+       with open(file, 'r') as f:
         data = json.load(f)
         return data
+   except Exception as e:
+      print(f"Error reading {file}: {e}")
+      return {}
 
 ###### Initialize Logger ######
 def initialize_logger(log_file = "./logs/log.log"):
