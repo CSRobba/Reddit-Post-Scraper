@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u2018Training A Human Takes 20 Years Of Food\u2019: Sam Altman On How Much Power AI Consumes | World News - News18",
+    "title": "‘Training A Human Takes 20 Years Of Food’: Sam Altman On How Much Power AI Consumes | World News - News18",
     "id": "1rbl2jp",
     "body": "",
     "url": "https://www.news18.com/world/training-a-human-takes-20-years-of-food-sam-altman-on-how-much-power-ai-consumes-ws-kl-9922309.html",
@@ -11,5 +11,8 @@
     "num_comments": 27,
     "ups": 27,
     "upvote_ratio": 0.7699999809265137,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

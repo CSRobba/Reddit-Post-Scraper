@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "was gonna make a huge correlation to Washington State (or just Seattle)\u2019s power outages and C.AI going down but a google search disregarded this entire point",
+    "title": "was gonna make a huge correlation to Washington State (or just Seattle)’s power outages and C.AI going down but a google search disregarded this entire point",
     "id": "1gw3kd9",
     "body": "",
     "url": "https://i.redd.it/1oco9gthk52e1.png",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 8,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Analysis: CO2 from UK data centres could be \u2018hundreds of times\u2019 higher than thought. Data centres could run entirely on low-carbon electricity, but some in the sector have argued that the government\u2019s AI ambitions require the UK to use more gas power.",
+    "title": "Analysis: CO2 from UK data centres could be ‘hundreds of times’ higher than thought. Data centres could run entirely on low-carbon electricity, but some in the sector have argued that the government’s AI ambitions require the UK to use more gas power.",
     "id": "1s1i5wd",
     "body": "",
     "url": "https://www.carbonbrief.org/analysis-co2-from-uk-data-centres-could-be-hundreds-of-times-higher-than-thought/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 5,
     "upvote_ratio": 0.7799999713897705,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

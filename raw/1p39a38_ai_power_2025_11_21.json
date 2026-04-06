@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Meta is entering power markets \u2014 betting it can help accelerate the new plants needed to keep its AI data centers online",
+    "title": "Meta is entering power markets — betting it can help accelerate the new plants needed to keep its AI data centers online",
     "id": "1p39a38",
     "body": "",
     "url": "https://www.bloomberg.com/news/articles/2025-11-21/meta-enters-power-trading-to-support-ai-data-centers?taid=69204ae53e18440001581c73&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "I\u2019m firmly against ai art, but the water situation aint that bad",
+    "title": "I’m firmly against ai art, but the water situation aint that bad",
     "id": "1mwrat8",
     "body": "",
     "url": "https://i.redd.it/1tymqf4tngkf1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

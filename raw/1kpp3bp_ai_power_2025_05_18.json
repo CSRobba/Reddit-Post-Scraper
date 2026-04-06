@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Trump wants coal to power AI data centers. The tech industry may need to make peace with that for now. Trump\u2019s push to deploy coal runs afoul of the tech companies\u2019 environmental goals. \u201cI do not see the hyperscale community going out and signing long term commitments for new coal plants.\"",
+    "title": "Trump wants coal to power AI data centers. The tech industry may need to make peace with that for now. Trump’s push to deploy coal runs afoul of the tech companies’ environmental goals. “I do not see the hyperscale community going out and signing long term commitments for new coal plants.\"",
     "id": "1kpp3bp",
     "body": "",
     "url": "https://www.cnbc.com/2025/05/17/trump-wants-coal-to-power-ai-data-centers-the-tech-industry-is-wary-.html",
@@ -11,5 +11,8 @@
     "num_comments": 140,
     "ups": 188,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

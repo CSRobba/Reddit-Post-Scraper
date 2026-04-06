@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Microsoft\u2019s AI Power Needs Prompt Revival of Three Mile Island Nuclear Plant",
+    "title": "Microsoft’s AI Power Needs Prompt Revival of Three Mile Island Nuclear Plant",
     "id": "1flakwn",
     "body": "",
     "url": "https://www.bnnbloomberg.ca/business/technology/2024/09/20/microsofts-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant/",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 16,
     "upvote_ratio": 0.6800000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence power",
-    "title": "\u201cNot only will they have artificial intelligence at their command, they\u2019ll have actual human intelligence. Biocomputers that \u201cconsume a million times less power than traditional digital processors.\u201d   ",
+    "title": "“Not only will they have artificial intelligence at their command, they’ll have actual human intelligence. Biocomputers that “consume a million times less power than traditional digital processors.”   ",
     "id": "1ektqnr",
     "body": "https://l.smartnews.com/p-QDyZS/FH6iSX",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1ektqnr/not_only_will_they_have_artificial_intelligence/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

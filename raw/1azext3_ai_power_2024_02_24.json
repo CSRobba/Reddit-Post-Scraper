@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Has anyone crunched the numbers to estimate the actual computing power required to power an AI-enhanced global economy?",
     "id": "1azext3",
-    "body": "IIRC OpenAI is providing LLM services to tens of millions (100+?) of personal subscribers and a portion of commercial users.\n\n\nIf hoards of global jobs are trending towards being performed or enhanced by AI, doesn\u2019t that mean we basically need a Dyson-sphere level of energy and computing power????\n\nSubscribers throw prompts at their servers here and there. Imagine the compute needed for an 8 hour day of \u201cwork\u201d times X billion global AI/human workers.\n\nRight??? This sounds insane and makes sense why NVDA is blowing up. ",
+    "body": "IIRC OpenAI is providing LLM services to tens of millions (100+?) of personal subscribers and a portion of commercial users.\n\n\nIf hoards of global jobs are trending towards being performed or enhanced by AI, doesn’t that mean we basically need a Dyson-sphere level of energy and computing power????\n\nSubscribers throw prompts at their servers here and there. Imagine the compute needed for an 8 hour day of “work” times X billion global AI/human workers.\n\nRight??? This sounds insane and makes sense why NVDA is blowing up. ",
     "url": "https://www.reddit.com/r/Futurology/comments/1azext3/has_anyone_crunched_the_numbers_to_estimate_the/",
     "url_overridden_by_dest": null,
     "created": "2024-02-24T20:23:17",
@@ -11,5 +11,8 @@
     "num_comments": 18,
     "ups": 1,
     "upvote_ratio": 0.41999998688697815,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

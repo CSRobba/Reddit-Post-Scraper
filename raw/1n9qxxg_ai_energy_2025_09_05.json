@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "What if AI guaranteed survival \u2014 food, housing, healthcare, energy \u2014 and humans only worked on passions instead of survival? Would it work, or would greed ruin it?",
+    "title": "What if AI guaranteed survival — food, housing, healthcare, energy — and humans only worked on passions instead of survival? Would it work, or would greed ruin it?",
     "id": "1n9qxxg",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1n9qxxg/what_if_ai_guaranteed_survival_food_housing/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

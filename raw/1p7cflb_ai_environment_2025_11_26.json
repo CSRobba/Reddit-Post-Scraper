@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Is AI ACTUALLY bad for environment?",
     "id": "1p7cflb",
-    "body": "Is AI actually as bad for the environment as everybody is claiming? As I research I find studies that claim it IS, but nothing specifically or why. I\u2019ve heard people claim so much as to say that AI wastes / destroys our water, causes increased global warming, or even will cause us to destroy our ozone layer. In my perspective, it doesn\u2019t make much sense to me that just a data server could cause so much destruction environmentally to our planet. If it is actually bad for the environment, at what scale? How much will it affect us both short and long term and is it actually as bad as people say? Or does it make no real difference and when you factor in other pollution / environmentally harmful things humans also do, is it that significant to cause us any real harm that we wouldn\u2019t have otherwise?",
+    "body": "Is AI actually as bad for the environment as everybody is claiming? As I research I find studies that claim it IS, but nothing specifically or why. I’ve heard people claim so much as to say that AI wastes / destroys our water, causes increased global warming, or even will cause us to destroy our ozone layer. In my perspective, it doesn’t make much sense to me that just a data server could cause so much destruction environmentally to our planet. If it is actually bad for the environment, at what scale? How much will it affect us both short and long term and is it actually as bad as people say? Or does it make no real difference and when you factor in other pollution / environmentally harmful things humans also do, is it that significant to cause us any real harm that we wouldn’t have otherwise?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1p7cflb/is_ai_actually_bad_for_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-11-26T08:37:47",
@@ -11,5 +11,8 @@
     "num_comments": 17,
     "ups": 1,
     "upvote_ratio": 0.5699999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Using GPT-4 to generate 100 words consumes up to 3 bottles of water \u2014 AI data centers also raise power and water bills for nearby residents",
+    "title": "Using GPT-4 to generate 100 words consumes up to 3 bottles of water — AI data centers also raise power and water bills for nearby residents",
     "id": "1flbv8s",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/using-gpt-4-to-generate-100-words-consumes-up-to-3-bottles-of-water-ai-data-centers-also-raise-power-and-water-bills-for-nearby-residents",
@@ -11,5 +11,8 @@
     "num_comments": 177,
     "ups": 540,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

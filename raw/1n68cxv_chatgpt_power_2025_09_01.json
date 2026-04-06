@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "ChatGPT vs Claude: GPT-5\u2019s Multimodal Power vs Claude 4\u2019s Deep Reasoning",
+    "title": "ChatGPT vs Claude: GPT-5’s Multimodal Power vs Claude 4’s Deep Reasoning",
     "id": "1n68cxv",
-    "body": "I stumbled on this side-by-side breakdown of ChatGPT vs Claude ([link](https://compare-me-techie.vercel.app/comparison/chatgpt-vs-claude?utm_source=chatgpt.com)) and it got me thinking. Both are solid, but I keep hearing mixed takes\u2014some folks say Claude is way better for long-form writing and nuance, while ChatGPT is more consistent and practical for everyday stuff.\n\nFor those of you who\u2019ve used both, what\u2019s your experience? Do you find yourself sticking to one, or do you swap between them depending on the task? Curious to hear what the community thinks before I lock into one as my main go-to.",
+    "body": "I stumbled on this side-by-side breakdown of ChatGPT vs Claude ([link](https://compare-me-techie.vercel.app/comparison/chatgpt-vs-claude?utm_source=chatgpt.com)) and it got me thinking. Both are solid, but I keep hearing mixed takes—some folks say Claude is way better for long-form writing and nuance, while ChatGPT is more consistent and practical for everyday stuff.\n\nFor those of you who’ve used both, what’s your experience? Do you find yourself sticking to one, or do you swap between them depending on the task? Curious to hear what the community thinks before I lock into one as my main go-to.",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1n68cxv/chatgpt_vs_claude_gpt5s_multimodal_power_vs/",
     "url_overridden_by_dest": null,
     "created": "2025-09-01T19:53:25",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

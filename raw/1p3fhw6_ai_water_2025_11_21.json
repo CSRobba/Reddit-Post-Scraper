@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "don\u2019t worry libs i am going to forgo drinking water this week to offset posting this AI slop",
+    "title": "don’t worry libs i am going to forgo drinking water this week to offset posting this AI slop",
     "id": "1p3fhw6",
     "body": "also i had to get ap",
     "url": "https://i.redd.it/yol9ka6zfp2g1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 18,
     "ups": 74,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

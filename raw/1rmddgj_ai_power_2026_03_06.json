@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "Trump Unveils \u2018Ratepayer Protection Pledge\u2019 As AI Giants Google, OpenAI and More Agree To Cover Power Costs for Data Centers",
+    "title": "Trump Unveils ‘Ratepayer Protection Pledge’ As AI Giants Google, OpenAI and More Agree To Cover Power Costs for Data Centers",
     "id": "1rmddgj",
-    "body": "The White House says seven major AI companies will now bear the cost of powering their expanding data center infrastructure.\n\n\n\nPresident Donald J. Trump unveils the \u201cRatepayer Protection Pledge,\u201d an agreement with leading AI firms designed to protect Americans from electricity price hikes due to data center energy requirements.\n\n\n\n",
+    "body": "The White House says seven major AI companies will now bear the cost of powering their expanding data center infrastructure.\n\n\n\nPresident Donald J. Trump unveils the “Ratepayer Protection Pledge,” an agreement with leading AI firms designed to protect Americans from electricity price hikes due to data center energy requirements.\n\n\n\n",
     "url": "https://www.capitalaidaily.com/trump-unveils-ratepayer-protection-pledge-as-ai-giants-google-openai-and-more-agree-to-cover-power-costs-for-data-centers/",
     "url_overridden_by_dest": "https://www.capitalaidaily.com/trump-unveils-ratepayer-protection-pledge-as-ai-giants-google-openai-and-more-agree-to-cover-power-costs-for-data-centers/",
     "created": "2026-03-06T05:01:30",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 42,
     "upvote_ratio": 0.8899999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

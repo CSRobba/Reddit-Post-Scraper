@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "I asked ChatGPT (4) how much boiling water I needed to cook one pound of pasta. It told me I needed 15-23 liters. I don\u2019t think that\u2019s correct.",
+    "title": "I asked ChatGPT (4) how much boiling water I needed to cook one pound of pasta. It told me I needed 15-23 liters. I don’t think that’s correct.",
     "id": "1ee3dho",
     "body": "",
     "url": "https://i.redd.it/azknpje288fd1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 38,
     "ups": 19,
     "upvote_ratio": 0.6800000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

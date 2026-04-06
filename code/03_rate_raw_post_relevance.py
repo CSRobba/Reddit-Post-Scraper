@@ -187,10 +187,9 @@ def rate():
     global _eligible
     global _current_file
 
-    automatic_rating()
-    
     # Build eligible list once per session; pop from it on each vote
     if _eligible is None:
+        automatic_rating()
         build_eligible(_name)
     
     if _progress is None:

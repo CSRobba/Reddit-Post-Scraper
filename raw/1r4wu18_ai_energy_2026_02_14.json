@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Most AI itineraries ignore time/energy constraints \u2014 Travel-Bud.Ai models pacing properly",
+    "title": "Most AI itineraries ignore time/energy constraints — Travel-Bud.Ai models pacing properly",
     "id": "1r4wu18",
     "body": "",
     "url": "https://apps.apple.com/gb/app/travel-bud-ai/id6757620163",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
