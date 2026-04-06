@@ -5,7 +5,7 @@
     "body": "Hi\u00a0[r/ClaudeA](https://www.reddit.com/r/ClaudeAI/)I\n\nLittle background on me: I'm 21 y/o and have been coding for about 10 years. About a month ago, my friend from college reached out to build an application together, and he suggested that we build a personal stylist application powered by AI.\n\nI got to building right away with Next.js and Vercel, and when it came time for me to pick the API that I was going to use, I knew that I was going to use Claude's as I had previous experience with it.\n\nUsing Claude's API was an easy and smooth experience. There were different options of LLMs to use whether it be Claude 3.5 Sonnet, Claude 3.5 Haiku, and Claude 3 Haiku. I went with Claude 3 Haiku as it was the most cost-convenient and fast one. $0.25 per million tokens with a 200k context window was way too good to miss out on.\n\nWith the different features that Haiku comes with including image upload support, and a large enough input token window, I was able to do what I wanted to do.\n\nBy creating an endpoint in my API called chat that used the Claude API, I was able to create an easy way to access the feature that I needed.\n\nWhat about you? What models are you using and why? How long did it take you to learn and implement them?\n\nLooking forward to your responses!",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1hl1jyv/how_i_used_claudes_api_to_power_a_personal/",
     "url_overridden_by_dest": null,
-    "created": "2024-12-23T19:31:12",
+    "created": "2024-12-23T16:31:12",
     "author": "Present-Lab9621",
     "subreddit": "ClaudeAI",
     "num_comments": 0,

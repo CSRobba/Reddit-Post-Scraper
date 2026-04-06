@@ -5,7 +5,7 @@
     "body": "Hi, I read this article (https://www.anthropic.com/engineering/code-execution-with-mcp) from Anthropic that talks about how using an code execution environment and MCP server can improve responses and token utility. But I don't get the technical part on how to connect your model to the code environment. I mean, is there any open-source solution or do I need to build one on my own? If so, how do I connect the LLM to that environment? \n\nOne idea I had was to use an MCP client that is connected to two tools: \"get-folder\" and \"send-code\". The \"send-code\" tool sends the LLM's code to the environment, but I did not feel it was a good solution specifically because there is no mention of the word \"MCP client\" in the article.\n\nAnd why bother creating code with the \"MCP\" standard if the LLM will just call it like a library function? I could just write the code like I wanted to, and the LLM wouldn't notice because he is just calling it right?\n\nDoes anyone have an explanation or tips on how I can implement that?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1oti4or/how_to_link_an_ai_to_a_code_execution_environment/",
     "url_overridden_by_dest": null,
-    "created": "2025-11-10T11:20:00",
+    "created": "2025-11-10T08:20:00",
     "author": "yeahlloow",
     "subreddit": "LocalLLaMA",
     "num_comments": 0,

@@ -5,14 +5,11 @@
     "body": "I wanted to see if the new Kling O1 engine on **Higgsfield** could handle high-end VFX tasks like environment replacement without manual rotoscoping.\n\nI took a clip of The Weeknd and prompted the background to cycle through a snowstorm, a construction site, a military zone, and a fireworks display.\n\nThe model kept the lighting on the subject consistent (notice the red tint from the fireworks) while completely changing the set. For freelance editors, this could be a massive time-saver.\n\nTool used: Higgsfield Video Edit (link in comments)",
     "url": "https://v.redd.it/8qw3p0eljs4g1",
     "url_overridden_by_dest": "https://v.redd.it/8qw3p0eljs4g1",
-    "created": "2025-12-02T08:15:47",
+    "created": "2025-12-02T05:15:47",
     "author": "thelost0_0_",
     "subreddit": "generativeAI",
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

@@ -2,17 +2,14 @@
     "query_term": "AI energy",
     "title": "Can GPUs avoid the AI energy wall, or will neuromorphic computing become inevitable?",
     "id": "1ncm9lo",
-    "body": "I’ve been digging into the future of compute for AI. Training LLMs like GPT-4 already costs GWhs of energy, and scaling is hitting serious efficiency limits. NVIDIA and others are improving GPUs with sparsity, quantization, and better interconnects — but physics says there’s a lower bound on energy per FLOP.\n\nMy question is:\n\nCan GPUs (and accelerators like TPUs) realistically avoid the \"energy wall\" through smarter architectures and algorithms, or is this just delaying the inevitable?\n\nIf there is an energy wall, does neuromorphic computing (spiking neural nets, event-driven hardware like Intel Loihi) have a real chance of displacing GPUs in the 2030s?\n",
+    "body": "I\u2019ve been digging into the future of compute for AI. Training LLMs like GPT-4 already costs GWhs of energy, and scaling is hitting serious efficiency limits. NVIDIA and others are improving GPUs with sparsity, quantization, and better interconnects \u2014 but physics says there\u2019s a lower bound on energy per FLOP.\n\nMy question is:\n\nCan GPUs (and accelerators like TPUs) realistically avoid the \"energy wall\" through smarter architectures and algorithms, or is this just delaying the inevitable?\n\nIf there is an energy wall, does neuromorphic computing (spiking neural nets, event-driven hardware like Intel Loihi) have a real chance of displacing GPUs in the 2030s?\n",
     "url": "https://www.reddit.com/r/learnmachinelearning/comments/1ncm9lo/can_gpus_avoid_the_ai_energy_wall_or_will/",
     "url_overridden_by_dest": null,
-    "created": "2025-09-09T11:38:06",
+    "created": "2025-09-09T08:38:06",
     "author": "dawnrocket",
     "subreddit": "learnmachinelearning",
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

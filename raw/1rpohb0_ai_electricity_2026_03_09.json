@@ -1,0 +1,15 @@
+{
+    "query_term": "AI electricity",
+    "title": "AI infrastructure seems to run into an electricity problem pretty quickly",
+    "id": "1rpohb0",
+    "body": "The more I read about large AI data centers, the more it feels like electricity is the real limiting\rfactor.\n\n\r\nNot just generating power, but distributing it and managing heat. Apparently huge amounts of\r energy end up as heat somewhere in the electrical chain before it even reaches the servers.\n\n\r\nCooling infrastructure alone looks enormous.\n\n\r\nThat got me wondering how much work is happening on improving the efficiency of power\r conversion systems in these facilities.\n\n\r\nAnyone here involved with data center infrastructure?",
+    "url": "https://www.reddit.com/r/energy/comments/1rpohb0/ai_infrastructure_seems_to_run_into_an/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-09T22:32:18",
+    "author": "Lonely-Ad-3123",
+    "subreddit": "energy",
+    "num_comments": 10,
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null
+}

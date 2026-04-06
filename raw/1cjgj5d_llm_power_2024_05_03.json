@@ -5,14 +5,11 @@
     "body": "2 years ago, I built a chatbot that would participate in a group chat. That was before chatGPT was released.  \nTo achieve that, I used gpt-j-6b (completion) by feeding it a prompt in the following format:  \n\n\n    The following is a conversation between Bob and many friends. {some context}.\n    \n    Conversation:\n    \n    friend1: ...\n    Bob: ...\n    friend2: ...\n    friend3: ...\n    Bob: \n\nThe LLM would then complete the prompt by generating the rest of the conversation, which in this case starts with Bob's (the bot) message.  \nI would then split the output using \"\\\\n\" to only keep Bob's message.  \n\n\nThis worked great and made really funny and uncensored conversation, the bot would sometimes repeat itself or say non sense, but was always able to come back to topic.  \n\n\n  \nI decided recently to revive this project but using llama3-8b base model, using the exact same prompt and model params (temperature, top\\_k, etc...).  \n\n\nThe results are very disappointing, the bot starts to repeat itself indefinitely and can't come back on track. The first 2 to 3 responses are just ok, but after that it starts repeating itself or saying non sense.  \n\n\nI'm very surprised by those results. Any idea why that would work great on a very old model and very poorly on llama3 ?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1cjgj5d/use_llm_to_power_1_to_many_conversations/",
     "url_overridden_by_dest": null,
-    "created": "2024-05-03T15:00:19",
+    "created": "2024-05-03T12:00:19",
     "author": "skini26",
     "subreddit": "LocalLLaMA",
     "num_comments": 7,
     "ups": 4,
     "upvote_ratio": 0.699999988079071,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

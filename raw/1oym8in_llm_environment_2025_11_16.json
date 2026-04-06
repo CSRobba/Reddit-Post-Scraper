@@ -5,7 +5,7 @@
     "body": "I am looking to try some of this out on windows. I was going to try LM studio, but I ran into an issue: it is not a one folder install. It spreads files, most importantly the models themselves, into the default windows user folders. Windows is on a smaller, lower speed drive and cannot handle this. I have a dedicated drive and need the entire package, all software, all models, etc. to live in the install folder. I sometimes see installs like this called \"portable,\" but that is not the issue here; it's simply that I need to have all of this one place. I have been able to do this with AI image generation stability matrix).\n\nI am not at the level where something running on command line (ollama) is appropriate for me yet. Is there something like LM studio (friendly UI, easy model acquisition, beginner features, etc.), that I can use that works this way?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1oym8in/looking_for_a_good_llm_local_environment_with/",
     "url_overridden_by_dest": null,
-    "created": "2025-11-16T08:51:03",
+    "created": "2025-11-16T05:51:03",
     "author": "void2258",
     "subreddit": "LocalLLaMA",
     "num_comments": 6,

@@ -5,7 +5,7 @@
     "body": "The code is now on github, I will continue to improve this and add more resource comparisons in the future. I have now added data for both the Azure Deepseek and local Chinese Deepseek models to demonstrate that the hosting stack can be more important than model type. I also fixed the graphs to be properly proportional, I think. I'm pretty tired again so I still need to proofreed how I did some of it once I get some sleep.  As I mentioned before I would like to do greenhouse emissions and energy use, and I think I should also be able to do things like image and video generation once I gather the data. Still a work in progress. I am open to suggestions or corrections. \n\n",
     "url": "https://cheshireai.github.io/AI-Resource-Comparison/",
     "url_overridden_by_dest": "https://cheshireai.github.io/AI-Resource-Comparison/",
-    "created": "2026-02-26T23:16:09",
+    "created": "2026-02-26T20:16:09",
     "author": "ram_altman",
     "subreddit": "aiwars",
     "num_comments": 9,

@@ -5,7 +5,7 @@
     "body": "Analog chips directly calculate matrix multiplication instead of running serial/parallel binary operations, allowing for gains in processing power even if transistor count is no longer a viable way to progress.",
     "url": "https://news.mit.edu/2022/analog-deep-learning-ai-computing-0728",
     "url_overridden_by_dest": "https://news.mit.edu/2022/analog-deep-learning-ai-computing-0728",
-    "created": "2023-04-11T10:46:34",
+    "created": "2023-04-11T07:46:34",
     "author": "ThePokemon_BandaiD",
     "subreddit": "singularity",
     "num_comments": 8,

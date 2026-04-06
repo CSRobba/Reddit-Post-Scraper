@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "Ai energy usage by query",
+    "id": "1r76g55",
+    "body": "probably this is a silly question, but are certain tasks 'harder' for llm ai (mostly I'm asking abt chatgpt) to do, not necessarily in the sense the that it produces worse/less accurate results, just that it takes more energy.\n\nIf so, what kind of tasks are these? To my understanding AI just works on token prediction, so the perceived 'difficulty' of a task shouldn't matter for how much energy it uses. Between asking it to edit a text I wrote or generate it's own text, to these tasks differ in energy cost? Is it based on how hard the text is to 'predict', the length of the response, or are all queries equal jn this sense? thank you guys! ",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r76g55/ai_energy_usage_by_query/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-17T05:47:28",
+    "author": "asdfgayy",
+    "subreddit": "OpenAI",
+    "num_comments": 3,
+    "ups": 5,
+    "upvote_ratio": 0.7900000214576721,
+    "view_count": null
+}

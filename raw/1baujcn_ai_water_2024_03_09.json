@@ -5,7 +5,7 @@
     "body": " https://x.com/qhwang3/status/1766510461841756429?s=20 \n\nThis benchmark is really critical.  It includes 15 Kaggle-like tasks from diverse domains ranging in various difficulties and recency, where the agents are given a research problem description and dataset: e.g. increase the model performance on the cifar10 dataset by more than 10%.  \n\nSo, I'm sure Anthropic will use Opus to create better versions of it. I expect Claude 3.1, 3.2 etc. versions soon.\n\nBtw Opus gets 35.6% in this benchmark. GPT-4 Turbo 26%, GPT-4 19.2%. I believe people did not appreciate Turbo enough as it was clearly an improvement over the vanilla GPT-4.",
     "url": "https://www.reddit.com/r/singularity/comments/1baujcn/claude_3_opus_blows_other_models_out_of_the_water/",
     "url_overridden_by_dest": null,
-    "created": "2024-03-09T17:46:17",
+    "created": "2024-03-09T14:46:17",
     "author": "lordpermaximum",
     "subreddit": "singularity",
     "num_comments": 48,

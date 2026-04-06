@@ -5,7 +5,7 @@
     "body": "I'm trying to get a better understanding of AI. I am able to run StableDiffusion on my system, and it can generate results, albeit very slowly. I've tried a few different pre-built models, with varying success. \n\nMy question is - what part of something like ChatGPT requires the greatest processing power; is it building the new language model, or is it actually using it? I know that ChatGPT runs on some incredibly powerful hardware, but I'm not sure if that is only due to the number of queries it is getting, or due to the needs of the AI \"process\" itself. \n\nMy ultimate question is regarding democratization - how likely is it that independent AI will be able to run on consumer hardware vs being owned solely by megacorps and the elite.",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/11s5dqi/with_existing_ai_system_what_requires_the_bulk_of/",
     "url_overridden_by_dest": null,
-    "created": "2023-03-15T14:47:29",
+    "created": "2023-03-15T11:47:29",
     "author": "SeekingAsus1060",
     "subreddit": "NoStupidQuestions",
     "num_comments": 1,

@@ -1,0 +1,15 @@
+{
+    "query_term": "AI energy",
+    "title": "Local AI Model Energy Usage vs Human Brain",
+    "id": "1q66vlw",
+    "body": "Do we have any accurate estimates of energy used by AI models run locally on a computer not connected to a data center?  \n  \n We know how much the human brain needs to operate continuously is about 12 watts, but I'm not sure if that's per second, hour. I'm assuming atleast 12 per second to keep operation going. \n\nAnother issue though is how much wattage is allocated to voluntary thinking tasks involved with drawing, creating music, etc, out of those 12 watts. If we had a study between the two it'd really help to see which is more energy intensive.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1q66vlw/local_ai_model_energy_usage_vs_human_brain/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-06T21:26:12",
+    "author": "StormCoderYT-53",
+    "subreddit": "aiwars",
+    "num_comments": 13,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null
+}

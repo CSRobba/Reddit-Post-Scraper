@@ -5,7 +5,7 @@
     "body": "I'm loving o1-preview but the platform.openai.com/playground environment is not good. It doesn't even render the returned markdown.\n\nI was hoping there was a better choice. Ideally, an IntelliJ plugin that allows me to attach files/folders of my code to the request. If not an IDE plugin then a standalone app that does that?\n\nCan anyone point me in the right direction? Searching google hasn't been much help.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1h3gqxh/cant_seem_to_find_an_ai_assisted_coding/",
     "url_overridden_by_dest": null,
-    "created": "2024-11-30T11:51:51",
+    "created": "2024-11-30T08:51:51",
     "author": "Qaxar",
     "subreddit": "LocalLLaMA",
     "num_comments": 11,

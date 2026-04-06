@@ -1,18 +1,15 @@
 {
     "query_term": "AI power",
-    "title": "6h Nightly GPU Power - 4× RTX A6000 (192GB VRAM) for AI Workloads",
+    "title": "6h Nightly GPU Power - 4\u00d7 RTX A6000 (192GB VRAM) for AI Workloads",
     "id": "1k8b99m",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/SideProject/comments/1k8b99m/6h_nightly_gpu_power_4_rtx_a6000_192gb_vram_for/",
     "url_overridden_by_dest": null,
-    "created": "2025-04-26T07:57:09",
+    "created": "2025-04-26T04:57:09",
     "author": "glacomtech",
     "subreddit": "SideProject",
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

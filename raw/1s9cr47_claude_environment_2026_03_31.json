@@ -1,0 +1,15 @@
+{
+    "query_term": "Claude environment",
+    "title": "Claude Code v2.1.89: \"Added CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free alt-screen rendering with virtualized scrollback\"",
+    "id": "1s9cr47",
+    "body": "",
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+    "url_overridden_by_dest": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+    "created": "2026-03-31T23:36:35",
+    "author": "arcanemachined",
+    "subreddit": "ClaudeAI",
+    "num_comments": 4,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null
+}

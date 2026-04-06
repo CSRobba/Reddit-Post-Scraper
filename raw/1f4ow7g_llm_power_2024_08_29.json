@@ -1,0 +1,15 @@
+{
+    "query_term": "LLM power",
+    "title": "How much power does your local llm rig use?",
+    "id": "1f4ow7g",
+    "body": "I\u2019ve gotten my 3xP40 right down to 6W.  Anyone else done any optimizations?\n\nIt normally idles at about 116W, but with some hacks/tweaks I managed to  get it to suspend automatically and wake on lan and be ready to go in about 20 seconds. I\u2019m running llama3.1 70b. ",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1f4ow7g/how_much_power_does_your_local_llm_rig_use/",
+    "url_overridden_by_dest": null,
+    "created": "2024-08-29T23:57:44",
+    "author": "No-Statement-0001",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 28,
+    "ups": 7,
+    "upvote_ratio": 0.7699999809265137,
+    "view_count": null
+}

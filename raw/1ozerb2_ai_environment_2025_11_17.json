@@ -5,7 +5,7 @@
     "body": "I've been working on **Station**, an open-source project that simulates a mini scientific ecosystem. It is a multi-agent environment and supports most AI models (e.g. Gemini, GPT, Claude). You only need to write a research task specification that details your task, and a script that scores submissions, and you will have an entire world working to solve your task!\n\nIt's still early, but I'd love feedback from the community.\n\n[Check it out here.](https://github.com/dualverse-ai/station)",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1ozerb2/an_opensource_multiagent_environment_for_ai/",
     "url_overridden_by_dest": null,
-    "created": "2025-11-17T07:17:35",
+    "created": "2025-11-17T04:17:35",
     "author": "progenitor414",
     "subreddit": "ArtificialInteligence",
     "num_comments": 1,

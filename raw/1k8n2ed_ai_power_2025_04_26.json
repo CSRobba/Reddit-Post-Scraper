@@ -5,7 +5,7 @@
     "body": "I really struggle to keep my notes organised, and often can't make any sense of hand written notes after meetings. I did some experiments with Claude and ChatGPT where I blast random thoughts at them during a meeting or brainstorming session and then have them output a nice document that pulls it all together at the end. It worked incredibly well but it was a bit cumbersome to keep sending messages to the chat and telling the ai each time what to do. So I took the idea and built a tool, it makes it easy to throw random notes and voice recordings (images and document support on the way) and then just let the AI organise it all and create a nice, well-organised document. You view the document in the tool, download it as PDF or markdown, and soon you'll be able to share it via email. The system references your notes in the document that is generated so you can always see where a specific point came from.\n\n[https://www.scatternote.com/](https://www.scatternote.com/)\n\nI've made it so that you can subscribe for a two day trial for free without entering any payment details. I'd really love your feedback and ideas, especially if you're neurodivergent because I really think AI can help people like us!\n\nIt mostly works on mobile but the experience isn't as good as desktop (I'm working on that!)",
     "url": "https://i.redd.it/l0ia8fzls8xe1.png",
     "url_overridden_by_dest": "https://i.redd.it/l0ia8fzls8xe1.png",
-    "created": "2025-04-26T16:59:29",
+    "created": "2025-04-26T13:59:29",
     "author": "PromaneX",
     "subreddit": "SideProject",
     "num_comments": 0,

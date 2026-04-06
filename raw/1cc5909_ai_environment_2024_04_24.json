@@ -5,7 +5,7 @@
     "body": "Hello,\n\nI'm looking to do get a consistent environment and to put a person in it. Let's say a living room, I want to have the same objects (books, tv, lamps, clots, etc ...) each time i'm generating a picture from another angle.  \n\n\nI'm currently using sketchfab with a 3d model of a small house, then using controlnet ( mostly mlsd) to get the core architecture of the room. Then I added object of everyday life, but not in the 3d model, only on images made by SD.   \nI'm trying to use open pose directly on a picture to put a person with it, but by doing this i'll have to add every details each time on each image, so I kinda want to have a simpler process.\n\n  \nWould it be easier to get a fully achieve 3D model with every details I want to see consistently on my pictures , and then controlneting it on the angle I want, then use openpose to put a person in it ?\n\nHaven't tried to make a LORA of the room but I feel like it's not the way.\n\nHow would you proceed ? I'm open to any advices. \n\nFeel free to share any method that you experienced with to reach my purpose.\n\n&#x200B;\n\nCheers,  \n\n\n&#x200B;\n\n&#x200B;",
     "url": "https://www.reddit.com/r/StableDiffusion/comments/1cc5909/using_ai_tools_like_controlnet_to_insert_a_person/",
     "url_overridden_by_dest": null,
-    "created": "2024-04-24T14:10:50",
+    "created": "2024-04-24T11:10:50",
     "author": "AI-Dispensary",
     "subreddit": "StableDiffusion",
     "num_comments": 2,

@@ -14,8 +14,7 @@ import util
 #### GLOBAL VARIABLES #### 
 CODE_NAME = "scrape_subreddits"
 WORK_DIR = "../"
-QUERIES_FILE = os.path.join("scrape_summary.csv")
-#QUERIES_FILE = os.path.join(WORK_DIR, "posts_queries.csv")
+QUERIES_FILE = os.path.join(WORK_DIR, "posts_queries.csv")
 SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 
 # ArcticPush URL
@@ -84,16 +83,12 @@ if __name__ == "__main__":
     now = datetime.now().strftime("%y%m%d%H%M")
     logger = util.initialize_logger(log_file = f"{WORK_DIR}/logs/{now}_{CODE_NAME}_log.log")
     
-    # queries_kwargs = {
-    #    'config': config,
-    #    'start': START,
-    #    'end': END,
-    #    'interval': INTERVAL
-    # }
-    #queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
-    queries = pandas.read_csv("scrape_summary.csv")
-    queries["start"] = pandas.to_datetime(queries["start"])
-    queries["end"] = pandas.to_datetime(queries["end"])
-    queries["count"] = -1
+    queries_kwargs = {
+       'config': config,
+       'start': START,
+       'end': END,
+       'interval': INTERVAL
+    }
+    queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
 
-    queries = run_queries(queries, logger)
+    queries = run_queries(queries, logger) 

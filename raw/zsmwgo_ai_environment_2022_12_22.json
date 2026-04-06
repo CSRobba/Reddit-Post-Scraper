@@ -5,14 +5,11 @@
     "body": "Hi! I am wondering if I am doing something wrong with my AI projects. I have tried:\n\nSuper Mario World (Gym Retro) with Stable Baselines (No success, using custom implementation based on another),\n\nSuper Mario World (Gym Retro) with NEAT-Python (medium success, using custom implementation based on another),\n\nA game I programmed myself with Stable Baselines (no success),\n\nThat same game with NEAT-Python (IIRC it was medium success),\n\nAnd now \"bigfish\" from [the procgen Gym environments](https://github.com/openai/procgen), tested on Stable Baselines 3. (No success)\n\nSo I think I am doing something wrong with Stable Baselines.\n\nHere is the code for my \"training\" of bigfish (I removed unused code):\n\n    TEST_IT_OUT = True # I change these three constants before running the file \n                    # depending on whether I want to test the model, teach the model,\n                    # or save the model.\n    LEARN_IT = False\n    SAVE_IT = False\n    import gym\n    from stable_baselines3 import PPO\n\n    if TEST_IT_OUT == True:\n        env = gym.make(\"procgen:procgen-bigfish-v0\", render_mode=\"human\")\n    else:\n        env = gym.make(\"procgen:procgen-bigfish-v0\")\n\n    model = PPO(\"MlpPolicy\", env, verbose=1)\n\n    if TEST_IT_OUT == True:\n        model = PPO.load(\"PPO2-bigfish\")\n\n\n    if LEARN_IT == True:\n        model.learn(total_timesteps=2000000)\n    if SAVE_IT == True:\n        model.save(\"PPO2-bigfish\")\n\n    if TEST_IT_OUT == True:\n        obs = env.reset()\n        done = False\n        while True:\n            while not done:\n                action, _states = model.predict(obs)\n                obs, _, _, info = env.step(action)\n            done = False\n            obs = env.reset()\n\nIn this case, I trained it for 2 million timesteps, and the agent just moves the fish to the right. No exceptions. I've experienced a very similar problem with the game I programmed myself, too, where it goes to the left. This is Python 3.7.\n\nWith Super Mario World and Stable Baselines, the agent didn't really move after a decent amount of training. And if it did, it dies quickly anyway.\n\nSo what am I doing wrong? Right now I'm trying it again with CnnPolicy instead of MlpPolicy, but I don't think it's going to help.",
     "url": "https://www.reddit.com/r/learnmachinelearning/comments/zsmwgo/my_ai_projects_dont_seem_to_learn_even_if_i_use/",
     "url_overridden_by_dest": null,
-    "created": "2022-12-22T09:08:04",
+    "created": "2022-12-22T06:08:04",
     "author": "Unsightedmetal6",
     "subreddit": "learnmachinelearning",
     "num_comments": 0,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null,
-    "relevance_rate": {
-        "nino": "n"
-    }
+    "view_count": null
 }

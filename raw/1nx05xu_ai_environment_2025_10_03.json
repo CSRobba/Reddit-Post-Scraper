@@ -5,7 +5,7 @@
     "body": "[https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/](https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/) \n\n\"Here\u2019s a test for infants: Show them a glass of water on a desk. Hide it behind a wooden board. Now move the board toward the glass. If the board keeps going past the glass, as if it weren\u2019t there, are they surprised? Many 6-month-olds are, and by a year, almost all children have an intuitive notion of an object\u2019s permanence, learned through observation. Now some artificial intelligence models do too.\n\nResearchers have developed an AI system that learns about the world via videos and demonstrates a notion of \u201csurprise\u201d when presented with information that goes against the knowledge it has gleaned.\n\nThe model, created by Meta and called Video Joint Embedding Predictive Architecture (V-JEPA), does not make any assumptions about the physics of the world contained in the videos. Nonetheless, it can begin to make sense of how the world works.\n\n\u201cTheir claims are, a priori, very plausible, and the results are super interesting,\u201d says [Micha Heilbron (opens a new tab)](https://www.uva.nl/en/profile/h/e/m.heilbron/m.heilbron.html), a cognitive scientist at the University of Amsterdam who studies how brains and artificial systems make sense of the world.\"",
     "url": "https://www.reddit.com/r/singularity/comments/1nx05xu/how_one_ai_model_creates_a_physical_intuition_of/",
     "url_overridden_by_dest": null,
-    "created": "2025-10-03T10:07:56",
+    "created": "2025-10-03T07:07:56",
     "author": "AngleAccomplished865",
     "subreddit": "singularity",
     "num_comments": 4,
