@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "I Built Mailwith.ai to put an end to pesky mail spam using the power of AI! \ud83d\udeab\ud83d\udce7",
+    "title": "I Built Mailwith.ai to put an end to pesky mail spam using the power of AI! 🚫📧",
     "id": "1azzrre",
     "body": "",
     "url": "https://v.redd.it/w9gudrlyvskc1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 17,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

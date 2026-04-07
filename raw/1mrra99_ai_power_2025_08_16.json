@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "He-Man: Power of Grayskull (2025) \u2013 First Trailer | Mattel Games | PS5 | Concept AI Trailer and Gameplay",
+    "title": "He-Man: Power of Grayskull (2025) – First Trailer | Mattel Games | PS5 | Concept AI Trailer and Gameplay",
     "id": "1mrra99",
     "body": "",
     "url": "https://youtu.be/cvJZt62CGcI",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

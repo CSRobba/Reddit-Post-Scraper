@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "Has r/technology shifted away from covering emerging tech and innovations to focusing mostly on anti-Trump and political content? It feels like the subreddit used to highlight exciting advancements in AI, sustainability, and gadgets, but now it\u2019s dominated by political news. Thoughts?",
+    "title": "Has r/technology shifted away from covering emerging tech and innovations to focusing mostly on anti-Trump and political content? It feels like the subreddit used to highlight exciting advancements in AI, sustainability, and gadgets, but now it’s dominated by political news. Thoughts?",
     "id": "1i5w1ws",
     "body": "",
     "url": "https://www.reddit.com/r/technology/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

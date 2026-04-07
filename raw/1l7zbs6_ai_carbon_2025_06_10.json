@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "Tech giants\u2019 carbon emissions up 150% with AI growth | Companies such as Amazon, Microsoft, Alphabet, and Meta have experienced a surge in their global indirect emissions.",
+    "title": "Tech giants’ carbon emissions up 150% with AI growth | Companies such as Amazon, Microsoft, Alphabet, and Meta have experienced a surge in their global indirect emissions.",
     "id": "1l7zbs6",
     "body": "",
     "url": "https://www.energymonitor.ai/news/international-telecommunication-union-operational-emissions/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 11,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence environment",
-    "title": "I\u2019m a grad student at NYU working on thesis research on the carbon footprint of artificial intelligence, and ways to mitigate its impact on the environment. If you are a climate scientist or professional, please consider filling out this 5-10 minute Google Form. Thanks in advance!",
+    "title": "I’m a grad student at NYU working on thesis research on the carbon footprint of artificial intelligence, and ways to mitigate its impact on the environment. If you are a climate scientist or professional, please consider filling out this 5-10 minute Google Form. Thanks in advance!",
     "id": "17vx6e5",
     "body": "",
     "url": "https://forms.gle/ybhfPkNCgszuRono9",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

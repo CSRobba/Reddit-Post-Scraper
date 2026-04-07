@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Hi all :) ADHD makes task management tough, especially for entrepreneurs, so I\u2019m brainstorming an AI that assigns tasks based on energy levels, sends motivation nudges, and grows a virtual pet when you complete tasks. Would this help? What\u2019s your biggest struggle with focus & productivity?",
+    "title": "Hi all :) ADHD makes task management tough, especially for entrepreneurs, so I’m brainstorming an AI that assigns tasks based on energy levels, sends motivation nudges, and grows a virtual pet when you complete tasks. Would this help? What’s your biggest struggle with focus & productivity?",
     "id": "1j36bcv",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1j36bcv/hi_all_adhd_makes_task_management_tough/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

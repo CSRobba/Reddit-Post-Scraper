@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Someone explain the fascination with AI images of African kids with water bottles in this community. It\u2019s basically all Reddit shows me in my feed. ",
+    "title": "Someone explain the fascination with AI images of African kids with water bottles in this community. It’s basically all Reddit shows me in my feed. ",
     "id": "1bq11hp",
     "body": "What am I missing here. ",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1bq11hp/someone_explain_the_fascination_with_ai_images_of/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

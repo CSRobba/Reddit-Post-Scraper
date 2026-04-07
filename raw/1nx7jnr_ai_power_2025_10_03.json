@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "AI merely produces baloney sausage...unless we give it power.",
     "id": "1nx7jnr",
-    "body": "The article proposes we\u2019re not doing enough to stop AI\u2019s weaponization. \n\nEveryone is worried about whether AI is conscious, but it's not, clearly not and we should not be worrying about this, we should be worrying about what the skunkworks guys are doing with it and how this will create the deadliest arms race of all time.\n\nIt\u2019s not the tech we should fear, it\u2019s how we might choose to use it to cause harm.",
+    "body": "The article proposes we’re not doing enough to stop AI’s weaponization. \n\nEveryone is worried about whether AI is conscious, but it's not, clearly not and we should not be worrying about this, we should be worrying about what the skunkworks guys are doing with it and how this will create the deadliest arms race of all time.\n\nIt’s not the tech we should fear, it’s how we might choose to use it to cause harm.",
     "url": "https://goodmenproject.com/featured-content/ai-merely-produces-baloney-sausage-unless-we-give-it-power-kpkn/",
     "url_overridden_by_dest": "https://goodmenproject.com/featured-content/ai-merely-produces-baloney-sausage-unless-we-give-it-power-kpkn/",
     "created": "2025-10-03T11:44:29",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

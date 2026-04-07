@@ -1,6 +1,6 @@
 {
     "query_term": "data center pollution",
-    "title": "Meta wants data center in sunny El Paso to rely on natural gas. El Paso Electric is seeking approval for a 366-megawatt natural gas power plant that will fuel Meta\u2019s project. Residents worry a new power plant would worsen air pollution and guzzle water.",
+    "title": "Meta wants data center in sunny El Paso to rely on natural gas. El Paso Electric is seeking approval for a 366-megawatt natural gas power plant that will fuel Meta’s project. Residents worry a new power plant would worsen air pollution and guzzle water.",
     "id": "1qjbab8",
     "body": "",
     "url": "https://insideclimatenews.org/news/21012026/meta-data-center-in-sunny-el-paso-will-rely-on-natural-gas/",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 74,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

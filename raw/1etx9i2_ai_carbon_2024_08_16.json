@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "\u201cthe publication reported, Microsoft's carbon pollution has grown by 29% since 2020 due to the construction of more data centers to support AI.\u201d",
+    "title": "“the publication reported, Microsoft's carbon pollution has grown by 29% since 2020 due to the construction of more data centers to support AI.”",
     "id": "1etx9i2",
     "body": "https://l.smartnews.com/p-7tMak/BmpNdL",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1etx9i2/the_publication_reported_microsofts_carbon/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "Claude environment",
-    "title": "I\u2019ve only used Claude 4 api to code within a terminal environment. Is paying for Claude max different?",
+    "title": "I’ve only used Claude 4 api to code within a terminal environment. Is paying for Claude max different?",
     "id": "1l17gq2",
-    "body": "I pay for ChatGPT plus but I don\u2019t really use it the code. That\u2019s just my day-to-day driver. I use Claude for API where I can code in the terminal environment. I\u2019m just wondering like what\u2019s the difference between using the API and paying for Max? Would it be worth it? ",
+    "body": "I pay for ChatGPT plus but I don’t really use it the code. That’s just my day-to-day driver. I use Claude for API where I can code in the terminal environment. I’m just wondering like what’s the difference between using the API and paying for Max? Would it be worth it? ",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1l17gq2/ive_only_used_claude_4_api_to_code_within_a/",
     "url_overridden_by_dest": null,
     "created": "2025-06-01T20:03:57",
@@ -11,5 +11,8 @@
     "num_comments": 18,
     "ups": 5,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

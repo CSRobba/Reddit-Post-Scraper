@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Is the next leap in AI architectural? Comparing VRAM-hungry Transformers with Compute-intensive Energy-Based Models",
     "id": "1qk1pzy",
-    "body": "I\u2019ve been reading up on the architecture behind a new demo that uses Energy-Based Models for reasoning tasks instead of standard autoregressive prediction.  \n  \nThe concept is that instead of the standard stack (predict next token - sample - repeat), the model treats inference as an optimization problem, minimizing an \"energy function\" to satisfy constraints.  \n  \nSudoku is a solid test case because it exposes the weakness of probabilistic models (LLMs) vs strict constraint satisfaction.  \n  \nMy question for the local runners: I'm trying to understand the hardware implications if this architecture actually takes off.  \n  \nStandard Transformers are usually VRAM/Memory Bandwidth bound (loading weights + massive KV-cache). From what I understand, EBMs require iterative sampling (optimization steps) to find the solution.  \n  \nDoes this mean the bottleneck shifts from VRAM capacity to pure Compute/FLOPS? If so, this might actually be great for those of us running dual 3090/4090 setups who are limited by VRAM but have decent compute power.  \n  \nHas anyone seen open implementations or weights for large-scale EBMs yet? Curious if this is runnable locally or if the inference latency is just too high.",
+    "body": "I’ve been reading up on the architecture behind a new demo that uses Energy-Based Models for reasoning tasks instead of standard autoregressive prediction.  \n  \nThe concept is that instead of the standard stack (predict next token - sample - repeat), the model treats inference as an optimization problem, minimizing an \"energy function\" to satisfy constraints.  \n  \nSudoku is a solid test case because it exposes the weakness of probabilistic models (LLMs) vs strict constraint satisfaction.  \n  \nMy question for the local runners: I'm trying to understand the hardware implications if this architecture actually takes off.  \n  \nStandard Transformers are usually VRAM/Memory Bandwidth bound (loading weights + massive KV-cache). From what I understand, EBMs require iterative sampling (optimization steps) to find the solution.  \n  \nDoes this mean the bottleneck shifts from VRAM capacity to pure Compute/FLOPS? If so, this might actually be great for those of us running dual 3090/4090 setups who are limited by VRAM but have decent compute power.  \n  \nHas anyone seen open implementations or weights for large-scale EBMs yet? Curious if this is runnable locally or if the inference latency is just too high.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qk1pzy/is_the_next_leap_in_ai_architectural_comparing/",
     "url_overridden_by_dest": null,
     "created": "2026-01-22T13:02:01",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 5,
     "upvote_ratio": 0.7799999713897705,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

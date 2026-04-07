@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Asked it how corporations will maintain power with AI. \ud83d\udc40",
+    "title": "Asked it how corporations will maintain power with AI. 👀",
     "id": "10tgslk",
     "body": "",
     "url": "https://www.reddit.com/gallery/10tgslk",
@@ -11,5 +11,8 @@
     "num_comments": 34,
     "ups": 31,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

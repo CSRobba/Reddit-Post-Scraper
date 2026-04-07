@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT power",
-    "title": "How can I demonstrate the power ChatGPT is to someone like my parents who aren\u2019t tech savvy?",
+    "title": "How can I demonstrate the power ChatGPT is to someone like my parents who aren’t tech savvy?",
     "id": "10zm7re",
-    "body": "Are there any interesting prompts or series of prompts that I can use to give non-tech people that \u201cwow\u201d moment where they understand how much this is going to change the world?",
+    "body": "Are there any interesting prompts or series of prompts that I can use to give non-tech people that “wow” moment where they understand how much this is going to change the world?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/10zm7re/how_can_i_demonstrate_the_power_chatgpt_is_to/",
     "url_overridden_by_dest": null,
     "created": "2023-02-11T04:11:22",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

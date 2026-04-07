@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Free AI isn't sustainable \u2014 and we'll be paying for it soon enough",
+    "title": "Free AI isn't sustainable — and we'll be paying for it soon enough",
     "id": "1dzwn6w",
     "body": "",
     "url": "https://www.pcworld.com/article/2388675/free-ai-is-not-sustainable-soon-we-will-have-to-pay.html",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 5,
     "upvote_ratio": 0.6899999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
