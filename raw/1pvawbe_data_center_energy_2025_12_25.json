@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "AI energy demand by the numbers \u2014 and how it might affect the planet. States with booming data center construction are seeing spikes in new power needs. Much of it is being met by coal and solar.",
+    "title": "AI energy demand by the numbers — and how it might affect the planet. States with booming data center construction are seeing spikes in new power needs. Much of it is being met by coal and solar.",
     "id": "1pvawbe",
     "body": "",
     "url": "https://www.eenews.net/articles/ai-energy-demand-by-the-numbers-and-how-it-might-affect-the-planet/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 19,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

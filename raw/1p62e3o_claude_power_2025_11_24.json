@@ -1,8 +1,8 @@
 {
     "query_term": "Claude power",
-    "title": "Created 24 Claude Code learning units (beginner \u2192 power user) - Free on GitHub",
+    "title": "Created 24 Claude Code learning units (beginner → power user) - Free on GitHub",
     "id": "1p62e3o",
-    "body": "Hey folks,\n\nI'm a solo dev who's been using Claude Code to build products (DevClose, Planr). I was learning inefficiently\u2014scattered knowledge, trial and error\u2014so I created a structured roadmap.\n\nFigured others might find it useful, so I open-sourced it.\n\n\\*\\*What it covers:\\*\\*\n\n\\- \\*\\*Level 1:\\*\\* Prompt Foundations (5 units) - Write clear, effective prompts\n\n\\- \\*\\*Level 2:\\*\\* Slash Commands (7 units) - Build your personal toolkit\n\n\\- \\*\\*Level 3:\\*\\* Feature Composition (6 units) - MCP + sub agents + workflows\n\n\\- \\*\\*Level 4:\\*\\* Autonomous Skills (6 units) - Skills that work automatically\n\n\n\n\\*\\*How it works:\\*\\*\n\n\\- Each unit = 15-30 minutes\n\n\\- Complete 3-5 times (repetition builds mastery)\n\n\\- Hands-on exercises with real codebases\n\n\\- Track time saved (measure ROI)\n\n\n\n\\*\\*Time investment:\\*\\*\n\n13-20 hours total practice (spread over 8-12 weeks at 30 min/day)\n\n\n\n\\*\\*Time saved:\\*\\*\n\n15-25 hours/week after completing all levels\n\n\n\n\\*\\*What you'll build:\\*\\*\n\n\\- 15-20 custom slash commands\n\n\\- 3-5 autonomous skills\n\n\\- Complex MCP workflows\n\n\\- Parallel agent orchestration\n\n\n\n\\*\\*Why it's free:\\*\\*\n\nBuilt it for myself, sharing costs nothing, gatekeeping is dumb.\n\n\n\n\\*\\*Repo:\\*\\* [https://github.com/jgerton/ai-mastery-roadmap](https://github.com/jgerton/ai-mastery-roadmap)\n\n\n\n\\*\\*Quick start:\\*\\*\n\n1. Clone the repo\n\n2. Open \\`level-1-prompts/01-clear-prompts.md\\`\n\n3. Do the exercises\n\n4. Track in \\`progress-tracker.md\\`\n\n\n\nIf you try it, feedback welcome (issues/PRs on GitHub). Built this to be genuinely useful, not as marketing. Use it if it helps.",
+    "body": "Hey folks,\n\nI'm a solo dev who's been using Claude Code to build products (DevClose, Planr). I was learning inefficiently—scattered knowledge, trial and error—so I created a structured roadmap.\n\nFigured others might find it useful, so I open-sourced it.\n\n\\*\\*What it covers:\\*\\*\n\n\\- \\*\\*Level 1:\\*\\* Prompt Foundations (5 units) - Write clear, effective prompts\n\n\\- \\*\\*Level 2:\\*\\* Slash Commands (7 units) - Build your personal toolkit\n\n\\- \\*\\*Level 3:\\*\\* Feature Composition (6 units) - MCP + sub agents + workflows\n\n\\- \\*\\*Level 4:\\*\\* Autonomous Skills (6 units) - Skills that work automatically\n\n\n\n\\*\\*How it works:\\*\\*\n\n\\- Each unit = 15-30 minutes\n\n\\- Complete 3-5 times (repetition builds mastery)\n\n\\- Hands-on exercises with real codebases\n\n\\- Track time saved (measure ROI)\n\n\n\n\\*\\*Time investment:\\*\\*\n\n13-20 hours total practice (spread over 8-12 weeks at 30 min/day)\n\n\n\n\\*\\*Time saved:\\*\\*\n\n15-25 hours/week after completing all levels\n\n\n\n\\*\\*What you'll build:\\*\\*\n\n\\- 15-20 custom slash commands\n\n\\- 3-5 autonomous skills\n\n\\- Complex MCP workflows\n\n\\- Parallel agent orchestration\n\n\n\n\\*\\*Why it's free:\\*\\*\n\nBuilt it for myself, sharing costs nothing, gatekeeping is dumb.\n\n\n\n\\*\\*Repo:\\*\\* [https://github.com/jgerton/ai-mastery-roadmap](https://github.com/jgerton/ai-mastery-roadmap)\n\n\n\n\\*\\*Quick start:\\*\\*\n\n1. Clone the repo\n\n2. Open \\`level-1-prompts/01-clear-prompts.md\\`\n\n3. Do the exercises\n\n4. Track in \\`progress-tracker.md\\`\n\n\n\nIf you try it, feedback welcome (issues/PRs on GitHub). Built this to be genuinely useful, not as marketing. Use it if it helps.",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1p62e3o/created_24_claude_code_learning_units_beginner/",
     "url_overridden_by_dest": null,
     "created": "2025-11-24T19:47:38",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 12,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

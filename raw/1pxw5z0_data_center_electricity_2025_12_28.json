@@ -1,6 +1,6 @@
 {
     "query_term": "data center electricity",
-    "title": "The US may have a secret weapon against rising electricity prices. The grid is built to handle \u201cpeak demand\", meaning that most of the time it is only running at about half of its capacity. A data center willing to curtail demand a few days a year could be built without needing any new power plants.",
+    "title": "The US may have a secret weapon against rising electricity prices. The grid is built to handle “peak demand\", meaning that most of the time it is only running at about half of its capacity. A data center willing to curtail demand a few days a year could be built without needing any new power plants.",
     "id": "1pxw5z0",
     "body": "",
     "url": "https://wapo.st/4av5YE1",
@@ -11,5 +11,8 @@
     "num_comments": 96,
     "ups": 101,
     "upvote_ratio": 0.7599999904632568,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

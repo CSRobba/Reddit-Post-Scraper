@@ -2,7 +2,7 @@
     "query_term": "Claude environment",
     "title": "Running Claude code in an isolated environment",
     "id": "1rsnaap",
-    "body": "Hey everyone,\n\nIn my current terminal environment I have a lot of superuser privileges from various CLI tools. I\u2019m wondering whether running Claude inside WSL or something like Multipass would give me a more isolated environment.\n\nMy goal is to let Claude help write code across multiple repositories while limiting its system access as much as possible. Has anyone tried a setup like this, or found a better approach?",
+    "body": "Hey everyone,\n\nIn my current terminal environment I have a lot of superuser privileges from various CLI tools. I’m wondering whether running Claude inside WSL or something like Multipass would give me a more isolated environment.\n\nMy goal is to let Claude help write code across multiple repositories while limiting its system access as much as possible. Has anyone tried a setup like this, or found a better approach?",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1rsnaap/running_claude_code_in_an_isolated_environment/",
     "url_overridden_by_dest": null,
     "created": "2026-03-13T06:26:33",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

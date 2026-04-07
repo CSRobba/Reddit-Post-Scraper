@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "LG Plants Exaone AI in Robots\u2019 Brains, Launches New Physical AI Lab to Power Humanoids",
+    "title": "LG Plants Exaone AI in Robots’ Brains, Launches New Physical AI Lab to Power Humanoids",
     "id": "1r8mtmu",
     "body": "",
     "url": "https://www.kmjournal.net/news/articleView.html?idxno=8543",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.27000001072883606,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

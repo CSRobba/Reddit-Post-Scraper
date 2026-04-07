@@ -1,6 +1,6 @@
 {
     "query_term": "Claude carbon",
-    "title": "can someone help me find sources on Claude Code\u2019s carbon footprint?",
+    "title": "can someone help me find sources on Claude Code’s carbon footprint?",
     "id": "1s6ejmx",
     "body": "",
     "url": "/r/antiai/comments/1s6ejfp/can_someone_help_me_find_sources_on_claude_codes/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 7,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

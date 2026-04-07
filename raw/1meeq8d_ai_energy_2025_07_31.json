@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "\u201cB-b-but you eat burgers\u201d is a shitty and pathetic counter to the arguement of AI centres  hoarding of local communities water, and energy use that doubles that of the Empire State Building.",
+    "title": "“B-b-but you eat burgers” is a shitty and pathetic counter to the arguement of AI centres  hoarding of local communities water, and energy use that doubles that of the Empire State Building.",
     "id": "1meeq8d",
     "body": "",
     "url": "https://www.reddit.com/r/aiwars/comments/1meeq8d/bbbut_you_eat_burgers_is_a_shitty_and_pathetic/",
@@ -11,5 +11,8 @@
     "num_comments": 31,
     "ups": 0,
     "upvote_ratio": 0.23000000417232513,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

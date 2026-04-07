@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "America\u2019s AI Boom Is Running Into An Unplanned Water Problem",
+    "title": "America’s AI Boom Is Running Into An Unplanned Water Problem",
     "id": "1qalj0b",
     "body": "",
     "url": "https://www.forbes.com/sites/kensilverstein/2026/01/11/americas-ai-boom-is-running-into-an-unplanned-water-problem/",
@@ -11,5 +11,8 @@
     "num_comments": 154,
     "ups": 681,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

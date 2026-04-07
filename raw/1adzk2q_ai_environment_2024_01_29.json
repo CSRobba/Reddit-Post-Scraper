@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "Ever wondered which one is better for the environment: AI text generators or human writers? \ud83c\udf0d\ud83c\udf3f\ud83e\udd16",
+    "title": "Ever wondered which one is better for the environment: AI text generators or human writers? 🌍🌿🤖",
     "id": "1adzk2q",
     "body": "",
     "url": "https://blog.kickresume.com/infographics/ai-writing-better-for-environment/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
