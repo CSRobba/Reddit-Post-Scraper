@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Unlock the power of AI for content creation. From crafting a product description to generating keywords with GPT-4, analyzing with GPT-3.5, to effortlessly creating a newsletter, blog post, and TikTok script using Claude2 \u2728",
+    "title": "Unlock the power of AI for content creation. From crafting a product description to generating keywords with GPT-4, analyzing with GPT-3.5, to effortlessly creating a newsletter, blog post, and TikTok script using Claude2 ✨",
     "id": "192d3rt",
     "body": "",
     "url": "https://v.redd.it/u3flukivlebc1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.10999999940395355,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

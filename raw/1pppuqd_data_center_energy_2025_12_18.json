@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "\u2018Uniquely evil\u2019: Michigan residents fight against huge data center backed by top tycoons. The 1.4 gigawatt center would consume as much power as Detroit, and would help derail Michigan\u2019s nation-leading transition to renewable energy.",
+    "title": "‘Uniquely evil’: Michigan residents fight against huge data center backed by top tycoons. The 1.4 gigawatt center would consume as much power as Detroit, and would help derail Michigan’s nation-leading transition to renewable energy.",
     "id": "1pppuqd",
     "body": "",
     "url": "https://www.theguardian.com/us-news/2025/dec/18/michigan-data-center-fight",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 44,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

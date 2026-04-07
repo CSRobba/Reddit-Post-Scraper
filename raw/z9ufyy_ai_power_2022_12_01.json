@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Saw my power ranger post being liked and I do love creating power rangers in it.. it\u2019s my favorite thing to do with the AI art! So here is my dragon inspired power ranger (house of dragons)/(games of thrones).",
+    "title": "Saw my power ranger post being liked and I do love creating power rangers in it.. it’s my favorite thing to do with the AI art! So here is my dragon inspired power ranger (house of dragons)/(games of thrones).",
     "id": "z9ufyy",
     "body": "",
     "url": "https://i.redd.it/elah7d1d9d3a1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

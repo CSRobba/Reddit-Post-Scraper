@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "Can AI help with solutions to climate change? \ud83c\udf0d Embrace the Power of AI in the Fight Against Climate Change! \ud83e\udd16 Discover how cutting-edge Artificial Intelligence is revolutionizing sustainability efforts and paving the way towards a greener, brighter future.",
+    "title": "Can AI help with solutions to climate change? 🌍 Embrace the Power of AI in the Fight Against Climate Change! 🤖 Discover how cutting-edge Artificial Intelligence is revolutionizing sustainability efforts and paving the way towards a greener, brighter future.",
     "id": "15fqukq",
     "body": "",
     "url": "http://www.p3solutions.net/post-1/ai-against-climate-change",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

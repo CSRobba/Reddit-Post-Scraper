@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Don\u2019t water down Europe\u2019s AI rules to please Trump, EU lawmakers warn",
+    "title": "Don’t water down Europe’s AI rules to please Trump, EU lawmakers warn",
     "id": "1jnfau0",
     "body": "",
     "url": "https://fortune.com/2025/03/26/eu-ai-act-code-of-practice-disinformation-election-benifei-trump-appease-tech-lobbying/",
@@ -11,5 +11,8 @@
     "num_comments": 52,
     "ups": 200,
     "upvote_ratio": 0.8999999761581421,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

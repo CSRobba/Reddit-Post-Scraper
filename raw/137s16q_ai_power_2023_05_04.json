@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The power of AI \ud83d\udcaa",
+    "title": "The power of AI 💪",
     "id": "137s16q",
     "body": "",
     "url": "https://v.redd.it/b1jim78uauxa1",
@@ -11,5 +11,8 @@
     "num_comments": 8,
     "ups": 13,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

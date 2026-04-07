@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "I\u2019m building an iOS AI Client specifically for API power users and I need a few more beta testers (Free TestFlight)",
+    "title": "I’m building an iOS AI Client specifically for API power users and I need a few more beta testers (Free TestFlight)",
     "id": "1rsewgp",
-    "body": "Most ChatGPT apps are built for casual users.\n\nHarbor is built for people who actually use the API for real work \u2014 devs, researchers, prompt engineers, and anyone who hates losing context or control.\n\nIt\u2019s a native iOS client that gives you the parts OpenAI still hasn\u2019t built:\n\nWhat Harbor does:\n\n\u2022 Full, long\u2011form persistent history - No resets. No \u201csession expired.\u201d Your context is yours,not a rolling buffer.\n\n\u2022 Custom system prompts + persona profiles - You can build multiple \u201cagents\u201d with different instruction stacks \u2014 and they stay stable across sessions.\n\n\u2022 Model switching on the fly - Use 5.1, 4.1, 4.0, o-series, Reasoning, gpt\u2011image \u2014 all through your own keys.\n\n\u2022 A real memory layer / knowledge base - Upload PDFs, notes, docs, character sheets, worldbuilding, whatever.  The agent has access every session \u2014 consistently.\n\n\u2022 Audio / voice mode with Whisper + streaming - Instant, low\u2011latency voice conversations using the API directly.\n\n\u2022 Context control - Set exactly how much history to send as context, auto\u2011summarize, or \u201cinfinite scroll\u201d mode.\n\n\u2022 Import your old ChatGPT personas - If you had a stable assistant before drift set in, you can recreate it exactly.\n\n\u2022 Clean, iOS\u2011native UI - No electron lag. No web wrapper nonsense.\n\n\u2022 Everything runs through your API keys - No markup. No middleman. No black box.\n\nIf you use the API daily and want a client that doesn\u2019t fight you, I\u2019m looking for more TestFlight users during beta.  \n\nIt\u2019s free.\n\nDM me if you want the link.",
+    "body": "Most ChatGPT apps are built for casual users.\n\nHarbor is built for people who actually use the API for real work — devs, researchers, prompt engineers, and anyone who hates losing context or control.\n\nIt’s a native iOS client that gives you the parts OpenAI still hasn’t built:\n\nWhat Harbor does:\n\n• Full, long‑form persistent history - No resets. No “session expired.” Your context is yours,not a rolling buffer.\n\n• Custom system prompts + persona profiles - You can build multiple “agents” with different instruction stacks — and they stay stable across sessions.\n\n• Model switching on the fly - Use 5.1, 4.1, 4.0, o-series, Reasoning, gpt‑image — all through your own keys.\n\n• A real memory layer / knowledge base - Upload PDFs, notes, docs, character sheets, worldbuilding, whatever.  The agent has access every session — consistently.\n\n• Audio / voice mode with Whisper + streaming - Instant, low‑latency voice conversations using the API directly.\n\n• Context control - Set exactly how much history to send as context, auto‑summarize, or “infinite scroll” mode.\n\n• Import your old ChatGPT personas - If you had a stable assistant before drift set in, you can recreate it exactly.\n\n• Clean, iOS‑native UI - No electron lag. No web wrapper nonsense.\n\n• Everything runs through your API keys - No markup. No middleman. No black box.\n\nIf you use the API daily and want a client that doesn’t fight you, I’m looking for more TestFlight users during beta.  \n\nIt’s free.\n\nDM me if you want the link.",
     "url": "https://www.reddit.com/r/ChatGPTPro/comments/1rsewgp/im_building_an_ios_ai_client_specifically_for_api/",
     "url_overridden_by_dest": null,
     "created": "2026-03-13T01:36:29",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

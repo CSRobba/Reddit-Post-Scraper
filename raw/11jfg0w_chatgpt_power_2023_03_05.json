@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "chatgpt and the power of \ud80c\udcba",
+    "title": "chatgpt and the power of 𓂺",
     "id": "11jfg0w",
     "body": "",
     "url": "https://i.redd.it/dqjh4zh3c1ma1.png",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 6,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "'Thermodynamic computer' can mimic AI neural networks \u2014 using orders of magnitude less energy to generate images",
+    "title": "'Thermodynamic computer' can mimic AI neural networks — using orders of magnitude less energy to generate images",
     "id": "1rc62w8",
     "body": "",
     "url": "https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 138,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

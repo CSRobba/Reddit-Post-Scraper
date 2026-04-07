@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Qualcomm\u2019s Newest Chip Brings AI to Wi-Fi | The FastConnect 7900 relies on AI to improve connectivity while reducing power",
+    "title": "Qualcomm’s Newest Chip Brings AI to Wi-Fi | The FastConnect 7900 relies on AI to improve connectivity while reducing power",
     "id": "1b1es15",
     "body": "",
     "url": "https://spectrum.ieee.org/wifi-7-qualcomm",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 4,
     "upvote_ratio": 0.699999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

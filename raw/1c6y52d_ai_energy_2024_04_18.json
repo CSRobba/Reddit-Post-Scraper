@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "AI Computing is on pace to consume more energy than India",
     "id": "1c6y52d",
-    "body": "I know how much you folks like infographics that show us scale of current AI-boom and I like it too.\n\nBelow is an estimate of the amount of **energy burned by H100 GPUs sold in 2023**. This amount of energy is **enough to power \\~4 million people** (Georgia population)\n\nhttps://preview.redd.it/qobglpl367vc1.png?width=2150&format=png&auto=webp&s=be9a24f307457eb53ab2f77818cedb7637bf0220\n\nAnd yesterday ARM CEO Rene Haas said that \"by 2030, the world\u2019s data centers are on course to use **more electricity than India**, the world\u2019s most populous country\" (you can google this quote for a proof)\n\nWow! Is the contribution to the global economy of AI computing comparable to that of 1.5 billion people?",
+    "body": "I know how much you folks like infographics that show us scale of current AI-boom and I like it too.\n\nBelow is an estimate of the amount of **energy burned by H100 GPUs sold in 2023**. This amount of energy is **enough to power \\~4 million people** (Georgia population)\n\nhttps://preview.redd.it/qobglpl367vc1.png?width=2150&format=png&auto=webp&s=be9a24f307457eb53ab2f77818cedb7637bf0220\n\nAnd yesterday ARM CEO Rene Haas said that \"by 2030, the world’s data centers are on course to use **more electricity than India**, the world’s most populous country\" (you can google this quote for a proof)\n\nWow! Is the contribution to the global economy of AI computing comparable to that of 1.5 billion people?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1c6y52d/ai_computing_is_on_pace_to_consume_more_energy/",
     "url_overridden_by_dest": null,
     "created": "2024-04-18T01:20:44",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

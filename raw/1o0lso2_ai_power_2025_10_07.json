@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "Are AI companies using bots to accuse good writers of using AI to hype AI\u2019s power, boosting AI stocks?",
+    "title": "Are AI companies using bots to accuse good writers of using AI to hype AI’s power, boosting AI stocks?",
     "id": "1o0lso2",
-    "body": "Over the past couple years, professional writers have been furious over a wave of online accusations that, because they use good grammar, punctuation, and literary devices, their writing must be AI-generated. In particular, on Reddit it\u2019s now become the norm to seriously dumb down grammar and writing quality to avoid accusations that comments are made by AI.\n\nIt\u2019s also well-known that bots predominantly control what gets upvoted and downvoted on Reddit. Also bear in mind that OpenAI CEO Sam Altman owns 9% of Reddit\u2014other major AI investors also hold ownership stakes.\n\nNow I\u2019m not saying the accusations of AI use are necessarily written by bots; there are plenty of blow-hards out there willing to accuse people of using AI without evidence. But it would certainly be in the interest of big AI investors to hype up these accusations of AI use against good writers, spreading the belief that AI is far more capable fo producing good writing than it really is, boosting AI stocks.",
+    "body": "Over the past couple years, professional writers have been furious over a wave of online accusations that, because they use good grammar, punctuation, and literary devices, their writing must be AI-generated. In particular, on Reddit it’s now become the norm to seriously dumb down grammar and writing quality to avoid accusations that comments are made by AI.\n\nIt’s also well-known that bots predominantly control what gets upvoted and downvoted on Reddit. Also bear in mind that OpenAI CEO Sam Altman owns 9% of Reddit—other major AI investors also hold ownership stakes.\n\nNow I’m not saying the accusations of AI use are necessarily written by bots; there are plenty of blow-hards out there willing to accuse people of using AI without evidence. But it would certainly be in the interest of big AI investors to hype up these accusations of AI use against good writers, spreading the belief that AI is far more capable fo producing good writing than it really is, boosting AI stocks.",
     "url": "https://i.redd.it/7n3x69419qtf1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/7n3x69419qtf1.jpeg",
     "created": "2025-10-07T10:47:10",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 7,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

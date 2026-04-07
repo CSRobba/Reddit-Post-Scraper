@@ -1,6 +1,6 @@
 {
     "query_term": "data center electricity",
-    "title": "Data-center power forecasts climb to unreachable heights. Utilities expect electricity growth to reach levels that are hard to fathom \u2014 and they\u2019re using those estimates to justify costly new investments in fossil gas.",
+    "title": "Data-center power forecasts climb to unreachable heights. Utilities expect electricity growth to reach levels that are hard to fathom — and they’re using those estimates to justify costly new investments in fossil gas.",
     "id": "1p156yh",
     "body": "",
     "url": "https://www.canarymedia.com/articles/data-centers/data-center-power-forecasts-climb-to-unreachable-heights",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

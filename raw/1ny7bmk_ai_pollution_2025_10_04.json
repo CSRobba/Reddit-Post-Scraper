@@ -1,6 +1,6 @@
 {
     "query_term": "AI pollution",
-    "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom. Tech companies\u2019 use of Pfas gas at facilities may mean datacenters\u2019 climate impact is worse than previously thought.",
+    "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom. Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thought.",
     "id": "1ny7bmk",
     "body": "",
     "url": "https://www.theguardian.com/environment/2025/oct/04/pfas-pollution-data-centers-ai",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 250,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Transforming the Energy Sector with AI for Net Zero",
     "id": "1itvldz",
-    "body": "I stumbled upon this article about how AI and digital tools are helping the energy sector hit net-zero emissions. \n\n[Using digital and AI to meet the energy sector\u2019s net-zero challenge](https://www.mckinsey.com/capabilities/quantumblack/our-insights/using-digital-and-ai-to-meet-the-energy-sectors-net-zero-challenge)\n\nI\u2019m curious, do you think AI will be the next superhero of the energy world, or is it just a fancy gadget?",
+    "body": "I stumbled upon this article about how AI and digital tools are helping the energy sector hit net-zero emissions. \n\n[Using digital and AI to meet the energy sector’s net-zero challenge](https://www.mckinsey.com/capabilities/quantumblack/our-insights/using-digital-and-ai-to-meet-the-energy-sectors-net-zero-challenge)\n\nI’m curious, do you think AI will be the next superhero of the energy world, or is it just a fancy gadget?",
     "url": "https://www.reddit.com/r/energy/comments/1itvldz/transforming_the_energy_sector_with_ai_for_net/",
     "url_overridden_by_dest": null,
     "created": "2025-02-20T02:35:38",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 0,
     "upvote_ratio": 0.3799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

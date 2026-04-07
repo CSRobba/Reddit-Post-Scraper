@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Elon Musk brings superstar energy to UK\u2019s AI summit \u2013 however his protection stance seems unpredictable and up within the air | Science & Tech Information - Enforts News",
+    "title": "Elon Musk brings superstar energy to UK’s AI summit – however his protection stance seems unpredictable and up within the air | Science & Tech Information - Enforts News",
     "id": "17ktew3",
     "body": "",
     "url": "https://ideas.knowme.sbs/elon-musk-brings-superstar-energy-to-uks-ai-summit-however-his-protection-stance-seems-unpredictable-and-up-within-the-air-science-tech-information/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

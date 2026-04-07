@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Clean Water AI, Microsoft Research's self-aligning LLMs, Google Research\u2019s new generative image dynamics, AI models can now predict how a US judge will rule",
+    "title": "Clean Water AI, Microsoft Research's self-aligning LLMs, Google Research’s new generative image dynamics, AI models can now predict how a US judge will rule",
     "id": "16jnqto",
     "body": "",
     "url": "/r/u_enoumen/comments/16jnqan/clean_water_ai_microsoft_researchs_selfaligning/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

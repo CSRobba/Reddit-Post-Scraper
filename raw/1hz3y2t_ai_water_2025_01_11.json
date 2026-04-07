@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "Phoenix water color AI",
     "id": "1hz3y2t",
-    "body": "Ai assisted imagery, i can't remember which platform i used maybe Chat G or davinci \ud83e\udd37",
+    "body": "Ai assisted imagery, i can't remember which platform i used maybe Chat G or davinci 🤷",
     "url": "https://i.redd.it/pxlr6wv04fce1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/pxlr6wv04fce1.jpeg",
     "created": "2025-01-11T11:40:24",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 5,
     "upvote_ratio": 0.8500000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

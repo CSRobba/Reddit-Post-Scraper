@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence water",
-    "title": "Artificial intelligence threatens to raid the water reserves of Europe\u2019s driest regions",
+    "title": "Artificial intelligence threatens to raid the water reserves of Europe’s driest regions",
     "id": "1kxfk89",
     "body": "",
     "url": "https://www.politico.eu/article/artificial-intelligence-threat-raid-water-reserves-europe-dry-regions/",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 56,
     "upvote_ratio": 0.7599999904632568,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

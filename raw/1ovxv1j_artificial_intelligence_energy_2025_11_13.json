@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence energy",
-    "title": "Nvidia CEO praises Trump energy chief \u2014 a climate denier \u2014 and his 'passion' for science. Jason Huang has for years claimed that his company\u2019s artificial intelligence products will help the world solve climate change, warning last year that \u201cclimate disasters are now normal.\u201d",
+    "title": "Nvidia CEO praises Trump energy chief — a climate denier — and his 'passion' for science. Jason Huang has for years claimed that his company’s artificial intelligence products will help the world solve climate change, warning last year that “climate disasters are now normal.”",
     "id": "1ovxv1j",
     "body": "",
     "url": "https://www.desmog.com/2025/11/12/nvidia-ceo-praises-trump-energy-chief-a-climate-denier-and-his-passion-for-science/",
@@ -11,5 +11,8 @@
     "num_comments": 36,
     "ups": 362,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

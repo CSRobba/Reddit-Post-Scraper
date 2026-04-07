@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "The PR Machine Powering Big Tech\u2019s AI Energy Story",
+    "title": "The PR Machine Powering Big Tech’s AI Energy Story",
     "id": "1mzxnch",
     "body": "",
     "url": "https://hardresetmedia.substack.com/p/ai-energy-propaganda-war-heats-up",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 6,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

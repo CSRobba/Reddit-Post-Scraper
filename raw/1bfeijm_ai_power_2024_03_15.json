@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "World\u2019s largest AI chip with 4 trillion transistors to power supercomputers | The chip also needs 97percent lesser code to train a LLM when compared to a GPU.",
+    "title": "World’s largest AI chip with 4 trillion transistors to power supercomputers | The chip also needs 97percent lesser code to train a LLM when compared to a GPU.",
     "id": "1bfeijm",
     "body": "",
     "url": "https://interestingengineering.com/innovation/worlds-fastest-ai-chip-wse-3",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 74,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

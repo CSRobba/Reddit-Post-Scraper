@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "AI is supposedly a danger to the environment because it uses our drinking water. So why don\u2019t we just clean more water?",
+    "title": "AI is supposedly a danger to the environment because it uses our drinking water. So why don’t we just clean more water?",
     "id": "1o2a18t",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1o2a18t/ai_is_supposedly_a_danger_to_the_environment/",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 0,
     "upvote_ratio": 0.27000001072883606,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
