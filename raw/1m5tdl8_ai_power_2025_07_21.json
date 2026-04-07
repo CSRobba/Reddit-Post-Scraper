@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Crisis Ahead: Power Consumption In AI Data Centers: 4 key areas where chips can help manage AI\u2019s insatiable power consumption",
+    "title": "Crisis Ahead: Power Consumption In AI Data Centers: 4 key areas where chips can help manage AI’s insatiable power consumption",
     "id": "1m5tdl8",
     "body": "",
     "url": "https://semiengineering.com/crisis-ahead-power-consumption-in-ai-data-centers/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.5299999713897705,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

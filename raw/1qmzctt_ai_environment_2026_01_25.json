@@ -1,8 +1,8 @@
 {
     "query_term": "AI environment",
-    "title": "look, I don\u2019t think it\u2019s a good idea to ask this question, but if ai didn\u2019t have such a bad impact on it\u2019s environment and was used like a TOOL not a compliant slave, would you have the same attitude towards it?",
+    "title": "look, I don’t think it’s a good idea to ask this question, but if ai didn’t have such a bad impact on it’s environment and was used like a TOOL not a compliant slave, would you have the same attitude towards it?",
     "id": "1qmzctt",
-    "body": "here\u2019s a meme so that you spare me",
+    "body": "here’s a meme so that you spare me",
     "url": "https://i.redd.it/mc4aaxi9zkfg1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/mc4aaxi9zkfg1.jpeg",
     "created": "2026-01-25T18:34:28",
@@ -11,5 +11,8 @@
     "num_comments": 64,
     "ups": 13,
     "upvote_ratio": 0.6800000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

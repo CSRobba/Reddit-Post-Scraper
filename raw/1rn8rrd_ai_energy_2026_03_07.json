@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "[Part 2] The brain's prediction engine is omnidirectional \u2014 A case for Energy-Based Models as the future of AI",
+    "title": "[Part 2] The brain's prediction engine is omnidirectional — A case for Energy-Based Models as the future of AI",
     "id": "1rn8rrd",
     "body": "",
     "url": "https://v.redd.it/lo0shvn44mng1",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 5,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Inside Meta\u2019s AI Drama: Internal Feuds Over Compute Power",
+    "title": "Inside Meta’s AI Drama: Internal Feuds Over Compute Power",
     "id": "16bbk2j",
     "body": "",
     "url": "https://www.theinformation.com/articles/inside-metas-ai-drama-internal-feuds-over-compute-power",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 15,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

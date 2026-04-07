@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "Even chatGPT couldn\u2019t handle the power",
+    "title": "Even chatGPT couldn’t handle the power",
     "id": "1ggszpu",
     "body": "",
     "url": "https://i.redd.it/m4frnf27n6yd1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 6,
     "upvote_ratio": 0.800000011920929,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

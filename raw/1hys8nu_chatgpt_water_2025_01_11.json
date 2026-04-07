@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT water",
-    "title": "How can stuff like ChatGPT \u2018consume\u2019 water if it just rains back down?",
+    "title": "How can stuff like ChatGPT ‘consume’ water if it just rains back down?",
     "id": "1hys8nu",
-    "body": "I always see stuff about how certain things use up all the water. Specifically, I saw that it takes 70 gallons of water to make 1 gallon of Coca-Cola, as well as all the stuff about ChatGPT using water. \n\nBut how do you \u2018consume\u2019 water? Doesn\u2019t it just rain back down? I see all this stuff like \u2018ChatGPT is draining the water supply!\u2019 but won\u2019t it just come back through the water cycle like a week later?\n\nAnd how does it take 70 liters of water to make 1L of coke? 1L of coke comes in a 1L bottle, which means it can only hold 1L of liquid (duh). Where does the other 69L of water go? I assume it is used to absorb heat/other energy released during the process. But doesn\u2019t it just rain back down? How is it being \u2018consumed\u2019?",
+    "body": "I always see stuff about how certain things use up all the water. Specifically, I saw that it takes 70 gallons of water to make 1 gallon of Coca-Cola, as well as all the stuff about ChatGPT using water. \n\nBut how do you ‘consume’ water? Doesn’t it just rain back down? I see all this stuff like ‘ChatGPT is draining the water supply!’ but won’t it just come back through the water cycle like a week later?\n\nAnd how does it take 70 liters of water to make 1L of coke? 1L of coke comes in a 1L bottle, which means it can only hold 1L of liquid (duh). Where does the other 69L of water go? I assume it is used to absorb heat/other energy released during the process. But doesn’t it just rain back down? How is it being ‘consumed’?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1hys8nu/how_can_stuff_like_chatgpt_consume_water_if_it/",
     "url_overridden_by_dest": null,
     "created": "2025-01-11T01:18:38",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

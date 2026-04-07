@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Bloomberg: \"OpenAI Nears Release of \u2018Strawberry\u2019 Model, With Reasoning Capabilities. The startup has said AI with the power to reason represents a significant step in the technology\u2019s progress.",
+    "title": "Bloomberg: \"OpenAI Nears Release of ‘Strawberry’ Model, With Reasoning Capabilities. The startup has said AI with the power to reason represents a significant step in the technology’s progress.",
     "id": "1ff1iwg",
     "body": "",
     "url": "https://archive.is/Wa0GS#selection-1383.0-1383.109",
@@ -11,5 +11,8 @@
     "num_comments": 80,
     "ups": 227,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

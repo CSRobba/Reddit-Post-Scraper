@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "Ai really thought that water beat grass \ud83d\udc80",
+    "title": "Ai really thought that water beat grass 💀",
     "id": "1dbsdle",
     "body": "",
     "url": "https://i.redd.it/fmph2h6nfj5d1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 8,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

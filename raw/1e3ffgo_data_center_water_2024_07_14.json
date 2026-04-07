@@ -1,6 +1,6 @@
 {
     "query_term": "data center water",
-    "title": "\u201cA data center takes the water from this utility, and they evaporate the water into the sky, into the atmosphere.\u201d  And once evaporated, that water doesn\u2019t come back to Earth for another year.\u201d",
+    "title": "“A data center takes the water from this utility, and they evaporate the water into the sky, into the atmosphere.”  And once evaporated, that water doesn’t come back to Earth for another year.”",
     "id": "1e3ffgo",
     "body": "https://l.smartnews.com/p-vxv8F/IkqmAu",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1e3ffgo/a_data_center_takes_the_water_from_this_utility/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

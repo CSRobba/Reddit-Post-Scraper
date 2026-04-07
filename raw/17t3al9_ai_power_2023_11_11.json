@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "IBM used AMD\u2019s different not-so-secret weapon to ship but any other brain-like chip \u2014 NorthPole is quicker and makes use of much less power than Nvidia\u2019s easiest AI GPU and it is only the start (Critiques, Knowledge, Research) - Enforts News",
+    "title": "IBM used AMD’s different not-so-secret weapon to ship but any other brain-like chip — NorthPole is quicker and makes use of much less power than Nvidia’s easiest AI GPU and it is only the start (Critiques, Knowledge, Research) - Enforts News",
     "id": "17t3al9",
     "body": "",
     "url": "https://ideas.knowme.sbs/ibm-used-amds-different-not-so-secret-weapon-to-ship-but-any-other-brain-like-chip-northpole-is-quicker-and-makes-use-of-much-less-power-than-nvidias-easiest-ai-gpu-and-it-is-only-the-star/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

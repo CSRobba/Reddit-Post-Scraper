@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI vs. net zero: the UK\u2019s next climate battle. Opponents of climate action are taking advantage of the AI boom to attack the government\u2019s clean energy goals.",
+    "title": "AI vs. net zero: the UK’s next climate battle. Opponents of climate action are taking advantage of the AI boom to attack the government’s clean energy goals.",
     "id": "1r8vsh5",
     "body": "",
     "url": "https://www.desmog.com/2026/02/18/ai-vs-net-zero-the-uk-next-climate-battle/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

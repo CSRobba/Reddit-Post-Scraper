@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Energy-hungry AI is already harming health \u2013 and it's getting worse, contributing to an estimated 600,000 asthma cases and 1300 premature deaths per year by 2030",
+    "title": "Energy-hungry AI is already harming health – and it's getting worse, contributing to an estimated 600,000 asthma cases and 1300 premature deaths per year by 2030",
     "id": "1hb7xl8",
     "body": "",
     "url": "https://www.newscientist.com/article/2459657-energy-hungry-ai-is-already-harming-health-and-its-getting-worse/",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 0,
     "upvote_ratio": 0.20999999344348907,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

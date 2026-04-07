@@ -1,6 +1,6 @@
 {
     "query_term": "Llama power",
-    "title": "Taalas\u2019 silicon Llama achieves 17K tokens/sec per user, nearly 10X faster than the current state of the art, while costing 20X less to build, and consuming 10X less power.",
+    "title": "Taalas’ silicon Llama achieves 17K tokens/sec per user, nearly 10X faster than the current state of the art, while costing 20X less to build, and consuming 10X less power.",
     "id": "1r9seej",
     "body": "",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

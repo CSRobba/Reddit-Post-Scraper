@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "Why do AI use our drinking water instead of other sources?",
     "id": "1l70n2a",
-    "body": "I just learnt that AI uses water and I thought it wouldn\u2019t be a huge issue because there\u2019s plenty of water on earth from the ocean. Turns out, AI actually uses drinking water and that\u2019s why people are mad about it, including me now. Why do AI uses drinking water instead of other sources that are infinite? ",
+    "body": "I just learnt that AI uses water and I thought it wouldn’t be a huge issue because there’s plenty of water on earth from the ocean. Turns out, AI actually uses drinking water and that’s why people are mad about it, including me now. Why do AI uses drinking water instead of other sources that are infinite? ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1l70n2a/why_do_ai_use_our_drinking_water_instead_of_other/",
     "url_overridden_by_dest": null,
     "created": "2025-06-09T02:47:57",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

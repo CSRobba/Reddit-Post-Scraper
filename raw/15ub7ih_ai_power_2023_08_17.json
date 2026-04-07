@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Hi! I'm an online English teacher who loves #AI and recently started creating on #midjourney as a hobby. I'll be posting a series of my mythical creatures for you to admire the power of AI \ud83d\ude0a",
+    "title": "Hi! I'm an online English teacher who loves #AI and recently started creating on #midjourney as a hobby. I'll be posting a series of my mythical creatures for you to admire the power of AI 😊",
     "id": "15ub7ih",
     "body": "",
     "url": "https://i.redd.it/uqyiq6c40tib1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 13,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

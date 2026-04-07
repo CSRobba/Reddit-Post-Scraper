@@ -1,6 +1,6 @@
 {
     "query_term": "data center electricity",
-    "title": "Electricity Markets Aren\u2019t Working Anymore: Why regional transmission organizations as we know them might not survive the data center boom.",
+    "title": "Electricity Markets Aren’t Working Anymore: Why regional transmission organizations as we know them might not survive the data center boom.",
     "id": "1nogbyh",
     "body": "",
     "url": "https://heatmap.news/energy/electricity-markets-data-centers",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 16,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

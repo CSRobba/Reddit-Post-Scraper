@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Tap into the power of OpenAI's advanced AI system via text messaging: https://textgpt.net/",
     "id": "121sfwj",
-    "body": "**tags:** app, accessing, revolutionary\n\n\n**for:** student,\u00a0researcher\n\n\n**read more about this project:** https://domore.ai/tools/textgpt.net",
+    "body": "**tags:** app, accessing, revolutionary\n\n\n**for:** student, researcher\n\n\n**read more about this project:** https://domore.ai/tools/textgpt.net",
     "url": "https://www.reddit.com/r/AItoolsCatalog/comments/121sfwj/tap_into_the_power_of_openais_advanced_ai_system/",
     "url_overridden_by_dest": null,
     "created": "2023-03-25T10:16:32",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

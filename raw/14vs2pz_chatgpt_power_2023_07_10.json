@@ -2,7 +2,7 @@
     "query_term": "ChatGPT power",
     "title": "Why ChatGPT Plugins feature combined with the power of GPT agents is the new Internet gateway (instead of search engines and social media)",
     "id": "14vs2pz",
-    "body": "The article provides an interesting analysis of how ChatGPT plugins combined with the GPT agents system will be our new internet gateway - and how it will become the real web 3.0 (the execute web) with some examples: [OpenAI\u2019s ChatGPT Plugins feature is the new Internet gateway](https://www.codium.ai/blog/openais-chatgpt-plugins-is-the-new-internet-gateway/)\n\nOpenAI still didn\u2019t declare their GPT agents\u2019 vision, but it exists implicitly in their plugin announcement. And this approach allows us to act on the basis of complex executable-information retrieval, and use plugins are some kind of an app store, but with more advanced functionality.",
+    "body": "The article provides an interesting analysis of how ChatGPT plugins combined with the GPT agents system will be our new internet gateway - and how it will become the real web 3.0 (the execute web) with some examples: [OpenAI’s ChatGPT Plugins feature is the new Internet gateway](https://www.codium.ai/blog/openais-chatgpt-plugins-is-the-new-internet-gateway/)\n\nOpenAI still didn’t declare their GPT agents’ vision, but it exists implicitly in their plugin announcement. And this approach allows us to act on the basis of complex executable-information retrieval, and use plugins are some kind of an app store, but with more advanced functionality.",
     "url": "https://www.reddit.com/r/Futurology/comments/14vs2pz/why_chatgpt_plugins_feature_combined_with_the/",
     "url_overridden_by_dest": null,
     "created": "2023-07-10T05:02:00",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 3,
     "upvote_ratio": 0.5899999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

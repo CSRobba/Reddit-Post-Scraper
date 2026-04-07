@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "Y\u2019all stop showering I need to use water for chatgpt",
+    "title": "Y’all stop showering I need to use water for chatgpt",
     "id": "1os6j09",
     "body": "",
     "url": "https://i.redd.it/oqbt0n4cx40g1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 3,
     "upvote_ratio": 0.800000011920929,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

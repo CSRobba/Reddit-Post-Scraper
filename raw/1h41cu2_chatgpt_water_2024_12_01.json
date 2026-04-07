@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "\u2018Thirsty\u2019 ChatGPT uses four times more water than previously thought",
+    "title": "‘Thirsty’ ChatGPT uses four times more water than previously thought",
     "id": "1h41cu2",
     "body": "",
     "url": "https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 0,
     "upvote_ratio": 0.4300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

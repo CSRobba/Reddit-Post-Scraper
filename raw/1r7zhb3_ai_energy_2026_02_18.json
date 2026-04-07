@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Are we underestimating energy orchestration challenges in AI-era data centers?",
     "id": "1r7zhb3",
-    "body": "As AI workloads increase rack density and power demand variability, I\u2019ve been thinking about something that doesn\u2019t get discussed enough.\n\nWe talk a lot about cooling innovation, chip efficiency, and networking upgrades.\n\nBut energy coordination still feels relatively static.\n\nMost facilities still operate with:\n\n\u2013 Fixed utility contracts  \n\n\u2013 Manual demand response participation  \n\n\u2013 Limited real-time grid signal integration  \n\n\u2013 Traditional backup + redundancy models  \n\nWith grid constraints tightening in multiple regions, I\u2019m curious:\n\nDo you think data centres will eventually need a more software-defined energy coordination layer?\n\nSomething closer to:\n\n\u2013 Automated demand response  \n\n\u2013 Real-time pricing integration  \n\n\u2013 Protocol-level interoperability with utilities  \n\n\u2013 Energy treated more like an orchestrated service  \n\nOr is the current model sufficient even for AI-scale growth?\n\n\n\nWould really appreciate insights from operators, engineers, and anyone dealing with real-world deployments.\n\n",
+    "body": "As AI workloads increase rack density and power demand variability, I’ve been thinking about something that doesn’t get discussed enough.\n\nWe talk a lot about cooling innovation, chip efficiency, and networking upgrades.\n\nBut energy coordination still feels relatively static.\n\nMost facilities still operate with:\n\n– Fixed utility contracts  \n\n– Manual demand response participation  \n\n– Limited real-time grid signal integration  \n\n– Traditional backup + redundancy models  \n\nWith grid constraints tightening in multiple regions, I’m curious:\n\nDo you think data centres will eventually need a more software-defined energy coordination layer?\n\nSomething closer to:\n\n– Automated demand response  \n\n– Real-time pricing integration  \n\n– Protocol-level interoperability with utilities  \n\n– Energy treated more like an orchestrated service  \n\nOr is the current model sufficient even for AI-scale growth?\n\n\n\nWould really appreciate insights from operators, engineers, and anyone dealing with real-world deployments.\n\n",
     "url": "https://www.reddit.com/r/datacenter/comments/1r7zhb3/are_we_underestimating_energy_orchestration/",
     "url_overridden_by_dest": null,
     "created": "2026-02-18T02:29:23",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

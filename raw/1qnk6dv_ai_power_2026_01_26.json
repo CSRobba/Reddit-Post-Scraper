@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Georgia leads push to ban datacenters used to power America\u2019s AI boom",
+    "title": "Georgia leads push to ban datacenters used to power America’s AI boom",
     "id": "1qnk6dv",
     "body": "",
     "url": "https://www.theguardian.com/technology/2026/jan/26/georgia-datacenters-ai-ban",
@@ -11,5 +11,8 @@
     "num_comments": 86,
     "ups": 3435,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "In a paper due to be published later \"this year, Ren\u2019s team estimates ChatGPT gulps up 500 milliliters of water (close to what\u2019s in a 16-ounce water bottle) every time you ask it a series of between 5 to 50 prompts or questions.\"",
+    "title": "In a paper due to be published later \"this year, Ren’s team estimates ChatGPT gulps up 500 milliliters of water (close to what’s in a 16-ounce water bottle) every time you ask it a series of between 5 to 50 prompts or questions.\"",
     "id": "16elfj9",
     "body": "Here's what I don't understand: why does this have to be consumption? To my understanding, water cooling of electronics consists of water being pumped through tubes that are close enough to the heat source that it cools it down. Can't the water just be recycled?",
     "url": "https://news.yahoo.com/artificial-intelligence-technology-behind-chatgpt-131421382.html",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

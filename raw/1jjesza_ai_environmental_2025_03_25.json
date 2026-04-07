@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "A friendly reminder: AI usage has an environmental cost",
     "id": "1jjesza",
-    "body": "Hello everyone,\n\nWhile I\u2019ve genuinely enjoyed the recent trend of people generating images based on their usernames or interactions, I think it\u2019s also worth taking a moment to reflect on the environmental cost of these seemingly harmless prompts.\n\nAccording to a study led by Hugging Face and Carnegie Mellon University, generating a single image with AI consumes roughly as much energy as fully charging your smartphone. In comparison, generating 1,000 text prompts uses only about 16% of a single phone charge.\n\nThis isn\u2019t a call to stop using these tools. I totally get the excitement, I use them too. But in a world where urgency around climate action seems to be slipping further out of focus, I believe it\u2019s up to us as individuals to make more conscious choices, even in the digital realm.\n\nSo maybe next time you're about to run 20 variations of an image prompt just for fun, take a second to ask: do I really need all of these?\n\nHere\u2019s the article if you\u2019d like to dig into the research:  \n\ud83d\udd17 [MIT Tech Review \u2013 Every AI image has a carbon cost]()\n\nLet\u2019s keep having fun, but let\u2019s stay mindful too :)",
+    "body": "Hello everyone,\n\nWhile I’ve genuinely enjoyed the recent trend of people generating images based on their usernames or interactions, I think it’s also worth taking a moment to reflect on the environmental cost of these seemingly harmless prompts.\n\nAccording to a study led by Hugging Face and Carnegie Mellon University, generating a single image with AI consumes roughly as much energy as fully charging your smartphone. In comparison, generating 1,000 text prompts uses only about 16% of a single phone charge.\n\nThis isn’t a call to stop using these tools. I totally get the excitement, I use them too. But in a world where urgency around climate action seems to be slipping further out of focus, I believe it’s up to us as individuals to make more conscious choices, even in the digital realm.\n\nSo maybe next time you're about to run 20 variations of an image prompt just for fun, take a second to ask: do I really need all of these?\n\nHere’s the article if you’d like to dig into the research:  \n🔗 [MIT Tech Review – Every AI image has a carbon cost]()\n\nLet’s keep having fun, but let’s stay mindful too :)",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1jjesza/a_friendly_reminder_ai_usage_has_an_environmental/",
     "url_overridden_by_dest": null,
     "created": "2025-03-25T04:42:09",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 0,
     "upvote_ratio": 0.27000001072883606,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

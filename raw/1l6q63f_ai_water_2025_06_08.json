@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "If AI servers require so much water for cooling, why don\u2019t we build the servers in the Artic?",
+    "title": "If AI servers require so much water for cooling, why don’t we build the servers in the Artic?",
     "id": "1l6q63f",
     "body": "Ready to be humbled with this one ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1l6q63f/if_ai_servers_require_so_much_water_for_cooling/",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 1,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

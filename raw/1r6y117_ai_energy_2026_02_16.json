@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Claims that AI can help fix climate dismissed as greenwashing | Industry using \u2018diversionary\u2019 tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferate",
+    "title": "Claims that AI can help fix climate dismissed as greenwashing | Industry using ‘diversionary’ tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferate",
     "id": "1r6y117",
     "body": "",
     "url": "https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 97,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "\u201cJust as viruses evolve to bypass the immune system, so do manipulative tactics to evade detection. This necessitates AI systems that can learn and adapt in real-time, a feat that requires significant computational power and advanced algorithms.",
+    "title": "“Just as viruses evolve to bypass the immune system, so do manipulative tactics to evade detection. This necessitates AI systems that can learn and adapt in real-time, a feat that requires significant computational power and advanced algorithms.",
     "id": "1krwh6c",
-    "body": "The human immune system is a marvel of natural engineering, capable of identifying and neutralizing a vast array of pathogens. It is this remarkable adaptability that has inspired the development of AI systems for market surveillance. The immune system's ability to remember past infections and recognize new ones that share similar characteristics is mirrored in the way AI can learn from historical market data and adjust to new forms of manipulation.\n\nJust as the immune system has different mechanisms to deal with various threats, AI systems can employ a range of strategies to tackle different types of market manipulation. The abstract term used for such mechanisms is Artificial Immune Systems (AIS), and are computational intelligence methods modelled after the immune system. These systems develop a set of pattern detectors by learning from normal data, incorporating an inductive bias that applies exclusively to this baseline data, which may shift over time (due to its non-stationary nature).\u201d\n\nhttps://l.smartnews.com/p-ld4GAWs/bIyomX",
+    "body": "The human immune system is a marvel of natural engineering, capable of identifying and neutralizing a vast array of pathogens. It is this remarkable adaptability that has inspired the development of AI systems for market surveillance. The immune system's ability to remember past infections and recognize new ones that share similar characteristics is mirrored in the way AI can learn from historical market data and adjust to new forms of manipulation.\n\nJust as the immune system has different mechanisms to deal with various threats, AI systems can employ a range of strategies to tackle different types of market manipulation. The abstract term used for such mechanisms is Artificial Immune Systems (AIS), and are computational intelligence methods modelled after the immune system. These systems develop a set of pattern detectors by learning from normal data, incorporating an inductive bias that applies exclusively to this baseline data, which may shift over time (due to its non-stationary nature).”\n\nhttps://l.smartnews.com/p-ld4GAWs/bIyomX",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1krwh6c/just_as_viruses_evolve_to_bypass_the_immune/",
     "url_overridden_by_dest": null,
     "created": "2025-05-21T08:23:22",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

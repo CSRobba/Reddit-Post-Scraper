@@ -1,6 +1,6 @@
 {
     "query_term": "data center pollution",
-    "title": "Big Tech data center buildouts have led to $5.4 billion in public health costs \u2022 Cancers and asthma among illnesses linked to air pollution from powering data centers.",
+    "title": "Big Tech data center buildouts have led to $5.4 billion in public health costs • Cancers and asthma among illnesses linked to air pollution from powering data centers.",
     "id": "1ix6bqt",
     "body": "",
     "url": "https://arstechnica.com/health/2025/02/big-tech-data-center-buildouts-have-led-to-5-4-billion-in-public-health-costs/",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 36,
     "upvote_ratio": 0.7900000214576721,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
