@@ -1,6 +1,6 @@
 {
     "query_term": "data center environment",
-    "title": "What\u2019s the most extreme data center environment you\u2019ve worked in?",
+    "title": "What’s the most extreme data center environment you’ve worked in?",
     "id": "1ovy6t0",
     "body": "",
     "url": "https://www.reddit.com/r/technology/comments/1ovy6t0/whats_the_most_extreme_data_center_environment/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

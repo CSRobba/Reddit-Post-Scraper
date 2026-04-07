@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Liebreich: Generative AI \u2013 The Power and the Glory | BloombergNEF",
+    "title": "Liebreich: Generative AI – The Power and the Glory | BloombergNEF",
     "id": "1hm7efd",
     "body": "",
     "url": "https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.5699999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

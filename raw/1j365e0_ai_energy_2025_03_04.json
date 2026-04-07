@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Would you use an AI tool that manages your tasks and grows a virtual pet?\nHi :) I\u2019m an ADHD entrepreneur tired of procrastination and losing focus. I\u2019m thinking of building an AI tool that matches tasks to your energy, sends motivational nudges and grows a virtual pet when you succeed, any thoughts?",
+    "title": "Would you use an AI tool that manages your tasks and grows a virtual pet?\nHi :) I’m an ADHD entrepreneur tired of procrastination and losing focus. I’m thinking of building an AI tool that matches tasks to your energy, sends motivational nudges and grows a virtual pet when you succeed, any thoughts?",
     "id": "1j365e0",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1j365e0/would_you_use_an_ai_tool_that_manages_your_tasks/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "DeepSeek power",
-    "title": "Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints \u2014 Engram conditional memory module commits static knowledge to system RAM",
+    "title": "Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints — Engram conditional memory module commits static knowledge to system RAM",
     "id": "1qc7kza",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 72,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

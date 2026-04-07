@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "US\u2019 AI data centers could consume 4x more power by 2030, new facility to tackle the surge",
+    "title": "US’ AI data centers could consume 4x more power by 2030, new facility to tackle the surge",
     "id": "1rh4ymq",
     "body": "",
     "url": "https://interestingengineering.com/ai-robotics/us-ai-data-centers-power-facility",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 130,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

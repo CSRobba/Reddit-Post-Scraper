@@ -1,6 +1,6 @@
 {
     "query_term": "data center pollution",
-    "title": "Elon\u2019s xAI data center is poisoning Memphis. It\u2019s burning enough gas to power a small city with no permits or pollution control.",
+    "title": "Elon’s xAI data center is poisoning Memphis. It’s burning enough gas to power a small city with no permits or pollution control.",
     "id": "1l25cmc",
     "body": "",
     "url": "https://youtu.be/3VJT2JeDCyw?si=IssuboKAWjrm57Rv",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

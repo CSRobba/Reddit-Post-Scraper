@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "[Request] Is this AI water consumption math true?",
     "id": "1n8hkpk",
-    "body": "\nBecause if it\u2019s even remotely true then there is a ton of misinformation going around. Almost all of the discourse I see online makes it seem as though AI is so unprecedented in its water consumption that it will lead to the Earths water supply drying up.\n\nLink to post: https://www.reddit.com/r/aiwars/s/1svZ9mVDIA",
+    "body": "\nBecause if it’s even remotely true then there is a ton of misinformation going around. Almost all of the discourse I see online makes it seem as though AI is so unprecedented in its water consumption that it will lead to the Earths water supply drying up.\n\nLink to post: https://www.reddit.com/r/aiwars/s/1svZ9mVDIA",
     "url": "https://i.redd.it/mqto55anu6nf1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/mqto55anu6nf1.jpeg",
     "created": "2025-09-04T11:07:53",
@@ -11,5 +11,8 @@
     "num_comments": 56,
     "ups": 29,
     "upvote_ratio": 0.6899999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

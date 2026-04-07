@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environmental",
-    "title": "What\u2019s the best free alternative to chatgpt with the least environmental impact and similar quality for long rp type discussions?",
+    "title": "What’s the best free alternative to chatgpt with the least environmental impact and similar quality for long rp type discussions?",
     "id": "1lonuvm",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1lonuvm/whats_the_best_free_alternative_to_chatgpt_with/",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

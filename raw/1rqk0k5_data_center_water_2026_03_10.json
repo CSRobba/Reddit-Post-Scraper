@@ -1,6 +1,6 @@
 {
     "query_term": "data center water",
-    "title": "Please take a minute to sign the petition, even if you don\u2019t live here. This data center will be right next to my house, and my family is already relatively low income. I want to be able to afford college and clean water :(",
+    "title": "Please take a minute to sign the petition, even if you don’t live here. This data center will be right next to my house, and my family is already relatively low income. I want to be able to afford college and clean water :(",
     "id": "1rqk0k5",
     "body": "",
     "url": "https://c.org/LwM7HYC2bV",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

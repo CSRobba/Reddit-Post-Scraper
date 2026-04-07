@@ -1,8 +1,8 @@
 {
     "query_term": "data center power",
-    "title": "Google SWE \u2013 Data Center Power Modeling: Interview experience & tips?",
+    "title": "Google SWE – Data Center Power Modeling: Interview experience & tips?",
     "id": "1q8g2gh",
-    "body": "Hey everyone \ud83d\udc4b  \nHas anyone interviewed for the **Software Engineer, Data Center, Power Modeling** role at Google?\n\nI\u2019d really appreciate any insights on:\n\n* What **core concepts** were emphasized (DSA, systems, C++, performance, etc.)\n* **Number of interview rounds** and their format\n* Anything **important to focus on or avoid**\n* How **long the overall process** took from screening to decision\n\nAny experiences or tips would be super helpful. Thanks in advance!",
+    "body": "Hey everyone 👋  \nHas anyone interviewed for the **Software Engineer, Data Center, Power Modeling** role at Google?\n\nI’d really appreciate any insights on:\n\n* What **core concepts** were emphasized (DSA, systems, C++, performance, etc.)\n* **Number of interview rounds** and their format\n* Anything **important to focus on or avoid**\n* How **long the overall process** took from screening to decision\n\nAny experiences or tips would be super helpful. Thanks in advance!",
     "url": "https://www.reddit.com/r/AskEngineers/comments/1q8g2gh/google_swe_data_center_power_modeling_interview/",
     "url_overridden_by_dest": null,
     "created": "2026-01-09T10:25:03",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

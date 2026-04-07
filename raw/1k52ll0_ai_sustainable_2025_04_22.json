@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "I\u2019m Ngoc, a student at National Economics University in Vietnam, researching Finfluencers and AI in Sustainable Investing.\nI\u2019d love for international students, professionals, academicians, and researchers to take 3-5 minutes to fill out this survey, helping me and contribute to academic community.",
+    "title": "I’m Ngoc, a student at National Economics University in Vietnam, researching Finfluencers and AI in Sustainable Investing.\nI’d love for international students, professionals, academicians, and researchers to take 3-5 minutes to fill out this survey, helping me and contribute to academic community.",
     "id": "1k52ll0",
     "body": "",
     "url": "https://forms.gle/xsTkq4HVtPD2cmx89",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

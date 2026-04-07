@@ -1,6 +1,6 @@
 {
     "query_term": "Llama power",
-    "title": "Unlocking the Power of locally running Llama-3 8B Model Agents with Chat-UI! \ud83d\udd25\ud83d\ude80\u2728",
+    "title": "Unlocking the Power of locally running Llama-3 8B Model Agents with Chat-UI! 🔥🚀✨",
     "id": "1capgtn",
     "body": "",
     "url": "https://huggingface.co/smangrul/llama-3-8B-instruct-function-calling",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

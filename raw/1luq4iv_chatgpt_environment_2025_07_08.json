@@ -2,7 +2,7 @@
     "query_term": "ChatGPT environment",
     "title": "ELI5 How is ChatGPT bad for the environment?",
     "id": "1luq4iv",
-    "body": "I was listening to a podcast where they mentioned AI and ChatGPT. Didn\u2019t think anything of it until I went to the comments and it was dozens of people saying how bad ChatGPT is for the environment. I feel really guilty because I\u2019ve used ChatGPT a lot but I would like to consider myself environmentally conscious. Can someone explain how it\u2019s bad for the environment??",
+    "body": "I was listening to a podcast where they mentioned AI and ChatGPT. Didn’t think anything of it until I went to the comments and it was dozens of people saying how bad ChatGPT is for the environment. I feel really guilty because I’ve used ChatGPT a lot but I would like to consider myself environmentally conscious. Can someone explain how it’s bad for the environment??",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1luq4iv/eli5_how_is_chatgpt_bad_for_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-07-08T07:33:00",
@@ -11,5 +11,8 @@
     "num_comments": 34,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83e\udd16The Transformative Power of AI Software \ud83c\udf0d Hey r/technology, I found an article that brilliantly captures how AI is changing the face of industries and our daily lives. It's a great read for anyone interested in the practical applications & future of AI. #AI #FutureTech",
+    "title": "🤖The Transformative Power of AI Software 🌍 Hey r/technology, I found an article that brilliantly captures how AI is changing the face of industries and our daily lives. It's a great read for anyone interested in the practical applications & future of AI. #AI #FutureTech",
     "id": "1akzu5i",
     "body": "",
     "url": "https://justaitrends.com/transformative-power-ai-software/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

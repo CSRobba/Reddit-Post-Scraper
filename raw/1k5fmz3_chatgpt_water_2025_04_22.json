@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT water",
-    "title": "I asked ChatGPT something completely useless and uninteresting and here\u2019s how much clean water it used.",
+    "title": "I asked ChatGPT something completely useless and uninteresting and here’s how much clean water it used.",
     "id": "1k5fmz3",
     "body": "",
     "url": "https://i.redd.it/p8uci25bxfwe1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.4000000059604645,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

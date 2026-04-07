@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "How has Ai affected your work environment? What\u2019s your reaction to it?",
+    "title": "How has Ai affected your work environment? What’s your reaction to it?",
     "id": "1j8e8xv",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1j8e8xv/how_has_ai_affected_your_work_environment_whats/",
@@ -11,5 +11,8 @@
     "num_comments": 8,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Trump\u2019s Congress Address Unveiled: Power Plays, Protests, and the AI Factor",
+    "title": "Trump’s Congress Address Unveiled: Power Plays, Protests, and the AI Factor",
     "id": "1j3xxp9",
     "body": "",
     "url": "https://worldscope480.blogspot.com/2025/03/trumps-congress-address-unveiled-power.html",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

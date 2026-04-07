@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Hidden in plain sight: Open-source maps track America\u2019s power-hungry AI datacenters",
+    "title": "Hidden in plain sight: Open-source maps track America’s power-hungry AI datacenters",
     "id": "1q2x52u",
     "body": "",
     "url": "https://interestingengineering.com/ai-robotics/mapping-hidden-us-datacenters",
@@ -11,5 +11,8 @@
     "num_comments": 99,
     "ups": 1128,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
