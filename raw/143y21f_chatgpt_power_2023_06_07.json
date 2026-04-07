@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "If I had to get someone from total zero to ChatGPT power user, I\u2019d have them read this.",
+    "title": "If I had to get someone from total zero to ChatGPT power user, I’d have them read this.",
     "id": "143y21f",
     "body": "",
     "url": "https://insideofai.com",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

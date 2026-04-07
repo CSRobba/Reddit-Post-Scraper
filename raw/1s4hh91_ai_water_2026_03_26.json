@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "How does AI use water for cooling? Wouldn't that just fry the electronics?",
     "id": "1s4hh91",
-    "body": "I can't cool down my computer by pouring a glass of water on top of it. I have no doubt that AI is bad for the environment and uses water, but how exactly does that work?\n\nEDIT: Thank you for all the great answers! I understand now. I figured it was something like that but was just curious \ud83d\ude42",
+    "body": "I can't cool down my computer by pouring a glass of water on top of it. I have no doubt that AI is bad for the environment and uses water, but how exactly does that work?\n\nEDIT: Thank you for all the great answers! I understand now. I figured it was something like that but was just curious 🙂",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1s4hh91/how_does_ai_use_water_for_cooling_wouldnt_that/",
     "url_overridden_by_dest": null,
     "created": "2026-03-26T12:35:20",
@@ -11,5 +11,8 @@
     "num_comments": 14,
     "ups": 0,
     "upvote_ratio": 0.28999999165534973,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

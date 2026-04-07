@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "How will humans survive financially (afford food, water, electricity, internet, medical care etc) in the future when smart AI takes \u2018a predicted\u2019 over-90% of our jobs in the future?",
+    "title": "How will humans survive financially (afford food, water, electricity, internet, medical care etc) in the future when smart AI takes ‘a predicted’ over-90% of our jobs in the future?",
     "id": "1r3kd2u",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1r3kd2u/how_will_humans_survive_financially_afford_food/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

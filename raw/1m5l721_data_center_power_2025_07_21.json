@@ -2,7 +2,7 @@
     "query_term": "data center power",
     "title": "Modular data center pods + smart power layers",
     "id": "1m5l721",
-    "body": "So I\u2019ve been down a rabbit hole lately exploring modular DCs , not like container farms from 10 years ago, but newer, tighter setups. I recently helped on a small deployment using one of those prefab compute pods (think a full rack solution, wired and climate-ready out of the box), and paired it with a control layer \n\nThe combo was slick. The control layer isn\u2019t just doing basic power distribution, it\u2019s constantly adjusting power draw and cooling logic based on what\u2019s actually happening per node, which helped avoid unnecessary cooling. That alone shaved off a lot of energy overhead.\n\nIt is fast to go live. From delivery to traffic flowing is like a few days. \n\nFeels like this could be a strong model for edge locations or even temporary deployments. Anyone else working with pods or smarter energy optimization like this?\n\nCurious if there\u2019s something similar with dynamic power/cooling control? Or You\u2019ve seen any solid data on these setups vs traditional builds or there\u2019s a catch I\u2019m not seeing yet?. Justt low-key impressed and wondering if others are seeing the same shift.",
+    "body": "So I’ve been down a rabbit hole lately exploring modular DCs , not like container farms from 10 years ago, but newer, tighter setups. I recently helped on a small deployment using one of those prefab compute pods (think a full rack solution, wired and climate-ready out of the box), and paired it with a control layer \n\nThe combo was slick. The control layer isn’t just doing basic power distribution, it’s constantly adjusting power draw and cooling logic based on what’s actually happening per node, which helped avoid unnecessary cooling. That alone shaved off a lot of energy overhead.\n\nIt is fast to go live. From delivery to traffic flowing is like a few days. \n\nFeels like this could be a strong model for edge locations or even temporary deployments. Anyone else working with pods or smarter energy optimization like this?\n\nCurious if there’s something similar with dynamic power/cooling control? Or You’ve seen any solid data on these setups vs traditional builds or there’s a catch I’m not seeing yet?. Justt low-key impressed and wondering if others are seeing the same shift.",
     "url": "https://www.reddit.com/r/datacenter/comments/1m5l721/modular_data_center_pods_smart_power_layers/",
     "url_overridden_by_dest": null,
     "created": "2025-07-21T07:59:35",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 5,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

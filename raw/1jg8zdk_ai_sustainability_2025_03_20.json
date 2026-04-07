@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainability",
-    "title": "India\u2019s fashion industry is on track to triple to $350 billion by 2030, but this transformation is about more than just style\u2014it\u2019s about AI, automation, and sustainability reshaping the entire ecosystem. Technology is now at the forefront, driving efficiency, sustainability, and innovation in every",
+    "title": "India’s fashion industry is on track to triple to $350 billion by 2030, but this transformation is about more than just style—it’s about AI, automation, and sustainability reshaping the entire ecosystem. Technology is now at the forefront, driving efficiency, sustainability, and innovation in every",
     "id": "1jg8zdk",
     "body": "",
     "url": "https://www.techved.com/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

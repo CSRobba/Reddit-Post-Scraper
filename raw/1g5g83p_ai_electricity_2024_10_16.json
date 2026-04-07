@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Anti-AI: \u201cAI consumes way too much electricity, there won't be any electricity left to the common people\u201d. Google: \u201cOkay, We will buy our own nuclear power-plant to produce our own electricity\u201d",
+    "title": "Anti-AI: “AI consumes way too much electricity, there won't be any electricity left to the common people”. Google: “Okay, We will buy our own nuclear power-plant to produce our own electricity”",
     "id": "1g5g83p",
     "body": "",
     "url": "https://i.redd.it/tik3e3ue58vd1.png",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

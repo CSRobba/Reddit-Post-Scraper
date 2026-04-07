@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Dejan Kacurov \u2013 A Visionary in AI and Sustainable Technology!",
+    "title": "Dejan Kacurov – A Visionary in AI and Sustainable Technology!",
     "id": "1gwdr3j",
     "body": "",
     "url": "https://generalinspires.com/dejan-kacurov-a-visionary-in-ai-and-sustainable-technology/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

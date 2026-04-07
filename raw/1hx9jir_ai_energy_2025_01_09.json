@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Have you felt your energy bills creeping up? AI data centers, while fueling tech innovation, are quietly causing chaos in our power grids. The culprit? Harmonic distortion\u2014an energy disruptor that makes your appliances work harder, wear out faster, and costs you more.",
+    "title": "Have you felt your energy bills creeping up? AI data centers, while fueling tech innovation, are quietly causing chaos in our power grids. The culprit? Harmonic distortion—an energy disruptor that makes your appliances work harder, wear out faster, and costs you more.",
     "id": "1hx9jir",
     "body": "",
     "url": "https://www.hydrogenfuelnews.com/ai-data-centers-power-grid/8568880/",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 6,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
