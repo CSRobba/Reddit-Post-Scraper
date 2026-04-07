@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI data centers reportedly cause power problems in residential areas \u2014 decreased power quality in homes near data centers causes reduced lifespan for electrical appliances",
+    "title": "AI data centers reportedly cause power problems in residential areas — decreased power quality in homes near data centers causes reduced lifespan for electrical appliances",
     "id": "1hp5da0",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-data-centers-reportedly-cause-power-problems-in-residential-areas-decreased-power-quality-in-homes-near-data-centers-causes-reduced-lifespan-for-electrical-appliances",
@@ -11,5 +11,8 @@
     "num_comments": 64,
     "ups": 566,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

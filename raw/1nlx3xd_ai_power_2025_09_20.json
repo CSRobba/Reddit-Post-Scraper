@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Unlock the Power of ChatGPT with OGPT \u2013 The All-in-One AI Toolbox",
+    "title": "Unlock the Power of ChatGPT with OGPT – The All-in-One AI Toolbox",
     "id": "1nlx3xd",
     "body": "Hey everyone,\n\nI'm excited to introduce a new Chrome extension I've been working on called **OGPT Toolbox**. If you're a regular ChatGPT user, you know how powerful it is, but you've probably also wished for better ways to organize your prompts, manage conversations, and streamline your workflow. That's exactly why I built this tool!\n\n**OGPT Toolbox** adds a powerful sidebar to your ChatGPT interface, giving you a suite of tools to manage and enhance your experience.\n\n# Here's a quick rundown of the key features:\n\n* **Search History:** Ever lose a great response in a long conversation? Now you can quickly search your entire chat history to find exactly what you're looking for. \\[Image of Search History modal\\]\n* **Manage Chats:** Keep your conversations organized and easily accessible. You can view active and archived chats in a clean interface. \n* **Manage Folders & Pinned Items:** This is a big one! You can now organize your chats, prompts, agents, and links into folders. Pin your most important folders and items for quick access right from the sidebar.\n* **Manage Prompts:** Save and manage your favorite prompts. You can easily edit them and, more importantly, call them up with a simple // command in the chat input.\n* **Manage Agents:** Create and manage multi-step \"agents\" that execute a series of prompts. This is perfect for complex tasks you find yourself doing repeatedly. You can trigger these agents with the \\*\\* command.\n* **Manage Chains:** Similar to agents, you can create and manage chains of prompts. Use the .. command to execute them. \n* **Manage Links:** Save and manage important links directly within your ChatGPT interface.\n* **Data Management:** You can easily export and import all your ChatGPT Toolbox data, including folders, agents, prompts, and more.",
     "url": "https://www.reddit.com/gallery/1nlx3xd",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

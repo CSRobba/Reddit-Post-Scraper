@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Ukraine\u2019s AI-enabled drones are trying to disrupt Russia\u2019s energy industry. So far, it\u2019s working | CNN Business",
+    "title": "Ukraine’s AI-enabled drones are trying to disrupt Russia’s energy industry. So far, it’s working | CNN Business",
     "id": "1bu7dfv",
     "body": "",
     "url": "https://edition.cnn.com/2024/04/01/energy/ukrainian-drones-disrupting-russian-energy-industry-intl-cmd/index.html",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 60,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Trump says Microsoft will make changes to ensure consumers don\u2019t pay for power used in AI buildout",
+    "title": "Trump says Microsoft will make changes to ensure consumers don’t pay for power used in AI buildout",
     "id": "1qbls0k",
     "body": "",
     "url": "https://www.cnbc.com/2026/01/12/trump-microsoft-changes-ensure-ensure-consumers-dont-pay-for-power-ai.html",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "data center power",
-    "title": "Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids \u2014 off-grid GW Ranch project in Texas will reportedly use as much power as Chicago",
+    "title": "Data center developers building private natural gas 'Shadow Grid' power plants to sidestep strained grids — off-grid GW Ranch project in Texas will reportedly use as much power as Chicago",
     "id": "1rassiz",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/big-tech/datacenter-developers-leverage-natural-gas-to-sidestep-power-grids-short-term-solution-might-increase-carbon-emissions-and-prove-costly-in-the-long-run",
@@ -11,5 +11,8 @@
     "num_comments": 33,
     "ups": 125,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "\u2753Black holes slow time, but what if staying alive there costs energy? My Compensation Hypothesis: \n\nLife, AI, or atoms must push harder to survive warped spacetime. What\u2019s your take?",
+    "title": "❓Black holes slow time, but what if staying alive there costs energy? My Compensation Hypothesis: \n\nLife, AI, or atoms must push harder to survive warped spacetime. What’s your take?",
     "id": "1m9ql46",
     "body": "",
     "url": "https://www.reddit.com/r/askscience/comments/1m9ql46/black_holes_slow_time_but_what_if_staying_alive/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

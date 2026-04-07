@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "World\u2019s 1st AI e-bike. What\u2019s its power?",
+    "title": "World’s 1st AI e-bike. What’s its power?",
     "id": "14otqg0",
     "body": "",
     "url": "https://afronomist.com/worlds-1st-ai-e-bike-whats-its-power/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.4300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

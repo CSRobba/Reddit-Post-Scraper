@@ -1,6 +1,6 @@
 {
     "query_term": "Gemini power",
-    "title": "Google adds music-generation capabilities to the Gemini app: \u00ab Google announced on Wednesday that it\u2019s adding a music-generation feature to the Gemini app. The company is using DeepMind\u2019s Lyria 3 music-generation model to power the feature, which is still in beta. \u00bb",
+    "title": "Google adds music-generation capabilities to the Gemini app: « Google announced on Wednesday that it’s adding a music-generation feature to the Gemini app. The company is using DeepMind’s Lyria 3 music-generation model to power the feature, which is still in beta. »",
     "id": "1ra1jmp",
     "body": "",
     "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 3,
     "upvote_ratio": 0.8100000023841858,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

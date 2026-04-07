@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "We Built an AI That Works 100% Offline \u2013 No Cloud, No Tracking, Just Local Power",
+    "title": "We Built an AI That Works 100% Offline – No Cloud, No Tracking, Just Local Power",
     "id": "1jnaujg",
-    "body": "Most AI tools today rely on cloud computing, meaning **constant internet dependence, privacy risks, and latency issues**. We wanted to challenge that.\n\nSo, we built an **AI that runs fully offline**\u2014no cloud, no tracking, just instant local processing.\n\n# Challenges We Faced:\n\n\ud83d\udcbe **Keeping it lightweight** \u2013 Running models locally without hogging resources  \n\u26a1 **Balancing speed & accuracy** \u2013 Optimizing without losing performance  \n\ud83d\udd12 **Ensuring complete privacy** \u2013 No data ever leaves the device\n\nNow, we\u2019re testing it out and refining the experience. **Would you use an AI tool that works 100% offline?** Or do you think cloud-based AI is still the way to go?",
+    "body": "Most AI tools today rely on cloud computing, meaning **constant internet dependence, privacy risks, and latency issues**. We wanted to challenge that.\n\nSo, we built an **AI that runs fully offline**—no cloud, no tracking, just instant local processing.\n\n# Challenges We Faced:\n\n💾 **Keeping it lightweight** – Running models locally without hogging resources  \n⚡ **Balancing speed & accuracy** – Optimizing without losing performance  \n🔒 **Ensuring complete privacy** – No data ever leaves the device\n\nNow, we’re testing it out and refining the experience. **Would you use an AI tool that works 100% offline?** Or do you think cloud-based AI is still the way to go?",
     "url": "https://www.reddit.com/r/SideProject/comments/1jnaujg/we_built_an_ai_that_works_100_offline_no_cloud_no/",
     "url_overridden_by_dest": null,
     "created": "2025-03-30T04:56:50",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

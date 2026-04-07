@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "U.S. Startup PV Circonomy Unveils 99.3% Efficient, AI-Powered, Low-Energy Solar Panel Recycling Tech in California\u2014Automated System Processes 10,000 Tons Annually, Recovers Glass and EVA for Concrete and Consumer Goods",
+    "title": "U.S. Startup PV Circonomy Unveils 99.3% Efficient, AI-Powered, Low-Energy Solar Panel Recycling Tech in California—Automated System Processes 10,000 Tons Annually, Recovers Glass and EVA for Concrete and Consumer Goods",
     "id": "1ix365q",
     "body": "",
     "url": "https://pv-magazine-usa.com/2025/02/21/u-s-startup-unveils-highly-automated-low-waste-solar-panel-recycling-tech/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 7,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

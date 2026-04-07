@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence power",
-    "title": "Its ironic that Narrow Artificial Intelligence is struggling to get to General Artificial Intelligence, while actual General Intelligence insists on boxing itself into Narrow Intelligence \ud83d\ude44. Use that brain power, humans.",
+    "title": "Its ironic that Narrow Artificial Intelligence is struggling to get to General Artificial Intelligence, while actual General Intelligence insists on boxing itself into Narrow Intelligence 🙄. Use that brain power, humans.",
     "id": "11sqbvh",
     "body": "",
     "url": "https://i.redd.it/fu21mf98x2oa1.png",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 22,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

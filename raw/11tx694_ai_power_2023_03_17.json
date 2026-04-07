@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "Microsoft\u2019s new Power Platform AI Copilot will build your apps for you",
+    "title": "Microsoft’s new Power Platform AI Copilot will build your apps for you",
     "id": "11tx694",
-    "body": " In Power Apps, the main low-code tool of the Power Platform, users can now use sentences like \u201cCreate a time and expense application to enable my employees to submit their time and expense reports\u201d and it will generate this app for them. But in addition to building these user interfaces and integrations with a company\u2019s data sources, the Copilot can also help users analyze their data and visualize it (Microsoft\u2019s example here is: \u201cWhat are the most common reasons an inspection fails?\u201d) \n\n&amp;#x200B;\n\n[https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/](https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/)",
+    "body": " In Power Apps, the main low-code tool of the Power Platform, users can now use sentences like “Create a time and expense application to enable my employees to submit their time and expense reports” and it will generate this app for them. But in addition to building these user interfaces and integrations with a company’s data sources, the Copilot can also help users analyze their data and visualize it (Microsoft’s example here is: “What are the most common reasons an inspection fails?”) \n\n&amp;#x200B;\n\n[https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/](https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/)",
     "url": "https://www.reddit.com/r/microsoft_365_copilot/comments/11tx694/microsofts_new_power_platform_ai_copilot_will/",
     "url_overridden_by_dest": null,
     "created": "2023-03-17T13:10:40",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

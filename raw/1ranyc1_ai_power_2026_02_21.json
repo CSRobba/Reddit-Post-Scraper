@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\ud83e\udde0\u26a1 Your brain runs on just 12 watts, less than an LED bulb, while an AI doing similar tasks needs 2.7 billion watts, or 225 million times more power.[Other]",
+    "title": "🧠⚡ Your brain runs on just 12 watts, less than an LED bulb, while an AI doing similar tasks needs 2.7 billion watts, or 225 million times more power.[Other]",
     "id": "1ranyc1",
     "body": "Welcome to have a stroke  , anyway how fast we could terraform mars if we have that much energy capacity and how fast would earth get exuashted by mining uranium so much for this thing if this slop was true",
     "url": "https://i.redd.it/172b6gw87ekg1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 0,
     "upvote_ratio": 0.3100000023841858,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Ai Power Consumption",
     "id": "1gla1c2",
-    "body": "How come no one talks about or discusses the mass amount of power it takes for ai to run? When people were just goofing off with Dall-e or whatever; each prompt alone uses as much power as charging your phone. Wouldn\u2019t higher scale and more refined forms of ai be using just as much or more power? ",
+    "body": "How come no one talks about or discusses the mass amount of power it takes for ai to run? When people were just goofing off with Dall-e or whatever; each prompt alone uses as much power as charging your phone. Wouldn’t higher scale and more refined forms of ai be using just as much or more power? ",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1gla1c2/ai_power_consumption/",
     "url_overridden_by_dest": null,
     "created": "2024-11-06T13:44:30",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

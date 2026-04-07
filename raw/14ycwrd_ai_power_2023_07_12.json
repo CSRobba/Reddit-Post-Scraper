@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "I had an Ai make a stand (power) for Jordan Peterson like in the show Jojo\u2019s Bizarre adventure",
+    "title": "I had an Ai make a stand (power) for Jordan Peterson like in the show Jojo’s Bizarre adventure",
     "id": "14ycwrd",
     "body": "",
     "url": "https://www.reddit.com/gallery/14yc5gz",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

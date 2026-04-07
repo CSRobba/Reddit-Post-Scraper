@@ -13,7 +13,8 @@
     "upvote_ratio": 0.6700000166893005,
     "view_count": null,
     "relevance_rate": {
-        "julie": "y"
+        "julie": "y",
+        "nino": "n"
     },
     "relevance_reasoning": {
         "julie": "comparing AI footprint to footprint of other methods"

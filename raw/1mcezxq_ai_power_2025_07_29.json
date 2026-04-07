@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Building the backbone of AI. At Alpha Nex, we\u2019re crowdsourcing data labeling to power the next generation of AI models. Fast, accurate, scalable. The future of AI starts with quality data. #AI #DataLabeling #MachineLearning #Startups #AlphaNex",
+    "title": "Building the backbone of AI. At Alpha Nex, we’re crowdsourcing data labeling to power the next generation of AI models. Fast, accurate, scalable. The future of AI starts with quality data. #AI #DataLabeling #MachineLearning #Startups #AlphaNex",
     "id": "1mcezxq",
     "body": "",
     "url": "https://i.redd.it/uf37aj6y3uff1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

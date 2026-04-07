@@ -1,6 +1,6 @@
 {
     "query_term": "AI pollution",
-    "title": "Considering how AI is currently self lobotomizing itself, is probably a decade or more away from AGI and probably causing cancer with the pollution data centers make, it\u2019s bold for these guys to say this.",
+    "title": "Considering how AI is currently self lobotomizing itself, is probably a decade or more away from AGI and probably causing cancer with the pollution data centers make, it’s bold for these guys to say this.",
     "id": "1o0qapo",
     "body": "",
     "url": "https://i.redd.it/xvcdxwtd6qtf1.png",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 7,
     "upvote_ratio": 0.7400000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

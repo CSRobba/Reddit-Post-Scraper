@@ -1,6 +1,6 @@
 {
     "query_term": "data center water",
-    "title": "LIVE OR WORK NEAR A DATA CENTER? What\u2019s your experience? Good, Bad, Uneventful - Light/noise pollution - Taxes, Property value - Water use, Utility bills?",
+    "title": "LIVE OR WORK NEAR A DATA CENTER? What’s your experience? Good, Bad, Uneventful - Light/noise pollution - Taxes, Property value - Water use, Utility bills?",
     "id": "1makal5",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1makal5/live_or_work_near_a_data_center_whats_your/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

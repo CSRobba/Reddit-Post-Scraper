@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "If you need AI to think and make decisions for you the problem isn\u2019t AI, it\u2019s you. Stealing is a human act, should guns be banned for being used for crimes? I won\u2019t even talk about water usage of meat production, clothes, etc etc etc",
+    "title": "If you need AI to think and make decisions for you the problem isn’t AI, it’s you. Stealing is a human act, should guns be banned for being used for crimes? I won’t even talk about water usage of meat production, clothes, etc etc etc",
     "id": "1n2xeq2",
     "body": "",
     "url": "https://www.reddit.com/gallery/1n2xeq2",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 0,
     "upvote_ratio": 0.3799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

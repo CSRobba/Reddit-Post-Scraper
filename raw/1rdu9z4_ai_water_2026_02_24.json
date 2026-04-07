@@ -1,8 +1,8 @@
 {
     "query_term": "AI water",
-    "title": "How\u2019s AI destroying water , land and air?",
+    "title": "How’s AI destroying water , land and air?",
     "id": "1rdu9z4",
-    "body": "I understand the pushback against generative AI and AI art, as it can do stuff such as spread misinformation or steal from actual artists, so I understand those reason, but some people also claim it\u2019s destroying the water air and land? How exactly is it doing so?",
+    "body": "I understand the pushback against generative AI and AI art, as it can do stuff such as spread misinformation or steal from actual artists, so I understand those reason, but some people also claim it’s destroying the water air and land? How exactly is it doing so?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1rdu9z4/hows_ai_destroying_water_land_and_air/",
     "url_overridden_by_dest": null,
     "created": "2026-02-24T14:02:29",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

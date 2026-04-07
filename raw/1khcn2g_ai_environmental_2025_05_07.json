@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "What's stopping an aggresive nation from building 3-10\u00d7 their enemies population of AI guided drone swarms deployed at once in various locations to wipe them out with no environmental side effects like nukes?",
+    "title": "What's stopping an aggresive nation from building 3-10× their enemies population of AI guided drone swarms deployed at once in various locations to wipe them out with no environmental side effects like nukes?",
     "id": "1khcn2g",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1khcn2g/whats_stopping_an_aggresive_nation_from_building/",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

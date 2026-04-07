@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "Americans\u2019 electricity bills are up. Don\u2019t blame AI",
+    "title": "Americans’ electricity bills are up. Don’t blame AI",
     "id": "1rw9jt1",
     "body": "",
     "url": "https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai",
@@ -11,5 +11,8 @@
     "num_comments": 8,
     "ups": 0,
     "upvote_ratio": 0.20999999344348907,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

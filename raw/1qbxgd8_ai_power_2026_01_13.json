@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "America\u2019s Biggest Power Grid Operator Has an AI Problem\u2014Too Many Data Centers",
+    "title": "America’s Biggest Power Grid Operator Has an AI Problem—Too Many Data Centers",
     "id": "1qbxgd8",
     "body": "",
     "url": "https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296?st=u5L7cL&mod=wsjreddit",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 37,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

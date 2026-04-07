@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Intel launched its Intel\u00ae Core\u2122 Ultra mobile processors, available globally on-shelf and online starting today, they will power more than 230 of the world\u2019s first AI PCs from partners including Acer, ASUS, Dell, Dynabook, Gigabyte, Google Chromebook, HP, Lenovo,LG, Microsoft Surface, MSI and Samsung",
+    "title": "Intel launched its Intel® Core™ Ultra mobile processors, available globally on-shelf and online starting today, they will power more than 230 of the world’s first AI PCs from partners including Acer, ASUS, Dell, Dynabook, Gigabyte, Google Chromebook, HP, Lenovo,LG, Microsoft Surface, MSI and Samsung",
     "id": "18idmjw",
     "body": "",
     "url": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-client-computing-news-1.html",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 33,
     "upvote_ratio": 0.8600000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

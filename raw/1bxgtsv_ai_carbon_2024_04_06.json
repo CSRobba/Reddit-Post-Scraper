@@ -1,6 +1,6 @@
 {
     "query_term": "AI carbon",
-    "title": "For the tasks of writing and illustrating, AI emits hundreds of times less carbon than humans performing the same tasks(that does not mean, however, that AI can or should replace human writers and illustrators, the study\u2019s authors argue)",
+    "title": "For the tasks of writing and illustrating, AI emits hundreds of times less carbon than humans performing the same tasks(that does not mean, however, that AI can or should replace human writers and illustrators, the study’s authors argue)",
     "id": "1bxgtsv",
     "body": "",
     "url": "https://news.ku.edu/news/article/study-considers-carbon-emissions-of-ai-writing-illustrations",
@@ -11,5 +11,8 @@
     "num_comments": 59,
     "ups": 0,
     "upvote_ratio": 0.3799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

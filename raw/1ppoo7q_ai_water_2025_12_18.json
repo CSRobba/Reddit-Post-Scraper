@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "2025\u2019s AI boom caused huge CO2 emissions and use of water, research finds",
+    "title": "2025’s AI boom caused huge CO2 emissions and use of water, research finds",
     "id": "1ppoo7q",
     "body": "",
     "url": "https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
@@ -11,5 +11,8 @@
     "num_comments": 32,
     "ups": 254,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

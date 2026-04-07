@@ -11,5 +11,8 @@
     "num_comments": 29,
     "ups": 22,
     "upvote_ratio": 0.800000011920929,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
