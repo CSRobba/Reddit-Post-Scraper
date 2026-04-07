@@ -15,7 +15,8 @@
     "relevance_rate": {
         "julie": "m",
         "nino": "n",
-        "null": "n"
+        "null": "n",
+        "chandana": "n"
     },
     "relevance_reasoning": {
         "julie": "interesting for understanding how people think about env impact, but does not explicitly mention it"

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "tbh maybe we shouldn\u2019t take all our time and energy to make art for these bozos then, let the AI eat itself for all i care",
+    "title": "tbh maybe we shouldn’t take all our time and energy to make art for these bozos then, let the AI eat itself for all i care",
     "id": "1rkdhem",
     "body": "",
     "url": "https://i.redd.it/82gg21mnwymg1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 17,
     "ups": 193,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
