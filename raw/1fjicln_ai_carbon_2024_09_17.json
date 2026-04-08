@@ -1,8 +1,8 @@
 {
     "query_term": "AI carbon",
-    "title": "To the people asking to not use AI because of the carbon footprint\u2026",
+    "title": "To the people asking to not use AI because of the carbon footprint…",
     "id": "1fjicln",
-    "body": "Surely there\u2019s better ways to go about it than pestering everyone and probably convincing them to do it out of spite\u2026?",
+    "body": "Surely there’s better ways to go about it than pestering everyone and probably convincing them to do it out of spite…?",
     "url": "https://www.reddit.com/r/ChatGPT/comments/1fjicln/to_the_people_asking_to_not_use_ai_because_of_the/",
     "url_overridden_by_dest": null,
     "created": "2024-09-17T19:34:32",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

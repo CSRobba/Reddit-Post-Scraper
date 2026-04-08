@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "\u26a1\ufe0f AI Could Consume 99% of the World's Electricity?! Eric Schmidt\u2019s Shoc...",
+    "title": "⚡️ AI Could Consume 99% of the World's Electricity?! Eric Schmidt’s Shoc...",
     "id": "1kaxwc4",
     "body": "If AI gonna use 99% of the currently available energy, we would need to casually double the output, so are we just ok with that because AI is worth those efforts? Or do we create economic and environmental risks which does not justify the potential benefits?",
     "url": "https://youtube.com/watch?v=V3vXO7TUP5w&feature=shared",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

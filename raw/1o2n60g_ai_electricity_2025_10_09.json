@@ -2,7 +2,7 @@
     "query_term": "AI electricity",
     "title": "AI is a similar general purpose technology as electricity",
     "id": "1o2n60g",
-    "body": ">Essentially, electricity became the backdrop to the market in the same way AI is doing, as businesses work to become \u201cAI-enabled\u201d.\n\nThis is a real guy with a real job, apparently.",
+    "body": ">Essentially, electricity became the backdrop to the market in the same way AI is doing, as businesses work to become “AI-enabled”.\n\nThis is a real guy with a real job, apparently.",
     "url": "https://www.interest.co.nz/technology/135594/cameron-shackell-says-today%E2%80%99s-ai-hype-has-echoes-devastating-technology-boom-and",
     "url_overridden_by_dest": "https://www.interest.co.nz/technology/135594/cameron-shackell-says-today%E2%80%99s-ai-hype-has-echoes-devastating-technology-boom-and",
     "created": "2025-10-09T20:57:36",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

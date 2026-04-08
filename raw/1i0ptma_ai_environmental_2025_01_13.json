@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "How are y'all reconciling the environmental impact of AI with its benefits?",
     "id": "1i0ptma",
-    "body": "**Hey friends! I'd love to hear how you are balancing environmental concerns with your personal use of LLMs**.\n\n I'd consider myself a power user of ChatGPT and Claude to the point of advocating for them to others. But lately, I've been really wrestling with the environmental impact especially after several conversations with non-adopters and this article in [The Cut](https://www.thecut.com/article/is-chatgpt-ai-water-use-part-of-what-caused-the-wildfires.html) detailing the electricity and water needed for each interaction. I always said to myself that I'd adjust my usage if I got compelling enough evidence, and I think the moment might be here. \n\nI'm feeling into cutting back on using it for simpler tasks like texts and emails, but honestly the benefits have been incredible and I deeply believe in AI's potential to help us live our best lives. Not looking for advice since this is a personal decision but I am curious where others have landed on this question. \n\n**How have you reconciled AI's benefits with its environmental impact for yourself? Have you changed your usage? If so, what influenced that decision?**\n\n(I'm new to this sub so if this has been discussed before, please point me to the thread! Thank you \ud83d\ude4f\ud83c\udffe)",
+    "body": "**Hey friends! I'd love to hear how you are balancing environmental concerns with your personal use of LLMs**.\n\n I'd consider myself a power user of ChatGPT and Claude to the point of advocating for them to others. But lately, I've been really wrestling with the environmental impact especially after several conversations with non-adopters and this article in [The Cut](https://www.thecut.com/article/is-chatgpt-ai-water-use-part-of-what-caused-the-wildfires.html) detailing the electricity and water needed for each interaction. I always said to myself that I'd adjust my usage if I got compelling enough evidence, and I think the moment might be here. \n\nI'm feeling into cutting back on using it for simpler tasks like texts and emails, but honestly the benefits have been incredible and I deeply believe in AI's potential to help us live our best lives. Not looking for advice since this is a personal decision but I am curious where others have landed on this question. \n\n**How have you reconciled AI's benefits with its environmental impact for yourself? Have you changed your usage? If so, what influenced that decision?**\n\n(I'm new to this sub so if this has been discussed before, please point me to the thread! Thank you 🙏🏾)",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1i0ptma/how_are_yall_reconciling_the_environmental_impact/",
     "url_overridden_by_dest": null,
     "created": "2025-01-13T16:55:58",
@@ -11,5 +11,8 @@
     "num_comments": 44,
     "ups": 1,
     "upvote_ratio": 0.5199999809265137,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

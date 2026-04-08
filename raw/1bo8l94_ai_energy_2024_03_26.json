@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "First Principles with Leemon Baird and Mance Harmon: Episode 3  Following on from their previous discussion on AI, Hedera\u2019s founders go beyond earth and explore interplanetary travel - @elonmusk\u2019s plan to colonize Mars, the role of AI & robotics, nuclear energy, and more.",
+    "title": "First Principles with Leemon Baird and Mance Harmon: Episode 3  Following on from their previous discussion on AI, Hedera’s founders go beyond earth and explore interplanetary travel - @elonmusk’s plan to colonize Mars, the role of AI & robotics, nuclear energy, and more.",
     "id": "1bo8l94",
     "body": "",
     "url": "https://x.com/swirldslabs/status/1772618071359795545?s=46",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 27,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

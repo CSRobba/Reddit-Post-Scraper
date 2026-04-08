@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "AI has used a total of 670 billion litres of water",
     "id": "1rcvx2m",
-    "body": "That\u2019s more water than the entire Sydney Harbour. Are there alternatives?",
+    "body": "That’s more water than the entire Sydney Harbour. Are there alternatives?",
     "url": "https://www.reddit.com/r/artificial/comments/1rcvx2m/ai_has_used_a_total_of_670_billion_litres_of_water/",
     "url_overridden_by_dest": null,
     "created": "2026-02-23T14:19:39",
@@ -11,5 +11,8 @@
     "num_comments": 34,
     "ups": 0,
     "upvote_ratio": 0.28999999165534973,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
