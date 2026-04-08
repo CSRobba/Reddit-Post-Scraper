@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "I woke up and drank 4 cups of water (faster than the AI servers, no hate intended, I don\u2019t even think those use water) so feel free to debate in the comments",
+    "title": "I woke up and drank 4 cups of water (faster than the AI servers, no hate intended, I don’t even think those use water) so feel free to debate in the comments",
     "id": "1s3gngo",
     "body": "Yeah ",
     "url": "https://www.reddit.com/r/aiwars/comments/1s3gngo/i_woke_up_and_drank_4_cups_of_water_faster_than/",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 4,
     "upvote_ratio": 0.6399999856948853,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

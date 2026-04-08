@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Nationwide Backlash Brewing Against Big Tech's Energy-Devouring AI Data Centers | \u201cFor any Democrat who wants to think politically, what an opportunity,\u201d said Faiz Shakir, a longtime adviser to US Sen. Bernie Sanders. \u201cThe people are way ahead of the politicians.\u201d",
+    "title": "Nationwide Backlash Brewing Against Big Tech's Energy-Devouring AI Data Centers | “For any Democrat who wants to think politically, what an opportunity,” said Faiz Shakir, a longtime adviser to US Sen. Bernie Sanders. “The people are way ahead of the politicians.”",
     "id": "1o7qcpp",
     "body": "",
     "url": "https://www.commondreams.org/news/ai-data-center-backlash",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 413,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

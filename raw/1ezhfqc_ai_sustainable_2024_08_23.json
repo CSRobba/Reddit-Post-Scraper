@@ -2,7 +2,7 @@
     "query_term": "AI sustainable",
     "title": " Can AI Pave the Way for a Sustainable Los Angeles?",
     "id": "1ezhfqc",
-    "body": "Sammy Roth\u2019s latest column explores an AI-driven art exhibit that imagines a more sustainable LA. Can technology help us tackle the climate crisis, or does it come with too many risks?\n\nLink: [https://www.latimes.com/environment/newsletter/2024-08-15/column-can-ai-dream-up-a-more-sustainable-los-angeles-boiling-point](https://www.latimes.com/environment/newsletter/2024-08-15/column-can-ai-dream-up-a-more-sustainable-los-angeles-boiling-point) ",
+    "body": "Sammy Roth’s latest column explores an AI-driven art exhibit that imagines a more sustainable LA. Can technology help us tackle the climate crisis, or does it come with too many risks?\n\nLink: [https://www.latimes.com/environment/newsletter/2024-08-15/column-can-ai-dream-up-a-more-sustainable-los-angeles-boiling-point](https://www.latimes.com/environment/newsletter/2024-08-15/column-can-ai-dream-up-a-more-sustainable-los-angeles-boiling-point) ",
     "url": "https://www.reddit.com/r/climatechange/comments/1ezhfqc/can_ai_pave_the_way_for_a_sustainable_los_angeles/",
     "url_overridden_by_dest": null,
     "created": "2024-08-23T12:41:33",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

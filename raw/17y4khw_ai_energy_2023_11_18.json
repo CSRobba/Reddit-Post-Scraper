@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Presenting the Hipster Energy Team of GPTs: AI-enhanced consulting and coaching services \ud83e\udde1",
+    "title": "Presenting the Hipster Energy Team of GPTs: AI-enhanced consulting and coaching services 🧡",
     "id": "17y4khw",
     "body": "This isn't what it looks like.",
     "url": "https://hipster.energy/team",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

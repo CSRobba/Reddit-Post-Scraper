@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Average AI \"Power User\" behavior.",
     "id": "1r6vy6v",
-    "body": "I just hit a massive productivity milestone and had to share.\n\nToday, I used AI to write a birthday card for my mom. It saved me exactly 4 minutes of cognitive load (thinking).\n\nWhat did I do with those extra 4 minutes? I used them to prompt AI to generate 400 more prompts for my AI prompt-engineering newsletter.\n\nThe Lesson: If you aren't automating your personal relationships, you\u2019re falling behind. Why use your heart when you can use a Large Language Model?\n\nWe are living in the future, guys. Efficiency is the only love language that matters.",
+    "body": "I just hit a massive productivity milestone and had to share.\n\nToday, I used AI to write a birthday card for my mom. It saved me exactly 4 minutes of cognitive load (thinking).\n\nWhat did I do with those extra 4 minutes? I used them to prompt AI to generate 400 more prompts for my AI prompt-engineering newsletter.\n\nThe Lesson: If you aren't automating your personal relationships, you’re falling behind. Why use your heart when you can use a Large Language Model?\n\nWe are living in the future, guys. Efficiency is the only love language that matters.",
     "url": "https://www.reddit.com/r/antiai/comments/1r6vy6v/average_ai_power_user_behavior/",
     "url_overridden_by_dest": null,
     "created": "2026-02-16T23:08:45",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 0,
     "upvote_ratio": 0.33000001311302185,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

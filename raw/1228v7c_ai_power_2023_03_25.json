@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "What kind of \u201cocracy\u201d are we headed toward with ai? Will there be tiers of data access / knowledge =power? Based on subscription/currency or hack/tech fluency? Is ai the final revenge of the nerds?",
+    "title": "What kind of “ocracy” are we headed toward with ai? Will there be tiers of data access / knowledge =power? Based on subscription/currency or hack/tech fluency? Is ai the final revenge of the nerds?",
     "id": "1228v7c",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1228v7c/what_kind_of_ocracy_are_we_headed_toward_with_ai/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

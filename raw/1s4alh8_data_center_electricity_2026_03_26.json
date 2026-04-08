@@ -1,6 +1,6 @@
 {
     "query_term": "data center electricity",
-    "title": "Two Wildly Different Data Centers Reveal a \u2018Fork in the Road\u2019 on How to Meet Electricity Demand | A Michigan data center would use renewables and flexibility to meet most demand. An Ohio project goes in a different direction.",
+    "title": "Two Wildly Different Data Centers Reveal a ‘Fork in the Road’ on How to Meet Electricity Demand | A Michigan data center would use renewables and flexibility to meet most demand. An Ohio project goes in a different direction.",
     "id": "1s4alh8",
     "body": "",
     "url": "https://insideclimatenews.org/news/26032026/inside-clean-energy-midwest-data-center-power-plans/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

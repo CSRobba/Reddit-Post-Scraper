@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "I wrote about using AI to build a better (more fun) digital environment",
     "id": "1nr5utr",
-    "body": "I documented my thoughts on building this simple website inspired by my notebook called - a Poetic Dictionary.\n\nSmall project that turned into a reflection on whether AI can help us build a more creative and beautiful internet.\n\nWould love your thoughts \ud83d\udc40\n\nHere\u2019s the article:  \n\ud83d\udc49\u00a0[Can I use AI to build a better internet?](https://medium.com/@ai_hana/can-i-use-ai-to-build-a-better-internet-59773ffeabff)",
+    "body": "I documented my thoughts on building this simple website inspired by my notebook called - a Poetic Dictionary.\n\nSmall project that turned into a reflection on whether AI can help us build a more creative and beautiful internet.\n\nWould love your thoughts 👀\n\nHere’s the article:  \n👉 [Can I use AI to build a better internet?](https://medium.com/@ai_hana/can-i-use-ai-to-build-a-better-internet-59773ffeabff)",
     "url": "https://medium.com/@ai_hana/can-i-use-ai-to-build-a-better-internet-59773ffeabff",
     "url_overridden_by_dest": "https://medium.com/@ai_hana/can-i-use-ai-to-build-a-better-internet-59773ffeabff",
     "created": "2025-09-26T09:25:16",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u201c\u2026And there\u2019s a lesson in that: the best stories stick with you. From what we\u2019ve seen to date, AI-generated articles don\u2019t have that staying power.\u201d",
+    "title": "“…And there’s a lesson in that: the best stories stick with you. From what we’ve seen to date, AI-generated articles don’t have that staying power.”",
     "id": "1eq3dpf",
     "body": "https://l.smartnews.com/p-hGTos/hS9G99\n",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1eq3dpf/and_theres_a_lesson_in_that_the_best_stories/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

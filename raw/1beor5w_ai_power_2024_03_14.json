@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Drone Swarms Are About to Change the Balance of Military Power - On today\u2019s battlefields, drones are a manageable threat. When hundreds of them can be harnessed to AI technology, they will become a tool of conquest.",
+    "title": "Drone Swarms Are About to Change the Balance of Military Power - On today’s battlefields, drones are a manageable threat. When hundreds of them can be harnessed to AI technology, they will become a tool of conquest.",
     "id": "1beor5w",
     "body": "",
     "url": "https://www.wsj.com/tech/drone-swarms-are-about-to-change-the-balance-of-military-power-e091aa6f",
@@ -11,5 +11,8 @@
     "num_comments": 237,
     "ups": 1565,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "With the power of AI, humanity has reached its final form...",
     "id": "1jkunce",
-    "body": "Why cure diseases or solve world hunger when you can use OpenAI\u2019s new image tools to replace Giovanni in Pok\u00e9mon Fire Red with Donald Trump holding a hot dog?\nBehold: Boss Trump would like to battle.\n\nLet\u2019s just say... we\u2019re not limited by our tools anymore.",
+    "body": "Why cure diseases or solve world hunger when you can use OpenAI’s new image tools to replace Giovanni in Pokémon Fire Red with Donald Trump holding a hot dog?\nBehold: Boss Trump would like to battle.\n\nLet’s just say... we’re not limited by our tools anymore.",
     "url": "https://i.redd.it/auamyn59h5re1.png",
     "url_overridden_by_dest": "https://i.redd.it/auamyn59h5re1.png",
     "created": "2025-03-26T20:18:45",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 26,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
