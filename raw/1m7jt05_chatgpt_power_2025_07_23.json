@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "I agree with the UK\u2019s decision not to pay ransom ransom. I think it takes power out of the bad guys hands.(Stills for images made with ChatGPT)",
+    "title": "I agree with the UK’s decision not to pay ransom ransom. I think it takes power out of the bad guys hands.(Stills for images made with ChatGPT)",
     "id": "1m7jt05",
     "body": "",
     "url": "https://v.redd.it/mybrmyaeloef1",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 7,
     "upvote_ratio": 0.699999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

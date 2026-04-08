@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Gigabyte releases AI software to help train your own AI \u2014 AI TOP utility taps Gigabyte motherboards, GPUs, SSDs, and power supplies to fine-tune local AI model training",
+    "title": "Gigabyte releases AI software to help train your own AI — AI TOP utility taps Gigabyte motherboards, GPUs, SSDs, and power supplies to fine-tune local AI model training",
     "id": "1e61nle",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gigabyte-releases-ai-software-to-help-train-your-own-ai",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

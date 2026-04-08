@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT waste",
-    "title": "Is Saying \u2018Please/Thank You\u2019 to ChatGPT-4o a Waste?",
+    "title": "Is Saying ‘Please/Thank You’ to ChatGPT-4o a Waste?",
     "id": "1kjpeh0",
     "body": "Dare ya ta watch this 2013 cartoon that is aging well, way too well. [https://www.youtube.com/watch?v=pAjSIYePLnY](https://www.youtube.com/watch?v=pAjSIYePLnY) Hard to keep calling it satire when it starts looking like a mirror. Double *dare ya*... ***Double dog dare you.***",
     "url": "https://www.youtube.com/watch?v=pAjSIYePLnY",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 0,
     "upvote_ratio": 0.28999999165534973,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "New \u201cSuper-Turing\u201d AI Chip Mimics The Human Brain To Learn In Real Time \u2014 Using Just Nanowatts Of Power",
+    "title": "New “Super-Turing” AI Chip Mimics The Human Brain To Learn In Real Time — Using Just Nanowatts Of Power",
     "id": "1lgj9jm",
     "body": "I skimmed through the paper and it looks legit but it seems a little too good to be true, am I missing something?",
     "url": "https://thedebrief.org/new-super-turing-ai-chip-mimics-the-human-brain-to-learn-in-real-time-using-just-nanowatts-of-power/",
@@ -11,5 +11,8 @@
     "num_comments": 41,
     "ups": 231,
     "upvote_ratio": 0.9599999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

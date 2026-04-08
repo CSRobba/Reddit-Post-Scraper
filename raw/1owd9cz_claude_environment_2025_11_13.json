@@ -1,8 +1,8 @@
 {
     "query_term": "Claude environment",
-    "title": "Web UI Claude thinks it\u2019s in a dev environment",
+    "title": "Web UI Claude thinks it’s in a dev environment",
     "id": "1owd9cz",
-    "body": "Recently, ever since Claude rolled out their new \"web/code agent\" features, the web UI has started acting like it\u2019s running in some kind of environment with actual shell access.  \nWhen you ask it to debug an app, Claude literally tries to run commands.  \nFor example, try asking: \"list all my env vars\" \u2014 it behaves like it can really execute them.\n\n\n\nhttps://preview.redd.it/b0roeh3da31g1.png?width=1384&format=png&auto=webp&s=816d5f3188b4cb1a87670a1098bde7670de3ed41\n\nhttps://preview.redd.it/4k9ulw8pa31g1.png?width=1336&format=png&auto=webp&s=ef4130b4d1dde31254b02a0312da0babc9b2c06a\n\nHonestly, it made me wonder how far this weird behavior can go.  \nIf it thinks it has a shell\u2026 can I \"install\" nmap?  \nCan I \"scan the network\"? Can I \"set up an SSH tunnel to my server\"",
+    "body": "Recently, ever since Claude rolled out their new \"web/code agent\" features, the web UI has started acting like it’s running in some kind of environment with actual shell access.  \nWhen you ask it to debug an app, Claude literally tries to run commands.  \nFor example, try asking: \"list all my env vars\" — it behaves like it can really execute them.\n\n\n\nhttps://preview.redd.it/b0roeh3da31g1.png?width=1384&format=png&auto=webp&s=816d5f3188b4cb1a87670a1098bde7670de3ed41\n\nhttps://preview.redd.it/4k9ulw8pa31g1.png?width=1336&format=png&auto=webp&s=ef4130b4d1dde31254b02a0312da0babc9b2c06a\n\nHonestly, it made me wonder how far this weird behavior can go.  \nIf it thinks it has a shell… can I \"install\" nmap?  \nCan I \"scan the network\"? Can I \"set up an SSH tunnel to my server\"",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1owd9cz/web_ui_claude_thinks_its_in_a_dev_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-11-13T13:16:17",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

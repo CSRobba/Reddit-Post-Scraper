@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Understanding Google's 14.3 Million Tons of CO\u2082 Emissions\u2014and Why AI Energy Use Isn't the Problem",
+    "title": "Understanding Google's 14.3 Million Tons of CO₂ Emissions—and Why AI Energy Use Isn't the Problem",
     "id": "1i4g7l0",
     "body": "",
     "url": "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 22,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
