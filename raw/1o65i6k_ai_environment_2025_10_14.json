@@ -2,7 +2,7 @@
     "query_term": "AI environment",
     "title": "Which AI app is better for the environment?",
     "id": "1o65i6k",
-    "body": "The options are C.ai and ChatGPT. \nI\u2019m aware both suck for the environment and are just bad apps in general, but I wanna know which one is worse for the environment specifically. ",
+    "body": "The options are C.ai and ChatGPT. \nI’m aware both suck for the environment and are just bad apps in general, but I wanna know which one is worse for the environment specifically. ",
     "url": "https://www.reddit.com/r/questions/comments/1o65i6k/which_ai_app_is_better_for_the_environment/",
     "url_overridden_by_dest": null,
     "created": "2025-10-14T00:01:18",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

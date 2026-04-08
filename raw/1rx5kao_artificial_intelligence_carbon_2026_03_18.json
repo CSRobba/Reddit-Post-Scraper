@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence carbon",
-    "title": "Bezos' $10 billion climate charity has a new mission: promoting AI | The Bezos Earth Fund is focused on selling artificial intelligence \u2014 the technology driving Amazon's rising carbon emissions \u2014 as the solution to the climate crisis",
+    "title": "Bezos' $10 billion climate charity has a new mission: promoting AI | The Bezos Earth Fund is focused on selling artificial intelligence — the technology driving Amazon's rising carbon emissions — as the solution to the climate crisis",
     "id": "1rx5kao",
     "body": "",
     "url": "https://oligarchwatch.substack.com/p/bezos-10-billion-climate-charity",
@@ -11,5 +11,8 @@
     "num_comments": 46,
     "ups": 347,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

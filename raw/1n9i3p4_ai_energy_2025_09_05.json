@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "China\u2019s energy system on the frontlines of the AI explosion.",
+    "title": "China’s energy system on the frontlines of the AI explosion.",
     "id": "1n9i3p4",
     "body": "",
     "url": "https://dialogue.earth/en/energy/is-chinas-energy-system-ready-for-the-ai-boom/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 14,
     "upvote_ratio": 0.8999999761581421,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

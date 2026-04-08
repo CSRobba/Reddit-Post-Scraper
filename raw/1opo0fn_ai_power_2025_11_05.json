@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "The power of a decent computer for AI",
     "id": "1opo0fn",
-    "body": "Hey everyone,\n\nLately I\u2019ve been diving deeper into AI, and honestly, I\u2019ve realized that you don\u2019t need a huge cloud setup or expensive subscriptions to start experimenting with tools like ollama and Hugging Face, I\u2019ve been able to run models like llama 3, Mistral, Phi, and Qwen locally on my own computer and it\u2019s been amazing. It\u2019s not a high-end gaming rig or anything, just a decent machine with good RAM and a solid CPU/GPU.\n\nBeing able to test things offline, analyze my own data, and keep everything private has made me enjoy AI even more. It feels more personal and creative, like using your own lab instead of renting one.\n\nI\u2019m curious, do you think we\u2019re getting closer to a point where local AI setups could rival the cloud for most devs? Or maybe even empower more people to become AI developers just by having access to better consumer hardware?",
+    "body": "Hey everyone,\n\nLately I’ve been diving deeper into AI, and honestly, I’ve realized that you don’t need a huge cloud setup or expensive subscriptions to start experimenting with tools like ollama and Hugging Face, I’ve been able to run models like llama 3, Mistral, Phi, and Qwen locally on my own computer and it’s been amazing. It’s not a high-end gaming rig or anything, just a decent machine with good RAM and a solid CPU/GPU.\n\nBeing able to test things offline, analyze my own data, and keep everything private has made me enjoy AI even more. It feels more personal and creative, like using your own lab instead of renting one.\n\nI’m curious, do you think we’re getting closer to a point where local AI setups could rival the cloud for most devs? Or maybe even empower more people to become AI developers just by having access to better consumer hardware?",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1opo0fn/the_power_of_a_decent_computer_for_ai/",
     "url_overridden_by_dest": null,
     "created": "2025-11-05T19:16:12",
@@ -11,5 +11,8 @@
     "num_comments": 20,
     "ups": 7,
     "upvote_ratio": 0.7099999785423279,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

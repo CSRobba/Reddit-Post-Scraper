@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "5 ways you can use ChatGPT to power your New Year\u2019s Resolutions",
+    "title": "5 ways you can use ChatGPT to power your New Year’s Resolutions",
     "id": "1hrnd7j",
     "body": "",
     "url": "https://www.techradar.com/computing/artificial-intelligence/5-ways-you-can-use-chatgpt-to-power-your-new-years-resolutions",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

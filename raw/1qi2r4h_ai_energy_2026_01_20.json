@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Everyone\u2019s doing that \u2018how AI sees me\u2019 meme \u2014 this is what I got after 3 ciders and fixing energy with bin juice.",
+    "title": "Everyone’s doing that ‘how AI sees me’ meme — this is what I got after 3 ciders and fixing energy with bin juice.",
     "id": "1qi2r4h",
     "body": "",
     "url": "https://www.reddit.com/gallery/1qi2r4h",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.25,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

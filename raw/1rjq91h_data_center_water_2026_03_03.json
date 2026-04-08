@@ -2,7 +2,7 @@
     "query_term": "data center water",
     "title": "Best practices for sealing data center penetrations (water ingress, air leakage, fire/soke, EMI) - what do you standardize?",
     "id": "1rjq91h",
-    "body": "Disclosure: I work at Roxtec. I\u2019m not trying to advertise here. I'm looking for operator and designer input. I\u2019ll keep this link-free to respect the sub rules.\n\nI\u2019m putting together a practical checklist for data center penetrations (cables/pipes through walls, slabs, and roof entries). The issues I keep seeing tied to penetrations are:\n\n* Water ingress (underground duct banks/manholes, cooling connections, roof entries)\n* Air leakage (pressure management, efficiency, containment)\n* Fire/smoke spread (barrier integrity at walls/floors)\n* EMI / bonding / grounding (especially near sensitive equipment and mixed systems)\n* Change management (new cables over time, rework, documentation gaps)\n\nQuestions:\n\n1. What performance requirements do you treat as mandatory at penetrations (fire rating, watertightness, airtightness, rodent/pest, EMI, tamper resistance)?\n2. Where do you see the most common failures: design details, installation quality, re-entry/changes, or maintenance access?\n3. Do you have standard inspection or test steps after adds/moves/changes (visual criteria, leak checks, photo documentation, commissioning sign-off)?",
+    "body": "Disclosure: I work at Roxtec. I’m not trying to advertise here. I'm looking for operator and designer input. I’ll keep this link-free to respect the sub rules.\n\nI’m putting together a practical checklist for data center penetrations (cables/pipes through walls, slabs, and roof entries). The issues I keep seeing tied to penetrations are:\n\n* Water ingress (underground duct banks/manholes, cooling connections, roof entries)\n* Air leakage (pressure management, efficiency, containment)\n* Fire/smoke spread (barrier integrity at walls/floors)\n* EMI / bonding / grounding (especially near sensitive equipment and mixed systems)\n* Change management (new cables over time, rework, documentation gaps)\n\nQuestions:\n\n1. What performance requirements do you treat as mandatory at penetrations (fire rating, watertightness, airtightness, rodent/pest, EMI, tamper resistance)?\n2. Where do you see the most common failures: design details, installation quality, re-entry/changes, or maintenance access?\n3. Do you have standard inspection or test steps after adds/moves/changes (visual criteria, leak checks, photo documentation, commissioning sign-off)?",
     "url": "https://v.redd.it/levy3dt9ktmg1",
     "url_overridden_by_dest": "https://v.redd.it/levy3dt9ktmg1",
     "created": "2026-03-03T06:07:59",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
