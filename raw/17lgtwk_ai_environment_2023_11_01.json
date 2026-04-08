@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "I'm developing a AI Art Generation App that gives creative pro\u2019s the ability to get precise AI renderings of people in any environment. I would \u2764\ufe0f to hear your thoughts!",
+    "title": "I'm developing a AI Art Generation App that gives creative pro’s the ability to get precise AI renderings of people in any environment. I would ❤️ to hear your thoughts!",
     "id": "17lgtwk",
     "body": "",
     "url": "https://v.redd.it/tlvwnjl3prxb1",
@@ -11,5 +11,8 @@
     "num_comments": 46,
     "ups": 398,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

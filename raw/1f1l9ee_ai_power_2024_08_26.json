@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "Can I Download and Deploy a Custom AI Model Trained in Power Automate AI Builder?",
     "id": "1f1l9ee",
-    "body": "Hello, \n\nI'm currently working on a project where I need to extract specific information from a large number of PDF documents\u2014such as locations, addresses, machine types, etc. I\u2019m using Power Automate AI Builder, which lets me label hundreds of PDFs and create collections for different document layouts. It\u2019s a great tool for training a model to handle these tasks, but it seems like I can't download the trained model or deploy it outside of the Microsoft ecosystem (e.g., using it with Python or other platforms).\n\nThe problem is,  I need a model that can handle processing thousands of PDF files with varying layouts. The goal is to have a model that I can integrate with Python, and potentially, in the future, embed into a website or other applications.  \nI'm aware of other tools like Google Document AI and Azure, but I\u2019m wondering if these or other platforms allow the same kind of training process while also giving me the ability to download and use the model externally. Unfortunately, I haven\u2019t been able to try out these tools or alternatives because most of them require payment before you can experiment with them.\n\nDoes anyone know if Google Document AI, Azure, or any other platforms offer this capability? Or any suggestions for other tools that might meet these needs? Any recommendations or insights would be greatly appreciated!",
+    "body": "Hello, \n\nI'm currently working on a project where I need to extract specific information from a large number of PDF documents—such as locations, addresses, machine types, etc. I’m using Power Automate AI Builder, which lets me label hundreds of PDFs and create collections for different document layouts. It’s a great tool for training a model to handle these tasks, but it seems like I can't download the trained model or deploy it outside of the Microsoft ecosystem (e.g., using it with Python or other platforms).\n\nThe problem is,  I need a model that can handle processing thousands of PDF files with varying layouts. The goal is to have a model that I can integrate with Python, and potentially, in the future, embed into a website or other applications.  \nI'm aware of other tools like Google Document AI and Azure, but I’m wondering if these or other platforms allow the same kind of training process while also giving me the ability to download and use the model externally. Unfortunately, I haven’t been able to try out these tools or alternatives because most of them require payment before you can experiment with them.\n\nDoes anyone know if Google Document AI, Azure, or any other platforms offer this capability? Or any suggestions for other tools that might meet these needs? Any recommendations or insights would be greatly appreciated!",
     "url": "https://www.reddit.com/r/learnmachinelearning/comments/1f1l9ee/can_i_download_and_deploy_a_custom_ai_model/",
     "url_overridden_by_dest": null,
     "created": "2024-08-26T03:53:37",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Besides America's other objectives in the Iran war, there seems to be a hidden goal: controlling energy supplies to exert influence over China in the AI \u200b\u200barms race. So, what do you think of what the United States is doing to achieve its goal?",
+    "title": "Besides America's other objectives in the Iran war, there seems to be a hidden goal: controlling energy supplies to exert influence over China in the AI ​​arms race. So, what do you think of what the United States is doing to achieve its goal?",
     "id": "1rmt1a9",
     "body": "",
     "url": "https://www.reddit.com/r/AskReddit/comments/1rmt1a9/besides_americas_other_objectives_in_the_iran_war/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

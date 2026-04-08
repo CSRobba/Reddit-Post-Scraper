@@ -1,8 +1,8 @@
 {
     "query_term": "AI power",
-    "title": "The real power of AI isn\u2019t automation \u2014 it\u2019s clarity",
+    "title": "The real power of AI isn’t automation — it’s clarity",
     "id": "1rhz7dw",
-    "body": "I expected AI to save time.\n\nWhat I didn\u2019t expect was how much clearer my thinking became when I used it to structure ideas, summarize chaos, and refine rough thoughts.\n\nIt\u2019s like having a thinking partner that forces you to articulate better questions.\n\nBad input = messy output.\n\nClear input = sharp results.\n\nAI hasn\u2019t just improved my productivity.\n\nIt\u2019s improved the way I think.\n\nHas AI made you faster \u2014 or clearer?",
+    "body": "I expected AI to save time.\n\nWhat I didn’t expect was how much clearer my thinking became when I used it to structure ideas, summarize chaos, and refine rough thoughts.\n\nIt’s like having a thinking partner that forces you to articulate better questions.\n\nBad input = messy output.\n\nClear input = sharp results.\n\nAI hasn’t just improved my productivity.\n\nIt’s improved the way I think.\n\nHas AI made you faster — or clearer?",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rhz7dw/the_real_power_of_ai_isnt_automation_its_clarity/",
     "url_overridden_by_dest": null,
     "created": "2026-03-01T06:53:31",
@@ -11,5 +11,8 @@
     "num_comments": 12,
     "ups": 6,
     "upvote_ratio": 0.6100000143051147,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

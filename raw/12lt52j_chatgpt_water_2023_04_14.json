@@ -1,8 +1,8 @@
 {
     "query_term": "ChatGPT water",
-    "title": "Futurism (Article) \u2014 ChatGPT is Consuming a Staggering Amount of Water.",
+    "title": "Futurism (Article) — ChatGPT is Consuming a Staggering Amount of Water.",
     "id": "12lt52j",
-    "body": "\u201cResearchers from the University of Colorado Riverside and the University of Texas Arlington have shared a yet-to-be-peer-reviewed paper titled \u2018Making AI Less Thirsty\u2019 that looks into the environmental impact of AI training, which not only needs copious of electricity but also tons of water to cool the data centers.\u201d",
+    "body": "“Researchers from the University of Colorado Riverside and the University of Texas Arlington have shared a yet-to-be-peer-reviewed paper titled ‘Making AI Less Thirsty’ that looks into the environmental impact of AI training, which not only needs copious of electricity but also tons of water to cool the data centers.”",
     "url": "https://futurism.com/the-byte/chatgpt-ai-water-consumption",
     "url_overridden_by_dest": "https://futurism.com/the-byte/chatgpt-ai-water-consumption",
     "created": "2023-04-14T03:49:54",
@@ -11,5 +11,8 @@
     "num_comments": 16,
     "ups": 2,
     "upvote_ratio": 0.5699999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

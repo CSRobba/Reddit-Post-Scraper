@@ -2,7 +2,7 @@
     "query_term": "AI environmental",
     "title": "Google's new Research : Measuring the environmental impact of delivering AI at Google Scale",
     "id": "1mymb21",
-    "body": "Google has dropped in a very important research paper measuring the impact of AI on the environment, suggesting how much carbon emission, water, and energy consumption is done for running a prompt on Gemini. Surprisingly, the numbers have been quite low compared to the previously reported numbers by other studies, suggesting that the evaluation framework is flawed. \n\nGoogle measured the environmental impact of\u00a0**a single Gemini prompt**\u00a0and here\u2019s what they found:\n\n* **0.24 Wh of energy**\n* **0.03 grams of CO\u2082**\n* **0.26 mL of water**\n\nPaper : [https://services.google.com/fh/files/misc/measuring\\_the\\_environmental\\_impact\\_of\\_delivering\\_ai\\_at\\_google\\_scale.pdf](https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf)\n\nVideo : [https://www.youtube.com/watch?v=q07kf-UmjQo](https://www.youtube.com/watch?v=q07kf-UmjQo)",
+    "body": "Google has dropped in a very important research paper measuring the impact of AI on the environment, suggesting how much carbon emission, water, and energy consumption is done for running a prompt on Gemini. Surprisingly, the numbers have been quite low compared to the previously reported numbers by other studies, suggesting that the evaluation framework is flawed. \n\nGoogle measured the environmental impact of **a single Gemini prompt** and here’s what they found:\n\n* **0.24 Wh of energy**\n* **0.03 grams of CO₂**\n* **0.26 mL of water**\n\nPaper : [https://services.google.com/fh/files/misc/measuring\\_the\\_environmental\\_impact\\_of\\_delivering\\_ai\\_at\\_google\\_scale.pdf](https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf)\n\nVideo : [https://www.youtube.com/watch?v=q07kf-UmjQo](https://www.youtube.com/watch?v=q07kf-UmjQo)",
     "url": "https://www.reddit.com/r/datascience/comments/1mymb21/googles_new_research_measuring_the_environmental/",
     "url_overridden_by_dest": null,
     "created": "2025-08-24T00:32:51",
@@ -11,5 +11,8 @@
     "num_comments": 10,
     "ups": 44,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

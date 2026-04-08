@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "What work is being done to make AI more energy efficient?",
     "id": "1lz8v0i",
-    "body": "I know it\u2019s very energy inefficient. All the discussion I see on the issue is saying \u201cit\u2019s awful that it\u2019s bad\u201d and stops there. Computers themselves were really inefficient when they started in the first place, and they\u2019ve gotten much better. So, I\u2019m assuming they\u2019re working to make AI more cost effective and efficient too - what\u2019s being done?",
+    "body": "I know it’s very energy inefficient. All the discussion I see on the issue is saying “it’s awful that it’s bad” and stops there. Computers themselves were really inefficient when they started in the first place, and they’ve gotten much better. So, I’m assuming they’re working to make AI more cost effective and efficient too - what’s being done?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1lz8v0i/what_work_is_being_done_to_make_ai_more_energy/",
     "url_overridden_by_dest": null,
     "created": "2025-07-13T17:50:37",
@@ -11,5 +11,8 @@
     "num_comments": 4,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

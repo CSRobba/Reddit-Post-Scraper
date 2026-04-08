@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "What\u2019s Your Power, Strong AI?",
+    "title": "What’s Your Power, Strong AI?",
     "id": "zues7d",
     "body": "",
     "url": "https://moderndiplomacy.eu/2022/12/21/whats-your-power-strong-ai",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

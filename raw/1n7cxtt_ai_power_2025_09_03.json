@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "China subsidizes AI computing for small domestic companies \u2014 'computing power vouchers' spread across multiple Chinese cities",
+    "title": "China subsidizes AI computing for small domestic companies — 'computing power vouchers' spread across multiple Chinese cities",
     "id": "1n7cxtt",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-subsidizes-ai-computing-for-small-domestic-companies-computing-power-vouchers-spread-across-multiple-chinese-cities",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 9,
     "upvote_ratio": 0.6499999761581421,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

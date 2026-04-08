@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "AI improvement cuts both ways\u2014being a non-expert \"ideas guy\" is not sustainable long-term",
+    "title": "AI improvement cuts both ways—being a non-expert \"ideas guy\" is not sustainable long-term",
     "id": "1l1celk",
     "body": "You're all familiar with the story of non-technical vibe coders getting owned because of terrible or non-existent security practices in generated code. \"No worries there,\" you might think. \"The way things are going, within a year AI will write performant and secure production code. I won't even need to ask.\"\n\nThis line of thinking is flawed. If AI improves its coding skills drastically, where will you fit in to the equation? Do you think it will be able to write flawless code, but at the same time it will still need you to feed it ideas?\n\nIf you are neither a subject-matter expert or a technical expert, there are two possibilities: either AI is not quite smart enough, so your ideas are important, but the AI outputs a product that is defective in ways you don't understand; or AI is plenty smart, so your app idea is worthless because its own ideas are better.\n\nIt is a delusion to think \"in the future, AI will eliminate the need for designers, programmers, salespeople, and domain experts. But I will still be able to build a competitive business because I am a Guy Who Has Ideas about an app to make, and I know how to prompt the AI.\"",
     "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1l1celk/ai_improvement_cuts_both_waysbeing_a_nonexpert/",
@@ -11,5 +11,8 @@
     "num_comments": 34,
     "ups": 19,
     "upvote_ratio": 0.7200000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

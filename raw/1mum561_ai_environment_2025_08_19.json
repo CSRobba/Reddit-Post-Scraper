@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "Should we care about the environment and save humanity, no! I want my ai pictures\ud83d\ude44",
+    "title": "Should we care about the environment and save humanity, no! I want my ai pictures🙄",
     "id": "1mum561",
     "body": "",
     "url": "https://i.redd.it/9y1vt7q1t5gf1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 49,
     "ups": 167,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

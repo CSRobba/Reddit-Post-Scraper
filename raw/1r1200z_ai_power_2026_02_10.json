@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "China\u2019s Alibaba launches AI model to power robots as tech giants talk up \u2018physical AI\u2019",
+    "title": "China’s Alibaba launches AI model to power robots as tech giants talk up ‘physical AI’",
     "id": "1r1200z",
     "body": "",
     "url": "https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html",
@@ -11,5 +11,8 @@
     "num_comments": 3,
     "ups": 1,
     "upvote_ratio": 0.5199999809265137,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

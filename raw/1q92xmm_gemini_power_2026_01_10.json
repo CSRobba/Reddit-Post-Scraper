@@ -2,7 +2,7 @@
     "query_term": "Gemini power",
     "title": "It's official: Apple is adopting Gemini to power Siri. We actually won.",
     "id": "1q92xmm",
-    "body": "I've been following the rumors for weeks, but the reports coming in now about the $1B deal are pretty much confirming it. Apple is officially using Google Gemini as the core engine for Siri in the next iOS update.\n\nAfter all the criticism Gemini got at launch, it\u2019s wild to see Apple admit it\u2019s the only model reliable enough to handle a billion iPhones. This feels like the ultimate validation for the tech. \n\nAre you guys excited to see how Google optimizes Gemini for the iPhone, or do you think this partnership will slow down its integration into Android?",
+    "body": "I've been following the rumors for weeks, but the reports coming in now about the $1B deal are pretty much confirming it. Apple is officially using Google Gemini as the core engine for Siri in the next iOS update.\n\nAfter all the criticism Gemini got at launch, it’s wild to see Apple admit it’s the only model reliable enough to handle a billion iPhones. This feels like the ultimate validation for the tech. \n\nAre you guys excited to see how Google optimizes Gemini for the iPhone, or do you think this partnership will slow down its integration into Android?",
     "url": "https://i.redd.it/q5w7phzgnicg1.jpeg",
     "url_overridden_by_dest": "https://i.redd.it/q5w7phzgnicg1.jpeg",
     "created": "2026-01-10T04:32:26",
@@ -11,5 +11,8 @@
     "num_comments": 226,
     "ups": 414,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

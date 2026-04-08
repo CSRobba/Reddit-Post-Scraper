@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Act as if I was for AI and said : \"People act like AI is the villain, but buildings, cars, factories, and coal plants are literally using 10\u201330\u00d7 more energy than the entire AI industry.\" What would you reply.",
+    "title": "Act as if I was for AI and said : \"People act like AI is the villain, but buildings, cars, factories, and coal plants are literally using 10–30× more energy than the entire AI industry.\" What would you reply.",
     "id": "1opg7uv",
     "body": "Please prove me wrong.",
     "url": "https://www.reddit.com/r/antiai/comments/1opg7uv/act_as_if_i_was_for_ai_and_said_people_act_like/",
@@ -11,5 +11,8 @@
     "num_comments": 9,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

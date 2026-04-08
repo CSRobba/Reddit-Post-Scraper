@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Read the power and importance of Data and it\u2019s essentiality of management in the age of AI",
+    "title": "Read the power and importance of Data and it’s essentiality of management in the age of AI",
     "id": "1l5zd05",
     "body": "",
     "url": "https://worldwiseai.blogspot.com/2025/06/navigating-ethical-frontier-data.html",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

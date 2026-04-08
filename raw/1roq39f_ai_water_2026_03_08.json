@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "Why is water usage such a big issue with AI? Data centers are usually water cooled and have been for decades.",
     "id": "1roq39f",
-    "body": "I\u2019m in IT and several people have asked me why AI uses so much water.  I\u2019ve also seen several news stories talking about AI water usage.\n\nThe thing is, they\u2019re always talking about water usage at a data center which would likely also handle streaming, telecom, indexing, and several other task.\n\nAI is not the only thing that can be heavily optimized to run on GPUs.\n\nAnd every data center I\u2019ve ever seen uses a closed water loop, so the water is recycled and never released back to the atmosphere.\n\nWhat made people suddenly care about data center water usage?",
+    "body": "I’m in IT and several people have asked me why AI uses so much water.  I’ve also seen several news stories talking about AI water usage.\n\nThe thing is, they’re always talking about water usage at a data center which would likely also handle streaming, telecom, indexing, and several other task.\n\nAI is not the only thing that can be heavily optimized to run on GPUs.\n\nAnd every data center I’ve ever seen uses a closed water loop, so the water is recycled and never released back to the atmosphere.\n\nWhat made people suddenly care about data center water usage?",
     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1roq39f/why_is_water_usage_such_a_big_issue_with_ai_data/",
     "url_overridden_by_dest": null,
     "created": "2026-03-08T21:03:23",
@@ -11,5 +11,8 @@
     "num_comments": 17,
     "ups": 1,
     "upvote_ratio": 0.5400000214576721,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

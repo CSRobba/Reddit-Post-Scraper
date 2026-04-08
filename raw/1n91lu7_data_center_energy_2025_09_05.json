@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "Virginia\u2019s data center boom tests clean energy law. Exploding electricity needs are pushing Virginia\u2019s largest utility, Dominion Energy, to seek new gas plants \u2014 despite a state mandate to eliminate fossil fuels by 2045.",
+    "title": "Virginia’s data center boom tests clean energy law. Exploding electricity needs are pushing Virginia’s largest utility, Dominion Energy, to seek new gas plants — despite a state mandate to eliminate fossil fuels by 2045.",
     "id": "1n91lu7",
     "body": "",
     "url": "https://www.canarymedia.com/articles/utilities/virginia-dominion-chesterfield-gas-data-center-demand",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 7,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

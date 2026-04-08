@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "AI technology behind ChatGPT built was in Iowa \u2013 with a lot of water",
+    "title": "AI technology behind ChatGPT built was in Iowa – with a lot of water",
     "id": "16ee30m",
     "body": "- The artificial intelligence technology behind ChatGPT was built in Iowa, specifically in the watershed of the Raccoon and Des Moines rivers.\n\n- Microsoft-backed OpenAI needed a lot of water to cool its powerful supercomputer as it taught its AI systems how to mimic human writing.\n\n- Leading tech developers like Microsoft, OpenAI, and Google have acknowledged the high costs associated with the growing demand for AI tools, including expensive semiconductors and increased water consumption.\n\n- Microsoft disclosed a 34% spike in global water consumption, largely attributed to its AI research.\n\n- A researcher estimates that ChatGPT uses 500 milliliters of water for every series of prompts or questions.\n\nSource : https://news.yahoo.com/artificial-intelligence-technology-behind-chatgpt-131421382.html\n\nSummarized by Nuse AI",
     "url": "https://www.reddit.com/r/artificial/comments/16ee30m/ai_technology_behind_chatgpt_built_was_in_iowa/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.36000001430511475,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }
