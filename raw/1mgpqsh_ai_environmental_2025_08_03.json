@@ -1,6 +1,6 @@
 {
     "query_term": "AI environmental",
-    "title": "Environmental-Friendly, NO AI Web Browser that Donates to the Ocean \ud83c\udf0a",
+    "title": "Environmental-Friendly, NO AI Web Browser that Donates to the Ocean 🌊",
     "id": "1mgpqsh",
     "body": "",
     "url": "https://apps.apple.com/app/id1536398518",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 2,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

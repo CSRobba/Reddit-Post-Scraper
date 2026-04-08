@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "\ud83d\udd0a\ud83d\uddbc\ufe0f Identify the faulty components of water-cooled HVAC systems via anomalous sound detection and diagnose ensuing cooling malfunctions via thermal visual anomaly detection. To perform AI-powered features, the device employs Audio MFE and FOMO-AD algorithms in combination with the web application.",
+    "title": "🔊🖼️ Identify the faulty components of water-cooled HVAC systems via anomalous sound detection and diagnose ensuing cooling malfunctions via thermal visual anomaly detection. To perform AI-powered features, the device employs Audio MFE and FOMO-AD algorithms in combination with the web application.",
     "id": "1elmkds",
     "body": "",
     "url": "https://www.reddit.com/gallery/1elmkds",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

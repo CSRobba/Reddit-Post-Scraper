@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Argentina's nuclear program director who pledged for the creation of small modular reactors to meet the energy demands of data centers and AI applications resigns amid corruption scandals.",
     "id": "1r7o7wl",
-    "body": "What's funny is that Argentina\u2019s dreams of producing its own SMR precede Milei: In 2014, the CNEA started construction on CAREM, a nuclear power reactor developed entirely in Argentina. But shortly after taking office in December 2023, Milei slashed funding for CNEA. Last year, construction on the CAREM project \u2014 which was about 85%  complete \u2014 ground to a halt as about 470 workers were laid off.\n\nSo at the same time they stop the development of a SMR project, they promised to quickstart SMR's for \"AI energy demand\". SMR's for Argentina: No no. SMR's for silicon valley: Hell yeah!\n\nImagine being an nuclear engineer working in a novel nuclear project for 20 years, 20 years..It's 85% done. And then one day some guy comes and tells you \"pack it up, we are shutting it down\" and then turns around and says \"And now we'll start a NEW project, to power the AI revolution\". Like why did you shut down the original project in the first place. Oh, I know: You want to do America's design. Argentina=bad, America=good. \n\n\n\n",
+    "body": "What's funny is that Argentina’s dreams of producing its own SMR precede Milei: In 2014, the CNEA started construction on CAREM, a nuclear power reactor developed entirely in Argentina. But shortly after taking office in December 2023, Milei slashed funding for CNEA. Last year, construction on the CAREM project — which was about 85%  complete — ground to a halt as about 470 workers were laid off.\n\nSo at the same time they stop the development of a SMR project, they promised to quickstart SMR's for \"AI energy demand\". SMR's for Argentina: No no. SMR's for silicon valley: Hell yeah!\n\nImagine being an nuclear engineer working in a novel nuclear project for 20 years, 20 years..It's 85% done. And then one day some guy comes and tells you \"pack it up, we are shutting it down\" and then turns around and says \"And now we'll start a NEW project, to power the AI revolution\". Like why did you shut down the original project in the first place. Oh, I know: You want to do America's design. Argentina=bad, America=good. \n\n\n\n",
     "url": "https://batimes.com.ar/news/argentina/milei-advisor-demian-reidel-resigns-as-head-of-nucleoelectrica-argentina.phtml",
     "url_overridden_by_dest": "https://batimes.com.ar/news/argentina/milei-advisor-demian-reidel-resigns-as-head-of-nucleoelectrica-argentina.phtml",
     "created": "2026-02-17T16:43:09",
@@ -11,5 +11,8 @@
     "num_comments": 6,
     "ups": 36,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

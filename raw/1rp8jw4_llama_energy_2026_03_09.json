@@ -1,8 +1,8 @@
 {
     "query_term": "Llama energy",
-    "title": "I benchmarked ROLV vs cuBLAS on real Llama 4 Maverick weights \u2014 20.7x faster, 177x TTFT, 81.5% less energy",
+    "title": "I benchmarked ROLV vs cuBLAS on real Llama 4 Maverick weights — 20.7x faster, 177x TTFT, 81.5% less energy",
     "id": "1rp8jw4",
-    "body": "Pulled the actual up\\_proj weight from model-00001-of-00084.safetensors (16384\u00d75120, bfloat16) directly from HuggingFace and ran 1,000 iterations on an NVIDIA B200.\n\n**Results vs cuBLAS:**\n\n* Tokens/s: 369K \u2192 7.66M \u2014 20.7x faster\n* Time to First Token: 64.8ms \u2192 0.37ms \u2014 177x faster\n* Energy: 232J \u2192 43J \u2014 81.5% savings\n* Effective TFLOPS: 62 \u2192 1,285\n\nOutput is mathematically identical \u2014 SHA-256 norm hashes verified at both ends, canonical check passed. ROLV detects structured sparsity in the MoE expert weights and skips provably-zero computation entirely. No approximation, no quantization, no precision loss.\n\nThe 177x TTFT number is the one I'd focus on. MoE models spend a disproportionate share of first-token latency in these expert projections. Collapsing that from 65ms to 0.4ms per layer changes what real-time inference looks like in practice.\n\nSetup: PyTorch 2.8.0+cu128, CUDA 12.8, Python 3.12, NVIDIA B200. Validation kit at [rolv.ai](http://rolv.ai) if you want to run a baseline on your own hardware.",
+    "body": "Pulled the actual up\\_proj weight from model-00001-of-00084.safetensors (16384×5120, bfloat16) directly from HuggingFace and ran 1,000 iterations on an NVIDIA B200.\n\n**Results vs cuBLAS:**\n\n* Tokens/s: 369K → 7.66M — 20.7x faster\n* Time to First Token: 64.8ms → 0.37ms — 177x faster\n* Energy: 232J → 43J — 81.5% savings\n* Effective TFLOPS: 62 → 1,285\n\nOutput is mathematically identical — SHA-256 norm hashes verified at both ends, canonical check passed. ROLV detects structured sparsity in the MoE expert weights and skips provably-zero computation entirely. No approximation, no quantization, no precision loss.\n\nThe 177x TTFT number is the one I'd focus on. MoE models spend a disproportionate share of first-token latency in these expert projections. Collapsing that from 65ms to 0.4ms per layer changes what real-time inference looks like in practice.\n\nSetup: PyTorch 2.8.0+cu128, CUDA 12.8, Python 3.12, NVIDIA B200. Validation kit at [rolv.ai](http://rolv.ai) if you want to run a baseline on your own hardware.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rp8jw4/i_benchmarked_rolv_vs_cublas_on_real_llama_4/",
     "url_overridden_by_dest": null,
     "created": "2026-03-09T11:35:04",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

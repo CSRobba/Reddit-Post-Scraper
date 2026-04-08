@@ -2,7 +2,7 @@
     "query_term": "AI water",
     "title": "How do we know how much water each AI prompt uses.",
     "id": "1rwgp3m",
-    "body": "I wasn't exactly use where to put this question so here!\n\nHonestly, the only way I can imagine it is the water pouring into a tank with every message. I know that isn't likely what's happening, but I'm so confused on how we can measure that a viewing a Tiktok uses \u22480.09 ounces, or a ChatGPT prompt uses \u224816.9.",
+    "body": "I wasn't exactly use where to put this question so here!\n\nHonestly, the only way I can imagine it is the water pouring into a tank with every message. I know that isn't likely what's happening, but I'm so confused on how we can measure that a viewing a Tiktok uses ≈0.09 ounces, or a ChatGPT prompt uses ≈16.9.",
     "url": "https://www.reddit.com/r/antiai/comments/1rwgp3m/how_do_we_know_how_much_water_each_ai_prompt_uses/",
     "url_overridden_by_dest": null,
     "created": "2026-03-17T12:29:10",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

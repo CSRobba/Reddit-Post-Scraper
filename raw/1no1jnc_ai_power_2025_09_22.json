@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "$37 billion 'Stargate of China' project takes shape \u2014 country is converting farmland into data centers to centralize AI compute power",
+    "title": "$37 billion 'Stargate of China' project takes shape — country is converting farmland into data centers to centralize AI compute power",
     "id": "1no1jnc",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-converting-farmland-into-data-centers-as-part-of-usd37-billion-effort-to-centralize-ai-compute-power-project-dubbed-stargate-of-china",
@@ -11,5 +11,8 @@
     "num_comments": 55,
     "ups": 328,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

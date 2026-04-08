@@ -1,6 +1,6 @@
 {
     "query_term": "AI sustainable",
-    "title": "Is AI truly sustainable if companies rely on third-party providers? \ud83e\udd14(article related)",
+    "title": "Is AI truly sustainable if companies rely on third-party providers? 🤔(article related)",
     "id": "1jkj2b8",
     "body": "",
     "url": "https://blog.tangramholo.com/rise-of-sustainable-ai/",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 1,
     "upvote_ratio": 0.6000000238418579,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

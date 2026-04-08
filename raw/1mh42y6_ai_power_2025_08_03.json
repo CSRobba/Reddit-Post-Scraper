@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Promising embedded AI system detects early-stage Parkinson\u2019s using wearable sensors, enabling real-time screening on low-power devices",
+    "title": "Promising embedded AI system detects early-stage Parkinson’s using wearable sensors, enabling real-time screening on low-power devices",
     "id": "1mh42y6",
     "body": "",
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169260725004067",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 0,
     "upvote_ratio": 0.4300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

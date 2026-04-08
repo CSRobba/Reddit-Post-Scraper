@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence carbon",
-    "title": "Google Is No Longer Claiming to Be Carbon Neutral \u2022 The tech giant, which has seen its planet-warming emissions rise because of artificial intelligence, has stopped buying cheap offsets behind the neutrality claim. The company now aims to reach net-zero carbon by 2030.",
+    "title": "Google Is No Longer Claiming to Be Carbon Neutral • The tech giant, which has seen its planet-warming emissions rise because of artificial intelligence, has stopped buying cheap offsets behind the neutrality claim. The company now aims to reach net-zero carbon by 2030.",
     "id": "1dyrp69",
     "body": "",
     "url": "https://www.bloomberg.com/news/articles/2024-07-08/google-is-no-longer-claiming-to-be-carbon-neutral",
@@ -11,5 +11,8 @@
     "num_comments": 45,
     "ups": 735,
     "upvote_ratio": 0.9399999976158142,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

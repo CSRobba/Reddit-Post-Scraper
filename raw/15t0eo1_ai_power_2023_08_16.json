@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "The AI Power Paradox: Can States Learn to Govern Artificial Intelligence\u2014Before It\u2019s Too Late?",
+    "title": "The AI Power Paradox: Can States Learn to Govern Artificial Intelligence—Before It’s Too Late?",
     "id": "15t0eo1",
     "body": "",
     "url": "https://www.foreignaffairs.com/world/artificial-intelligence-power-paradox",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 0.75,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

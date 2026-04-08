@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Unleashing the Power of AI: Transforming Images with Just a Few Words! \ud83d\udd8c\ufe0f\u2728 Witness the magic as simple AI text prompts bring images to life.",
+    "title": "Unleashing the Power of AI: Transforming Images with Just a Few Words! 🖌️✨ Witness the magic as simple AI text prompts bring images to life.",
     "id": "14cgejb",
     "body": "",
     "url": "https://i.redd.it/fsj92y7tzq6b1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

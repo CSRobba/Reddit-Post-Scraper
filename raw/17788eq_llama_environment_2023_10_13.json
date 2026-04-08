@@ -2,7 +2,7 @@
     "query_term": "Llama environment",
     "title": "[P] Deploy and Run LLMs at the Edge: Use Code Llama to Generate a Dashboard in a Network Restricted Environment",
     "id": "17788eq",
-    "body": "In this blog, we explore different definitions of \u201cthe edge,\u201d and understand the factors driving AI/ML to the edge. We examine why the trends of LLMs and edge computing are intersecting now, and how teams can take advantage of their combined power today. We also demonstrate how LLMs can be used in an edge environment to generate insights for a real-world use case today. Consider a geologist working in a remote oil field who is responsible for building and analyzing 3D models of oil fields to determine production capacity and the impact on profitability. In this demo, we walk through how Code Llama, [Chassisml.io](https://chassisml.io/v1.5/), and Modzy could be used to build a dashboard that geologists could use to analyze well data in real-time in a remote, network restricted environment, allowing for LLM insights generated at the edge.\n\nLearn more: [https://www.modzy.com/modzy-blog/deploy-and-run-llms-at-the-edge](https://www.modzy.com/modzy-blog/deploy-and-run-llms-at-the-edge)",
+    "body": "In this blog, we explore different definitions of “the edge,” and understand the factors driving AI/ML to the edge. We examine why the trends of LLMs and edge computing are intersecting now, and how teams can take advantage of their combined power today. We also demonstrate how LLMs can be used in an edge environment to generate insights for a real-world use case today. Consider a geologist working in a remote oil field who is responsible for building and analyzing 3D models of oil fields to determine production capacity and the impact on profitability. In this demo, we walk through how Code Llama, [Chassisml.io](https://chassisml.io/v1.5/), and Modzy could be used to build a dashboard that geologists could use to analyze well data in real-time in a remote, network restricted environment, allowing for LLM insights generated at the edge.\n\nLearn more: [https://www.modzy.com/modzy-blog/deploy-and-run-llms-at-the-edge](https://www.modzy.com/modzy-blog/deploy-and-run-llms-at-the-edge)",
     "url": "https://www.reddit.com/r/MachineLearning/comments/17788eq/p_deploy_and_run_llms_at_the_edge_use_code_llama/",
     "url_overridden_by_dest": null,
     "created": "2023-10-13T13:43:49",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

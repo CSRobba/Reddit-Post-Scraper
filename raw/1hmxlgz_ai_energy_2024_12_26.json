@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Can AI become more powerful while at the same time more energy efficient? Is that possible?",
     "id": "1hmxlgz",
-    "body": "I hope this isn\u2019t a stupid question, but is it at all possible for AI to become more powerful while more energy efficient at the same time?",
+    "body": "I hope this isn’t a stupid question, but is it at all possible for AI to become more powerful while more energy efficient at the same time?",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1hmxlgz/can_ai_become_more_powerful_while_at_the_same/",
     "url_overridden_by_dest": null,
     "created": "2024-12-26T12:46:32",
@@ -11,5 +11,8 @@
     "num_comments": 51,
     "ups": 5,
     "upvote_ratio": 0.5899999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

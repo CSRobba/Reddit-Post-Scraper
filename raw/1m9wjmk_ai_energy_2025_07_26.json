@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Trump\u2019s mega bill blasted by Washington leaders: Clean energy cuts threaten AI boom, hike costs. \u201c...direct attack on tech. Without clean energy, we don\u2019t have technology. Limiting the amount of energy we can produce is counterintuitive in terms of trying to be a dominant player in the AI space.\"",
+    "title": "Trump’s mega bill blasted by Washington leaders: Clean energy cuts threaten AI boom, hike costs. “...direct attack on tech. Without clean energy, we don’t have technology. Limiting the amount of energy we can produce is counterintuitive in terms of trying to be a dominant player in the AI space.\"",
     "id": "1m9wjmk",
     "body": "",
     "url": "https://www.geekwire.com/2025/trumps-mega-bill-blasted-by-washington-leaders-clean-energy-cuts-threaten-ai-boom-hike-costs/",
@@ -11,5 +11,8 @@
     "num_comments": 13,
     "ups": 294,
     "upvote_ratio": 0.9800000190734863,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence electricity",
-    "title": "Hungry for electricity, artificial intelligence firms are knocking on Wyoming\u2019s door",
+    "title": "Hungry for electricity, artificial intelligence firms are knocking on Wyoming’s door",
     "id": "1ge5bxt",
     "body": "",
     "url": "https://wyofile.com/hungry-for-electricity-artificial-intelligence-firms-are-knocking-on-wyomings-door/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 3,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

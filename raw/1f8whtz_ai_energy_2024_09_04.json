@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Energy-consuming AI raises climate challenges\u30fcNHK WORLD-JAPAN NEWS",
+    "title": "Energy-consuming AI raises climate challengesーNHK WORLD-JAPAN NEWS",
     "id": "1f8whtz",
     "body": "Death Valley CA, got a shootout on NHK News... BTW they have really good climate videos...  Everyone should check them out.",
     "url": "https://youtu.be/CDsDMKTxZ_Q?si=FccYMoOWHJdg1dCv",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT environment",
-    "title": "ELI5: How is ChatGPT bad for the environment if it\u2019s online?",
+    "title": "ELI5: How is ChatGPT bad for the environment if it’s online?",
     "id": "1i02inu",
     "body": "",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1i02inu/eli5_how_is_chatgpt_bad_for_the_environment_if/",
@@ -11,5 +11,8 @@
     "num_comments": 15,
     "ups": 0,
     "upvote_ratio": 0.12999999523162842,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

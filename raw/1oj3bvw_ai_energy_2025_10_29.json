@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Green energy gets a brain \u2014 Infosys\u2019 AI transforms wind and solar into unstoppable power sources",
+    "title": "Green energy gets a brain — Infosys’ AI transforms wind and solar into unstoppable power sources",
     "id": "1oj3bvw",
     "body": "",
     "url": "https://cleantechtimes.com/news/green-energy-gets-a-brain-infosys-ai-transforms-wind-and-solar-into-unstoppable-power-sources/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 3,
     "upvote_ratio": 0.6700000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

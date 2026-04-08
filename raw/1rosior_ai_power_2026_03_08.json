@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI can now hide its full power when it\u2019s being tested.",
+    "title": "AI can now hide its full power when it’s being tested.",
     "id": "1rosior",
     "body": "",
     "url": "https://youtu.be/l6ZcFa8pybE?si=2y08_sAG3DHyQ0na",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.5699999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
