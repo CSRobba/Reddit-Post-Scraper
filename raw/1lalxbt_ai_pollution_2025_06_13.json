@@ -1,6 +1,6 @@
 {
     "query_term": "AI pollution",
-    "title": "In Texas, AI Gold Rush Helps Spur Demand for Over 100 New Gas Plants | State may be \u201crubber stamping\u201d some air pollution permits, according to new report on the boom.",
+    "title": "In Texas, AI Gold Rush Helps Spur Demand for Over 100 New Gas Plants | State may be “rubber stamping” some air pollution permits, according to new report on the boom.",
     "id": "1lalxbt",
     "body": "",
     "url": "https://www.desmog.com/2025/06/12/texas-ai-artificial-intelligence-demand-100-gas-plants-data-centers-pollution-eip-report/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 9,
     "upvote_ratio": 0.9200000166893005,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

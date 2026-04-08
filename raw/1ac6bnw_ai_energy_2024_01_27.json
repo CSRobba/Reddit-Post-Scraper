@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "AI is supposed to make us more efficient \u2013 but it could mean we waste more energy",
+    "title": "AI is supposed to make us more efficient – but it could mean we waste more energy",
     "id": "1ac6bnw",
     "body": "",
     "url": "https://theconversation.com/ai-is-supposed-to-make-us-more-efficient-but-it-could-mean-we-waste-more-energy-220990",
@@ -11,5 +11,8 @@
     "num_comments": 16,
     "ups": 7,
     "upvote_ratio": 0.6200000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

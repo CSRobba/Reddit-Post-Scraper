@@ -2,7 +2,7 @@
     "query_term": "LLM energy",
     "title": "Energy Efficient Hardware for Always On Local LLM Server?",
     "id": "1e8a7qd",
-    "body": "I have Home Assistant setup controlling must of be things in my house. I can use OpenAI with it to get a custom voice assistant, but I really want a fully local offline setup.\n\nI have played around with different models on my MacBook Pro, and I have a 3080 gaming PC but the laptop isn\u2019t a server, and the gaming PC seems way to energy intensive to leave running 24/7.\n\nI\u2019m happy to go by new hardware for this, but if I buy a 4090 and leave it running 24/7 that\u2019s up to $200/month in electrical usage and that\u2019s\u2026. too much.\n\nI could go for a raspberry pi and it\u2019d use no power. But I\u2019d like my assistant to respond some time this month.\n\nSo I guess my question is: **what\u2019s the most energy efficient hardware I can get away with, that\u2019d be able to run say Llama 3 8b in about real time?**  \n(faster is better, but that\u2019s I think about the smallest model and slowest that\u2019d not be painful to use).\n\nIs something like a 4060 energy efficient enough to use for an always on server, and still powerful enough to actually run the models?\n\nIs a Mac mini the best bet? (Mac don\u2019t like being servers, auto login, auto book, network drives unmounting, so I\u2019d prefer to avoid one. But it might be the best option)",
+    "body": "I have Home Assistant setup controlling must of be things in my house. I can use OpenAI with it to get a custom voice assistant, but I really want a fully local offline setup.\n\nI have played around with different models on my MacBook Pro, and I have a 3080 gaming PC but the laptop isn’t a server, and the gaming PC seems way to energy intensive to leave running 24/7.\n\nI’m happy to go by new hardware for this, but if I buy a 4090 and leave it running 24/7 that’s up to $200/month in electrical usage and that’s…. too much.\n\nI could go for a raspberry pi and it’d use no power. But I’d like my assistant to respond some time this month.\n\nSo I guess my question is: **what’s the most energy efficient hardware I can get away with, that’d be able to run say Llama 3 8b in about real time?**  \n(faster is better, but that’s I think about the smallest model and slowest that’d not be painful to use).\n\nIs something like a 4060 energy efficient enough to use for an always on server, and still powerful enough to actually run the models?\n\nIs a Mac mini the best bet? (Mac don’t like being servers, auto login, auto book, network drives unmounting, so I’d prefer to avoid one. But it might be the best option)",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1e8a7qd/energy_efficient_hardware_for_always_on_local_llm/",
     "url_overridden_by_dest": null,
     "created": "2024-07-20T20:46:59",
@@ -11,5 +11,8 @@
     "num_comments": 59,
     "ups": 27,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

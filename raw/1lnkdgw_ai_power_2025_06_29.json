@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "GriddyLink: Decentralizing AI Computing Power \u2013 Seeking Developers & Investors to Shape the Future",
+    "title": "GriddyLink: Decentralizing AI Computing Power – Seeking Developers & Investors to Shape the Future",
     "id": "1lnkdgw",
     "body": "",
     "url": "http://GriddyLink.com",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

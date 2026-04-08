@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "\u201cIt\u2019s kind of stunning to consider the staggering toll on the environment now caused by generating the electricity demanded by everything from mining bitcoin to powering AI.\u201d",
+    "title": "“It’s kind of stunning to consider the staggering toll on the environment now caused by generating the electricity demanded by everything from mining bitcoin to powering AI.”",
     "id": "1ektrkf",
     "body": "https://l.smartnews.com/p-QDyZS/NTkKyI",
     "url": "https://www.reddit.com/r/StoriesForMyTherapist/comments/1ektrkf/its_kind_of_stunning_to_consider_the_staggering/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

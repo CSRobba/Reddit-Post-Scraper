@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Collaborative research on AI safety is vital | If we are to take seriously the risk facing humanity, regulators need the power to \u2018recall\u2019 deployed models, as well as assess leading, not lagging, indicators of risk",
+    "title": "Collaborative research on AI safety is vital | If we are to take seriously the risk facing humanity, regulators need the power to ‘recall’ deployed models, as well as assess leading, not lagging, indicators of risk",
     "id": "1hye2n7",
     "body": "",
     "url": "https://www.theguardian.com/technology/2025/jan/09/collaborative-research-on-ai-safety-is-vital",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 10,
     "upvote_ratio": 0.6600000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

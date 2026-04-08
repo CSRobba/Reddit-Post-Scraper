@@ -2,7 +2,7 @@
     "query_term": "ChatGPT electricity",
     "title": "Every \"please\" and \"thank you\" to ChatGPT is costing OpenAI tens of millions in electricity bills.",
     "id": "1k3dtpq",
-    "body": "Every \"please\" and \"thank you\" to ChatGPT is costing OpenAI tens of millions in electricity bills.\n\nWhy? \n\nBecause politeness \n= more tokens\n= more computation \n= more power.\n\nSam Altman still says it\u2019s \"money well spent\". Are you polite to your AI?",
+    "body": "Every \"please\" and \"thank you\" to ChatGPT is costing OpenAI tens of millions in electricity bills.\n\nWhy? \n\nBecause politeness \n= more tokens\n= more computation \n= more power.\n\nSam Altman still says it’s \"money well spent\". Are you polite to your AI?",
     "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1k3dtpq/every_please_and_thank_you_to_chatgpt_is_costing/",
     "url_overridden_by_dest": null,
     "created": "2025-04-19T23:45:49",
@@ -11,5 +11,8 @@
     "num_comments": 168,
     "ups": 456,
     "upvote_ratio": 0.8299999833106995,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

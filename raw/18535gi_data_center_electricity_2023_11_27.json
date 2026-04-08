@@ -1,6 +1,6 @@
 {
     "query_term": "data center electricity",
-    "title": "China begins building underwater data center with performance equal to 6 million PCs \u2014 aims to save 122 million KWh of electricity and nearly ten soccer fields of land | Data centers find refuge at the bottom of the ocean.",
+    "title": "China begins building underwater data center with performance equal to 6 million PCs — aims to save 122 million KWh of electricity and nearly ten soccer fields of land | Data centers find refuge at the bottom of the ocean.",
     "id": "18535gi",
     "body": "",
     "url": "https://www.tomshardware.com/desktops/servers/china-has-started-building-an-underwater-data-center-performance-is-equivalent-to-6-million-pcs-and-aims-to-save-nearly-ten-soccer-fields-of-land-and-122-million-kwh-of-electricity",
@@ -11,5 +11,8 @@
     "num_comments": 207,
     "ups": 689,
     "upvote_ratio": 0.9100000262260437,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

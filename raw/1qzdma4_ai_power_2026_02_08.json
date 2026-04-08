@@ -2,7 +2,7 @@
     "query_term": "AI power",
     "title": "AI fanboys are living a tech industry middle management power fantasy",
     "id": "1qzdma4",
-    "body": "AI fanboys are treating AI agents and tools like their dev team, and they are the managers. They are shitty managers:\n\nThey heard about agile development once, and think that rolling the dice and praying for a decent output is the same as build/test/iterate loop of agile development.\n\nThey take the credit on the rare instance when their output is \u201cgood,\u201d and always shift the blame when it isn\u2019t.\n\nThey obsess over the idea of productivity and innovation, but all just signaling to higher ups, without substance or meaningful results. They\u2019re all basically saying \u201cLook at me! I\u2019m SO good and productive and innovative! Pick me!\u201d\n\nEven though they didn\u2019t do the work, now that they\u2019ve output some image or video or code, they think that gives them expertise or authority in the field. Only someone who isn\u2019t an artist thinks that art is just your ability to draw. Only someone who isn\u2019t an engineer thinks that engineering is just your ability to code.\n\nThey assumed that just because they built it, someone will want it.",
+    "body": "AI fanboys are treating AI agents and tools like their dev team, and they are the managers. They are shitty managers:\n\nThey heard about agile development once, and think that rolling the dice and praying for a decent output is the same as build/test/iterate loop of agile development.\n\nThey take the credit on the rare instance when their output is “good,” and always shift the blame when it isn’t.\n\nThey obsess over the idea of productivity and innovation, but all just signaling to higher ups, without substance or meaningful results. They’re all basically saying “Look at me! I’m SO good and productive and innovative! Pick me!”\n\nEven though they didn’t do the work, now that they’ve output some image or video or code, they think that gives them expertise or authority in the field. Only someone who isn’t an artist thinks that art is just your ability to draw. Only someone who isn’t an engineer thinks that engineering is just your ability to code.\n\nThey assumed that just because they built it, someone will want it.",
     "url": "https://www.reddit.com/r/antiai/comments/1qzdma4/ai_fanboys_are_living_a_tech_industry_middle/",
     "url_overridden_by_dest": null,
     "created": "2026-02-08T08:38:01",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 19,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

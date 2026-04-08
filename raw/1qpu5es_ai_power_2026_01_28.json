@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "South Korea\u2019s \u2018world-first\u2019 AI laws face pushback amid bid to become leading tech power",
+    "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
     "id": "1qpu5es",
     "body": "",
     "url": "https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws",
@@ -11,5 +11,8 @@
     "num_comments": 5,
     "ups": 86,
     "upvote_ratio": 0.9700000286102295,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

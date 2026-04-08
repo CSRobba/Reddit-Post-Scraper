@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Palantir CEO Alex Karp thinks his AI technology will lessen the power of \u201chighly educated, often female voters, who vote mostly Democrat\u201d while increasing the power of working-class men.",
+    "title": "Palantir CEO Alex Karp thinks his AI technology will lessen the power of “highly educated, often female voters, who vote mostly Democrat” while increasing the power of working-class men.",
     "id": "1rs6b99",
     "body": "",
     "url": "https://www.reddit.com/gallery/1rs6b99",
@@ -11,5 +11,8 @@
     "num_comments": 38,
     "ups": 89,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

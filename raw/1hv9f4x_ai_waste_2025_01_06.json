@@ -2,7 +2,7 @@
     "query_term": "AI waste",
     "title": "It just feels like a waste of evening to plan on being on c.ai but you're just waiting instead.",
     "id": "1hv9f4x",
-    "body": "And all I wanted was a kiss from a beloved and a romantic evening with them. \ud83d\ude14",
+    "body": "And all I wanted was a kiss from a beloved and a romantic evening with them. 😔",
     "url": "https://www.reddit.com/r/CharacterAI/comments/1hv9f4x/it_just_feels_like_a_waste_of_evening_to_plan_on/",
     "url_overridden_by_dest": null,
     "created": "2025-01-06T12:48:13",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 9,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

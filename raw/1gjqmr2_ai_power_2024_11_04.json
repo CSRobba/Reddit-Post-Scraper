@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Mastering Machine Learning Algorithms: The AI Engineer\u2019s Power Toolkit",
+    "title": "Mastering Machine Learning Algorithms: The AI Engineer’s Power Toolkit",
     "id": "1gjqmr2",
     "body": "",
     "url": "https://youtube.com/watch?v=BCjEBCTVC9I&feature=shared",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

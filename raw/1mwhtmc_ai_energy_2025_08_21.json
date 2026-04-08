@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "How much energy does Google\u2019s AI use? We did the math",
+    "title": "How much energy does Google’s AI use? We did the math",
     "id": "1mwhtmc",
     "body": "",
     "url": "https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 7,
     "upvote_ratio": 0.8199999928474426,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

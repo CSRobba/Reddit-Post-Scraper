@@ -1,6 +1,6 @@
 {
     "query_term": "AI water",
-    "title": "If AI is evaporating water to cool its data centers doesn\u2019t that water just stay in the water cycle and not actually being wasted?",
+    "title": "If AI is evaporating water to cool its data centers doesn’t that water just stay in the water cycle and not actually being wasted?",
     "id": "1kemvpi",
     "body": "",
     "url": "https://www.reddit.com/r/explainlikeimfive/comments/1kemvpi/if_ai_is_evaporating_water_to_cool_its_data/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

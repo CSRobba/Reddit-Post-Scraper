@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Elon Musk says idling Tesla cars could create massive 100-million-vehicle strong computer for AI \u2014 'bored' vehicles could offer 100 gigawatts of distributed compute power",
+    "title": "Elon Musk says idling Tesla cars could create massive 100-million-vehicle strong computer for AI — 'bored' vehicles could offer 100 gigawatts of distributed compute power",
     "id": "1onojnz",
     "body": "",
     "url": "https://www.tomshardware.com/tech-industry/elon-musk-says-idling-tesla-cars-could-create-massive-100-million-vehicle-strong-computer-for-ai-bored-vehicles-could-offer-100-gigawatts-of-distributed-compute-power",
@@ -11,5 +11,8 @@
     "num_comments": 159,
     "ups": 298,
     "upvote_ratio": 0.8399999737739563,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

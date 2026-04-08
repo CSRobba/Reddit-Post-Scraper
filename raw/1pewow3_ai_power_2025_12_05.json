@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "\u2018Atoms for Algorithms:\u2019 The Trump Administration\u2019s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
+    "title": "‘Atoms for Algorithms:’ The Trump Administration’s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
     "id": "1pewow3",
     "body": "",
     "url": "https://www.404media.co/nuclear-rian-bahran-iaea-international-symposium-on-artificial-intelligence/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "Reimagining Power Rangers for the AI era. Meet the Zords like you've never seen before. \ud83e\udd16\ud83e\udd96",
+    "title": "Reimagining Power Rangers for the AI era. Meet the Zords like you've never seen before. 🤖🦖",
     "id": "16hko64",
     "body": "",
     "url": "https://www.reddit.com/gallery/16hko64",
@@ -11,5 +11,8 @@
     "num_comments": 7,
     "ups": 25,
     "upvote_ratio": 0.9300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

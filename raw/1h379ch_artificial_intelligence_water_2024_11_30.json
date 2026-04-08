@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence water",
-    "title": "Artificial Intelligence is Using a Ton of Water. Here\u2019s How to Be More Resourceful",
+    "title": "Artificial Intelligence is Using a Ton of Water. Here’s How to Be More Resourceful",
     "id": "1h379ch",
     "body": "I understand AI is crazy convenient but understand that convenience does have a price. Please keep an open mind while reading, i post this not to shame anyone for using a convenient product but to inform yall on how this could impact the future. ",
     "url": "https://www.watertechnologies.com/blog/artificial-intelligence-using-ton-water-heres-how-be-more-resourceful#:~:text=The%20massive%20water%20consumption%20by,data%20corruption%2C%20and%20costly%20downtime.",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 0.9900000095367432,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

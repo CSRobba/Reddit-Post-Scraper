@@ -1,6 +1,6 @@
 {
     "query_term": "AI environment",
-    "title": "What are Google\u2019s AI answers costing the environment? ",
+    "title": "What are Google’s AI answers costing the environment? ",
     "id": "1dddxsn",
     "body": "",
     "url": "https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/?utm_campaign=socialflow&utm_medium=social&utm_source=reddit",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 2,
     "upvote_ratio": 0.6299999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "query_term": "data center energy",
-    "title": "Data Center Lobbying Is Booming as Tech and Energy Giants Face \u2018Affordability\u2019 Backlash",
+    "title": "Data Center Lobbying Is Booming as Tech and Energy Giants Face ‘Affordability’ Backlash",
     "id": "1qjzfx6",
     "body": "",
     "url": "https://www.notus.org/technology/data-centers-ai-energy-lobbying-donald-trump-congress",
@@ -11,5 +11,8 @@
     "num_comments": 2,
     "ups": 60,
     "upvote_ratio": 0.949999988079071,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }
