@@ -1,6 +1,6 @@
 {
     "query_term": "ChatGPT power",
-    "title": "How to apply ChatGpt to electrical power system\uff1f",
+    "title": "How to apply ChatGpt to electrical power system？",
     "id": "124d56f",
     "body": "",
     "url": "https://i.redd.it/s7jjza0tbgqa1.jpg",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

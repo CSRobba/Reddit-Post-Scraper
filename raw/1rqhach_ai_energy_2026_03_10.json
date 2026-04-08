@@ -1,6 +1,6 @@
 {
     "query_term": "AI energy",
-    "title": "Why do twitter artists suffer from a messiah complex when they try to remake AI memes, even though most of them don\u2019t even capture the original\u2019s energy.",
+    "title": "Why do twitter artists suffer from a messiah complex when they try to remake AI memes, even though most of them don’t even capture the original’s energy.",
     "id": "1rqhach",
     "body": "",
     "url": "https://i.redd.it/fcjmvn62obog1.jpeg",
@@ -11,5 +11,8 @@
     "num_comments": 21,
     "ups": 113,
     "upvote_ratio": 0.8799999952316284,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

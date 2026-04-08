@@ -1,8 +1,8 @@
 {
     "query_term": "AI energy",
-    "title": "If solar energy, AI, and automation continue advancing, could we reach a \u2018post-scarcity\u2019 economy within this century?",
+    "title": "If solar energy, AI, and automation continue advancing, could we reach a ‘post-scarcity’ economy within this century?",
     "id": "1rmfofk",
-    "body": "Technologies like solar energy, artificial intelligence, robotics, and advanced manufacturing are improving rapidly while costs continue to fall. Some futurists believe that if energy, production, and logistics become highly automated, the cost of many goods could drop dramatically.\nThis raises the possibility of a \u201cpost-scarcity\u201d economy where basic needs like energy, food, housing materials, and manufactured goods are abundant and inexpensive.\nIf these technological trends continue throughout this century, could society realistically move toward a post-scarcity system? What technological or social barriers would need to be overcome first?",
+    "body": "Technologies like solar energy, artificial intelligence, robotics, and advanced manufacturing are improving rapidly while costs continue to fall. Some futurists believe that if energy, production, and logistics become highly automated, the cost of many goods could drop dramatically.\nThis raises the possibility of a “post-scarcity” economy where basic needs like energy, food, housing materials, and manufactured goods are abundant and inexpensive.\nIf these technological trends continue throughout this century, could society realistically move toward a post-scarcity system? What technological or social barriers would need to be overcome first?",
     "url": "https://www.reddit.com/r/Futurology/comments/1rmfofk/if_solar_energy_ai_and_automation_continue/",
     "url_overridden_by_dest": null,
     "created": "2026-03-06T06:37:21",
@@ -11,5 +11,8 @@
     "num_comments": 33,
     "ups": 0,
     "upvote_ratio": 0.4300000071525574,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

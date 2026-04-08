@@ -1,6 +1,6 @@
 {
     "query_term": "AI power",
-    "title": "AI Governance Isn\u2019t About Policies \u2014 It\u2019s About Controlling Decision Power",
+    "title": "AI Governance Isn’t About Policies — It’s About Controlling Decision Power",
     "id": "1s4wntp",
     "body": "",
     "url": "https://mytechascendant.com/ai-governance-framework-policy-to-power/",
@@ -11,5 +11,8 @@
     "num_comments": 0,
     "ups": 1,
     "upvote_ratio": 1,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n"
+    }
 }

@@ -1,8 +1,8 @@
 {
     "query_term": "AI energy",
-    "title": "Researchers question AI data centers\u2019 \u2018eye-popping\u2019 energy demands",
+    "title": "Researchers question AI data centers’ ‘eye-popping’ energy demands",
     "id": "1nenxqn",
-    "body": "\nInteresting article on the energy demands of AI and some researchers and consumer advocates who think those demands are overhyped. Here\u2019s a small excerpt:\n\nhttps://san.com/cc/researchers-question-ai-data-centers-eye-popping-energy-demands/\n\nIn an interview with Straight Arrow News, Koomey described how, in the late 1990s, many people believed that computers would use half of all the electricity produced in the U.S. within a decade or two.\n\n\u201cIt turned out that across the board, these claims were vast exaggerations,\u201d said Koomey, who has spent his career researching the energy and environmental effects of information technology, including more than two decades as a scientist at the Lawrence Berkeley National Laboratory.\n\nKoomey is part of a growing number of researchers and consumer advocates who worry that the power consumption hype is playing out again with AI.\n",
+    "body": "\nInteresting article on the energy demands of AI and some researchers and consumer advocates who think those demands are overhyped. Here’s a small excerpt:\n\nhttps://san.com/cc/researchers-question-ai-data-centers-eye-popping-energy-demands/\n\nIn an interview with Straight Arrow News, Koomey described how, in the late 1990s, many people believed that computers would use half of all the electricity produced in the U.S. within a decade or two.\n\n“It turned out that across the board, these claims were vast exaggerations,” said Koomey, who has spent his career researching the energy and environmental effects of information technology, including more than two decades as a scientist at the Lawrence Berkeley National Laboratory.\n\nKoomey is part of a growing number of researchers and consumer advocates who worry that the power consumption hype is playing out again with AI.\n",
     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1nenxqn/researchers_question_ai_data_centers_eyepopping/",
     "url_overridden_by_dest": null,
     "created": "2025-09-11T16:30:10",
@@ -11,5 +11,8 @@
     "num_comments": 11,
     "ups": 16,
     "upvote_ratio": 0.8700000047683716,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y"
+    }
 }

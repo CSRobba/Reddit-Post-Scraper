@@ -1,6 +1,6 @@
 {
     "query_term": "artificial intelligence energy",
-    "title": "Trump Headlines Artificial Intelligence Affair To Raise Americans\u2019 Energy Bills, Pollute Our Air, and Trample On Community Rights",
+    "title": "Trump Headlines Artificial Intelligence Affair To Raise Americans’ Energy Bills, Pollute Our Air, and Trample On Community Rights",
     "id": "1lzoro5",
     "body": "",
     "url": "https://www.citizen.org/news/trump-headlines-artificial-intelligence-affair-to-raise-americans-energy-bills-pollute-our-air-and-trample-on-community-rights/",
@@ -11,5 +11,8 @@
     "num_comments": 1,
     "ups": 0,
     "upvote_ratio": 0.5,
-    "view_count": null
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "m"
+    }
 }
