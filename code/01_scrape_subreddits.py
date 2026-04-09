@@ -91,4 +91,4 @@ if __name__ == "__main__":
     }
     queries = util.generate_queries(queries_file = QUERIES_FILE, **queries_kwargs)
 
-    queries = run_queries(queries, logger) 
+    queries = run_queries(queries, logger)
