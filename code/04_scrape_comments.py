@@ -26,7 +26,6 @@ def get_pushpull_comment_ids(post_id):
     }
     c_resp = requests.get(BASE_URL, params = params)
     comment_ids = c_resp.json().get('data', [])
-    # test print statements (debugging point)
   except Exception as e:
       comment_ids = []
       print(e)
@@ -42,14 +41,14 @@ def get_pushpull_comment_ids(post_id):
 # This function serves to populate a list of relevant post ID's from the rated
 # files in the raw directory
 def get_relevant_post_ids(raw_dir_path):
+    
     relevant_ids = []
-
     # iterate through all files in raw directory (make sure to pass in correct path)
     # skip non-json files
     for filename in os.listdir(raw_dir_path):
         if not filename.endswith(".json"):
             continue
-
+        
         file_path = os.path.join(raw_dir_path, filename)
 
         try:
@@ -70,8 +69,6 @@ def get_relevant_post_ids(raw_dir_path):
 
     return relevant_ids
 
-
-
 # Main
 # Output stored in raw_comments
 # currently posts with no comments are stored as empty files 
@@ -89,7 +86,7 @@ if __name__ == "__main__":
     output_path = os.path.join(output_dir, f"{post_id}.json")
 
     if os.path.exists(output_path): #avoid duplicatation when re-running code
-      print(f"Skipping {post_id} (already exists)")
+      print(f"Skipping {post_id} (already exists).")
       continue
 
     comments = get_pushpull_comment_ids(post_id)
