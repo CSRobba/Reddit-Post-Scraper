@@ -13,6 +13,10 @@
     "upvote_ratio": 1,
     "view_count": null,
     "relevance_rate": {
-        "nino": "y"
+        "nino": "y",
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "discourse"
     }
 }
