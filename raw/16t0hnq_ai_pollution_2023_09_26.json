@@ -13,6 +13,10 @@
     "upvote_ratio": 1,
     "view_count": null,
     "relevance_rate": {
-        "nino": "n"
+        "nino": "n",
+        "julie": "m"
+    },
+    "relevance_reasoning": {
+        "julie": "exisential dread due to AI, depends on if it's about the AI's env. impacts"
     }
 }

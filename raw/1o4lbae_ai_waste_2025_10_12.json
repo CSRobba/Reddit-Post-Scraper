@@ -13,6 +13,10 @@
     "upvote_ratio": 0.25999999046325684,
     "view_count": null,
     "relevance_rate": {
-        "nino": "n"
+        "nino": "n",
+        "julie": "m"
+    },
+    "relevance_reasoning": {
+        "julie": "explicitly mentions sustainability here"
     }
 }
