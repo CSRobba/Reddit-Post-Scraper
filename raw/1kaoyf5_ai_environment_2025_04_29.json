@@ -13,6 +13,10 @@
     "upvote_ratio": 0.9300000071525574,
     "view_count": null,
     "relevance_rate": {
-        "nino": "m"
+        "nino": "m",
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "its a way of understanding the env impact, and justifying it b'c its \"better than norm\""
     }
 }
