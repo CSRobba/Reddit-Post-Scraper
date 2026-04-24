@@ -13,6 +13,10 @@
     "upvote_ratio": 0.3100000023841858,
     "view_count": null,
     "relevance_rate": {
-        "nino": "n"
+        "nino": "n",
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "i think OP believes on-device AI si bettter environmentally"
     }
 }
