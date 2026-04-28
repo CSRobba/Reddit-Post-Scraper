@@ -20,7 +20,7 @@ SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 # ArcticPush URL
 BASE_URL = "https://arctic-shift.photon-reddit.com/api/posts/search"
 # ArcticPush Scraping Interval
-INTERVAL = 365 # Unit: days
+INTERVAL = 365 # Unit: days q
 START = datetime(2022, 11, 30)
 END = datetime(2026, 4, 1)
 
