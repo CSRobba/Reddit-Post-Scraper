@@ -1,0 +1,602 @@
+[
+  {
+    "filename": "10h2884_ai_power_2023_01_20.json",
+    "title": "New research says - \"the computing power required for AI is doubling every 100 days and is projected to increase by more than a million times over the next five years.\"",
+    "body": "",
+    "url": "https://spj.science.org/doi/10.34133/icomputing.0006",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "11vjsv6_ai_energy_2023_03_19.json",
+    "title": "Is the majority of society in agreement that we are need to reduce our carbon footprint? If so, why are more people not worried about inefficient energy programming paradigms like AI?",
+    "body": "",
+    "url": "https://www.reddit.com/r/AskReddit/comments/11vjsv6/is_the_majority_of_society_in_agreement_that_we/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "Actionability",
+    "j_comment": "possible cruel optimism - reliant on AI for programming"
+  },
+  {
+    "filename": "12yrz9o_chatgpt_water_2023_04_25.json",
+    "title": "ChatGPT would require 500 ml of water for every 20 to 50 questions answered.",
+    "body": "",
+    "url": "https://watertech.beehiiv.com/p/3-water-tech-weekly",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1ardqmo_ai_energy_2024_02_15.json",
+    "title": "Will rampant AI's 'insatiable' thirst for power leave green energy trailing in its wake?",
+    "body": "",
+    "url": "https://www.rechargenews.com/energy-transition/will-rampant-ais-insatiable-thirst-for-power-leave-green-energy-trailing-in-its-wake-/2-1-1518956",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "inaction, quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1bcnntx_ai_energy_2024_03_11.json",
+    "title": "Since GPUs continuously generate large amounts of waste heat during AI training, could electric/GPU stoves utilize this unused thermal energy resource through on-demand tickets as distributed networks instead of citizens using a wasteful private electric stove? What are the scientific challenges?",
+    "body": "What if you could cook dinner using the excess heat from your GPU stove that you rent out to others for AI training? Could distributed GPU stove systems help optimise energy use in the globe with cooking your dinner while powering another's tasks?",
+    "url": "https://www.reddit.com/r/AskScienceDiscussion/comments/1bcnntx/since_gpus_continuously_generate_large_amounts_of/",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "attempted optimization, inaction",
+    "j_comment": "cruel optimism, must use AI"
+  },
+  {
+    "filename": "1bvpay6_ai_power_2024_04_04.json",
+    "title": "Rising demand for emergency backup power and support to data centers for AI",
+    "body": "A local company near me is hiring 250 people to fulfill the demand for emergency electric backup systems. The increase in \"exponentially demand\" is directly tied to the increasing demand of AI electricity consumption. Where is the energy coming from? \n\nhttps://www.mystateline.com/news/rise-of-ai-provides-boom-for-machesney-park-business/\n\n\u201cAlready the demand for data centers was growing on an exponential pace,\u201d said Goellner. \u201cAnd now, AI has just created a hockey stick scenario. You need so much data with AI, that you cannot build these centers fast enough. As a result, now the demand has spiked even more.\u201d\n",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1bvpay6/rising_demand_for_emergency_backup_power_and/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1c0p418_ai_energy_2024_04_10.json",
+    "title": "I\u2019ve heard that digital currency requires massive energy use to manage. But won\u2019t AI and quantum computing, which are now upon us, also require massive energy use and be bad for the planet?",
+    "body": "How much of a negative impact on ten environment will be brought about by AI and quantum computing? ",
+    "url": "https://www.reddit.com/r/climatechange/comments/1c0p418/ive_heard_that_digital_currency_requires_massive/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1d5f9ta_ai_power_2024_06_01.json",
+    "title": "US slows plans to retire coal-fired plants as power demand from AI surges",
+    "body": "\n\nThe Biden administration has postponed the retirement dates for coal power plants due to concerns over meeting the energy demands of AI data centers. While the exact energy consumption of AI remains unclear, it is widely acknowledged as an energy-intensive technology.\n\n[US slows plans to retire coal-fired plants as power demand from AI surges](https://preview.redd.it/rgkxcn3v5w3d1.jpg?width=700&format=pjpg&auto=webp&s=d0afece03c60155cd47fa3c32f9b3bc35d42bf31)\n\n",
+    "url": "https://www.reddit.com/r/martechnewser/comments/1d5f9ta/us_slows_plans_to_retire_coalfired_plants_as/",
+    "ratings": {
+      "julie": "y",
+      "nino": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1drlwh2_ai_sustainable_2024_06_29.json",
+    "title": "Bill Gates says the massive power draw required for AI processing is nothing to worry about as AI will ultimately identify ways to help cut power consumption and drive the transition to sustainable energy. --- \"Isn't that the plot to the Matrix?\" \ud83d\ude05",
+    "body": "",
+    "url": "https://www.theregister.com/2024/06/28/bill_gates_ai_power_consumption/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "inaction, quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1dznlp8_chatgpt_energy_2024_07_09.json",
+    "title": "chatgpt energy consumption",
+    "body": "i just learned that chatgpt uses a shit ton of energy like SO SO SO much. whatttttttt ",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1dznlp8/chatgpt_energy_consumption/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "shock, quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1e88izh_ai_energy_2024_07_20.json",
+    "title": "Artificial intelligence is already an environmental problem - The energy and water consumption of Google and Microsoft, the main developers of generative AI, as well as their carbon emissions, have skyrocketed for the second consecutive year",
+    "body": "",
+    "url": "https://english.elpais.com/technology/2024-07-16/artificial-intelligence-is-already-an-environmental-problem.html",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1f1qoev_chatgpt_energy_2024_08_26.json",
+    "title": "ChatGPT's Energy Consumption: Enough to Power a City",
+    "body": "",
+    "url": "https://i.redd.it/hdozll4cy0ld1.png",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1f1tngo_ai_power_2024_08_26.json",
+    "title": "How much more water and power does AI computing demand? Tech firms don't want you to know",
+    "body": "",
+    "url": "https://www.latimes.com/environment/story/2024-08-26/tech-firms-conceal-water-and-power-demands-of-ai-computing",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1fgo2yx_ai_carbon_2024_09_14.json",
+    "title": "Generative AI is reportedly tripling carbon dioxide emissions from data centers",
+    "body": "",
+    "url": "https://www.techradar.com/pro/generative-ai-triples-the-carbon-dioxide-emissions-from-data-centers",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1fluxrl_ai_power_2024_09_20.json",
+    "title": "Using GPT-4 to generate 100 words consumes up to 3 bottles of water \u2014 AI data centers also raise power and water bills for nearby residents",
+    "body": "",
+    "url": "https://www.shiningscience.com/2024/09/using-gpt-4-to-generate-100-words.html",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1hryvte_ai_carbon_2025_01_02.json",
+    "title": "Is being on the AI team at my influential company making me complicit in creating more carbon emissions?",
+    "body": "Idk where to ask this but I need advice. \n\nI was moved on to my company\u2019s brand new AI team. It\u2019s a large and very influential company. So I\u2019m not talking about individual usage of AI, I\u2019m talking use on a large scale. I feel I have two options: try to work from within or leave the company. \n\nI\u2019ve been reading about the environmental impact of using AI. I know it\u2019s not AI itself making climate change worse, it\u2019s the data centers running on fossil fuels. I\u2019ve got a lot of conflicting feelings about it all. \n\nSo help me figure this out: is it better to work toward making changes from within (I.e. attempt to track ai energy consumption so it helps us in our cost analysis) or is it better to leave the team as to not be complicit in using such an environmentally taxing tool? I know someone will take my spot and it will be used regardless, so it\u2019s a tough decision.\n\n",
+    "url": "https://www.reddit.com/r/Advice/comments/1hryvte/is_being_on_the_ai_team_at_my_influential_company/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "agency, responsibility",
+    "j_comment": ""
+  },
+  {
+    "filename": "1hwvnl6_ai_energy_2025_01_08.json",
+    "title": "Does energy saved by powering data centers with AI offset energy cost of AI?",
+    "body": "I am doing an assignment on AI data center's sustainability and cant figure out from research if the total energy saved by AI making data centers more efficient is enough to cover the energy lost by powering the AI itself?",
+    "url": "https://www.reddit.com/r/datacenter/comments/1hwvnl6/does_energy_saved_by_powering_data_centers_with/",
+    "ratings": {
+      "julie": "y",
+      "nino": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1i47qcv_ai_energy_2025_01_18.json",
+    "title": "Read an article stating that generating an image using AI utilizes the same amount of energy as fully charging a smart phone. What are the ramifications of unregulated AI use going forward if this is the case?",
+    "body": "",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1i47qcv/read_an_article_stating_that_generating_an_image/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1infbuk_ai_power_2025_02_11.json",
+    "title": "generative ai on the environment even when local power is generated differently?",
+    "body": "posting this because someone posed this as a counterargument to my worries of generative AI on the environment and i dont know enough to refute it. i was told that in a state where our energy is generated by water-power, it doesn't matter if we use AI, since our power is coming from here? this sounds incredibly misinformed to me but i honestly just don't know enough about power systems to understand why or how it's wrong.  can someone explain further? ",
+    "url": "https://www.reddit.com/r/aiwars/comments/1infbuk/generative_ai_on_the_environment_even_when_local/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question, inaction",
+    "j_comment": "possible cruel optimism - reliant on AI and justifying use despite impacts"
+  },
+  {
+    "filename": "1ksv040_ai_power_2025_05_22.json",
+    "title": "AI could account for nearly half of datacentre power usage \u2018by end of year\u2019 | Analysis comes as energy agency predicts systems will need as much energy by end of decade as Japan uses today",
+    "body": "",
+    "url": "https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1kwysuy_ai_energy_2025_05_27.json",
+    "title": "How does the new AI use so much energy?",
+    "body": "What makes AI like ChatGPT use so much energy and resources compared to something like a regular search engine or wolframalpha",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1kwysuy/how_does_the_new_ai_use_so_much_energy/",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1lpjhgi_ai_water_2025_07_01.json",
+    "title": "Where does the water go after being used for cooling in AI datacenters and why do people talk about it like it goes to waste?",
+    "body": "",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1lpjhgi/where_does_the_water_go_after_being_used_for/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1lqh8nh_ai_water_2025_07_02.json",
+    "title": "Water consumption: the big unknown with increasing AI use",
+    "body": "",
+    "url": "https://www.heise.de/en/news/Water-consumption-the-big-unknown-with-increasing-AI-use-10472787.html",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1lr0qyq_chatgpt_environment_2025_07_03.json",
+    "title": "ELI5: How is ChatGPT bad for the world and communities? How is it directly affecting our communities and environment?",
+    "body": "",
+    "url": "https://www.reddit.com/r/explainlikeimfive/comments/1lr0qyq/eli5_how_is_chatgpt_bad_for_the_world_and/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "quantifying AI impact, question",
+    "j_comment": ""
+  },
+  {
+    "filename": "1m1rcn3_artificial_intelligence_water_2025_07_16.json",
+    "title": "Their Water Taps Ran Dry When Meta Built Next Door. In the race to develop artificial intelligence, tech giants are building data centers that guzzle up water. That has led to problems for people who live nearby. (Gift Article)",
+    "body": "",
+    "url": "https://www.nytimes.com/2025/07/14/technology/meta-data-center-water.html?unlocked_article_code=1.Wk8.nVlC.lr93p9-RQytx&utm_source=substack&utm_medium=email",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "shock, quantifying AI impact",
+    "j_comment": ""
+  },
+  {
+    "filename": "1m6gms3_ai_energy_2025_07_22.json",
+    "title": "Are there any statistics when it comes to the energy used / carbon emissions released due to AI video generation?",
+    "body": "I made a [similar post](https://www.reddit.com/r/aiwars/comments/1lh6dhf/is_the_environmental_impact_of_using_ai_concerning/) a month ago (thx for all the responses btw), but after seeing people commenting under goofy AI videos about how harmful they are I'm starting to become cautious again especially considering the fact that if a video is 30FPS and goes on for 8 seconds then that's 240 images generated. These videos also use AI speaking in sync with it + the creator might've done this 4\u00d7 before finding the best version + said creator has hundreds of these videos\n\nHere's all the info that I've read about AI's impact on the environment (none of them mention AI videos - to my awareness): [\"AI and climate change\"](https://www.iea.org/reports/energy-and-ai/ai-and-climate-change), a [Wiki article](https://en.m.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence), \"[Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)\" and \"[AI's shocking growth from 0.0064% of energy use in 2024 to 0.017% in 2025](https://www.reddit.com/r/aiwars/comments/1l7n8eb/ais_shocking_growth_from_00064_of_energy_use_in/)\"",
+    "url": "https://www.reddit.com/r/aiwars/comments/1m6gms3/are_there_any_statistics_when_it_comes_to_the/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1md059u_data_center_water_2025_07_30.json",
+    "title": "That amount is tiny compared to the water supply. There is a water shortage and water restrictions anyway, with or without the data center",
+    "body": "",
+    "url": "https://i.redd.it/ohsvb539ryff1.jpeg",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1mwhtmc_ai_energy_2025_08_21.json",
+    "title": "How much energy does Google\u2019s AI use? We did the math",
+    "body": "",
+    "url": "https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1nb6dzj_ai_environment_2025_09_07.json",
+    "title": "Do you think AI is really that bad for the environment as it\u2019s portrayed? Why or Why not ?",
+    "body": "",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1nb6dzj/do_you_think_ai_is_really_that_bad_for_the/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1nblbxa_ai_power_2025_09_08.json",
+    "title": "Google quietly removes net-zero carbon goal from website amid rapid power-hungry AI data center buildout \u2014 industry-first sustainability pledge moved to background amidst AI energy crisis",
+    "body": "",
+    "url": "https://www.tomshardware.com/tech-industry/google-quietly-removes-net-zero-carbon-goal-from-website-amid-rapid-power-hungry-ai-data-center-buildout-industry-first-sustainability-pledge-moved-to-background-amidst-ai-energy-crisis",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1nnlmtn_ai_environmental_2025_09_22.json",
+    "title": "How do Chat GPT and Google's basic search compare in terms of environmental impact, now that Google uses AI for everything?",
+    "body": "",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1nnlmtn/how_do_chat_gpt_and_googles_basic_search_compare/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1ny37eh_ai_power_2025_10_04.json",
+    "title": "Sam Altman\u2019s AI empire will devour as much power as New York City and San Diego combined. Experts say it\u2019s \u2018scary\u2019 | Fortune",
+    "body": "",
+    "url": "https://fortune.com/2025/09/24/sam-altman-ai-empire-new-york-city-san-diego-scary/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1o9iciv_ai_water_2025_10_17.json",
+    "title": "Are AI Data centers stealing clean drinking water from the Poor ?",
+    "body": "",
+    "url": "https://www.bbc.com/news/articles/cy8gy7lv448o",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1ofa0x9_data_center_power_2025_10_24.json",
+    "title": "Data center boom straining power grid as New York asks who should pay",
+    "body": "",
+    "url": "https://www.news10.com/news/rising-energy-costs-new-york/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1pdklqs_ai_water_2025_12_03.json",
+    "title": "Clean water that can't be recycled used in one single AI prompt.",
+    "body": "Now times that by millions, billions even.",
+    "url": "https://v.redd.it/29frsvytt25g1",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1pn63lk_ai_environmental_2025_12_15.json",
+    "title": "Environmental cost of running inference on Gen AI ?",
+    "body": "I like most of you, use AI Applications and ChatBots around the clock most are local LLMs but some closed models\n\nOfflate with each query and inference I feel like I am wasting the energy and environment as I know most of these inferences will happen on high end GPUs which aren't energy efficiencent\n\nNowadays for each query I feel like misusing the natural resources \nDoes anyone face this weird feeling of misusing the energy ?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pn63lk/environmental_cost_of_running_inference_on_gen_ai/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1pprqod_artificial_intelligence_environmental_2025_12_18.json",
+    "title": "Putting environmental regulations on Artificial Intelligence petition.",
+    "body": "It's clear; the use of Artificial Intelligence has gotten into the masses and now people with no jobs or talent use it to produce videos, images, text, etc. But, do these people realize what they're doing Everytime they hit create? \n\nShort answer. No. They don't, those people are either incredibly unaware or incredibly selfish. Artificial intelligence is able to do something humans haven't been able to do...\n\nUsing up water. Using up a fuck ton and when I say a fuck ton, I mean enough that you, yourself have to pay for it. If you live in an area with data centers please be aware of your raising water bills. \n\nLarge data centers can use up to five million gallons of fresh water a DAY. They use fresh water as a coolant for their equipment- would you want to drink water after it's been used in computers? I didn't think so. \n\nThis water is wasted with AI, a valuable resource is being waste. Let's not mention the effects it's having on our wild life. With the AI centers, some being built in the middle of nature; causing trees to be cut and animals having even less room to live. They matter too. \n\nI'm just not willing to sacrifice the world I live in for some stupid programs that can't even make hands properly. I'm not willing to destroy my world, and I hope you aren't either. \n\n \n\nWith this petition I'm not asking to ban the total use of it; I'm asking to put strict regulations, environmentally, socially, artistically. Thank you.  ",
+    "url": "https://www.reddit.com/r/antiai/comments/1pprqod/putting_environmental_regulations_on_artificial/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1pru1fi_ai_environmental_2025_12_20.json",
+    "title": "im antiai, why do yall like ai when it has issues such as stealing people's work, environmental issues, etc.",
+    "body": "",
+    "url": "https://www.reddit.com/r/aiwars/comments/1pru1fi/im_antiai_why_do_yall_like_ai_when_it_has_issues/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1puwrby_ai_water_use_2025_12_24.json",
+    "title": "[Request]How much water does AI use?",
+    "body": "Bassically i am annoyed by people saying that AI is bad because it uses water, so how much water does AI data centres use per day and how much would it change if everyone used googl given that there is 2.5 billion prompts a day?",
+    "url": "https://www.reddit.com/r/theydidthemath/comments/1puwrby/requesthow_much_water_does_ai_use/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1pvawbe_ai_energy_2025_12_25.json",
+    "title": "AI energy demand by the numbers \u2014 and how it might affect the planet. States with booming data center construction are seeing spikes in new power needs. Much of it is being met by coal and solar.",
+    "body": "",
+    "url": "https://www.eenews.net/articles/ai-energy-demand-by-the-numbers-and-how-it-might-affect-the-planet/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1qawjxn_ai_water_2026_01_12.json",
+    "title": "Is there enough concern about the rate at which AI data centres are going to consume water?",
+    "body": "",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1qawjxn/is_there_enough_concern_about_the_rate_at_which/",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1qihgoq_ai_water_2026_01_20.json",
+    "title": "Why can\u2019t ocean water be used for cooling AI data centers?",
+    "body": "Like I understand it would have logistics problems and the water would need to be filtered, but those are problems that could be easily solved. It seems like the whole AI data centers using up drinking water thing is poor planning for the long term ",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1qihgoq/why_cant_ocean_water_be_used_for_cooling_ai_data/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1qow73z_ai_water_2026_01_27.json",
+    "title": "ELI5 Why is water conservation and ai data centers using water so important if we can just reuse that water easily?",
+    "body": "Like water is infinite since it's recycled why is not wasting it so important? TIA!",
+    "url": "https://www.reddit.com/r/explainlikeimfive/comments/1qow73z/eli5_why_is_water_conservation_and_ai_data/",
+    "ratings": {
+      "nino": "y",
+      "chandana": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1qq64q3_ai_power_2026_01_29.json",
+    "title": "US leads record global surge in gas-fired power driven by AI demands, with big costs for the climate",
+    "body": "",
+    "url": "https://www.theguardian.com/environment/2026/jan/29/gas-power-ai-climate",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1qzrkik_chatgpt_energy_2026_02_08.json",
+    "title": "I hear about the amount of water and energy each question you ask chatgpt requires. But when Google AI Mode answers every single Google search, is that like a million times worse?",
+    "body": "",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1qzrkik/i_hear_about_the_amount_of_water_and_energy_each/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1rcjq4d_ai_water_2026_02_23.json",
+    "title": "Sam Altman compares AI energy use to the cost of \"training\" humans, says water-usage concerns are \"fake\".  \"It also takes a lot of energy to train a human\"",
+    "body": "",
+    "url": "https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1rfbdc0_ai_electricity_2026_02_26.json",
+    "title": "How data centers could delay climate progress | More dirty gas and coal plants could be turned on to generate the electricity that powers AI growth, polluting the air and harming the climate.",
+    "body": "",
+    "url": "https://yaleclimateconnections.org/2026/02/how-data-centers-could-delay-climate-progress/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1ruffd7_ai_water_2026_03_15.json",
+    "title": "Apparently blowing people up and ai stealing duck water is hurting the environment.",
+    "body": "Sometimes I wonder if people are born dumb or doesn\u2019t do much research on the stuff they claim they know. ",
+    "url": "https://www.reddit.com/gallery/1ruffd7",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1s25hew_ai_water_2026_03_24.json",
+    "title": "something something the AI water use",
+    "body": "# AI Water Use\n\n# Interactive Report and LLM/diffusion \"water cost\" calculator tools:\n\n[\\[Report Link - https://bra-khet.github.io/ai-water-use-report-1/\\]](https://bra-khet.github.io/ai-water-use-report-1/) |\n\n[\\[LLM Prompt Calculator - see how much water your prompts actually use\\]](https://bra-khet.github.io/ai-water-use-tool-1/)\n\n[\\[Image/Video-Gen Calculator - see how much water AI gem machines actually use\\]](https://bra-khet.github.io/ai-water-use-tool-2/)\n\n**tl;dr**:\n\n* this one's just for my pros\n* AI's water use is mainly a **power** issue, not a cooling issue. And it really isn't an issue compared to other things like farming, golf courses, etc.\n* Image and video use decent amounts of power, but local is much better, this will improve the in the future, and it's still barely anything.  You'd have to spend $100's in credits to use a few gallons of water.\n* Mainly just an issue in a few places, but those places do have issues\n\n\n\nIf you want to find out more I suggest you read the report, it's fairly detailed but still digestible.  I included as much as I could in the images.\n\nMy goal is to inform both sides and I hope we all see that AI directly accelerates fixing these problems of sustainable agriculture and energy grids.  AI is the best tool we have for the job to do this.\n\nResponsible and informed development, and responsible and informed use, makes AI\u2019s transformative power far outweigh the costs in my opinion.  I hope we can get the anti-AIs to help us actually build a future where they don't have to worry about these overblown, relatively small issues, when there are real issues we need to fix.\n\nAlso I didn't really like a couple of the conclusions in this report... but I do think they're representative of the truth.  If you see anything you think is straight up false please let me know.  I obviously did my best with Gemini and Claude but everyone makes mistakes so just lmk.  Also I explain more stuff on my homepage on the github pages if you want to learn more about the report or whatever.\n\n^(Made with Claude Code & Gemini Deep Research btw, brought to you by the entire Mississippi River)",
+    "url": "https://www.reddit.com/gallery/1s25hew",
+    "ratings": {
+      "julie": "y",
+      "nino": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  },
+  {
+    "filename": "1s5e9sz_ai_environment_2026_03_27.json",
+    "title": "Is AI still bad for the environment if locally hosted with solar?",
+    "body": "To get straight to the point, I recently saw someone claim that their use of generative AI should be given a pass, because they claim they allegedly only host their slop locally and only use their home solar power setup to run it, therefore having 0 negative environmental impact. I'm highly skeptical of this, but I was hoping people more educated on the finer details of the topic could help me better understand the situation and sus out the validity of these chaims. ",
+    "url": "https://www.reddit.com/r/antiai/comments/1s5e9sz/is_ai_still_bad_for_the_environment_if_locally/",
+    "ratings": {
+      "nino": "y",
+      "julie": "y"
+    },
+    "j_open_annotation": "",
+    "j_comment": ""
+  }
+]
