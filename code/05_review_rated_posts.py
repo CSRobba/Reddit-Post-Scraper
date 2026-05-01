@@ -145,7 +145,7 @@ def build_eligible(name, filters=None):
 
         if filters:
             # Filter mode: include posts matching the filter criteria
-            if _post_matches_filters(data, filters):
+            if _post_matches_filters(data, filters) and (_name in ratings.keys()) and (ratings[_name] in filters):
                 _eligible.append(fname)
         else:
             # Default mode: only unreviewed posts
