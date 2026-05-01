@@ -14,8 +14,11 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "y",
-        "julie": "n",
+        "julie": "y",
         "chandana": "n",
         "anoolia": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "trying to understand env impact of AI"
     }
 }

@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "m",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "suspending clean energy regulations bad"
     }
 }

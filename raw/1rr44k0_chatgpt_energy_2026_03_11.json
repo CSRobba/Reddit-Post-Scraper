@@ -15,5 +15,8 @@
     "relevance_rate": {
         "julie": "y",
         "nino": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "uses microwave as a method to understand the env impact"
     }
 }

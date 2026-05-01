@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "Connects AI being bad to the environemnt, and thinsk economic crash of the AI's value will undo the bad effects"
     }
 }

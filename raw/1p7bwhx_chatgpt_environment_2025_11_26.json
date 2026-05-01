@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "trying to act as an alternative, giving agency. More related than posts we've rated otherwise"
     }
 }

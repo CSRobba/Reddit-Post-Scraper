@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "m",
         "julie": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "LEARNING env, not general env"
     }
 }

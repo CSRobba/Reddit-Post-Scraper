@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "it's destroying BOTH potable water and other stuff, it's not just one."
     }
 }
