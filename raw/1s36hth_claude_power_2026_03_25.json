@@ -1,6 +1,6 @@
 {
     "query_term": "Claude power",
-    "title": "I used Claude Opus to stress-test the math: Claude Max ($200) vs. OpenClaw API costs. Here’s the \"Tipping Point\" for power users.",
+    "title": "I used Claude Opus to stress-test the math: Claude Max ($200) vs. OpenClaw API costs. Here\u2019s the \"Tipping Point\" for power users.",
     "id": "1s36hth",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/ClaudeAI/comments/1s36hth/i_used_claude_opus_to_stresstest_the_math_claude/",
@@ -15,7 +15,6 @@
     "relevance_rate": {
         "julie": "n",
         "nino": "n",
-        "null": "n",
         "chandana": "n",
         "anoolia": "n"
     }

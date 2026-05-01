@@ -1,6 +1,6 @@
 {
     "query_term": "AI electricity",
-    "title": "[P] I built a paper-based AI simulator that works like a neural network — no GPU, no electricity, just pure logic.",
+    "title": "[P] I built a paper-based AI simulator that works like a neural network \u2014 no GPU, no electricity, just pure logic.",
     "id": "1m1ddr0",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/learnmachinelearning/comments/1m1ddr0/p_i_built_a_paperbased_ai_simulator_that_works/",
@@ -15,7 +15,6 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "n",
-        "null": "n",
         "chandana": "n",
         "anoolia": "n"
     }

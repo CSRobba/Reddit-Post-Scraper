@@ -2,7 +2,7 @@
     "query_term": "AI energy",
     "title": "Can energy efficiency become the foundation of AI alignment?",
     "id": "1oij3o3",
-    "body": "I’m exploring an idea that bridges thermodynamics and AI safety.  \nComputing always has a physical cost (energy dissipation, entropy increase).  \nWhat if we treat this cost as a *moral constraint*?\n\nHypothesis:  \nReducing unnecessary energy expenditure could correlate with reducing harmful behavior.  \nHigh-entropy actions (deception, chaos, exploitation) might have a detectable physical signature.\n\nQuestions for the community:  \n• Has AI alignment research ever considered energy coherence as a safety metric?  \n• Any reference or research I should read on “thermodynamics of ethics”?  \n• Could minimizing energy waste guide reward functions in future AGI systems?\n\nI have just archived a first scientific introduction on this, but before publishing more work I’d love feedback and criticism from people here.",
+    "body": "I\u2019m exploring an idea that bridges thermodynamics and AI safety.  \nComputing always has a physical cost (energy dissipation, entropy increase).  \nWhat if we treat this cost as a *moral constraint*?\n\nHypothesis:  \nReducing unnecessary energy expenditure could correlate with reducing harmful behavior.  \nHigh-entropy actions (deception, chaos, exploitation) might have a detectable physical signature.\n\nQuestions for the community:  \n\u2022 Has AI alignment research ever considered energy coherence as a safety metric?  \n\u2022 Any reference or research I should read on \u201cthermodynamics of ethics\u201d?  \n\u2022 Could minimizing energy waste guide reward functions in future AGI systems?\n\nI have just archived a first scientific introduction on this, but before publishing more work I\u2019d love feedback and criticism from people here.",
     "url": "https://www.reddit.com/r/learnmachinelearning/comments/1oij3o3/can_energy_efficiency_become_the_foundation_of_ai/",
     "url_overridden_by_dest": null,
     "created": "2025-10-28T12:36:20",
@@ -14,7 +14,6 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "n",
-        "null": "n",
         "julie": "n",
         "chandana": "n",
         "anoolia": "n"

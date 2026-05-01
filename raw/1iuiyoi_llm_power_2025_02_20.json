@@ -1,6 +1,6 @@
 {
     "query_term": "LLM power",
-    "title": "LLM Server Build for Running Two 70B Models – Feasibility & Power Concerns",
+    "title": "LLM Server Build for Running Two 70B Models \u2013 Feasibility & Power Concerns",
     "id": "1iuiyoi",
     "body": "[removed]",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1iuiyoi/llm_server_build_for_running_two_70b_models/",
@@ -15,7 +15,6 @@
     "relevance_rate": {
         "julie": "n",
         "nino": "n",
-        "null": "n",
         "chandana": "n",
         "anoolia": "n"
     }
