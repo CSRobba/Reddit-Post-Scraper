@@ -16,5 +16,8 @@
         "nino": "n",
         "julie": "n",
         "chandana": "m"
+    },
+    "relevance_reasoning": {
+        "julie": "nuclear power - we say no for those"
     }
 }

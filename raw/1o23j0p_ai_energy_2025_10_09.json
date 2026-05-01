@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "I think this discussion is with respect to how people believe AI cannot be used to power/combat climate change, with the implication that it's solely negative"
     }
 }

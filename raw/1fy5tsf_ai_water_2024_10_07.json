@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "This post does discuss how people feel about AI's environmental impact (even if it's against the environment's greater good)"
     }
 }
