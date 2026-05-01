@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "m"
+    },
+    "relevance_reasoning": {
+        "julie": "i think this is still very much AI discourse related, esp when \"AI antis\" often cite env impacts"
     }
 }

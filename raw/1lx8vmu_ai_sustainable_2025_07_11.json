@@ -14,7 +14,10 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "n",
-        "julie": "m",
+        "julie": "y",
         "chandana": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "trying to justify that certain LLMs are good, fits in ratings better than other ones"
     }
 }

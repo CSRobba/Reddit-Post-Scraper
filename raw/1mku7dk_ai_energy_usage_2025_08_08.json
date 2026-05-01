@@ -14,7 +14,10 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "n",
-        "julie": "m",
+        "julie": "y",
         "chandana": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "we've stated that \"AI potentially fixing itself to justify it's use\" is valid"
     }
 }

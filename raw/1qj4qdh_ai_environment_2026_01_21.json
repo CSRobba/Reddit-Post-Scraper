@@ -13,8 +13,11 @@
     "upvote_ratio": 0.9900000095367432,
     "view_count": null,
     "relevance_rate": {
-        "julie": "m",
+        "julie": "y",
         "nino": "n",
         "chandana": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "Wants to feel agency in fighting unnecessary AI adoption, esp w the context of env. destruction"
     }
 }

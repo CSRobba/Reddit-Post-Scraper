@@ -49,6 +49,7 @@ def main(dry_run=False):
 
     for fpath in modified:
         changed = changed_top_level_keys(fpath)
+        # check if there are files changed besides the allowed 2
         non_rating = changed - ALLOWED_CHANGED_KEYS
         if non_rating:
             to_restore.append((fpath, non_rating))

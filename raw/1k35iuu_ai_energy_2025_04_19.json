@@ -14,7 +14,10 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "m",
-        "julie": "m",
+        "julie": "y",
         "chandana": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "CEO doesn't care about impact"
     }
 }

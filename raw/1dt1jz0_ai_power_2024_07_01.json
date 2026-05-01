@@ -16,5 +16,8 @@
         "nino": "m",
         "julie": "m",
         "chandana": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "nuclear w/r to climate change"
     }
 }

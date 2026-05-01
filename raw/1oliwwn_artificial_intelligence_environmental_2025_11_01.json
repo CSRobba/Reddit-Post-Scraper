@@ -14,6 +14,9 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "n",
-        "julie": "m"
+        "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "AI impact on env, we've established b4 that we keep studies"
     }
 }
