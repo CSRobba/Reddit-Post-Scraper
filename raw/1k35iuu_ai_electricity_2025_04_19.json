@@ -14,7 +14,10 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "m",
-        "julie": "m",
+        "julie": "y",
         "chandana": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "very reckless, it's down to get energy in ANY form"
     }
 }

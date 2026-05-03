@@ -14,7 +14,10 @@
     "view_count": null,
     "relevance_rate": {
         "nino": "y",
-        "julie": "m",
+        "julie": "y",
         "chandana": "n"
+    },
+    "relevance_reasoning": {
+        "julie": "article talks about environmental impact"
     }
 }
