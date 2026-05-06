@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "uses steak as a counter/way to ground AI impact"
     }
 }

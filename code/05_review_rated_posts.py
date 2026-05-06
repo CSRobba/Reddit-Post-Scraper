@@ -145,8 +145,15 @@ def build_eligible(name, filters=None):
 
         if filters:
             # Filter mode: include posts matching the filter criteria
-            if _post_matches_filters(data, filters) and (_name in ratings.keys()) and (ratings[_name] in filters):
-                _eligible.append(fname)
+            if _post_matches_filters(data, filters) and (_name in ratings.keys()):
+                vote_filters = [f for f in filters if f in ("y", "m", "n")]
+                has_disagreement_filter = "disagreement" in filters
+                user_vote = ratings[_name]
+                # Include if: user's vote matches a vote filter, OR
+                # disagreement filter is active and this post has conflicting ratings
+                if (vote_filters and user_vote in vote_filters) or \
+                   (has_disagreement_filter and len(set(ratings.values())) > 1):
+                    _eligible.append(fname)
         else:
             # Default mode: only unreviewed posts
             if name not in ratings and len(ratings) < 2:

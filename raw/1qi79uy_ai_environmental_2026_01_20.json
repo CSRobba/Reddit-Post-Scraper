@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "mentions env conflicts, and explicitly notes that they do not care about it"
     }
 }

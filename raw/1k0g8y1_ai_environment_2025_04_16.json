@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "mentions env impacts, has built reliance and wants to know where to draw line"
     }
 }

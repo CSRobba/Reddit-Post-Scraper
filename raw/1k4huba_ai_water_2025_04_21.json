@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "misunderstanding about env impact"
     }
 }

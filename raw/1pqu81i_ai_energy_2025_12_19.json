@@ -15,5 +15,8 @@
     "relevance_rate": {
         "nino": "n",
         "julie": "y"
+    },
+    "relevance_reasoning": {
+        "julie": "mentions the energy + resource waste"
     }
 }
