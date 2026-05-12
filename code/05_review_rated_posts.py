@@ -278,21 +278,10 @@ def rate():
     ratings = post.get("relevance_rate", {})
     rated_count = len(ratings)
     
-    reasoning = post.get("relevance_reasoning", {})
     rated_note = (
         f'<p style="font-size:12px;color:#555;">{rated_count} other '
         f'rater{"s" if rated_count != 1 else ""} have already reviewed this post.'
-        + (
-            "<ul style='margin:4px 0;padding-left:18px;'>"
-            + "".join(
-                f"<li><strong>{k}</strong>: {v}"
-                + (f" &mdash; <em>{reasoning[k]}</em>" if k in reasoning else "")
-                + "</li>"
-                for k, v in ratings.items()
-            )
-            + "</ul>"
-            if rated_count > 0 else ""
-        )
+        + (f' Ratings so far: {", ".join(f"{k}={v}" for k, v in ratings.items())}' if rated_count > 0 else "")
         + "</p>"
         if rated_count > 0 else ""
     )
