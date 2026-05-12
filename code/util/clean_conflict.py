@@ -16,7 +16,7 @@ def resolve_conflict(text):
     return text
 
 if __name__ == "__main__":
-    for path in Path("../../raw/").glob('*.json'):
+    for path in Path("../../data/raw/posts").glob('*.json'):
         text = open(path).read()
         if '<<<<<<<' in text:
             fixed = resolve_conflict(text)

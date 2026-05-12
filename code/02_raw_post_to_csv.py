@@ -16,7 +16,7 @@ import util
 #### GLOBAL VARIABLES #### 
 CODE_NAME = "raw_post_to_csv"
 WORK_DIR = "../"
-RAW_DIR = os.path.join(WORK_DIR, "raw/")
+RAW_DIR = os.path.join(WORK_DIR, "data/raw/posts")
 QUERIES_FILE = os.path.join(WORK_DIR, "posts_queries.csv")
 SUBREDDITS_FILE = os.path.join(WORK_DIR, "subreddits.json")
 OUTPUT_DIR = os.path.join(WORK_DIR, "output/")

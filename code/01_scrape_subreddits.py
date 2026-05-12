@@ -28,7 +28,7 @@ END = datetime(2026, 4, 1)
 def save_post(result):
     file_path = os.path.join(
         WORK_DIR, 
-        f"raw/{result['id']}_{result['query_term'].replace(' ', '_').replace('-', '_').lower()}_{util.format_isodate_to_date(result['created'])}.json"
+        f"data/raw/posts/{result['id']}_{result['query_term'].replace(' ', '_').replace('-', '_').lower()}_{util.format_isodate_to_date(result['created'])}.json"
         )
     
     with open(file_path, 'w', encoding='utf-8') as f:
