@@ -1,0 +1,336 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Local AI Model Energy Usage vs Human Brain</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/aiwars
+    </div>
+
+    <div class="title">
+    Local AI Model Energy Usage vs Human Brain
+    </div>
+
+    <div class="meta">
+    Posted by u/StormCoderYT-53
+    •
+    
+    •
+    0 points
+    •
+    13 comments
+    </div>
+
+    <div class="body">
+    Do we have any accurate estimates of energy used by AI models run locally on a computer not connected to a data center?  <br>  <br> We know how much the human brain needs to operate continuously is about 12 watts, but I&#x27;m not sure if that&#x27;s per second, hour. I&#x27;m assuming atleast 12 per second to keep operation going. <br><br>Another issue though is how much wattage is allocated to voluntary thinking tasks involved with drawing, creating music, etc, out of those 12 watts. If we had a study between the two it&#x27;d really help to see which is more energy intensive.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Fobbit551</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-07 08:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I currently run two A100(pcie 250w)and a number of strix halo systems. So for me 1.5k to sub 2000 kWh/mo.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/victorc25</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-07 06:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Same energy as if you play games or use Photoshop… even watching YouTube videos or posting dumb questions in Reddit 
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/One_Fuel3733</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-07 05:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s very difficult to guess at the Wh for local models, as it is heavily dependant on the model, size of query, etc. Highly variable. The best way to do it is probably to look something like the average GPU power consumption, and assume it is running at full power during inference. So we get something like  <br>  <br>250 W for 1 minute = 250 W × (1/60 hour) ≈ 4.17 Wh<br><br>Current estimates put the human brain at 20 W, meaning it uses 20 Wh per hour, [i.e., \~0.33 Wh per minute](https://pmc.ncbi.nlm.nih.gov/articles/PMC8364152/)<br><br>So the brain is roughly 12.5x more efficient in this example (back of the envelope here, and it is likely much more efficient than even that given how much is dedicated to background tasks).<br><br>Beyond all this though the details of the task certainly matter. An AI model running for 60 seconds can do something it would take a human brain all day to do, so efficiency measurements in a granular sense can fall apart pretty much immediately in many scenarios. For instance, an image I generate in 20 seconds on a local GPU might take an artist hours or days to produce something visually similar, so raw energy-per-minute comparisons don&#x27;t capture the full picture.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/StormCoderYT-53</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-07 05:58 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes this is something I&#x27;d also be interested in. As we know an AI model can practically recreate what humans can do in much less time. I think electrical efficiency is great at least to reduce the waste our devices produce which should be the ultimate goal. <br><br>But total efficiency in terms of the time it takes for an AI vs a human to perform a task is also good to note, I might try to devise some index for this to truly put things in scale.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/One_Fuel3733</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-07 06:19 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, I haven&#x27;t seen any charts that directly talk about that. In general that&#x27;s one of the stranger parts of using ai, assuming a model is capable of doing a particular thing, it doesn&#x27;t really take any more time or energy to do something of higher vs lower complexity, whereas for humans it can scale the amount of time necessary considerably. Certainly a factor in why AI breaks many systems and calculations like this, it&#x27;s pretty odd when you think about it.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Grimefinger</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2026-01-07 05:35 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It depends on where you draw the line on energy. If you think about it in terms of pure electrical energy in the brain vs the computer, then I would wager the computer is significantly higher. But if you compare it against the energy cost of providing the person with food in order to power the brain, then my guess would be it&#x27;s a whole different can of worms.<br><br>If it is an angle to say that open source is still wasteful on energy, then you should also be attacking crypto bros and gamers to lesser or greater degrees. Local AI is also faaaaar more efficient than the big corporate models, the models have already been trained, the focus is primarily on getting a lot of bang for buck using tooling and custom software.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/StormCoderYT-53</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-07 05:47 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Pure electrical energy is my line, food intake and human mechanical energy including heat would overcomplicate energy distribution unless the study includes how much your brain actually uses vs how much is lost in transit similar to how electrons in circuit create heat.<br><br>I wouldn&#x27;t make a wasteful energy argument, I believe this would be much more important for the people actually building the devices AI runs on.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Grimefinger</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-07 06:14 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                oh interesting. Prepare for some napkin math. From what I can find the human brain is using like 12 - 20 watt hours, 20 is on the high side of strenuous intellectual activity like a go player or chess grandmaster. So let&#x27;s just ballpark doing art in the like 15-18 range depending on what&#x27;s being drawn. So say I&#x27;m drawing a picture, I&#x27;ll be using a bit of energy for that hour to get a decently drawn picture by the end of it, but nothing great (I&#x27;m very slow). So that 18 ish watt hours gets you one picture drawn by me.<br><br>If I compare my 4080 SUPER, if I&#x27;m like cranking it on AI shit 320 Watt hours would be the cap I think + all the computer components, but those wouldn&#x27;t be running nearly as hot as the gpu, so let&#x27;s put 400wh on top for the cpu and I think, so put it around 800ish wh. But I could crank out hundreds of images in that time, or I could spend all of that energy on doing something really weird with one image.<br><br>I think the big areas of waste as far as AI goes is in lack of specificity. If you think about how a person just prompting a model goes, enter text - generate, looks bad, reroll, looks bad, reroll, looks bad, reroll, adjust prompt etc. So where some big efficiency gains can be found is in increasing specificity. Models hallucinate because they don&#x27;t have conceptualisation, only prediction, so no spatial reasoning, no temporal reasoning, no anatomical reasoning, it&#x27;s all in the quality of the training data and oversight during training, given the scope of the data.. results are mixed lol. So you can provide external scaffolding to these models in order to overcome their shortcomings, feed in depth data for spatial reasoning, lay out a scene to provide it your own temporal reasoning within the context of what you&#x27;re making, align the model to you using loRAs trained on your artwork. Each of these things increases the specificity of the model, meaning less rerolling, but also decreases the accessibility of its use. You get a lot more measure twice cut once.<br><br>So the big culprit for AI inefficiency is accessibility. Model has to guess a whole bunch of shit based on language, then deal with people yanking on the gamba lever over and over again until they get something close to what they actually want.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Governor_Low</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2026-01-07 05:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Why do you need this comparison? Just for the funsies, or are you planning to use it to enforce some type of argument you have in mind?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/StormCoderYT-53</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-07 05:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                One common statement I&#x27;ve heard from people in the AI field is they want to create an AI that is similar to the human brain in function. I&#x27;ve also seen the argument from those against generative AI about the amount of energy it uses. <br><br>I&#x27;d want this comparison to see which takes more energy with factors being controlled and noise taken out. That way for logistical reasons depending on where the local model performs, it&#x27;d lead to more discussions and effort to reduce its energy consumption in terms of electricity while maintaining and improving its capabilities.  <br><br>For an argument it be useful to add more nuance to whether the AI model is using the most energy or the actual computer equipment losing energy through heat is the main source of the high wattage consumption. Then the argument can be directed a solution that an electrical and computer engineer would handle.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/tilthevoidstaresback</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2026-01-07 05:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                OP...do you have a brain in a jar...*be honest...*
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/StormCoderYT-53</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-07 07:04 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                is this directed at me? I just thought it&#x27;d be something interesting to learn about and discuss.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/tilthevoidstaresback</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-07 09:45 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                (I am being silly, do not worry)<br><br>![gif](giphy|ApgAxynd0l06k|downsized)
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

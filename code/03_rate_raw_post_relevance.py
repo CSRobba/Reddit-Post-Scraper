@@ -19,8 +19,8 @@ import util
 CODE_NAME = "rate_raw_post_relevance"
 WORK_DIR = "../"
 RAW_FOLDER = os.path.join(WORK_DIR, "data/raw/")
-POSTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/posts")
-COMMENTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/comments")
+POSTS_FOLDER = os.path.join(RAW_FOLDER, "posts")
+COMMENTS_FOLDER = os.path.join(RAW_FOLDER, "comments")
 
 app = Flask(__name__)
 app.secret_key = "rater-secret-key-2024"

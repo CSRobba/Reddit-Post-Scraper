@@ -1,0 +1,512 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Guys. Is Ai bad for the environment? Like actually?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LLMDevs
+    </div>
+
+    <div class="title">
+    Guys. Is Ai bad for the environment? Like actually?
+    </div>
+
+    <div class="meta">
+    Posted by u/FetalPosition4Life
+    •
+    
+    •
+    0 points
+    •
+    22 comments
+    </div>
+
+    <div class="body">
+    I seen talk about this. Is Ai really that bad for the environment? Should I just stop using it? 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/[deleted]</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-23 22:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                [removed]
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/automationwithwilt</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 02:45 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It’s pretty energy consuming
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/kholejones8888</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 02:43 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Your personal usage is probably not very much energy and those servers were already turned on, it’s ok
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/daaain</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-21 02:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s hard to know for sure, because none of the frontier labs or hyperscalers publish data on it properly. It also depends on a lot of variables, which model do you use, which part of the world, what time of the day, etc.<br><br>What I do know is that running a model like Qwen3 30B/A3B on my M2 Max Macbook uses about 1Ws per token generated. The GPU uses 60W and does around 60 tokens / sec, so it&#x27;s easy to calculate. But of course the actual environmental impact of that is still hard to calculate, becase it depends on the electricity mix in the grid at the moment of usage. At least my laptop can cool itself with its fans, so needs no water 😅<br><br>So if Qwen3 30B&#x27;s calculations are correct, it uses around 0.27kWh / million tokens generated, which is not a lot. To figure out this calculation, it used 998 tokens including the thinking tokens:<br><br>https://preview.redd.it/ipcv13eu35ef1.png?width=1662&amp;format=png&amp;auto=webp&amp;s=7c5114949450b0cad08b2c5e130ebd572de60d90
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/kthepropogation</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 02:01 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                In aggregate, yes. On an individual basis, less so.<br><br>If you want a (really) rough approximation: How much are you paying for a request? How much gasoline/electricity would that buy? That’s the impact of that request on CO2. That’s probably about within the order of magnitude. It may be more than that, because AI companies are generally not profitable, but it may be less than that, because they’re likely using at least partially renewable energy and because they have costs other than energy.<br><br>The raw economics of the premier models are unclear, but cost can approximate energy usage, which can approximate CO2 impact.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/kthepropogation</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 02:10 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                In aggregate, yes. On an individual basis, less so.<br><br>If you want a (really) rough approximation: How much are you paying for a request? How much gasoline/electricity would that buy? That’s the impact of that request on CO2. That’s probably about within the order of magnitude. It may be more than that, because AI companies are generally not profitable, but it may be less than that, because they’re likely using at least partially renewable energy and because they have costs other than energy.<br><br>The raw economics of the premier models are unclear, but cost can approximate energy usage, which can approximate CO2 impact.<br><br>The median consumer is a rounding error. Business users will sign large contracts. They can afford bulk usage of the largest models, because to a corporation, $200/mo per user is a good deal, if it even leads to 5% productivity gains.<br><br>As a consumer, you are participating in an ecosystem that supports that. But if you leave, you probably won’t be missed or noticed. If you’re using the free tier, you’re a rounding error. I don’t think you should waste resources, but I also think it’s a bit silly to be concerned about occasional LLM usage, and not say… video games.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Western-Image7125</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:59 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Well AI train is going to keep chugging along, whether you are on the train or not. Meta is about to build a 10GW data center at some point (or some ridiculous number) which is like half the electricity usage of all of NYC or something insane. So will that have impact on planet? Maybe. Will it impact the electric grid? 100%. I guess we’ll find out when we get to that point 
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/snowdrone</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 01:52 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s a dumb argument because having kids is objectively worse for the environment (because their impact is exponential if they have kids etc)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tibetbefree</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 01:48 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Like, fuck yes
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/FetalPosition4Life</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 01:50 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Really its really bad? :(
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/daishi55</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:46 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I hear this a lot but I have yet to see any comparison between LLM usage and anything else. How many Claude prompts equals a drive to the supermarket? Nobody ever had an answer
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/FetalPosition4Life</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 01:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Makes sense!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/dean_syndrome</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:43 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It’s as bad for the environment as everything that uses electricity is?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/FetalPosition4Life</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 01:45 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Oh is it? Ok!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/drdacl</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes. But it’s not what going to kill our planet
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/FetalPosition4Life</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:43 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Oh so its bad but its not like worse than using a car everyday? Cause I feel bad if its that bad, you know?
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/just_a_knowbody</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-21 01:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                AI consumes a lot of electricity for power and water for cooling.  So the impact really depends on how the power is being generated.  Some of the AI providers are doing some really shady things.  <br><br>For example, Grok is using methane fueled generators to power some of the data centers which is causing a lot of ecological issues.  <br><br>Meta wants to build a data center the size of Manhattan.  That’s going to need a lot of power and water.  So depending on how green the electricity is, it could be really bad.  And with Trump tossing cleaner options aside for coal and oil it could be really really bad.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/remghoost7</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:58 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;...water for cooling.<br><br>I see this idea talked about a lot, but most datacenters have a closed loop chiller...  <br>[Here&#x27;s an example of one.](https://www.youtube.com/watch?v=wumluVRmxyA&amp;t=360s)<br><br>Some of them *do* use misters on the outdoor radiators when it&#x27;s very hot outside ([here&#x27;s a timestamp from that same video](https://youtu.be/wumluVRmxyA?t=472)).  <br>Though, I&#x27;m not entirely sure on the gallons per hour on the misting units.<br><br>But most of the coolant is preserved in the loop itself and not wasted.<br><br>---<br><br>**I do agree though, energy generation (and the pollution created by it) is the largest issue.**<br><br>Renewables (solar/wind/etc) and nuclear are the way forwards.  <br>Primarily the latter of the two.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/just_a_knowbody</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 02:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                All I know is that lots of people are talking about the pressure AI data centers are putting on local water supplies.  Altman himself has come out quoting water usage statistics.  Water and electronics don’t generally mix well.  So if they aren’t using it for cooling, I’m not sure why they’d need so much of it.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/remghoost7</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-21 02:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;...the pressure AI data centers are putting on local water supplies.<br><br>I&#x27;ve heard that too.  <br>I&#x27;m still unsure if it&#x27;s a realistic problem or just more anti-AI rhetoric.<br><br>I know radiative cooling towers *do* exist (like the ones they use for nuclear reactors), but I&#x27;m fairly certain they&#x27;re not using them for datacenters.<br><br>I&#x27;ll have to look into Altman&#x27;s quotes on the matter.  <br>I&#x27;d like to actually get to the bottom of this at some point.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/FetalPosition4Life</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 01:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Ah dang. What about chatgpt? The one everyone uses?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/just_a_knowbody</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-21 01:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Its hard to know for certain because companies like to hide details.  But here’s a pretty good breakdown that was published in February. <br><br>https://www.businessenergyuk.com/knowledge-hub/chatgpt-energy-consumption-visualized/
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/danethegreat24</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-21 02:56 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                So:<br><br>&gt;Using OpenAI’s ChatGPT-4 model to generate a 100-word email alone sweats off more than an Evian bottle’s worth of water (519 millilitres), according to a recent study by The Washington Post (WaPo) and the University of California. And prompting is also a massive drain on the national grid. According to WaPo, the electricity used to generate that 100-word email is equal to powering 14 LED light bulbs for an hour (0.14 kilowatt-hours (kWh)).<br><br>Nerdy nav.com suggests the average gpt user runs 8-10 prompts a day. <br><br>So using the 10 to compensate for power users, (and make easy maths) that&#x27;s 1.4kWh a day and 5190 ml (5.19 liters) of water.<br><br>In 2023 the EIA said:the US produces &quot;about 0.81 pounds of CO2  emissions per kWh&quot; making our daily GPT user CO2 cost around 1.2 pounds.<br><br>In terms of a car...the EPA states the average car produces about 8,887 grams (19.5 pounds) of CO2 per mile.<br><br>Water costs are a math that is wayyy too variable for me to really track down...<br><br>But yeah. This isn&#x27;t actually a great comparison anyway because the density and complexity of prompts can make one prompt larger than another.<br><br>But there you go
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/OprahismyZad</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-07-21 01:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                No
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

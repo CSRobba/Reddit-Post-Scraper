@@ -1,0 +1,208 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Why does AI data centers use up so much electricity?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    Why does AI data centers use up so much electricity?
+    </div>
+
+    <div class="meta">
+    Posted by u/matt73132
+    •
+    
+    •
+    0 points
+    •
+    5 comments
+    </div>
+
+    <div class="body">
+    It&#x27;s just getting to ridiculous proportions. The AI data center that&#x27;s going to built in Wyoming will use up to 10 gigawatts of electricity, which is ten times the total amount used by the entire population of Wyoming. Just this one place will use up more power than the whole state, ten times over. <br><br>I&#x27;m not an electrical engineer or a computer expert, but is it so energy hungry and can&#x27;t they make a more efficient version? 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/DiogenesKuon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-08-20 15:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s not 10x, and comparing it to the state of Wyoming isn&#x27;t a very helpful comparison.  The current version of the data center will use 1.9 gigawatts of electricity (15.8 TWh annually), which is less than what the population of Wyoming uses (17.3 TWh), but we&#x27;re talking about a state who&#x27;s population is 6% the size of New York City, and they likely put the data center precisely because it generates way more power than it needs currently.<br><br>Just this single data center is going to use 0.38% of the nations energy.  A large amount for a single source, but it&#x27;s not going to change the energy landscape on its own.  It&#x27;s better to think of the overall rise of datacenter usage, which is increasing and we should plan for, but it&#x27;s not at crisis levels.  In 2018 data centers was about 1.9% of the US energy consumption.  It&#x27;s at 4.4% today, and estimates are that it could go to between 6.7% and 12% by 2028.  AI growth will continue as long as it&#x27;s economical to do so, so as long as the energy use is producing more than it costs.  So either the AI boom will bust because it isn&#x27;t actually that valuable, in which case the energy usage will decline again, or it will be fairly transformative and we&#x27;ll want to continue to grow it lest we fall behind technologically.  While more energy efficient methods would be helpful there is no getting around the fact that we are simply asking for machines to &quot;think&quot; a lot more than we did prior and therefore it&#x27;s going to take more energy.  Better to start thinking about energy generation and upgrades to the power infrastructure because at the end of the day AI might end up being gated by energy more than anything else.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/AdhesiveChild</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-08-20 11:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                A single H-100 grade graphics card draws around 600 watts each. There can be anywhere from 4-40 cards in a single rack and far more racks in a data center.<br><br>That&#x27;s also ignoring all the other infrastructure that uses up power like cooling those racks.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/TehNolz</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-08-20 09:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Computers need electricity. Generally speaking, the more powerful the computer and the more demanding the workload, the more electricity it will consume. A particularly powerful gaming PC can easily pull 1000W, whereas a standard office PC will do just fine with 200-300W or so. Running an AI is a particularly heavy workload that requires some really powerful hardware, so the power consumption can be quite high.  <br>  <br>Large datacenters (and particularly the ones that run AIs) tend to have several thousand racks that each hold a good 20 or so server computers each. With tens of thousands of servers that each pull in a load of power, your power consumption quickly gets into the gigawatt range. Then you still have to consider all the networking and data storage equipment that&#x27;s needed to keep this working. And all that power consumption generates a _lot_ of heat, so you need to spend a load of water on cooling as well.  <br>  <br>&gt; can&#x27;t they make a more efficient version?  <br>  <br>They are, but that&#x27;s not going to reduce the power consumption of these datacenters. Having more efficient AIs won&#x27;t cause tech companies to shrink their datacenters; it just means they&#x27;ll be able to do more calculations with the same hardware.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/DiarioCinzento</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-08-20 08:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                All data centers (not only the AI ones) need very powerful cooling systems, which demand large amounts of electricity.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/XaneFog</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-08-20 08:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                AI data centers are basically the gym bros of computing massive, sweaty, and constantly chugging electricity like it&#x27;s pre-workout. Training large models takes thousands of GPUs running full blast for days, and then you need industrial-grade cooling just to keep them from melting into a puddle of silicon.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

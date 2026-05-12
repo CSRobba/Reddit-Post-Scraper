@@ -1,0 +1,384 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Environmental harm of AI</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/aiwars
+    </div>
+
+    <div class="title">
+    Environmental harm of AI
+    </div>
+
+    <div class="meta">
+    Posted by u/guyguygay
+    •
+    
+    •
+    0 points
+    •
+    36 comments
+    </div>
+
+    <div class="body">
+    Many are familiar with the “AI is accelerating global warming” narrative. When I’ve researched it, the top results all seem to be from credible academic institutions talking about AI accelerating climate change. But I’ve also read a blog post that showed that AI is one small part of overall data center usage. I’ve  also seen that, while ai individual use (like prompting) is not much more energy intensive than playing video games, that the training of the model takes up a significant amount of energy, water, resources, etc. <br><br>The blog post in reference is this:<br>https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/<br><br><br>Now, I’m someone who trusts experts/institutions as I believe that’s how society functions. Certain groups have expertise (like doctors) we should defer to in certain situations. So when I try to look up this issue on Google and get results from Princeton, Harvard and Yale only talking about climate issues, and the one nuanced take I get is some random blog, it makes me VERY skeptical. Akin to Covid vax deniers who deny medical institutions because Alex Jones said sonething.<br><br>This doesn’t mean that Gio’s blog has false information, it just bothers me that I can’t find any nuanced breakdown of the climate effects of AI. Gio’s analysis seems pretty well reasoned. But I’d like to see multiple sources beyond this.<br><br>TLDR does anyone have some non biased sources on generative AIs effect on climate change? All I can find seems to be heavily critical of AI tech without providing a larger picture. None of the critical sources seem to have wrong information, they just seem to selectively pick information to paint a certain narrative?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Human_certified</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-21 10:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                My own two cents:<br><br>Part of the difficulty is that - unintentionally, I&#x27;m sure - nobody is comparing apples to apples.<br><br>**Data center power consumption vs. AI power consumption:** A report from Goldman Sachs (link at the end) predicts growth in power consumption that the authors admit make them an outlier on the high side. According to them, AI currently accounts for 5-10% of US data center power consumption, but is expected to increase to 20% by 2030. Note that this is 20% of *data center* power consumption, not *US* power consumption.  <br><br>Since data centers are expected to account for 8% of US power consumption by 2030, AI can be inferred to be currently at most 0.5%-1% of total US power consumption, gradually increasing to 2% in the next five years. And this is according to a &quot;pessimistic&quot; report.<br><br>(Also, some of that AI growth is displaced other data center growth: if people search more, and also use AI more, then the AI use is not entirely &quot;additional&quot;, it came at the expense of Google.)<br><br>**Global vs. US power consumption:** However, note that the US is not typical here: the data centers in the US serve a huge part of the rest of the world. Global AI power consumption as share of total power consumption is obviously much, much lower, due to average lower development and piggybacking on the concentrated US data center infrastructure. Based on the above, you can reach a ballpark figure of well below 1% of global power consumption by 2030.<br><br>**Power consumption vs. CO2 emissions**: Obviously, these can&#x27;t be equated. The above numbers already make the &quot;CO2 emissions of Brazil&quot; claim highly suspect, especially considering the role of renewables that are actively being sought out.<br><br>**Training vs. inference:** Clickbaity figures routinely offer &quot;shocking&quot; numbers for training power consumption, which turn out to be... actually not that much. The power should really be amortized over the inference done with the model. As for inference itself, every aspect is harder to calculate - how many queries, how many operations per query, what hardware, how efficient, etc. The link in my other comment does a good job getting to the bottom of it, though.<br><br>**Water usage:** I don&#x27;t know what that means. Water isn&#x27;t destroyed or lost forever. Water may be recycled in a closed loop, be evaporated, be dumped (where? rivers, lakes? the water table? clean? treated? polluted?). In many parts of the world (not California), water is so abundant as to be irrelevant. Any concerns about water usage are purely *local* environmental issues and IMO a complete red herring for the overall debate.<br><br>**Comparison to other activities:** You may personally feel that AI image generators aren&#x27;t &quot;useful&quot;, but neither is most art and entertainment. AI image generation certainly consumes less power than gaming. How about streaming? Don&#x27;t forget the movie itself: That $300 million budget wasn&#x27;t entirely carbon-neutral, I&#x27;m sure. How about pretty much any other activity, or appliance, or technology in your life? Taken seriously, it&#x27;s basically an argument against doing anything new, ever.<br><br>**Most figures are biased:** They aren&#x27;t necessarily wrong, but you need to read the fine print. Remember that almost everyone has an interest in depicting AI power consumption as being on the high side: activists to show how bad AI is, but AI boosters and data center providers to promise explosive growth, grid operators to secure investments in upgraded infrastructure, etc.<br><br>Link:<br><br>[https://www.goldmansachs.com/pdfs/insights/pages/generational-growth-ai-data-centers-and-the-coming-us-power-surge/report.pdf](https://www.goldmansachs.com/pdfs/insights/pages/generational-growth-ai-data-centers-and-the-coming-us-power-surge/report.pdf)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Human_certified</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-21 10:08 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Try this::<br><br>[https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)<br><br>It&#x27;s very well-sourced and has some great comparisons that help communicate the figures.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/dreambotter42069</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 19:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                If we don&#x27;t rape and pillage the environment in order to produce AI, how will we ever use AI to help stop raping and pillaging the environment?
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Intoxalock</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 18:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Oh I did a paper on this. <br><br>Tldr ai(LLMs) uses double the energy of video games. Chosen video games because they use the same datacenters. <br><br>The only real saving grace is that companies know this so each ai datacenter built by actual ai companies normally gets its own solar plant. (Grok being the ai company that doesnt use solar power to offset its energy consumption.)
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/dreambotter42069</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 19:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Microsoft is getting TMI nuclear plant, the whole thing dedicated to AI datacenters, because le Carbon Credits
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Tyler_Zoro</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 16:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The real problem here is that your question is faulty.<br><br>You are asking about an entire category of technology and putting it under a single label. I guarantee you that prompting ChatGPT is more costly than prompting my own local model, not merely because of the differences in model complexity, but because I don&#x27;t have an entire suite of front- and back-end frameworks also cranking along as part of the process. I&#x27;m not encrypting the communications to my AI; I&#x27;m not doing user authentication; I&#x27;m not spewing out log data for later debugging and analysis; I&#x27;m not employing geo-redundancy across multiple datacenters for every request or load balancing across multiple servers in the same datacenter. I&#x27;m not performing automated security scans to the same degree as the single most popular AI-related destination in on the web MUST.<br><br>Running a hugely popular website is already a massive drain on environmental resources. AI is likely to be a small part of that impact.<br><br>But if you want proof that generative AI isn&#x27;t that much of a resource drain, just fire up Stable Diffusion locally and put a meter on your power outlet while you run a generation or two and compare it to anything else you might do (e.g. drawing a picture in a local image editor or watching a video).<br><br>You don&#x27;t need experts to tell you how many kwh you&#x27;re consuming.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Lawrencelot</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 14:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You are right to be skeptical. The environmental footpring of AI is a very complicated topic. I agree that most  scholarly articles on the topic show that AI has quite a large negative environmental impact, especially for training and designing large models. The only paper that concludes the opposite, that I know of, is this one: [https://www.nature.com/articles/s41598-024-54271-x](https://www.nature.com/articles/s41598-024-54271-x)<br><br>Which, though it is good scholarly work, has quite a few limitations and assumptions. It is used a lot by pro AI people.<br><br>Still, let me copy what I posted on the pro AI sub:<br><br>&gt;multiple things can be true at the same time:<br><br>&gt;\- Large generative AI models take a lot of energy to train and develop<br><br>&gt;\- If those models are used by millions of users, the energy per user is almost negligible<br><br>&gt;\- Generating text or images with such models takes less energy than if you would do it by hand (as shown in the nature paper above), though this only holds for models used by millions of users because else you cannot neglect the training and development<br><br>&gt;\- If more text and images are generated than would be generated otherwise (without genAI technology), more energy is of course used. This is not negligible on a world scale anymore.<br><br>&gt;It is a typical example of Jevon&#x27;s paradox, just like when LED lights were invented each lamp became more energy-efficient, but much more energy was spent on lighting worldwide. This is an actual problem.<br><br>Seriously, look up [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox). It is not often that you can see the paradox at work on such a large scale while it is happening. We&#x27;ve known about it since 1865 and still do not have a solution for it. Besides regulation, of course, but that is always lagging behind technological progress on top of the current political climate worldwide not helping along.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/TheJzuken</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-01-20 12:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I really hate how scientific institutions have devalued themselves in the past decade.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/SolidCake</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 15:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Wtf happened to peer review like seriously
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/dobkeratops</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 12:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                environmental benefit of AI..<br><br>[https://www.nature.com/articles/s41598-024-54271-x](https://www.nature.com/articles/s41598-024-54271-x)<br><br>  <br>the biggest companies do burn a lot of energy trying to stay ahead of eachother and get into first place - but this is not a problem inherent in AI.<br><br>AI itself can be a dramatic energy saver used correctly.<br><br>there&#x27;s arguably more environmental harm in continuing to do things manually that a machine can do 100x quicker.. because you could be using that human time and energy to do something else not yet automated.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Wintercat76</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 09:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Try calculating the amount of energy used by crypto mining and compare it to AI.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Agile-Music-2295</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2025-01-20 07:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                One thing to consider is for feature animation a single frame can take upto 10 hours to render. With 25 frame per a second. <br><br>Thats a lot of power.<br><br>Vs AI video which can render a 100 frames in about two minutes.<br><br>One of these processes uses significantly more power than the other.<br><br>It’s also important to understand that image AI generation is low compute and doesn’t use much power. Compared to an LLM like O3 which uses far more power .<br><br>Turns out making images is easy.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/MisterViperfish</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 06:26 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                What I’d like to know is the energy used to train + generate for every user across all images, and calculate the average energy used per image. Then compare that to the average energy use per image from Digital Artists who use comparable levels of detail.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/TomSFox</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-01-20 06:23 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;Now, I’m someone who trusts experts/institutions as I believe that’s how society functions.<br><br>It’s a good thing you didn’t live in 1940’s Germany.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Xdivine</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2025-01-20 05:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                https://www.reuters.com/business/energy/us-data-center-power-use-could-nearly-triple-by-2028-doe-backed-report-says-2024-12-20/<br><br>According to this, data centers **as a whole** currently use about 4% of the US&#x27;s energy which could potentially go up as high as 12% by 2028.<br><br>&gt;https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions<br><br>According to this, energy makes up about 25% of the US&#x27;s carbon emissions.<br><br>So if we take those two things and stick them together, data centers are responsible for about 1% of the US&#x27;s carbon emissions and could potentially go up to 3%~ of the US&#x27;s carbon emissions by 2028. <br><br>Again though, this is for **all** data centers, not just anything AI related, so realistically the number is going to be much smaller than that.<br><br>It&#x27;s certainly not nothing in terms of carbon emissions, but we&#x27;re talking 3% of the US&#x27;s carbon emissions by 2028 in the absolute worst case scenario where suddenly every data center is purely focused on AI. I just don&#x27;t see how that&#x27;s going to murder the environment.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/PowderMuse</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-20 04:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The latest Hard Fork podcast looked at the available data on AI and climate change.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

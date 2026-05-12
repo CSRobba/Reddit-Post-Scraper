@@ -1,0 +1,288 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>How much power does your local llm rig use?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LocalLLaMA
+    </div>
+
+    <div class="title">
+    How much power does your local llm rig use?
+    </div>
+
+    <div class="meta">
+    Posted by u/No-Statement-0001
+    •
+    
+    •
+    0 points
+    •
+    28 comments
+    </div>
+
+    <div class="body">
+    I’ve gotten my 3xP40 right down to 6W.  Anyone else done any optimizations?<br><br>It normally idles at about 116W, but with some hacks/tweaks I managed to  get it to suspend automatically and wake on lan and be ready to go in about 20 seconds. I’m running llama3.1 70b. 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Worth-Ad-2795</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-30 21:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                side question - any software that shows you the W pull without using a physical outlet plug?
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/kryptkpr</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-30 20:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                https://preview.redd.it/q13xxibm2vld1.jpeg?width=4080&amp;format=pjpg&amp;auto=webp&amp;s=ec35f52b5aafbfb00e6f120182a2fdf2dab7e788<br><br>It depends what they&#x27;re doing, but here&#x27;s a 2x400W at the wall scenario.  This is 2xP40 (left) and 2xP100 (right) all running inference. I believe the P40s had a 70B loaded across them while the P100 each had an 8B.<br><br>I use custom frontend that can inference multiple completions from multiple models so my power usage can get fairly bananas I&#x27;ve hit 1KW before (there are 2x3060 on that right side that are idle here)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Red_Redditor_Reddit</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-30 16:14 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Underclocked 14900k with 4090.  550w for prompting, 330w for text output, 240w if CPU only, 65w idle.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/segmond</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-30 16:08 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                My electric bill is definitely up about $100+/month.   Trying to figure out if it&#x27;s 6 GPUs or inflation of utility costs.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/ramzeez88</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-31 09:40 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I would use some solar power if I was you (if it&#x27;s possible)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/ScrapEngineer_</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-08-30 17:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Def 6 GPU, even more if they are 4090s
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/a_beautiful_rhind</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2024-08-30 11:48 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I tried to optimize but it&#x27;s basically impossible with a server. I pull about 250-300w at idle and it ends up costing $25-30 a month, just like a subscription.<br><br>When picking a board, make sure it has sleep.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Some_Endian_FP17</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-08-30 11:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Do laptop users count? <br><br>Snapdragon X1 Surface Pro: maybe 5W idle with a model loaded including the screen and WiFi powered on, 30 to 35W running inference on 6 to 8 cores.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/No-Statement-0001</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-08-30 19:11 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                which model are you running and tok/sec. That’s impressively low inference power usage.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Sambojin1</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-08-31 01:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                About 3.5-5watts on my phone. That&#x27;s its max power draw anyway. It does chew through a 5000mAh battery, but no more than mobile gaming does.<br><br>3-7 tokens a second on ARM optimized models (Gemmasutra 2B to code/ Llama3.1 8B, and everything in between). Not bad for a $200 phone (a Motorola g84). Better phones would be, umm, better. At probably only 1.5-3x the power draw.<br><br>Sure, I&#x27;m model size limited, but it&#x27;s fun from a hobbyist/ vague interest in AI perspective. I can run larger models, but these do stuff quickly enough. I might buy something decent for my next phone, but this does all the normal phone stuff too, so I&#x27;m not sure blowing an extra 800$ just for slightly faster LLMs is worth it.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

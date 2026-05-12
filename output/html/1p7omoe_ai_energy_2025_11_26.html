@@ -1,0 +1,176 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>AI energy consumption</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    AI energy consumption
+    </div>
+
+    <div class="meta">
+    Posted by u/Popular_Control8232
+    •
+    
+    •
+    0 points
+    •
+    18 comments
+    </div>
+
+    <div class="body">
+    I was reading about AI energy consumption and came across the article [https://arxiv.org/html/2505.09598v6](https://arxiv.org/html/2505.09598v6) which talks about how much AI consumes on the per prompt level. It found the GPT-4o uses about 0.423 ± 0.085 Wh per short prompt (100 word input-300 word output).<br><br>ChatGPT receives around 2.5 billions prompts daily and, 2.5 billion x 0.423 = 1,057,500,000 Wh<br><br>  <br>Now, I understand that energy consumption for AI depends on a lot of variables like the device youre using, the prompt and the Ai model youre using, but if averaged out, is this a reasonable number to attribute to AI energy consumption, or am I missing something here? I&#x27;m having trouble finding a solid number for how much energy AI consumes daily. 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/SimilarTest7584</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-12-09 04:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There are many factors to consider. It is nor just a simple multiplication. <br><br><br>It depends on hardware for sure but also most AI conpute providers have started doing prompt caching to reduce energy usage. <br><br><br>In addition to prompt caching, they do a lot of throttling these days or lowering performance to manage high traffic.<br><br><br>What is clear is AI consumes a lot of energy, but it is being optimized from different angles. 
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Difficult-Ask683</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-11-27 15:22 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                A lot of AI&#x27;s energy consumption is generalized by the press. Some algorithms use less than others. <br><br>Even the AI water thing is oversimplified. Not all AI data centers use immersion cooling that wastes water either. They can use closed loop systems, vapor chambers, or good old fashioned fans. And then people muddy the waters (pun not intended) with the fact that chips require water to be made. <br><br>Also, the industry is transitioning away from GPUs towards ASICs designed specifically for AI
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Normal_Pay_2907</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-27 05:44 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It is completely all over the place when it comes to energy cost of models, and will likely continue to change rapidly and massively.  Overall 4o data is not very relevant to current models, so should not be used as an estimation tool.<br><br>Much better than back of the napkin math would just be to search online for estimates of the consumption overall.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

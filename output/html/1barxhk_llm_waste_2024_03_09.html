@@ -1,0 +1,240 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Any LLM that does not waste words?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LocalLLaMA
+    </div>
+
+    <div class="title">
+    Any LLM that does not waste words?
+    </div>
+
+    <div class="meta">
+    Posted by u/lookaround314
+    •
+    
+    •
+    0 points
+    •
+    40 comments
+    </div>
+
+    <div class="body">
+    Each word costs compute cycles to generate. If you have FAANG resources you can make still fast enough, but on smaller systems it would be really beneficial to get to the point. <br><br>I don&#x27;t need &quot;This is a fascinating question, and to answer we need to examine all aspects of ...&quot; if the answer is &quot;no&quot; or &quot;rm -rf folder&quot;. Local models would be a lot more usable if they used well their limited word throughput. <br><br>Any model that gets close to this ideal, possibly just by responding well to a prompt?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/PitsofSlude</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-10 22:21 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Tell it to answer in JSON.<br><br>Then at the end of the prompt (after the end of Instruction token) write the starting JSON.<br>Something like:<br>“&lt;s&gt; [INST] Please answer the following question in JSON. What is Obama’s birthday? [/INST] &lt;/s&gt; {“Obama’s birthday”: “<br><br>Output would be:<br>“August 4th, 1961}”<br><br>Sometimes the model will try to explain itself, but you can cut it short with the LLMs parameters.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Smeetilus</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-03-10 18:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Better people than me are onto something about prompt engineering being the ticket.<br><br>For example, I&#x27;ve been playing with CodeLlama-13b-Instruct-hf and below consistently answers as exactly instructed without additional fine-tuning.<br><br>    context: The AI has been trained to code and to provide code-only responses within markdown code blocks.<br>    top_p: 0.1<br>    top_k: 40<br>    repetition_penalty: 1.18<br>    temperature: 0.02<br><br> Instruction template <br><br>    {%- set ns = namespace(found=false) -%}<br>    {%- for message in messages -%}<br>        {%- if message[&#x27;role&#x27;] == &#x27;system&#x27; -%}<br>            {%- set ns.found = true -%}<br>        {%- endif -%}<br>    {%- endfor -%}<br>    {%- if not ns.found -%}<br>        {{- &#x27;&#x27; + &#x27;Below is an instruction that describes a task. Write a code-only response that appropriately completes the request. Provide without explanations.&#x27; + &#x27;\n\n&#x27; -}}<br>    {%- endif %}<br>    {%- for message in messages %}<br>        {%- if message[&#x27;role&#x27;] == &#x27;system&#x27; -%}<br>            {{- &#x27;```&#x27; + message[&#x27;content&#x27;] + &#x27;```\n\n&#x27; -}}<br>        {%- else -%}<br>            {%- if message[&#x27;role&#x27;] == &#x27;user&#x27; -%}<br>                {{-&#x27;### Instruction:\n&#x27; + message[&#x27;content&#x27;] + &#x27;\n\n&#x27;-}}<br>            {%- else -%}<br>                {{-&#x27;### Response:\n&#x27; + message[&#x27;content&#x27;] + &#x27;\n\n&#x27; -}}<br>            {%- endif -%}<br>        {%- endif -%}<br>    {%- endfor -%}<br>    {%- if add_generation_prompt -%}<br>        {{-&#x27;### Response:\n&#x27;-}}<br>    {%- endif -%}
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/iantimmis</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-03-10 14:56 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Respond concicely as mentioned works well, but it also must be said that for some questions, the model needs to spend tokens to think. Whether it be through CoT or otherwise
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Legitimate-Pumpkin</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2024-03-10 12:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I told chatgpt in the custom instructions to be concise, that yes and no is very acceptable and things like that and now he often sounds too dry. “Yes, they exist”. “No, I don’t know”. “Ok, what with that”.<br>So I guess you can give the llm a set of instructions that will make it be super concise or even fine tune it with a very concise dataset.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Forsaken-Data4905</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-10 12:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Another thing besides the other suggestions is to check high vocab size models (like Gemma), the higher the vocab size, the less tokens the model might need to generate for the same sentence. This is of course not guaranteed to always happen, but for stuff like coding this could really help.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/lolwutdo</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-10 06:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                skill issue
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/IWantAGI</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-10 05:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Most local models allow you to set a maximum amount of tokens for its response. You could even set it to one if you really wanted.   <br><br><br>The problem is determining what is optimal for any given response, and determining that would likely require it to generate multiple responses (using even more compute) and then select the optimal one.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

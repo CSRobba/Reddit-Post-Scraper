@@ -1,0 +1,336 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Why do AI servers use up water?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    Why do AI servers use up water?
+    </div>
+
+    <div class="meta">
+    Posted by u/Pasta-hobo
+    •
+    
+    •
+    0 points
+    •
+    13 comments
+    </div>
+
+    <div class="body">
+    They&#x27;re water-cooled, I get that. But shouldn&#x27;t that be a closed loop of water circulating between the servers and the radiators?<br><br>But AI data centers use so much water that buildings around them can&#x27;t use their sinks.<br><br>Where is it going? <br><br>I wouldn&#x27;t expect it to be hot enought to boil off. But even if it was, you could use a steam turbine in a closed loop system to regenerate some of the power.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Extreme-Insurance877</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Short answer: Evaporation<br><br>Slightly longer answer: Radiators are a poor comparison as they work slightly differently to how AI/datacentres are cooled and no physical system is a truly &#x27;closed&#x27;, but that&#x27;s a slightly different matter, back on track, datacentres lose a LOT of water via evaporation but also via electricity generation (using steam turbines to generate electricity they need to use), and this water cannot be infinitely reused; <br><br>The big problem is that there are relatively few areas in the world that have enough water for large data centres to use without impacting the environment, this is predicted to become a much larger problem when you factor in population increases, climate change and the drive for more complex and bigger data centres <br><br>here&#x27;s  few links (mostly UK biased) about water use<br><br>[https://assets.publishing.service.gov.uk/media/688cb407dc6688ed50878367/Water\_use\_in\_data\_centre\_and\_AI\_report.pdf](https://assets.publishing.service.gov.uk/media/688cb407dc6688ed50878367/Water_use_in_data_centre_and_AI_report.pdf)<br><br>[https://eng.ox.ac.uk/case-studies/the-true-cost-of-water-guzzling-data-centres/](https://eng.ox.ac.uk/case-studies/the-true-cost-of-water-guzzling-data-centres/)<br><br>[https://blog.equinix.com/blog/2024/09/19/how-data-centers-use-water-and-how-were-working-to-use-water-responsibly/](https://blog.equinix.com/blog/2024/09/19/how-data-centers-use-water-and-how-were-working-to-use-water-responsibly/)<br><br>[https://datacenters.microsoft.com/wp-content/uploads/2023/05/Azure\_Modern-Datacenter-Cooling\_Infographic.pdf](https://datacenters.microsoft.com/wp-content/uploads/2023/05/Azure_Modern-Datacenter-Cooling_Infographic.pdf)<br><br>[https://www.reddit.com/r/datacenter/comments/1ijrjns/a\_typical\_data\_centre\_can\_use\_between\_11\_million/](https://www.reddit.com/r/datacenter/comments/1ijrjns/a_typical_data_centre_can_use_between_11_million/)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/bangbangracer</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s cooling.  You nailed it.  The big thing is the water they take out of reservoirs needs to be treated before going back into a reservoir.<br><br>The way water cooling works in these places is there&#x27;s a closed loop of coolant that flows through that actual computers.  This is a non-water coolant.  It&#x27;s also decently toxic.  It picks up heat from the computers, flows to a liquid/liquid heat exchanger, and flows back to the computers for another round.  Water flows through the other line taking that heat away.  Liquid cooling is all about moving heat from one area to another.<br><br>That water they use is an issue.  A lot of regional reservoirs aren&#x27;t ready to meet the demand a data center brings with it.  Major scale infrastructure work needs to be done before the center actually starts working.  Additionally, that water they used is now the same as water from the toilet.  It&#x27;s grey waste water that needs to be processed before returning to a reservoir.  We also run the risk of toxic chemicals from a leak.<br><br>Source:  Worked on coolant systems for nuclear power facilities, including on-site server rooms.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/NoStupidQuestionsBot</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Thanks for your submission /u/Pasta-hobo, but it has been removed for the following reason:<br><br>**Rule 2: Please try to use the search function before posting anything.**<br><br>Thanks for posting, but this question happens to be one that has been asked and answered here often before - sometimes in the same day! That can get frustrating for our dedicated users who like to answer questions. Or maybe you&#x27;re just asking the same question too often - why not take a break for a while?<br><br>Sometimes questions that come up too often get put in our [Most Frequently Asked Questions list](https://www.reddit.com/r/NoStupidQuestions/wiki/index/faq)!). Other times, it may just be that we&#x27;re getting a flood of questions about a topic (especially when something is in the news). Or maybe you keep asking the same question again and again - something that annoys our users here. Please don&#x27;t do that! Next time, please try searching for your question first before asking. Thanks!<br><br>---<br><br>*This action was performed by a bot at the explicit direction of a human.  This was not an automated action, but a conscious decision by a sapient life form charged with moderating this sub.*<br><br>*If you feel this was in error, or need more clarification, please don&#x27;t hesitate to [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2FNoStupidQuestions).  Thanks.*
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/frizzykid</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-10-10 20:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s mostly just propaganda to stop companies from building giant data centers/AI farms.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Astramancer_</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-10-10 20:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;But AI data centers use so much water that buildings around them can&#x27;t use their sinks.<br><br>That&#x27;s ... unlikely.  And if so, that&#x27;s a water department issue.<br><br>&gt;They&#x27;re water-cooled, I get that. But shouldn&#x27;t that be a closed loop of water circulating between the servers and the radiators?<br><br>Radiators can only get rid of so much heat.  Data centers tend to make a lot more heat than can be reasonably disposed of by air cooling (radiators are air cooling, you just move the heat away from the source via a fluid and air cool it somewhere else where you have more room).  The economics of it currently say &quot;dump the heat down the drain and pay for more water&quot; is the more viable option.  They do still do a lot of air cooling, but it&#x27;s not enough to keep up with the heat load.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/generic_redditor_71</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:36 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Nobody dumps hot water down the drain. They spray water on baffles while forcing air through them with fans. Some of the water evaporates, which cools down the rest much quicker than heat exchange with air alone would.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Astramancer_</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:37 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Down the *metaphorical* drain.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Pasta-hobo</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That hurts the engineer in me. It&#x27;s just so inefficient.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/rhomboidus</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:43 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s very efficient if you&#x27;re a finance-brained dipshit. You&#x27;re offloading the cost of cooling onto the public.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/PresentDirection41</span>
+                •
+                <span>4 points</span>
+                •
+                <span>2025-10-10 20:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;But AI data centers use so much water that buildings around them can&#x27;t use their sinks.<br><br>Where are you guys getting this?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/macdaddee</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-10-10 20:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Bluesky and Twitter
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/PresentDirection41</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-10-10 20:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                OK, have you considered that people can post literally anything they want on these platforms? And that you have no particular reason to believe it?
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/nothingbuthobbies</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-10-10 20:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That&#x27;s not OP and I think that was his point. He was pointing out that the original question is based on sensationalist drivel from Bluesky and Twitter.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

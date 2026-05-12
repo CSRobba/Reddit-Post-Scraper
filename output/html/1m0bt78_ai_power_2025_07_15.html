@@ -1,0 +1,208 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Large power fluctuations in AI data centers - how series is this problem?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    Large power fluctuations in AI data centers - how series is this problem?
+    </div>
+
+    <div class="meta">
+    Posted by u/brodds_c
+    •
+    
+    •
+    0 points
+    •
+    5 comments
+    </div>
+
+    <div class="body">
+    I&#x27;m conducting some research in this area. It seems like some software solutions have been implemented to address the large power fluctuations (e.g. scheduler, dummy load), but no good solution exists especially for the rapid load drops. On the hardware side, BESS designed for the grid seems way too expensive for load smoothing.<br><br>I read some reports from SemiAnalysis and Google, but it&#x27;s not clear to me how difficult this problem is.<br><br>Is this something that can be effectively addressed with the currently available technology?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/looktowindward</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-15 20:09 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Some folks are using flywheels. Its a serious and difficult problem.<br><br>One solution - PyTorch PowerPlant No Blowup = 1<br><br>  <br>Which is a terrible solution.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/brodds_c</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-16 02:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;PyTorch PowerPlant No Blowup = 1<br><br>How much wasted energy would result from this, percentage wise?
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tokensRus</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-15 08:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Large Problem: [AI Training Load Fluctuations at Gigawatt-scale – Risk of Power Grid Blackout? – SemiAnalysis](https://semianalysis.com/2025/06/25/ai-training-load-fluctuations-at-gigawatt-scale-risk-of-power-grid-blackout/)
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/brodds_c</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-16 01:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                yeah great piece by SemiAnalysis! Do you know how this problem is managed right now? How close are we to the point where data centers actually pose serious threat to the grid?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/tokensRus</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-16 05:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Since i am a PR guy from Germany, i have not come to a solution yet. I have some journos wating for an article about this topic. What i know is that this is just the tip of the iceberg, since gpu clusters also tend to pulse, modern UPS systems can counter this effect...another solution should be the installation of a micro grid structure etc. but i am not an electrical engineer.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

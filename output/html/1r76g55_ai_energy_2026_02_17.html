@@ -1,0 +1,192 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Ai energy usage by query</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/OpenAI
+    </div>
+
+    <div class="title">
+    Ai energy usage by query
+    </div>
+
+    <div class="meta">
+    Posted by u/asdfgayy
+    •
+    
+    •
+    0 points
+    •
+    3 comments
+    </div>
+
+    <div class="body">
+    probably this is a silly question, but are certain tasks &#x27;harder&#x27; for llm ai (mostly I&#x27;m asking abt chatgpt) to do, not necessarily in the sense the that it produces worse/less accurate results, just that it takes more energy.<br><br>If so, what kind of tasks are these? To my understanding AI just works on token prediction, so the perceived &#x27;difficulty&#x27; of a task shouldn&#x27;t matter for how much energy it uses. Between asking it to edit a text I wrote or generate it&#x27;s own text, to these tasks differ in energy cost? Is it based on how hard the text is to &#x27;predict&#x27;, the length of the response, or are all queries equal jn this sense? thank you guys! 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/UnderstandingDry1256</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-02-17 14:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Factor 1: size of the model. OpenAI likely uses some internal router which decides how smart the mode should be to respond. Smarter model equals larger model equals more energy consumption. <br><br>Factor 2: thinking vs. non-thinking mode. Thinking models are actually agents which iterate over llm generating so-called like of thought, which also consumes tokens. The more iterations it needs to answer, the more energy it will consume in total.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/[deleted]</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-02-21 22:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                [removed]
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Neinet3141</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-02-17 14:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It depends. Each token is not equal.<br><br>  <br>One interesting example of why is KV caching, where it will re-use work done to generate previous tokens to generate the next token too, but this uses more memory. <br><br>  <br>Also, chatgpt does things like search the web which probably change the calculations, because it&#x27;s being used in ways that aren&#x27;t apparent to the user.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/gift_for_aranaktu</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-02-17 14:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, they can be - but a great deal of the energy footprint of AI is training the models, not necessarily just the cloud compute running them, so it’s a bit more complicated.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

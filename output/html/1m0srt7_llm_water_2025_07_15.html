@@ -1,0 +1,176 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>What is the basis for the claim that LLM compute centers use much more water than other kinds of data centers or large organizations?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    What is the basis for the claim that LLM compute centers use much more water than other kinds of data centers or large organizations?
+    </div>
+
+    <div class="meta">
+    Posted by u/Fantastic_Brain7269
+    •
+    
+    •
+    0 points
+    •
+    3 comments
+    </div>
+
+    <div class="body">
+    I&#x27;ve seen many mutuals on social media say this. I always want to ask but don&#x27;t want to come across as argumentative. <br><br>I don&#x27;t understand where that extra water usage would be coming from. Are they using so much water for cooling their equipment? I&#x27;ve only ever seen watercoolers that loop water around, constantly reusing the same water. However, I haven&#x27;t seen a huge compute cluster on the scale of ChatGPT. At work, we manage two racks and they just run on air cooling.<br><br>Is the claim that the water usage comes from &quot;upstream&quot; - like increased water usage at a power plant to provide enough energy for the compute center? <br><br>The claim and my prior knowledge are at conflict and I just want to know if I have some misconception or misunderstanding or blind spot in my knowledge.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/kushangaza</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-16 12:27 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The &quot;average&quot; data center is mostly web servers, which are not very compute heavy. Lots of tasks are more about having fast storage, or lots of storage, or just having idle capacity for that one inrush of people during peak time.<br><br>LLM training uses servers trimmed for compute with GPUs, and usually use all of them at the same time at full capacity. There is a lot more compute going on. Accordingly there is a lot more energy getting consumed and turned into heat that has to go somewhere. And water is one way to get rid of that heat more energy efficiently. Mostly evaporative cooling of the hot side of the AC units. You don&#x27;t need to do that, but if you didn&#x27;t you would spend even more electricity on running AC
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/aRabidGerbil</span>
+                •
+                <span>6 points</span>
+                •
+                <span>2025-07-15 20:48 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, they&#x27;re talking about using water for cooling.  Water cooling systems generally involve a closed loop but that closed loop needs some way to quickly shed heat, so cooling pools are often used, and that&#x27;s where a lot of the water usage comes from.<br><br>Over all, a data center for an LLM won&#x27;t use more water per server rack than most other large data centers.  The problem people have with it generally comes from the fact that those data centers are providing a lot less value for the impact they&#x27;re having than other centers do.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/AgentElman</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-07-15 20:32 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The claim is based on training LLMs, not using LLMs.<br><br>It is a common attack on any new technology - to compare the cost of developing it and using it to just the cost of using old technology.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

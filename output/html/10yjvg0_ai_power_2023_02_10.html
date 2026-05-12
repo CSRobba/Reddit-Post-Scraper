@@ -1,0 +1,192 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>AI power consumption</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/ArtificialInteligence
+    </div>
+
+    <div class="title">
+    AI power consumption
+    </div>
+
+    <div class="meta">
+    Posted by u/ArtonOximee
+    •
+    
+    •
+    0 points
+    •
+    4 comments
+    </div>
+
+    <div class="body">
+    I&#x27;m trying to compare different artificial intelligences and I think it would be interesting to compare it with their power consumption.<br><br>I found on [this article](https://www.ciocoverage.com/openais-chatgpt-reportedly-costs-100000-a-day-to-run/) that the average GPU used by ChatGPT is around 8 NVIDIA A100 GPU. Considering running one takes 15 kW, I assume running an instance of ChatGPT costs 120kW.<br><br>What do you think of this logic? Am I missing something? <br><br>I would like to go on with the same kind of estimates for other tools like Midjourney and so on. It is kind of difficult since they don&#x27;t particularly share these data, but I would like to know if my logic is correct.<br><br>Thanks!
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/xeneks</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2023-02-10 10:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Huggingface has a model card for stable diffusion, the open source AI prompt-to-image generator or image-to-image artistic interpreter. <br><br>That model card is a bit like an instruction manual, a sales pitch, and a guide, all in one. <br><br>It’s the ‘card’ for the ‘ai model’. The card is where all the simplest summary information is written out by the publisher of each particular project or system or program provided by publishers or rather, initiatives by programmers or teams or groups or associations of programmers. Or something like that. <br><br>This actually is a more professional description of the model card. <br><br>https://towardsdatascience.com/whats-hugging-face-122f4e7eb11a<br><br>Here is a model card. I’ve run Stable Diffusion on my local computer. It needs a powerful computer with a reasonable dedicated graphics card. But I’m only using the AI model. I’m not *making the AI model* or *Training an AI model on any massive datasets*. Or something like that. <br><br>https://huggingface.co/CompVis/stable-diffusion-v1-4<br><br>At the bottom is some carbon usage. It’s listed in a section called ‘environmental impact’.<br><br>Here’s my copy and paste of that section:<br><br>“Environmental Impact<br><br>Stable Diffusion v1 Estimated Emissions Based on that information, we estimate the following CO2 emissions using the Machine Learning Impact calculator presented in Lacoste et al. (2019). The hardware, runtime, cloud provider, and compute region were utilized to estimate the carbon impact.<br><br>Hardware Type: A100 PCIe 40GB<br>Hours used: 150000<br>Cloud Provider: AWS<br>Compute Region: US-east<br>Carbon Emitted (Power consumption x Time x Carbon produced based on location of power grid): 11250 kg CO2 eq.”<br><br>So there are some people who are competent at sharing data, at the simplest, surface, introductory level. <br><br>Here’s a tiny bit more detail. It’s the first I’ve read this document and it’s actually interesting as it more closely describes the costs as I anticipate or predict, are beyond simply carbon or electricity. <br><br>http://www.designlife-cycle.com/nvidia-gpu<br><br>It has some references. They might be a place to start. Perhaps an AI engine can answer good questions if you adapt simple questions to technical ones from the model. <br><br>Going from something that has data or perspective on many aspects of the costs, to a simple ’carbon only’ view, here’s another document. <br><br>https://www.amd.com/system/files/documents/polaris-carbon-footprint-study.pdf<br><br>Here’s a last view on the costs to train a model, described differently. <br><br>https://www.vice.com/en/article/bj95qm/training-one-ai-model-produces-as-much-emissions-as-a-cross-country-flight-study-finds<br><br>I recall reading the cost of a google search. <br><br>I wonder if Bing has prepared any cost of the AI augmented search, if someone is wondering or is considered doing their own carbon offset for AI usage or programming.<br><br>https://www.google.com.au/search?q=cost+of+a+google+search+pollution<br><br>Here’s the first link. It’s interesting, clearly the internet search costs are high, but low compared to activity like streaming video, car use, and heating/cooling. It’s deliciously addictive to binge watch videos, the costs are high though. Text alone is a bit lower in cost, so I assume that it’s easy to lower your footprint substantially if you want to use AI by substantially reducing your video consumption, and using smaller screens. Epaper is a possible alternative. It’s a text based screen that is ultra low power consumption. Which reminds me. I have an old ebook reader, a kobo, with a browser. It’s got a few lines across the display. It was bought refurbished and I didn’t return it when the lines appeared due to the carbon pollution of the return - it is still entirely functional. I wonder if there’s a simplified text-only web interface that is low on JavaScript but still has lookup history features? It’s potentially useful for family members as the ebook lasts weeks to months on a single charge if it’s used sparingly during the day. <br><br>https://www.bbc.com/future/article/20200305-why-your-internet-habits-are-not-as-clean-as-you-think
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/xeneks</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-02-10 11:15 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Update: chat.openai.com freezes the browser on the kobo. Perhaps there are ways to code a text browser proxy interface that doesn’t rely on JavaScript or the authentication gateway that often pops up with the bot-avoidance feature. Paying for a simple low-volume text only interface is not out of the question, but as I bought the kobo due to it not having monthly fees, I might need to see what API access remains free or affordable, or otherwise find a way to share a business api account with multiple users in the family, identifying them by device on passing through the API proxy to ensure I don’t pay for any device being compromised or hacked or hijacked for others who avoid fees. <br><br>Actually, perhaps, much as people sometimes provide free internet, maybe it’s possible to provide free text-only access to AI language models. <br><br>Finding this page https://linuxhint.com/best_linux_text_based_browsers/<br><br>I can see Lynx and W3M is useful for testing text only interfaces. That’s potentially a way to reduce traffic substantially, while also reducing distractions when studying via ML and AI models.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/FHIR_HL7_Integrator</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2023-02-10 08:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I have no idea, but someone made a post regarding power usage in either this subreddit or the gpt3 subreddit recently. Within the last few weeks. You might try searching for power and/or consumption to see if that post has any info.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/AutoModerator</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-02-10 08:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                ## Welcome to the r/ArtificialIntelligence gateway<br>### Question Discussion Guidelines<br><br>---<br><br>Please use the following guidelines in current and future posts:<br><br>* Post must be greater than 100 characters - the more detail, the better.<br>* Your question might already have been answered. Use the search feature if no one is engaging in your post.<br>    * AI is going to take our jobs - its been asked a lot!<br>* Discussion regarding positives and negatives about AI are allowed and encouraged. Just be respectful.<br>* Please provide links to back up your arguments.<br>* No stupid questions, unless its about AI being the beast who brings the end-times. It&#x27;s not.<br><br>###### Thanks - please let mods know if you have any questions / comments / etc<br><br>*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ArtificialInteligence) if you have any questions or concerns.*
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

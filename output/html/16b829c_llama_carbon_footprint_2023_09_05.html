@@ -1,0 +1,160 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Inconsistency of carbon footprint in LLaMA 1 paper</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LocalLLaMA
+    </div>
+
+    <div class="title">
+    Inconsistency of carbon footprint in LLaMA 1 paper
+    </div>
+
+    <div class="meta">
+    Posted by u/secsilm
+    •
+    
+    •
+    0 points
+    •
+    2 comments
+    </div>
+
+    <div class="body">
+    When I was reading the LLaMA 1 paper, it mentioned their power consumption and carbon emitted:<br><br>This means that developing these models would have cost around 2,638 MWh under our assumptions, and a total emission of 1,015 tCO2eq.<br><br>However, Table 15 does not state the same information:<br><br>https://preview.redd.it/1b23zuy2pjmb1.png?width=2014&amp;format=png&amp;auto=webp&amp;s=e3fd7eebecd9ffc887a1fdf95bd20aefe903e97f<br><br>The combined power consumption and carbon emitted for all llama models in the table are 777 and 300, respectively. This clearly does not align with the previous information.<br><br>Could I have misunderstood something?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tomatenmark23</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-12-26 14:13 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                See the quote in the paragraph before: <br><br>&quot;In this study, we are interested in comparing the cost in carbon emission of training of these models if they were trained in the same data center. Hence, we do not take the location of data center in consideration, and use, instead, the US national average carbon intensity factor of 0.385 kg CO2eq/KWh.&quot;
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/a_beautiful_rhind</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2023-09-06 10:35 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s going to be a lot no matter how you slice it.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

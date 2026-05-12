@@ -1,0 +1,400 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>The Environmental Argument against AI art is Bogus</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/aiwars
+    </div>
+
+    <div class="title">
+    The Environmental Argument against AI art is Bogus
+    </div>
+
+    <div class="meta">
+    Posted by u/realechelon
+    •
+    
+    •
+    0 points
+    •
+    82 comments
+    </div>
+
+    <div class="body">
+    # The Argument<br><br>A lot of anti-AI people are making the argument that because AI art uses GPUs like crypto, it must be equally bad for the environment.<br><br># The Experiment<br><br>Let&#x27;s run a little experiment. We&#x27;re going to use NVIDIA Tesla P40s which have infamously bad fp16 performance so they should be the least energy efficient card from the last 5 years, they use about 15W idle. These are pretty old GPUs so they&#x27;re much less efficient than the A100s and H100s that large corporations use but I&#x27;m going to use them for this example because I want to provide an absolute worst-case scenario for the SD user. The rest of my PC uses about 60W idle.<br><br>If I queue up 200 jobs in ComfyUI (1024x1024, PDXLv6, 40 steps, Euler a, batch size 4) across both GPUs, I can see that this would take approximately 2 hours to generate 800 images. Let&#x27;s assume the GPUs run at a full 250W each the whole time (they don&#x27;t, but it&#x27;ll keep the math simple). That&#x27;s 1kWh to generate 800 images, or 1.25Wh per image.<br><br># Comparison to Digital Art<br><br>Now let&#x27;s look at digital illustration. Let&#x27;s assume I&#x27;m a great artist, and I can create something the same quality as my PDXL output in 30 minutes. I watch a lot of art livestreams and I&#x27;ve never seen a digital artist fully render a piece in 30 minutes, but let&#x27;s assume I&#x27;m the Highlander of art. There can be only one.<br><br>To render that image, even if my whole PC is idle, will use 50Wh of energy (plus whatever my Cintiq uses). That&#x27;s about 40x (edit: 80-100x) as much as my PDXL render. My PC will *not* be idle doing this, a lot of the filter effects will be CPU &amp; RAM intensive. If I&#x27;m doing 3D work, this will be far far worse for the traditional method.<br><br># But What About Training?<br><br>The wise among us will note that I&#x27;ve only talked about *inferencing*, but what about *training*? Training SDXL took about half a million hours on A100-based hardware. Assuming these ran close to max power draw, that&#x27;s about 125,000kWh or 125MWh of energy. <br><br>That sounds like a lot, but when you consider that the SDXL base model alone has [5.5 million downloads on one website](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) last month (note: this does not include downloads from CivitAI or downloads of finetunes), even if we ignore every download on every other platform, and in every previous month, and of every other finetune, that&#x27;s a training cost of less than 25Wh per user (or, less than leaving my PC on doing nothing for 15 minutes).<br><br># Footnote<br><br>This calculation is using all the worst-case numbers for AI and all the best-case numbers for digital art. If I were to use an A6000 or even an RTX 3090, that would generate images much faster than my P40s for the same energy consumption.<br><br>Edit: the actual power consumption on my P40 is about 90-130W while generating images, so the 1.25Wh per image should be 0.45-0.65Wh per image.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/EnvironmentalKiwi509</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-12-04 23:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                have you never actually seen any research for it? You are acting like you haven&#x27;t actually read any article about this topic and calling it false because you like ai. Actually, the environmental problems stem from how much energy it uses. In fact, the energy makes it so hot that cooling it down is contributing to water waste. Also, it is powered by fossil fuels in most cases. I will admit, all these problems are probably a really quick fix and with how scarily fast ai is change rn it could probably get fixed in like a year tops. But it probably wont since nobody cares enough.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/realechelon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-12-05 18:59 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, I read most of the papers. AI is not a significant contributor to water waste, carbon emissions or global energy usage.<br><br>Ideologues have been throwing around large numbers to scare people. Yes training a model is expensive but that model gets used by tens of millions of people.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/transwumao</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-09-15 15:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I can guarantee you didn&#x27;t properly take into account the upfront envronmental cost of training the LLM, manufacturing the hardware and facilities required to produce responses in the first place, and data storage. I also doubt your math accounts for the number of tries it took you to complete a given artistic task. For someone calling any anti-LLM people luddites, you have a very shallow understanding of how the technology actually works in practice.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/realechelon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-09-20 20:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The cost of training amortized to the number of users is negligible. The cost of manufacturing a GPU is also negligible.<br><br>I actually train models, I&#x27;d be absolutely shocked if I didn&#x27;t have far more knowledge about it than you do.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/transwumao</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-09-21 14:46 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Actually delusional. Do you seriously think the corporations building thousands of AI datacenters have neglible environmental impacts? AI datacenters in my city made my electric bill double in just the last year. Water shortages are expected to become commonplace because of the adoption of such an idiotic technology. Shame on you for being too stupid to realize the consequences of your actions.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Remarkable_Young963</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-06-06 20:26 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The way I understand it from research is that so far the long standing environmental impact of AI isn&#x27;t particularly well understood, so there are still policies to be made to mitigate possible damage and just... gotta be careful about large scale use and optimize the algorithms before we are sure how it&#x27;ll go. It&#x27;s not an immediate threat but rather something to be watched closely and fine tuned to be as little harm as possible.<br><br><br>(The ethical concerns with AI art in particular is a different debate (speaking as a professional artist), but it&#x27;s not its existence in general that is worrying but rather if Big Corp get greedy and want to use it instead of paying real artists all the time lol) 
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/DesertLettuce61</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-06-04 04:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I&#x27;m a part of a dnd group on discord where it is a platform for different people to meet and form groups. I myself am an artist but I also have something v cool called adhd and depression and if I had to draw every single npc from scratch I .... wouldn&#x27;t be running the campaign I am lol. I have so much to do every day I like being able to just go &quot;gimme a priest orc for me to stick on a character token&quot; and call it a day. <br><br>Now, a few people in this server who are, as it turns out, incredibly against ai art are saying, and I quote (copy/paste) &quot;AI is theft that is killing the planet&quot; and running with it entirely. Hopefully, this thread will help me figure out how to tell them &quot;no... no its not..&quot;<br><br>It is also very fun to encounter &quot;Just learn art&quot; as a rebuttle because um yes yes I am learn art and I would like a break for my random dnd game thank you
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Zarastrustra</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-02-21 07:46 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, it is bogus, especially when people in bad faith try to apply that study on all AI-art generators. They like to remain silent that it looked at Dall-E and ChatGPT exclusively. But hey, as long as they have another &quot;argument&quot; on their side, who cares. I had just one guy there, who made a big fuzz on his X Account, that I use AI-art for RPG, claiming he doesn&#x27;t support envoiremental destruction. But before I could clairfy things, and ask him about his economic footprint, he instantly blocked me.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/farmer_joslyn</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-12-20 19:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Not all environmentalist’s think like this. I work with an environmental nonprofit that has absolutely no issue with AI or crypto, we fully embrace it. We call ourselves the Ecological Servants Project. Balance between species and environment is what matters most.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Aischylos</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-06-25 01:38 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I like AI image generation, but I think the fundamental flaw with this argument is that AI isn&#x27;t actually really replacing artists *that* much.  The majority of AI image generation is for use cases where people just wouldn&#x27;t have generated images, not for replacing work existing artists would have done.  That&#x27;s certainly happening some, but at least personally, basically every image I&#x27;ve generated or friends have generated with my GPU has been something that just never would have existed.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/realechelon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-06-25 01:40 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                What would you have been doing if you weren&#x27;t generating images?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Lost-Tone8649</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-06-25 02:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Dangling from Elon Musk&#x27;s scrotum, presumably.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Aischylos</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-06-25 01:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I wouldn&#x27;t have bought a 4090, and if I did it would be idle a lot more, not running.  I&#x27;m using it for fun and also for stuff like ttrpgs where I would have either sourced stock footage or not used any images.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/realechelon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-06-25 02:05 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                No, I mean, what would you have used that time doing instead? Something that uses electricity or not. AI art compares favorably on energy to a *lot* of activities.
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/Aischylos</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-06-25 02:19 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I mean, I leave my computer on either way - but the question is whether my GPU would be spun up to full or not, and whether I&#x27;d have such a power hungry card.  Most of my image gen is either done in the background while I&#x27;m doing other stuff or done while I&#x27;m not home so I wouldn&#x27;t be on my desktop.<br><br>Also, we can see that AI has lead to higher demand for GPUs, just look at Nvidia earnings calls.<br><br>There&#x27;s also the fact that power contracts are selling out due to increased demand from data centers.<br><br>The reality is that AI is using a lot of power
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/realechelon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-06-25 02:26 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                My point isn&#x27;t &quot;AI doesn&#x27;t use energy&quot;. My point is &quot;AI art uses less energy than a bunch of other things you could be spending your time doing&quot;.<br><br>Power usage has to be relative to whatever else you *would* have been using if you weren&#x27;t generating AI images. If you&#x27;d have been browsing the Internet, that uses power on the server side (and client depending what&#x27;s running).<br><br>I&#x27;m not grouping *all* AI together here, just focusing on art. The demand for GPUs from AI art is a drop in the ocean next to LLMs.
+            </div>
+
+            
+        <div class="comment" style="margin-left:144px">
+            <div class="comment-meta">
+                <span class="author">u/Aischylos</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-06-25 02:49 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Ah fair - idk what the demand from ai images vs LLMs is.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

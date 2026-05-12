@@ -1,0 +1,128 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>How would you go about calculating a person's carbon footprint impact from using generative AI?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/climatechange
+    </div>
+
+    <div class="title">
+    How would you go about calculating a person's carbon footprint impact from using generative AI?
+    </div>
+
+    <div class="meta">
+    Posted by u/Sharp-Appointment795
+    •
+    
+    •
+    0 points
+    •
+    0 comments
+    </div>
+
+    <div class="body">
+    Here&#x27;s my wild guess with very little in terms of references:<br><br>Average daily use 30,000 tokens  <br>Throughput of a single H100 card (the standard) is let&#x27;s say 150 tokens per second (had trouble finding references)  <br>Power consumption of H100: 500w  <br>Power consumption of datacenter equipment to support H100 like cooling, networking and backups +20%  <br>Average carbon footprint of a US datacenter: 0.1 tons of CO2 per kilowatt hour (kWh)<br><br>30,000 tokens / 150tps = 67 seconds of generation  <br>Total datacenter power consumption of H100: 500w \* 120% = 600w  <br>67 seconds of H100 power use 600w / 1200 seconds in an hour \* 62 = 33.5 Watts  <br>33.5 Watts \* 30 days = 1,005 Watts<br><br>If I round to 1,000 Watts that&#x27;s 1kWh or 0.1 tons of CO2<br><br>How would you calculate it? Got reliable data sources with different numbers?<br><br>Thanks!
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

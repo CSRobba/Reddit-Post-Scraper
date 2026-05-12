@@ -1,0 +1,224 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Can't the water used to cool down data centers for like AI models be reused?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    Can't the water used to cool down data centers for like AI models be reused?
+    </div>
+
+    <div class="meta">
+    Posted by u/Toxilyn
+    •
+    
+    •
+    0 points
+    •
+    6 comments
+    </div>
+
+    <div class="body">
+    I saw a short or something saying the water use an AI has for cooling has a massive environmental impact. <br><br>And I don&#x27;t know enough about anything. But I thought like you cool water down. And then it run through in pipes. And then you return the water to be cooled down again? <br><br>But that is not how it works?<br><br>Why does it waste so much water?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Acylion</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-23 11:23 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There&#x27;s air cooling and liquid cooling for data centres. It can be one or the other, or both. Older ones would just be air cooled, essentially all you&#x27;re doing is running air conditioning really high and there&#x27;s a cold room where the atmosphere itself is pretty chilly, with server racks sitting there.<br><br>Even in that context, though, there might be some kind of heat pump that&#x27;s taking hot air from the room and pushing it through some sort of large central cooling system that is using liquid (water) coolant.<br><br>And yeah, there&#x27;s liquid cooled systems where the servers might be immersed in a bath somehow. Or there&#x27;s tubes and whatever running through things.<br><br>Or a place might use a hybrid of methods.<br><br>Okay. So why is there waste water? Why doesn&#x27;t the water cycle? Well, short answer is that it does. The water&#x27;s reused, but after a point there&#x27;s going to be buildup of effluent, it collects bacteria, there&#x27;s limescale, and so on. So a system can&#x27;t use the same water forever and eventually operators do need to change it out for new water.<br><br>Larger data centres might have what amounts to a small on-site water treatment plant on the premises, but there&#x27;s still limits to how much recycling is possible.<br><br>Note that there is general awareness in industry and among regulators that this is an issue. Power Usage Effectiveness (PUE) requirements for data centres is already mainstream and new-build centres in most countries would now be expected to target around 1.45 PUE or below. Water Usage Effectiveness (WUE) isn&#x27;t quite a universal international standard or requirement just yet, but is starting to catch on, and you&#x27;ll see the larger operators committing to some kind of WUE target even if it isn&#x27;t legally mandatory yet.<br><br>Disclaimer: I am a sustainability professional, but I am not a datacentre professional. I&#x27;ve interviewed datacentre people for work, but I may have some details wrong.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/zenmatrix83</span>
+                •
+                <span>6 points</span>
+                •
+                <span>2024-10-23 11:09 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                [https://www.reddit.com/r/explainlikeimfive/comments/yzlsoj/eli5\_why\_do\_datacenters\_continuously\_use\_more/](https://www.reddit.com/r/explainlikeimfive/comments/yzlsoj/eli5_why_do_datacenters_continuously_use_more/) Read the first comment and others. This looks correct from the little I know, and its because it evaporates.  <br>&quot;<br><br>AH! a question in an area of my expertise. There are at least three variants of water-consuming datacenter cooling.<br><br>1. The datacenter captures the hot air coming out of servers. Radiators with cool water circulating through them are used to cool this hot air. The water is heated while the air is cooled. That water is then pumped outside and poured over big fiber boards while a fan blows outside air past them. This evaporates some of the water, and the remainder is cooled by the evaporation. The remaining cooled water is pumped back inside the datacenter and the process repeats.<br>2. The datacenter uses industrial air conditioning units called CRACs, which have radiators outside the datacenter. The air conditioner compresses a gas, heating it up, and then pumps it through the radiator while a fan blows outside air across the radiators. Once the compressed gas is cooled, it is brought back into the datacenter and allowed to expand, which makes it cold. Air inside the datacenter is blown over a different radiator filled with this cold gas, cooling the datacenter air. On very hot days, the CRAC sprays the outside radiators with water, which evaporates on the radiator and cools it more than the air alone would.<br>3. The datacenter brings in outside air directly to keep the inside air cool. On hot days, the datacenter&#x27;s systems will spray a mist of water into the air on its way in. That mist evaporates quickly and cools the outside air further before it reaches the datacenter floor.&quot;
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/grayscale001</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-23 11:07 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Cool it down how? It&#x27;s millions of gallons and you have to leave it sitting somewhere for several days before it goes back to room temperature.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/mickeyflinn</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-23 11:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Sure why not. There are some super computers that actually use Hot Water for cooling. It is really wild how much cooling of computers has changed.<br><br>When I first started in the business the idea was make the data center cold as can be. Now they put a lot of thought and effort into moving the heat.<br><br>The last data center I was in about 2 years ago surprised me. If felt kind of hot.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Zooicide85</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-23 10:55 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Cooling down the water consumes energy so that’s still not great for the environment. Some supercomputers do use room temperature water for cooling though, which cuts down on their energy consumption.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/bmiller201</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-10-23 10:48 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Most Data Centers are ACd not water cooled.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

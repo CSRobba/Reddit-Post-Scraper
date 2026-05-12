@@ -1,0 +1,256 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>AI image generation and water use</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/aiwars
+    </div>
+
+    <div class="title">
+    AI image generation and water use
+    </div>
+
+    <div class="meta">
+    Posted by u/Whilpin
+    •
+    
+    •
+    0 points
+    •
+    88 comments
+    </div>
+
+    <div class="body">
+    So first, a caveat: Datacenters serve millions of people at a time, and their hardware is both far more powerful, and far more efficient than mine. Mine would be a worst case scenario (if a datacenter decided to go full dent and buy up 5090s instead of H200s)<br><br>---<br><br>It is commonly repeated that a single AI prompt will &quot;use&quot; up to 519ml of water. We will be rounding this down for ease of calculation to 500ml (a 4% reduction). GPT 5 is said to recieve about 2.5 billion requests per day, working out to 375 million litres of &quot;water used&quot; per day, or roughly 100 million gallons per day. This is not a singular datacenter, this is **the entire global use of ChatGPT 5**)<br><br>**However** these numbers are for &quot;thoughtful generation&quot; (which is multiple queries, modern LLMs do not do a single query for a single prompt anymore). This model allows the LLM to &quot;think&quot; about something before responding, a sort of inner monologue (Turns out &quot;think before you speak&quot; produces smarter responses -- who&#x27;d have known?)<br><br>However this is not the case for most image generators - there is no need for an inner monologue when the output is just a &quot;silly picture&quot;.<br><br>This also completely ignores what &quot;water use&quot; even is. It is assumed for cooling (pumped in to cool the &#x27;main loop&#x27; (very pure, treated water in a **closed loop**) and evaporated out of a cooling stack, similar to a nuclear power plant. No pollution, but admittedly difficult to drink a vapor)<br><br>---<br><br>For a local setup like mine, a single image works out to about 200 watts (197 exact) over the course of 6 seconds to generate a single image. It takes 700 watts (roughly, 696.9 precisely) to heat 1L of water 1 degree C over 6 seconds, so I would need to generate 1.75 images to heat a water bottle (500ml) up by 1 degree C. Accounting for power generation losses we can assume each image heats up a 500ml bottle of water by just over 1 degree C, or ~4.6 images to heat up a single gallon by 1 degree C.<br><br>Now typically people arent generating a single image, they are generating &gt; iterating repeatedly to get an image they want (though I doubt they&#x27;re doing anywhere near the amount I do for my more ambitious projects). I happened to have gotten a per-user average from a smaller image generation service of about 10 images/day, with heavier users hitting close to 100.<br><br>At what point is the water considered &quot;unusable&quot;? when it hits 60C? 80C? evaporates at 100C? Lets go with 100C since its really hard to &quot;recover&quot; water vapor whereas lower temps can be set aside to cool. Lets say the water &quot;starts&quot; at 20C, that would mean you need to heat it up by 80 degrees C (and keep it there because enthalpy of vaporization, remember every molecule that &#x27;escapes&#x27; as vapor will take that energy with it. One cool science experiment is you can prove this by boiling water without dumping energy into it by putting it into a vacuum, it will eventually freeze).<br><br>---<br><br>It would take the equivalent of about 17 images (accounting for energy transfer losses) to heat a single gallon of water up to 100 degrees C (boiling), and an absolutely insane 8.5 **MILLION** joules (watts/sec) to evaporate it completely. And thats with my shitty consumer-tier hardware.<br><br>**This works out to 7 *THOUSAND* images to render a single gallon of water &quot;used&quot;**<br><br>When it comes to AI art: stop bringing up the environment. Rough estimates to create a 2 wooden pencils is about a gallon (5-20L per 12-pack).<br><br>If you actually care about the environment - put **down** the pencil, or drop the argument.<br><br>Jesus christ...
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Dr-False</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-12 07:01 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Out of curiosity do we know the particular datacenters being used? Depending on the solution, the thermal junctionmax (basically what temprature would be considered the shutdown point) can vary a bit with some even topping out at 105°C all the way down to 93, per Nvida&#x27;s gpus with some solutions even allowing that number to climb to 150. There&#x27;s also the question of location as the ordinary Arizona summer can reach 107F (roughly 41°C) <br><br>I&#x27;d actually like to see what the numbers would look like from location to location as it could paint either a better or worse outcome depending on how all the numbers work. Whelp, guess I gave myself something new to randomly research. Should be fun tbh
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Whilpin</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-12 10:08 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Unfortunately because of the way the internet works, and load balancing, I imagine its impossible to tell or control. As far as I am aware, due to the nature of AI datacenters specifically, water cooling is almost a requirement given the power (and thus heat) density.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Praktos</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 06:14 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                This whole water argument was used by some legit monkeys and is now only reapeted by ai lovers because they found something to grip on in every conversation<br><br><br>Lest be real barely anyone cares about water usage being green etc..  so let this garbage die down and stop using it 70 times a day saying &quot;antis are inconsistant and wrong&quot;. Brother few monkeys saying that doesn&#x27;t mean everyone
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Whilpin</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 06:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Several times a day, every day.<br><br>Good lord i really gotta screenshot every stupid anti argument dont I? Compile them into a collage of &quot;people still say this shit on a wide scale&quot; just for you sea lions to believe it 🙄
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Praktos</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 06:47 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                If you dig you will find moronic arguments on both sides<br><br>I have not seen a water shit be a talking point of any somewhat visible anti post on either this or other subs<br><br>So you legit try to argue with bunch of toddlers.<br><br>Losing jobs<br>Death of creativity<br>And insane damage to school system are main problems and if you can debunk those be my guest, but kicking few childs that repeat shit that was already debunked is just a karma farm at this point
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/Whilpin</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 06:56 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Problem is if it gets ignored then antis jump on THAT bandwagon thinking it&#x27;s a surefire way to &quot;win&quot; the argument. So no, it can&#x27;t be ignored.<br><br>&gt; Losing jobs<br><br>🤷‍♂️<br><br>&gt; Death of creativity<br><br>Creators will continue to create<br><br>&gt; insane damage to school system<br><br>If used improperly.
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/Praktos</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 07:04 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You want to tell me you nr er cheated in school with avilable resources, with only chaange that current resources allow you to not engage at all<br><br>And even now in its infancy stages we are already flooded with sea of slop that has negative creativity and is just yet another brainrot feeder
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/Whilpin</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-05 16:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I actually never did cheat in school for anything. Im as nerd as nerd gets.<br><br>As for the sea of &quot;slop&quot;, 🤷‍♂️  thats your opinion. IMO its been a sea of slop even before AI got popular
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

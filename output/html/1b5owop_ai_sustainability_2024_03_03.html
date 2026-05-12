@@ -1,0 +1,256 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Question regarding Ai and databases and sustainability </title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/energy
+    </div>
+
+    <div class="title">
+    Question regarding Ai and databases and sustainability 
+    </div>
+
+    <div class="meta">
+    Posted by u/Maximum-Tangelo3037
+    •
+    
+    •
+    0 points
+    •
+    8 comments
+    </div>
+
+    <div class="body">
+    Hi so Im just bored and researching things and I accidentally bit off more than i can chew, I don’t know anything about databases or energy consumption or how it even works. I just know it uses fossil fuels n stuff. I have some concerns regarding Ai and its consumption of energy and how it affects the world. I feel like it can be a tool to help humans live more sustainably, but the databases and algorithms that keep all the different programs running is insanely harmful right? I know it depends on the algorithm but chatgpt as a small example uses a ton of energy. Is this something no one thinks about or is it just not that concerning or big of a deal yet? Is there ways to make these databases and systems that require so much energy to run more sustainable? What even is databases and are they in real life or just on a really big computer that uses even more energy to keep the data stored on it? 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/hsnoil</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2024-03-03 22:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Databases don&#x27;t use that much energy, I mean a database is just a way to store data and pull it out<br><br>As for AI, the thing about that is hard to say yet. At issue is modern cpus and gpus aren&#x27;t really made specifically to do AI tasks. They simply happen to do them. I imagine in the future, more optimized processors will<br><br>It is like remember when you didn&#x27;t have hardware video decoding? Watching a video your device would die in an hour or 2. With hardware decoding, you can now watch a video for 10+ hours<br><br>The same can be seen with things like Crypto, at first a lot of it was done with GPUs, but then the market shifted to use of ASICs and FPGAs who are much much faster than GPUs. The issue with crypto is there is no upper limit in consumption<br><br>AI will likely see the same thing, CPUs will likely include AI instruction sets and data centers will likely get AI tailored processors. That should help limit the growth in power consumption. That said, the more processing power you have may simply mean doing more work. But that can have an upper limit as at one point you get a lot of diminishing returns.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/marty1885</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-03-04 13:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Engineer here. AI (to be specific, LLMs) is a bit more complicated then that. And is a tough nut to crack. Currently a non-insignificant amount of power is used on transferring data between the processor and the memory. And post-training quantization has been pushed to 1 or 2 bits per weight yielding limited results.<br><br>Some revolutionizing changes must happen in LLM to make it efficient. There&#x27;s already research in that direction. Please support these efforts on Reddit, stuff like Mamba and RWKV. As well as efforts in building more efficient hardware. We need to move away from Transformer based models like LLaMA and GPT. They are just a pain to optimize for.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Energy_Balance</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2024-03-03 22:38 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                In the US energy is bought and sold in the circles on this map: [https://www.eia.gov/electricity/gridmonitor/dashboard/electric\_overview/US48/US48](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48). It shows the real time generation mix. You can see the year summary for each on their web pages. <br><br>The major US data center operators computing AI are Microsoft, Google, Meta, Amazon, soon Apple - GAMAM. IBM, Oracle, and Salesforce are in there too. If XYZ company uses a data center like Equinix, they can specify renewable power or buy RECs. <br><br>The major data center operators, if allowed in the state where the facility is to contract for green energy. So they may commit to buy the output of a new solar development under a power purchase agreement. Each of the above data center operators release data on renewable power buys each year. <br><br>The number of AI operations is rapidly expanding. But new chips continuously reduce the energy per AI operation. AI is in a hype phase now, so the demand may be exaggerated. <br><br>The point is your concern is being aggressively addressed in the industry.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/radiodigm</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-03 19:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Energy consumption at the data center may be only part of the footprint of any AI technology. That is, the information has a lifecycle that needs to be managed - from data mining through distribution of the final product. To me it seems that a substantial part of the lifecycle cost of energy for any AI application is hidden. Depends where you draw the boundaries of the model, of course. But I think it’s always more honest if we can look at the whole.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/keanwood</span>
+                •
+                <span>7 points</span>
+                •
+                <span>2024-03-03 19:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Data centers currently represent somewhere between 1% and 2% of global greenhouse gas emissions. https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks<br><br>&amp;nbsp;<br><br>They aren’t a big problem though. Data centers use electricity, which is the easiest problem to solve. The electricity grid is already moving to renewable sources. It’s not nearly as tough of a problem as industrial heat or heavy transportation is.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Helicase21</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-04 00:27 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt; Data centers use electricity, which is the easiest problem to solve. <br><br>Tell that to transmission or capacity expansion planners trying to deal with massive load growth.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Maximum-Tangelo3037</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-03-03 19:21 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I see, do you think in the future as we become more reliant on ai it could be an issue? Or it still wouldn’t compare?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/keanwood</span>
+                •
+                <span>4 points</span>
+                •
+                <span>2024-03-03 19:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Even if AI starts using 50 times more electricity than it does now, it won’t be a big issue. That electricity will be supplied by solar, wind, and other mostly clean sources.<br><br>&amp;nbsp;<br><br>The big hard problem is industrial heat(steel, aluminum, fertilizer, concrete, etc), and heavy transportation (ships and planes).
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

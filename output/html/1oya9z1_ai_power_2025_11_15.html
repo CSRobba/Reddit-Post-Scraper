@@ -1,0 +1,416 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Power scarcity: What will be the alternative sources of power generation for AI datacenters in 2026 & beyond?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    Power scarcity: What will be the alternative sources of power generation for AI datacenters in 2026 & beyond?
+    </div>
+
+    <div class="meta">
+    Posted by u/Prestigious-Reason53
+    •
+    
+    •
+    0 points
+    •
+    16 comments
+    </div>
+
+    <div class="body">
+    Hi everyone,<br><br>There is currently alot of talks about how AI datacenters don&#x27;t have access to enough power (both on site and grid). This seems to be a bigger problem in 2026 &amp; 2027 with more data centers coming online. <br><br>I heard that gas turbines are currently fully booked until 2029, SMRs if its possible would be 2030 at least. <br><br>Alots of talks about using fuel cells (Bloom, Fluence) and solar. I have heard that Bloom is currently used, but not sure if solutions such as Fluence and solar is viable or just pure fantasy/speculations. <br><br>Also there is alot of talk about power efficiency between AC vs DC powered datacenter architecture. Once again, not sure if its real or fantasy.<br><br>  <br>Any insight would be appreciated. Many thanks!<br><br>https://preview.redd.it/8ck5ir907j1g1.png?width=1456&amp;format=png&amp;auto=webp&amp;s=3bd4df6f43ad6ba10537a373281408a907501f40<br><br>  <br><br><br>  <br>
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Watt-Bitt</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-11-17 18:58 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                * What ships now: grid tie + BESS, plus on-site natural-gas (recips/turbines) or SOFC fuel cells (e.g., Bloom) to bypass interconnect delays. Lead times are the real choke.<br>* What helps, not solves: Solar/wind for offsets + shaping. Without big storage they won’t run AI halls 24/7.<br>* What’s later: SMRs/nuclear are promising but realistically 2030+ for power-to-racks.<br>* Clarifications: Fluence = batteries, not fuel cells.<br>* AC vs DC: Rack-level 48 V DC is growing. Whole-site DC saves only a few efficiency points vs modern AC; cooling/power density dominate.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Prestigious-Reason53</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-18 07:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Good insights.<br><br>My bad on Fluence for some odd reason I had it in my head that they were doing fuel cells. Tells me I should pay more attention to what I write. <br><br>Given the current lead time choke, what do you think is the best solution to overcome this in 2026 and 2027?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Watt-Bitt</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-11-18 16:50 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                In 2026-27 you don’t “fix” lead times, you route around them: colocate next to big existing loads/substations, lock in gas recips plus BESS to firm supply, and grab whatever grid capacity you can get while over-ordering switchgear/transformers early. Everything else (SMRs, hydrogen, pure renewables) is basically a 2030+ story for AI racks.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-16 18:50 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                SMRs are definitely possible and some will be online by 2028
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/clingbat</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 08:43 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yea I don&#x27;t believe they&#x27;ll be online by then. Latest prototypes are just arriving at INL for testing and once they are ultimately commercialized which is no small feat, then people are going to have to deal with the regulatory and permitting nightmare around them.<br><br>If they are added to existing nuclear facility sites in a modular fashion to supplement existing generation, that could fast track things a bit, but otherwise I think getting them online is going to be a much bigger headache with red tape than people expect.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 14:22 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Agree to disagree <br><br>Oklo will be generating by 2028 🤷🏻‍♂️ <br><br>And the data center infrastructure projects are already scheduled out past 2030 by Colos and byperaxalers <br><br>It was cute how you pretended to be in the know though
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/clingbat</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 14:35 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I mean I&#x27;m going by what AWS and Google are planning because they&#x27;ll still be in business once this infrastructure slowdown and AI hype dies off, I don&#x27;t care about the others as much. <br><br>But you do you.
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                🤣🤣🤣<br><br>Another one of those bubble believers <br><br>Next time just lead with that so I don’t waste time responding
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/clingbat</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I never used the word bubble, but if you actually think this infrastructure buildout is going to continue at *this* pace long term, that&#x27;s literally never happened in any other industry ever, not even the industrial revolution as a whole in economic scale adjusted for inflation, so good luck with that.
+            </div>
+
+            
+        <div class="comment" style="margin-left:144px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:09 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                1. You didn’t imply a bubble <br>2. This is bigger than the Industrial Revolution and nothing like it has ever been seen before <br>3. You clearly don’t understand the data center / AI race - this isn’t just for the economy - this is for national security - this is for the fate of all mankind - there has never been a period more important to the human race than this period here right now <br><br>See ya in 5 years if the robots don’t take over by then
+            </div>
+
+            
+        <div class="comment" style="margin-left:168px">
+            <div class="comment-meta">
+                <span class="author">u/clingbat</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:10 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;2. This is bigger than the Industrial Revolution and nothing like it has ever been seen before <br><br>Lol...
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:144px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                lol ok <br><br>Come back in 5 years so I can enjoy this
+            </div>
+
+            
+        <div class="comment" style="margin-left:168px">
+            <div class="comment-meta">
+                <span class="author">u/clingbat</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:07 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Ditto<br><br>RemindMe! 5 years
+            </div>
+
+            
+        <div class="comment" style="margin-left:192px">
+            <div class="comment-meta">
+                <span class="author">u/RemindMeBot</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-20 15:08 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I will be messaging you in 5 years on [**2030-11-20 15:07:50 UTC**](http://www.wolframalpha.com/input/?i=2030-11-20%2015:07:50%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/datacenter/comments/1oya9z1/power_scarcity_what_will_be_the_alternative/npurd4k/?context=3)<br><br>[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fdatacenter%2Fcomments%2F1oya9z1%2Fpower_scarcity_what_will_be_the_alternative%2Fnpurd4k%2F%5D%0A%0ARemindMe%21%202030-11-20%2015%3A07%3A50%20UTC) to send a PM to also be reminded and to reduce spam.<br><br>^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%201oya9z1)<br><br>*****<br><br>|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|<br>|-|-|-|-|
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tocano</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-16 18:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Nuclear power.<br><br>One of the big reasons that nuclear has been dismissed in the past was because it couldn&#x27;t load-follow (which next-gen nuclear can, in fact, do). But we now have both AI and crypto mining outfits that are promising to purchase every extra W of over-generation that a plant might create. This makes the finances of nuclear even better than they are - already one of the cheapest (per-MWe actually generated) sources available.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Maleficent-Role8198</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-11-16 18:55 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Base loading always being there is why it’s a perfect match now
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/overworkedpnw</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-11-16 14:50 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                This assumes that anyone besides investors will want continued expansion of these facilities. Clamuel Altman, Jeff Bozo, Wario Amodei, Jensen Huang, and the rest can go sit on a cactus and spin.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Prestigious-Reason53</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-11-16 17:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Nvidia guided for around 300 billion sale in 2026, and it looks like 2027 is even higher.<br><br>I&#x27;m not saying this will definitely materialize but so far 2026 numbers looks legit. Maybe things will change but this is what is currently reflected in the demand assumptions. =(
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

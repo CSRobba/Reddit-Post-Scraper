@@ -1,0 +1,432 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>How to power a 1GW Data Center?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    How to power a 1GW Data Center?
+    </div>
+
+    <div class="meta">
+    Posted by u/RealisticDirector352
+    •
+    
+    •
+    0 points
+    •
+    17 comments
+    </div>
+
+    <div class="body">
+    I&#x27;m doing some research on data centers. For these large-scale data centers that the hyperscalers are talking about, how would one actually power 1GW? Behind the meter nuclear seems like one use - could you realistically pull 1GW from the grid?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/whyiamnotarepublican</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-03-26 22:58 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                One word...gas
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/MOIST_MAN</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 05:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Usually it’s many datacenters of 60-100MW that are connected.<br><br>For example AWSs region in northern VA is a bit more than 1 GW, but it’s composed of dozens of buildings
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/ItBeMe_For_Real</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 02:47 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                A DeLorean at 88MPH, of course.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/arokace</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 02:17 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Why wouldn&#x27;t you be able to, saying the power company you&#x27;re pulling from has the potential capacity?  Even if you decide to have an on-site power plant of some kind, you&#x27;d still need an outside power source for backup.<br><br>So the first step for any company wanting to do this is researching potential locations and talking with the power companies to find out costs and timelines to be able to deliver this.  <br><br>Also, keep in mind that any site that says it will be 1GW isn&#x27;t just gonna start off at 1GW.  They are planning for that location to have a capacity of 1GW over time.  So, the power needs increase slowly over time.  Over a looooooooong period of time.  A single DC building in a hyperspace, especially one for AI work, is only using like 15MW.  So getting to 1GW isn&#x27;t an overnight feat.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/RealisticDirector352</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 14:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I moreso meant with the power issues that are going on at the moment, is anyone realistically going to find 1GW of power without having to build some generation on-site. Thanks for the response!
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/arokace</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 15:03 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That sounds like a question for the power companies.  DCs already have generators on site for backup.  But I do feel like I answered your question. No one is gonna start demanding 1gw overnight. It&#x27;s gonna be a gradual build-up.  This allows for the power companies to scale as needed, too.<br><br>I might not be understanding what power issues you&#x27;re talking about, either.  Especially since power issues are generally just a locality issue and not a global issue.  Find a place with the potential to expand power to support the DC needs and then start planning and building.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tgramuh</span>
+                •
+                <span>12 points</span>
+                •
+                <span>2024-04-04 02:10 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You power it the same way you power 100MW, just more of everything. I master planned a 1200MVA campus and the owner &amp; design team worked with the utility to plan for the required distribution. It might require 2 on-site substations at 600MVA each or 4 at 300MVA, N+1 200MVA transformers and multiple 230kV lines to supply them. The 35kV ductbanks leaving the substations could be 50-75&#x27; wide each by the time cable heating is factored in. <br><br>Keep in mind nobody is really building &quot;a&quot; 1GW data center. They are building campuses that approach and exceed that number across multiple buildings. Still impressive on all accounts.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/morbidgorbag</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 15:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &quot;No one is really building a 1 GW Data Center&quot;. <br><br>I know of multiple companies currently in design for facilities in the 500MW to 1 GW range in \*A\* single building. I won&#x27;t share which ones but you can probably guess 4 or 5 names out there and they&#x27;d be on that list.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/timthewizard48</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-04-04 16:40 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah I just had a call yesterday about a 1.2GW data center.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/notgalgon</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-24 17:52 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Should increase it by .01 GW
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Eldiabolo18</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 08:36 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                If we continue with power consumption like nvidia does with 120kw per rack, we might well need 1GW per Building soon (wether thats feasible or not is another story)
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/jwizzle444</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 02:52 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Would any utility actually allow a 600MVA substation? I thought a 300MW cap was a FERC restriction
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/tgramuh</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-04-04 09:22 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                300 has been the limit I&#x27;ve seen in almost every instance but for whatever reason that one project was being designed as 2x600MW. There was another consultant doing the substation design so I&#x27;m not certain why it was allowed there.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/jwizzle444</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 12:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Got it. Thanks! Do you remember where that was?
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/fakegold4errbody</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 05:05 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There’s definitely a few sites planned for over 300MW. Look at switch in Reno for one. They claim it can get as much as 650MW. The timeline to get that much is prob still a couple years out if they do get it though
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/jwizzle444</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-04-04 12:23 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There are tons of sites planned over 300MW. All the ones I’ve been involved with have a 300MW cap on the substation, so we have to plan multiple substations. I was curious if a utility was allowing a 600MW substation connected to the broader grid, and if so- where is that??
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/fakegold4errbody</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-04-04 21:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Gotcha, sorry I’m not super versed in substations. Up in Hillsboro, next to edgeconnex there’s a substation,  Sunset substation that’s allegedly 1.5GW.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/morbidgorbag</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-04-04 16:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I have been on projects with larger than 600 MW substations in the US already. Cannot speak to where.
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/jwizzle444</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-04-04 16:37 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Interesting. Thanks!!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

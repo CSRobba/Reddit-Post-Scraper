@@ -1,0 +1,272 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Data Center Water and Power</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    Data Center Water and Power
+    </div>
+
+    <div class="meta">
+    Posted by u/dasGoldfinger
+    •
+    
+    •
+    0 points
+    •
+    7 comments
+    </div>
+
+    <div class="body">
+    Data centers are under construction everywhere and the hyperscalers are targeting 1000 MW data center campuses. But what does this all take?<br><br>Does anyone have a good sense of how many H100 chips this would require per data hall? Nvidia sold some 600,000 H100 chips last year...is that 420 MW of power capacity required at 700W peak each for the 2023 production run?<br><br>How many MWs and square feet would each these data halls be? I believe the Meta &quot;H&quot; hall designs are 60 MW each, so this would require quite a number of buildings.<br><br>These would consume a large power plant&#x27;s entire output for power, but what about water? How many gallons per day would one of these campuses require for cooling in the Midwest using a high efficiency design? 1 million gallons per day? 2 million?<br><br>Appreciate the help understanding what this all takes!
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Redebo</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2024-09-07 05:23 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The water used for direct to chip cooling is a closed loop system. There is no water lost on these systems when rejecting heat. <br><br>You are thinking of evaporative cooling, which is going the way of the Dodo, either from regulation by local municipalities, or just better/more efficient direct to chip systems. <br><br>H100’s “can” still be cooled with air only (and not use direct to chip cooling) but this is the last of its kind as the Blackwell requires liquid to the chip.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/LeftInChambles</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-07 22:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I’m new to this space, but this directly impacts my work/career goals. Do you have any resources where I could learn more about future potential and use of direct Evap vs direct to chip?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Redebo</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-09-08 10:32 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Stop looking at Evap and start researching direct to chip!<br><br>Evaporative cooling is falling out of favor due to local resource constraints and the new AI chips are pulling 700-1500w for the GPU. Evaporative cooling would “work” but at the cost of millions of gallons per day being evaporated into the air. Cities don’t like this because they cannot control where that moisture will condense and return to the ground. It may happen two or three States over!
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/197_Au</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-11 19:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                For direct to chip cooling, is heat ultimately rejected through chillers or smaller evap coolers? How does this impact water consumption rates for the total facility?
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/Redebo</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-12 04:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Chillers, air cooled. <br><br>Evap falling out of grace for the aforementioned points.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/LeftInChambles</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-08 12:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Thanks!
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/exclaim_bot</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-08 12:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;Thanks!<br><br>You&#x27;re welcome!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/dasGoldfinger</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-07 14:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Great info! I assume this just impacts the PUE of the data center if its all air cooled. How much of the capacity of the 1000 MW load wpuld be going to cooling instead of processing?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-09-07 17:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The lowest PUE I&#x27;ve observed is an evaporative design - specifically, fan walls with evaporative media blowing outside air into the data hall and exhuast fans blowing the now heated air out the roof.  Of course this design, relying on evap media, consumes a good amount of water.<br><br>The effort of collecting, concentrating, and rejecting heat like is done with an air-cooled chiller design saves water, but costs electricity.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

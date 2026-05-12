@@ -1,0 +1,496 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Are grid impacts from data center power demands impacting home electronics? Did Bloomberg story get this right?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    Are grid impacts from data center power demands impacting home electronics? Did Bloomberg story get this right?
+    </div>
+
+    <div class="meta">
+    Posted by u/BikeLater
+    •
+    
+    •
+    0 points
+    •
+    26 comments
+    </div>
+
+    <div class="body">
+    The main argument seems to be that these centers create &quot;harmonics&quot; (distortions in the electricity) that travel miles down the grid and damage our electronics.<br><br>[https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/)  <br><br>Do we have any electrical engineers or grid experts in this group? :)  That article came out in 2024 but I haven’t seen more research or reports about collateral damage to in home electronics. I’d love to know:<br><br>1. Is it actually physically possible for &quot;bad harmonics&quot; from a data center to travel through transformers and substations to a house?<br>2. Has anyone seen actual proof or a study or a documented case that links a specific appliance failure, computer failure, or fires to a nearby data center?<br><br>If anyone has the technical background to explain this or point me toward real research (not just news headlines), I’d really appreciate it!
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/tecedu</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-23 07:40 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                If you want answers, ask your distribution and transmission grid. If you were in the UK you can ask DNOs/DSOs and TSOs; they are bound by the regulator to be open about these things. I work at one so I can give you a mailbox if needed.<br><br>See these for more info, there’s more explanation here<br><br>https://www.ukpowernetworks.co.uk/distribution-network-energy-losses/voltage-harmonics<br><br>The general thing that you see is that lower end ie your residential, such things will impact a lot more, they have way more voltage issues on the lower end than higher end, so if 50 ev chargers connect at the same time, in the UK there is a pretty good chance you will blow your local transformer. <br><br>Onto your questions:<br><br>1) It is technically possible, but in modern grids you can dettach parts of the network pretty quick. Gas generators are biggest offenders for harmonics, they have to maintain their ramp rate or else they can take down the whole country. Once everything is back on, it’s pretty difficult to match 50hz again.<br><br>2) Not anything specific to data centres. But your large demand or generation are rarely going to share the same equipment. In some cases you have dedicated subs going to data centres because they paid of it. On lower end we do see this happen so much, the next reg cycle in the UK is focusing on this issue. Data centres are static demand and its easier to harmonise and adjust them to the grid, especially with dedicated subs. If you really want to look into it, try emailing slough council or ireland city’s council; they might know things that are not widely known yet. I work on the distribution side so haven’t seen it.<br><br>If you really want to know things about it, pop me a dm, I’ll send you a mailbox to email to and we can find the appropriate people for this.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2026-01-23 04:21 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Is there any record of that? Does it happen? I believe you. I&#x27;m just looking to find out where does it happen? How often does it happen? <br><br>And they don&#x27;t want it to happen because it would mess with the grid. But as I understand it, ratepayers are the insurers of the grid. Who&#x27;s calculating that impact cost, and how are they calculating it?
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Ginge_And_Juice</span>
+                •
+                <span>15 points</span>
+                •
+                <span>2026-01-22 23:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Is it possible for data centers to create harmonics that impact upstream loads? Yes.<br><br>Is it something that happens in bulk? Not in most places, the utility penalizes us so we have equipment that prevents it. Most modern equipment that would cause harmonics have things inside it to minimize them. Where they become particularly bad we have dedicated pieces of equipment called harmonics filters to fix it.<br><br>I&#x27;m currently doing a power quality study at my campus and we&#x27;re failing a power panel due to a 1.8% total harmonic distortion. Most places consider Thd under 5% passing. Your house is not bothered.<br><br>It is really silly to suggest that these alleged rogue harmonics are bad enough to effect the dumb electronics in your home, but the incredibly sensitive state of the art equipment in our datacenter is fine with it.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>-3 points</span>
+                •
+                <span>2026-01-23 00:04 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That makes sense. [https://www.sciencedirect.com/science/article/abs/pii/S0022460X25002354](https://www.sciencedirect.com/science/article/abs/pii/S0022460X25002354) But when you put 32 gas turbines next to each other, I&#x27;m not sure how that works. I would also assume if I had a billion dollars worth of hardware, I might protect it more than the average family protects their microwave and TV.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>6 points</span>
+                •
+                <span>2026-01-23 01:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Did you even read this?  It has nothing to do with electricity and is referring to harmonic vibrations within the turbine itself and how they guide structural design of the turbine.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2026-01-23 04:04 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Definitely in over my head, but my understanding is that the structural harmonics are caused by too many sources and not enough measures. If I&#x27;m right in the way I read that, and that would be similar to what could be going on in the electrical grid using the same kind of math. That there are too many sources of electrical. Turbine case: limited accelerometers vs. many vibration sources.  Grid case: limited PQ meters vs. many nonlinear loads and harmonic emitters on a feeder.  <br><br>I still can&#x27;t find a clear understanding of the harmonics in the EE world or how they would even migrate as discussed in the Bloomberg article. Kind of hoping some electrical engineer can point me to the basis of the article that started the thread.
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/tecedu</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-23 07:45 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Bloomberg has been pretty terrible around this entire issue, they are the ones who have popularised ai drinking water; whereas it’s less than any of the other industries. Blaming DCs for utilities faults. <br><br>The electric grids around the world are not that robust. Same for water networks, it’s all held together with equipment centuries old in some countries.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-23 04:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, there&#x27;s Google involved, and yes, it is clearly letting me down a bit, but I gotta look somewhere. <br><br>And other than Jibber Jabber here, nobody else is providing links, so I&#x27;m kind of stuck. I&#x27;m looking for better understanding. <br><br>Here&#x27;s an entire pretty large company that works on this issue  https://www.whiskerlabs.com/analysis-of-total-harmonic-distortion-on-the-us-electric-grid/  I reached out to them, so hopefully we&#x27;ll find somebody that can answer the question.
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/tecedu</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-23 07:46 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                No one else is providing links because it’s kind of a basic electrical engineering thing; you need to ask a power systems engineer ie someone at a power company or profesors
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>7 points</span>
+                •
+                <span>2026-01-22 23:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You get more harmonics from your neighbor&#x27;s new washing machine with an EC motor than you get from a data center that has multiple layers of transformers and harmonic filtering between them and you.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>-7 points</span>
+                •
+                <span>2026-01-23 00:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I don&#x27;t know about that. There are some pretty big maps and data showing that it&#x27;s clustered in certain areas. [https://resourcecenter.ieee-pes.org/conferences/general-meeting/pes\_cvs\_gm19\_0806\_309\_1\_5](https://resourcecenter.ieee-pes.org/conferences/general-meeting/pes_cvs_gm19_0806_309_1_5)
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/tecedu</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-23 07:49 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Op please read what youre linking + please understand how transmission and distribution network work and how they are different at each voltage level;
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>7 points</span>
+                •
+                <span>2026-01-23 01:06 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Are you asking about the harmonics introduced into the grid by inverters used to create AC power from solar DC or are you asking about data centers?
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/overtt</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2026-01-23 01:55 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Looks like OP is gonna keep quoting sites that he won&#x27;t read until he&#x27;s right lmao
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/nikolatesla86</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2026-01-22 23:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                From my understanding the power company and data center agree to allow a small amount of total harmonic distortion (THD). The THD in the data center is generally from power supplies switching sources, creating distortions and orders of harmonics. Utility do NOT want this going to the grid so they will cut off the DC from a substation if this is detected and penalize the DC. The DC operator will install their backup power changeover to account for any feedback THD and allow generator/backup power to take over to avoid the utility penalties.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>4 points</span>
+                •
+                <span>2026-01-23 01:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                &gt;The THD in the data center is generally from power supplies switching sources, creating distortions and orders of harmonics.<br><br>The phrase &quot;switching power supplies&quot; does not have anything to do with switching between sources.  It refers to a type of power supply used to rectify AC to DC and/or step to different DC voltages.  It is a nonlinear load that creates harmonics.  Examples of switching power supplies (or &quot;Switch Mode Power Supplies) are all over your home.  LED lighting drivers, EV chargers, PC power supplies, etc.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/nikolatesla86</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-23 09:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Maybe I wasn’t specific enough, I was referencing when an ATS switches for a rack or circuit, or when an internal ATS on a rack switches between a rack battery and the normal source.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/nhluhr</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-23 10:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah that doesn&#x27;t cause harmonics.  It might cause a brief transient but that&#x27;s not a harmonic.<br><br>Here are a couple examples from an 800A Static Transfer Switch supplying a PDU with roughly 400kW on it:<br><br>This is simply doing a &quot;preferred source&quot; switch meaning both sources remain available and the device transfers from one to another in a controlled manner, producing only a small transient disturbance in the voltage waveform:  [https://i.imgur.com/gB2nwkj.png](https://i.imgur.com/gB2nwkj.png)<br><br>This second one is an emergency transfer to source2 due to loss of source1.  The transfer from one source to another is also plainly visisble as the roughly 1 sinewave duration of disturbance from when the device senses loss of source1 and immediately closes the SCR for source 2 to provide as little outage time as possible.  [https://i.imgur.com/srepxFU.png](https://i.imgur.com/srepxFU.png)<br><br>In the second one I have also notated the harmonics that are visible in the waveform.  You notice the waves are a little jaggier before the disturbance than after.  This isn&#x27;t caused by the transfer but rather a reflection of the difference in power quality on each source.  The difference is that the source1 of this device is in parallel with mechanical loads (a bunch of fan walls supplying chilled air to the data hall) whereas the source2 is just a standby reserve system that doesn&#x27;t have any fans running on it normally.  You can see the waves are cleaner after the transfer to that reserve system.<br><br>Now both waveforms have measurable THD but they are also both excellent power quality that would never cause a problem.  They would also be heavily damped by the multiple transformers between where this is measured and the utility supply so other utility customers wouldn&#x27;t see them.
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/nikolatesla86</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2026-01-23 10:52 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Agreed completely with your example, but the cumulative effect of rack based STSs/ATSs switching on the order of a few large lineups and hundreds of racks the effect is cumulative. Great discussion, I think we are speaking in parallel along the same ideas
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/BikeLater</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-23 00:09 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Do we have any records of that? Don&#x27;t think the utility operator would have that power. It would be the utilities commission, right ? If it happened in the real world, we would see cases. [https://www.scc.virginia.gov/docketsearch](https://www.scc.virginia.gov/docketsearch)   Are utility companies really gonna push back on large customers?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/tecedu</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2026-01-23 07:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Utilities have the power of all the customers on their grid; traditional ones do not care if youre google, if you break rules you’re disconnected; the alternative isis grid failure
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Echrome</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2026-01-23 00:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Oh yeah, the utility absolutely can and has called up big customers, Google included, and told them to stop. No one wants to involve the utility commission unless they have to
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Redebo</span>
+                •
+                <span>4 points</span>
+                •
+                <span>2026-01-23 00:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There aren’t lawsuits about these things because all of this is covered in the power purchase agreement that a DC Operator signs when they agree to take power from the utility. If the operator generates too many harmonics, the utility will add filters at the substation to remove them and then charge the operator for that infrastructure charge. <br><br>Also, even IF data centers reflected dangerous harmonics (we call them triplen as they occur in 3rd order waveforms) back to the grid, before it gets to your house it’s got to go thru another transformer before it gets to your house, where those triplen harmonics are absorbed and turned into heat.  Harmonics are a bigger danger to the utilities transmission and distribution gear then they are to your home.  That heat generated can destroy the utility transformers so they actively mange both harmonics and power factor of their loads.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

@@ -1,0 +1,368 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Would it be possible to finetune a llama-7b model and use the adapter_model.bin for a bigger model to save computing power?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LocalLLaMA
+    </div>
+
+    <div class="title">
+    Would it be possible to finetune a llama-7b model and use the adapter_model.bin for a bigger model to save computing power?
+    </div>
+
+    <div class="meta">
+    Posted by u/Ok-Scarcity-7875
+    •
+    
+    •
+    0 points
+    •
+    14 comments
+    </div>
+
+    <div class="body">
+    Would it be possible to finetune a llama-7b model and use the adapter\_model.bin for a bigger model to save computing power?<br><br>Would be awesome if that was possible. I have no deep understanding about how a lora model is applied to the llama model, so I just wondering if one could &quot;upscale&quot; the lora model  with not much computing power and use it for bigger models up to the 65b model.If that was working I guess it could be a game changer for individual fine tuning.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/wojtek15</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-03-31 22:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Definitely it is not possible and will never be possible.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 09:30 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Why is that not possible?<br><br>&gt;No,  I&#x27;m not talking about to reshape the base models. I&#x27;m talking about to  reshape the small lora models which only have the size of a few MB. For  7B it is like 8MB size or 16MB if trained. But of course the lora  adapter model for 13B is somehow a little bigger and has a bigger shape.  I just want to reshape the 7B lora adapter, not the 7B model.  <br>&gt;  <br>&gt;Train the lora weights for the 7B model as usual  <br>&gt;  <br>&gt;Do &quot;upscaling&quot; of the trained lora adapter model  <br>&gt;  <br>&gt;Use the reshaped / upscaled lora adapter for 13B (or for a bigger model)  <br>&gt;  <br>&gt;  <br>&gt;  <br>&gt;Yeah, I know that maybe sounds stupid. I just think if the layer of the  adapter model for 7B has layers with the size of 1024x1024 for example  and the adapter model for the 13b model has layers sized 2048x2048 can&#x27;t  you just up scale the 7B adapter like you would upscale an image and  show it on a 2048x2048 screen...ehm 13b model?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/LowSpecDev972</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-02 02:42 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s not possible, because the model would have learn different thing in their own way, it&#x27;s like trying to fit a square into a round hole. You will just break stuff.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-02 07:38 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, I know that. But do we actually know how related both models are in reality? Nobody has researched how both models differ from each other. Both have been trained on the same corpus and and they have a similar structure. Wouldn&#x27;t it be possible that there is some kind of correlation between these models so it could be actually possible to do the above?
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/LowSpecDev972</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2023-04-03 06:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It is known because initialization and training use random noise, which mean the distribution is random for every model. We know same model with same parameter can occupy different niche of the solution landscape, which is why MOE (mixture of expert, ie use multiple model train on the same data on a voting system) works well.
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-04 16:07 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That sounds logic again to me. Are you telling me that each model is unique, even trained with the same data? That&#x27;s almost like you&#x27;re telling me that each model is unique like a human being. Like the randomness itself  is the birth of a new being...haha..just joking I see now why it does not work.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/[deleted]</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 09:28 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                [deleted]
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/QTQRQD</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2023-03-31 17:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                i mean the shapes of the weight matrices are different across models right lol
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 08:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                What about reshape() of the small alpaca model (**EDIT: adapter not model,sorry**) so it fits, maybe fill what can&#x27;t be filled with zeros?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/QTQRQD</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 08:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                you cant just reshape the matrices theyre literally bigger. to suggest we reshape the larger models to fit the matrices into a lora for a smaller model is like saying u want to reshape a semitruck to fit into a home garage
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 08:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                No, I&#x27;m not talking about to reshape the base models. I&#x27;m talking about to reshape the small lora models which only have the size of a few MB. For 7B it is like 8MB size or 16MB if trained. But of course the lora adapter model for 13B is somehow a little bigger and has a bigger shape. I just want to reshape the 7B lora adapter, not the 7B model.<br><br>1. Train the lora weights for the 7B model as usual<br>2. Do &quot;upscaling&quot; of the trained lora adapter model<br>3. Use the reshaped / upscaled lora adapter for 13B (or for a bigger model)
+            </div>
+
+            
+        <div class="comment" style="margin-left:96px">
+            <div class="comment-meta">
+                <span class="author">u/QTQRQD</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 08:26 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                🕺
+            </div>
+
+            
+        <div class="comment" style="margin-left:120px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2023-04-01 08:38 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, I know that maybe sounds stupid. I just think if the layer of the adapter model for 7B has layers with the size of 1024x1024 for example and the adapter model for the 13b model has layers sized 2048x2048 can&#x27;t you just up scale the 7B adapter like you would upscale an image and show it on a 2048x2048 screen...ehm 13b model?
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/NickUnrelatedToPost</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2023-03-31 15:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I&#x27;m really new to this, but my guess is that this won&#x27;t be possible. All weights in a model are in relation to all other weights, so they would just be wrong when applied to a different set of base weights.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Ok-Scarcity-7875</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2023-03-31 15:46 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That sounds logical. However would be nice to see what happens. Is there a method to convert the layers into the correct form so it can be applied to the base model?
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

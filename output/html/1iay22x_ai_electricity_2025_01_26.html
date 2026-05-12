@@ -1,0 +1,240 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Why does AI use up so much electricity?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    Why does AI use up so much electricity?
+    </div>
+
+    <div class="meta">
+    Posted by u/matt73132
+    •
+    
+    •
+    0 points
+    •
+    7 comments
+    </div>
+
+    <div class="body">
+    The new $100 billion AI infrastructure project is going to require a huge amount of energy to keep it operational. They&#x27;ve even suggested building their own nuclear power plants. I&#x27;m not an electrical engineer, but why do AI data centers need so much power as compared to everything else?
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/eggs-benedryl</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-27 04:14 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                it doesn&#x27;t have to, you can run LLM on your own PC or phone entirely offline
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Koooooj</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-27 03:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There are various things you might need a server to do, with different hardware demands for different tasks.<br><br>One popular thing to have servers do is serve large amounts of data.  Take a site like imgur, for example.  Their primary business is serving images, so the servers they run on need to have fast access to a large amount of data and good internet connectivity to transmit that data to all of their users.  Their servers will take a bit of compute horsepower, but compared to the data storage and retrieval the compute power is pretty minimal.<br><br>Most data centers are full of computers doing tasks more or less like that.  AI breaks that mold.  For example, GPT4 (of ChatGPT fame) is small enough that it would fit on a single consumer hard drive and most sessions consist of sending back and forth just a few kB of data in the form of text queries and responses.  However, in the middle there is a *massive* amount of computation.<br><br>That&#x27;s key to how these AIs work:  engineers define a huge pile of math that has a bunch of unknown parameters, then to train the model various inputs are fed into the pile of math and based on the output the parameters are tweaked to make the output a little more like what the developers wanted.  The bigger the pile of math the more complicated of a behavior the AI can exhibit (and the harder it is to train), so for AIs that emulate human intelligence that pile of math is truly staggering.<br><br>This means that a datacenter focused on serving AI requests will have a much greater portion of its hardware made up of power hungry processors (typically GPUs which are architecturally better suited to the type of math that AI uses than CPUs are), as compared with a more typical storage-focused data center.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/archpawn</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-27 03:20 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                They have a whole lot of GPUs, which they keep at full power all the time. And they have to cool the place to get rid of all the heat that generates.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/psychcrime</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-01-27 03:12 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Basically, the systems that run AI get really hot. It requires a lot of water to cool them down. That requires energy. They say that every search is equal to one bottle of water wasted to cool it down.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/LarsAlereon</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2025-01-27 03:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                [This is basically fake news.](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for) 10 ChatGPT queries per day for a month would use about 1 gallon of water, **eating one hamburger is about 660 gallons of water.** Essentially nothing you do on a computer has any impact compared to the things you do in the real world.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/psychcrime</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-01-27 03:36 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Jeez, didn’t know that. Thanks for the link.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/hellshot8</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-01-27 03:02 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                its just doing a lot of stuff, to tldr the issue. Lots and lots of math and computations
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

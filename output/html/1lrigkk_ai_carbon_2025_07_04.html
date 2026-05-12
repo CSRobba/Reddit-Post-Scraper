@@ -1,0 +1,400 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>AI is powerful, but so is its carbon footprint. I’m building a tool to help clean it up.</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/ClimateOffensive
+    </div>
+
+    <div class="title">
+    AI is powerful, but so is its carbon footprint. I’m building a tool to help clean it up.
+    </div>
+
+    <div class="meta">
+    Posted by u/Professional_Log599
+    •
+    
+    •
+    0 points
+    •
+    11 comments
+    </div>
+
+    <div class="body">
+    I’ve been building AI tools for a while, but a few weeks ago, I watched a deep-dive video on the environmental impact of large models like GPT-4 and realised I hadn’t seriously considered their energy costs.<br><br>Even modest usage of AI APIs (chatbots, classifiers, embeddings, etc.) adds up in compute and emissions. And while offsets aren’t a perfect solution, doing *nothing* feels worse.<br><br>So I’ve started building something called **EmitMind,** it’s a tool to **automatically track and offset the carbon footprint of your AI tools**. The idea is to give devs and startups an easy way to stay aware of their impact and take some direct climate action.<br><br>The site’s up at [emitmind.com](https://emitmind.com) with a waitlist if you’re interested. But more than that, I’d love to hear:<br><br>* Has anyone here tried calculating emissions from software or AI workloads?<br>* Are offsets considered meaningful in this space by climate folks?<br><br>Open to feedback, scepticism, and ideas. Still early days.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Weary-Designer9542</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-07 17:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That does sound pretty neat, I applaud someone doing their best to help.<br><br>I personally don’t use AI at all, I believe that the accuracy/hallucination drawbacks make it more of a detriment than a help to me, personally.<br><br>Cementing my position on the subject is the moral element of the climate impact and the training data often being stolen intellectual property of small artists, writers, etc.<br><br>But I recognize that I’m in the minority, and that AI is a tool that’s skyrocketing in the public interest. So yeah, something like this is better than doing nothing for sure.<br><br>I’d only suggest to look into the legitimacy and methodology of whichever offset program. I’ve not studied the topic, but this paragraph from wikipedia stands out to me on the topic of legitimate carbon offsets:<br><br>“To be credible, the reduction in emissions must meet three criteria: they must last indefinitely, be additional to emission reductions that were going to happen anyway, and must be measured, monitored and verified by independent third parties to ensure that the amount of reduction promised has in fact been attained.”
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Defiant-Snow8782</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-07 10:45 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Offsets are a scam.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/questi0nmark2</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-06 01:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                There is a lot of work on this, all of it imperfect, but iterative. Check out the Green Software Foundation&#x27;s various methodologies, frameworks and tools;, including the Software Carbon Intensity ISO; the green web foundation&#x27;s repo, with again, lots of tools and approaches; W3C&#x27;s sustainable web guidelines, and in particular its bibliography. There are also a few good papers in this area from a more academic side. The gold standard would be Life Cycle Assessment, and France has come up with an extremely solid PCR with a methodology for LCA of digital services, but data is scarce. The French government and associated entities have produced some promising studies, but we&#x27;re still not quite there. It&#x27;s an extremely technical and complicated challenge, generally and often simultaneously both overestimating and underestimating impacts. There are some numbers that have gained enormous traction, occasionally even in academic literature, that are plain wrong and based on a UN citation of a paper with an extremely vague citation of a throwaway comment from an AI industry leader on which a lot of estimates of the impact of an LLM query are based.<br><br>This is further complicated by a huge lack of transparency from industry, so there are enormous data gaps.<br><br>If you&#x27;re serious about pursuing this, I highly recommend you join climateaction.tech on slack, where most of the industry experts working on measuring the impacts of compute are present and you can  get a sense of the state of the art and receive extremely solid feedback. It&#x27;s one of the best organised and supported tech communities I&#x27;ve ever come across, with opportunities for volunteering in lots of ways. <br><br>Good luck in your efforts. I hope you don&#x27;t build in stealth hoping to monetise, but share fully and transparently your assumptions, data, and methodology to make sure people can understand the value and constraints of your tool and perhaps help you refine it .
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/questi0nmark2</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-06 01:52 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yep, just looked at your website and faq, your methodology is not at all transparent, even your blog offers  no references for the figures that you cite. You also state no code changes are needed you just share your API key. I would be extremely wary of doing so in terms of security. Moreover I don&#x27;t see how you can possibly calculate impacts that way. My guess is you just take your figures per 1000 tokens and count the contents of each query and each response.  BTW are you counting the 1000 tokens sent or received, or aggregated? The impacts of processing 1000 tokens is different from the impact of generating 1000 tokens. Moreover, the environmental impact of generating those tokens in West Virginia and in Sweden is drastically different in principle, because the grid is much greener in Sweden than in West Virginia. In addition, do your impact measurements include training or exclude it? What if you use LLMs in combination with tools like Cursor or Langraph or MCP or agents? For instance, you might use your API key in cursor, but you have no visibility into the context management prompts from cursor, the impacts of invoking other tools which perhaps invoke other LLM queries, etc. Most non trivial uses of LLMs in software will be a bit like this.<br><br>This is not to say your work is without merit and you should stop, just that you need to be transparent and a bit more sophisticated about your claims, which feel salesy and unrigirous. It&#x27;s OK for your metrics to be imperfect and not a good fit for all cases, but when you don&#x27;t identify those constraints your product becomes unreliable, particularly when you seek to monetise it. <br><br>There&#x27;s a lot more I could share, but I hope the above gets you started on digging into some of the nuances and expressing those nuances more clearly in your product.
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-06 09:14 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Thanks so much for this thoughtful and incredibly detailed response, easily one of the most helpful pieces of feedback I’ve received so far.<br><br>You’re right, transparency is crucial in this space, and I’ve realised I need to be clearer about both the data I’m using and the limitations of my methodology. I’ll be updating the FAQ and blog this week to include sources, assumptions, and current gaps, including things like regional energy differences, training vs inference, and more.<br><br>For context, I’m just a solo dev who cares about my emissions and wanted to make it easier for others to track theirs too. I fully agree that this needs to be an iterative and collaborative process, and I appreciate the nudge to join [ClimateAction.tech](http://ClimateAction.tech) Slack, I’ll be doing that today.<br><br>Also, hear you on the API key concerns. While secure access is technically possible (with strict encryption, limited scope, and clear handling policies), I know that trust matters, and I’ll rethink how I approach this to avoid unnecessary risk or overreach.<br><br>My goal isn’t to oversell certainty where there isn’t any, just to make the invisible impacts of AI usage more visible, even if imperfectly at first. I’ll make sure that’s communicated more clearly going forward.<br><br>Appreciate you taking the time. If you’re open to continuing the conversation, I’d love to keep learning from your experience.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/questi0nmark2</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-06 23:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Sure thing, feel free to reach out anytime and if I&#x27;m around (I can be a bit episodic in my redditing) I&#x27;ll happily respond. Once you&#x27;re plugged in to climateaction.tech, you&#x27;ll be off to the races. Best place to get feedback and support. Most of the people who&#x27;ve created or contributed to the main tools, metrics and initiatives on software emissions are there, although they are primarily devs and industry, not many academics. Really encourage you to check out their volunteering opportunities, they are really wide and a fantastic way to network and connect with equally passionate people, and the support and encouragement is exceptional. Good luck in your endeavours!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Lopsided-Yam-3748</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-05 16:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Really cool idea and would be interested in helping or possibly investing if / when you get there. <br><br>I think the biggest thing for me as a consumer is verification over offset quality, or the ability to toggle between different offset providers depending on the consumer&#x27;s preference. Nature-based offsets have a -ton- of grifter bullshit happening all over the place, so that element is almost a deal breaker by itself. Now, I&#x27;m cynical and already in the space so this may not be an issue for you in getting to real market adoption.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-05 17:21 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Totally hear you, I’m pretty sceptical too, especially with some of the nature-based stuff. That’s why I’m using [Patch.io](http://Patch.io) and focusing only on third-party verified projects (Gold Standard, Climeworks, etc.) and planning to let users choose their offset type too.<br><br>Would love to chat more if you’re open to it, feel free to shoot me a message!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/artificial_doctor</span>
+                •
+                <span>6 points</span>
+                •
+                <span>2025-07-05 05:36 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Hey I like the idea but I’m curious, how exactly does your tool offset emissions?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>3 points</span>
+                •
+                <span>2025-07-05 07:19 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Thanks! The tool estimates emissions from your AI usage (based on model type, tokens used, etc.), then automatically purchases verified carbon removal through **Patch.io**. That includes projects such as reforestation, biochar, and direct air capture, all of which have been vetted by third parties like the Gold Standard or Puro.Earth.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/McGirton</span>
+                •
+                <span>-2 points</span>
+                •
+                <span>2025-07-04 20:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I cannot find it but someone did the math on the whole “AI uses so much energy / water” thing and apparently watching a Youtube video is way more energy / water intense than an absolute insane shitload of AI usage.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>8 points</span>
+                •
+                <span>2025-07-04 20:54 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, that comparison floats around and it’s true that streaming video is energy-intensive. A single YouTube binge session burns way more energy than one AI prompt.<br><br>But where AI gets tricky is in scale and trajectory:<br>- The per-interaction cost is small, but the volume is exploding (especially with autonomous agents, always-on copilots, etc.)<br>- Training frontier models can use millions of GPU hours, plus serious water for cooling (some reports estimate GPT-3 training used ~700k liters)<br>- Unlike streaming, AI compute demand is doubling fast, with no real ceiling — usage is encouraged to scale exponentially<br><br>So it’s not that AI is worse than streaming, it’s that it’s growing into an infrastructure-layer technology, like electricity or the internet. That’s why we think measuring + mitigating early matters, before it’s baked into everything.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/foulandamiss</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-07-04 17:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Can&#x27;t we just make poor people pay for it?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-07-04 20:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I’d rather put it back onto people that can afford it
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/m1n_ty</span>
+                •
+                <span>6 points</span>
+                •
+                <span>2025-07-04 15:16 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The best way to cleanse AI if it&#x27;s carbon footprint is to cease it&#x27;s existence
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/Professional_Log599</span>
+                •
+                <span>11 points</span>
+                •
+                <span>2025-07-04 15:25 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Obviously this is the best way to cut AI emissions but until that happens (not very likely with the business benefits) it’s better to do something than nothing
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/DerpoMarx</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-07-05 21:19 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Why not just not use AI at all then? And we certainly shouldn&#x27;t be giving these corporations money, if you agree that that they&#x27;re prioritizing profits over any regard for its industry&#x27;s devastating environmental and ethical impacts.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

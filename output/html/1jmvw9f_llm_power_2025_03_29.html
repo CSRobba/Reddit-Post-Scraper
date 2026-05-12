@@ -1,0 +1,192 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Computational power required to fine tune a LLM/SLM</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LLMDevs
+    </div>
+
+    <div class="title">
+    Computational power required to fine tune a LLM/SLM
+    </div>
+
+    <div class="meta">
+    Posted by u/Mother-Proof3933
+    •
+    
+    •
+    0 points
+    •
+    0 comments
+    </div>
+
+    <div class="body">
+    Hey all, <br><br>I have access to 8 A100 -SXM4-40 GB Nvidia GPUs, and I&#x27;m working on a project that requires constant calls to a Small Language model (phi 3.5 mini instruct, 3.82B for example). <br><br>I&#x27;m looking into fine tuning it for the specific task, but I&#x27;m unaware of the computational power (and data) required. <br><br>I did check google, and I would still appreciate any assistance in here.
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/BenniB99</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-04-02 11:00 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You could train 70B+ models with 8 40GB GPUs.  <br>For instance with [unsloth](https://docs.unsloth.ai/get-started/beginner-start-here/unsloth-requirements) you would only need around 8-10GB of VRAM (depending on hyperparameters and context size) to train a 3-4B model with LoRA, note that they do not support multiple gpus (yet).  <br>For training bigger models on multiple gpus you will probably want to use something like transformers and trl from huggingface right now.<br><br>In terms of data, I have had good results with LoRA and a couple hundred samples.  <br>I think a good starting point would be to just use a PEFT method and see how far it gets you.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/microcandella</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-04-04 20:48 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                What time ranges would it take to do this?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/BenniB99</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-04-04 21:38 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You mean the amount of time finetuning takes?<br><br>Not that long for only a couple hundred rows, e.g. training for 3 epochs on a RTX 3090 for a dataset with 300 samples and a batch size of 1 usually takes around an hour for a 8B model.
+            </div>
+
+            
+        <div class="comment" style="margin-left:72px">
+            <div class="comment-meta">
+                <span class="author">u/microcandella</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-04-04 22:17 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Thanks!  That&#x27;s much faster than I thought.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

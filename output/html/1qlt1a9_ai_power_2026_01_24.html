@@ -1,0 +1,240 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>About AI Data centre infrastructure: if the energy demands of AI is great enough to consider the use of Nuclear power, while also requiring a liquid cooling solution, would it be worth recycling the water heated by a data centre so it can be more easily be turned into steam and generate more power??</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/NoStupidQuestions
+    </div>
+
+    <div class="title">
+    About AI Data centre infrastructure: if the energy demands of AI is great enough to consider the use of Nuclear power, while also requiring a liquid cooling solution, would it be worth recycling the water heated by a data centre so it can be more easily be turned into steam and generate more power??
+    </div>
+
+    <div class="meta">
+    Posted by u/throwaway42069691998
+    •
+    
+    •
+    0 points
+    •
+    7 comments
+    </div>
+
+    <div class="body">
+    I&#x27;m not an engineer but am curious if this is already being done or isn&#x27;t feasible or something else...
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Koooooj</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 19:18 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I know a guy who&#x27;s actively trying to make that work.<br><br>It doesn&#x27;t make so much sense if you&#x27;re to the scale of nuclear power, but a lot of behind-the-meter power generation for AI-focused data centers is still burning fossil fuels.  In a fossil fuel power plant the primary cost over the plant&#x27;s lifespan is fuel, while in nuclear power there&#x27;s so much energy in the fuel that your costs tend to be focused more around the other equipment and ensuring the reactor is safe.  In the grid at large this makes a nuclear power plant prefer to run continuously while a fossil fuel plant will tend to spool up and down to follow demand, generating only when cost effective to do so.<br><br>The core challenge of making this idea work in practice is that the temperatures power plants want to operate at are substantially higher than what computers want to operate at.  For example, computers tend to throttle *hard* at a bit under 100 C and really you want them a few dozen degrees below that, but power plants are all about getting water to boil and then heat even further to raise the pressure, often to several hundred degrees C.  You can&#x27;t just dump the energy of 80 C water into 500 C steam--the energy will flow the other direction!<br><br>However, there are some places in a power plant where you do have sufficiently cool water that you want to heat, most notably the intake.  Some power plants condense their steam in a closed loop, while others release the steam and replace it with fresh feedwater.  That feedwater needs to be brought up to working temperatures, which would take energy from the fuel.  If you can get it up to CPU/GPU operating temperature for &quot;free&quot; then that&#x27;s that much less fuel you have to burn.<br><br>Drawing this cycle on a whiteboard with boxes and lines isn&#x27;t too hard.  Building it in practice is.  It&#x27;s a lot of extra complexity, and it&#x27;s going into an industry that isn&#x27;t overly concerned with operating costs at the moment.  The prevailing belief in that industry is that there is a truly staggering amount of money to be made by whoever captures the market first.  Getting things up and running fast is the top priority, with things like long-term efficiency being a distant afterthought.<br><br>If we settle into a new normal where massively power hungry data centers for AI are commonplace then I&#x27;d expect to see a lot more work go into refining the operating costs.  That&#x27;s when technology like you describe is more relevant, but even then I&#x27;m not sure that it&#x27;s going to be the solution.  The difference in energy consumption when running an AI on a GPU vs a purpose-built piece of silicon is staggering--think 100x power reduction.  AI companies are using a ton of Nvidia silicon today because it&#x27;s the fastest to get up and running and nothing else is more important.  In the future expect to see more and more purpose-built silicon.  Google is currently on their seventh generation of such devices, for example, and others are out there.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/ActualFoodie</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 17:53 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, some data centers actually reuse their warm water, but mostly for heating nearby buildings rather than generating more electricity.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Alesus2-0</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 17:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                The water consumption associated with datacentres  is due the use of evapourate cooling techniques. You&#x27;d have to gather the vapour and condense it. It&#x27;s easier and cheaper to just get different water.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/FearlessFrank99</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 17:34 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Water is pretty much least of our concerns when it comes to Ai data centres. It&#x27;s not really a significant problem.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/KronusIV</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 18:07 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s a huge problem in some areas. If your town is already pushing its water budget a new data center would absolutely destroy it.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/ruiningmymind</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2026-01-24 17:33 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                the &quot;cooler&quot; water exiting the reactor is still at several hundred degrees celsius<br><br>using this to cool any server down will land you well above the T-Junction temperature and have all of them be damaged or shut off<br><br>also data centers/server farms use forced flow air cooling,  neither would be a good option anyways
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/KronusIV</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2026-01-24 17:31 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s not a bad thought, but it wouldn&#x27;t work. Data centers are cooled by evaporative cooling. The water vapor they release is warm, but not so hot that it would give you a meaningful jump start on spinning a turbine. Plus you&#x27;d need to capture the vapor somehow, the plumbing would be a nightmare.
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

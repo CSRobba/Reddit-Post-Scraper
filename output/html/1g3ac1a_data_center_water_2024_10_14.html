@@ -1,0 +1,224 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Water Analysis in Data Center</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/datacenter
+    </div>
+
+    <div class="title">
+    Water Analysis in Data Center
+    </div>
+
+    <div class="meta">
+    Posted by u/yanohyeahh
+    •
+    
+    •
+    0 points
+    •
+    6 comments
+    </div>
+
+    <div class="body">
+    Hey guys need some help here. Do you need to test your water in a data center? If yes, in which process would that be? <br><br>Are routine water testings needed for example testing of chlorine, calcium , conductivity etc? 
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/NowThatHappened</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-14 14:51 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                only if water is used, we don&#x27;t and instead use a glycol based coolant that lasts 10 years, and we replace it every 10 years, so no testing is required.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/thebusterbluth</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-10-15 02:05 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Can you tell me more about this? I work in economic development and our neck of the woods has seen a number of data center inquiries. I&#x27;ve read that some are a &quot;closed loop&quot; system with glycol, whereas others use 1.0+ MGD. That&#x27;s quite the range lol
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/NowThatHappened</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-10-15 05:41 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It really depends on the use case. We use air cooling through heat exchangers for most of the dc, but for ai we use liquid cooling and to integrate that with the air cooling heat exchangers, heat pumps cool the C2H6O2 to -10c, dumping heat into the air ducts then it’s pumped through the cabinets then back to the heat pump etc. glycol is less damaging in a leak, easier to identify, and we can reuse it for an extended period. Water is much cheaper but less efficient and more risk in a leak, harder to track and less eco friendly unless you happen to have a river flowing through the site. It all depends on how much cooling you need and how invested you are in the ecology of the process.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Jumpy-Ad-1461</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2024-10-14 14:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, water testing in a data center is necessary, especially for cooling systems. Routine tests for pH, chlorine, calcium, and conductivity help prevent scaling, corrosion, and biological growth.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/looktowindward</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2024-10-14 14:23 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yes, absolutely. There is a big business around water treatment.
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Xander171</span>
+                •
+                <span>5 points</span>
+                •
+                <span>2024-10-14 11:15 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Legionella
+            </div>
+
+            
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>

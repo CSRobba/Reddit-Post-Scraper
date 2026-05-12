@@ -1,0 +1,336 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+
+    <meta charset="utf-8">
+
+    <title>Gauging interest: Would you use a tool that shows the carbon + water footprint of each ChatGPT query?</title>
+
+    <style>
+
+    body{
+        font-family: Arial, sans-serif;
+        background:#dae0e6;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+    }
+
+    .post{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+        margin-bottom:20px;
+    }
+
+    .subreddit{
+        color:#787c7e;
+        font-size:13px;
+    }
+
+    .title{
+        font-size:30px;
+        font-weight:bold;
+        margin-top:10px;
+    }
+
+    .meta{
+        color:#787c7e;
+        font-size:13px;
+        margin-top:8px;
+    }
+
+    .body{
+        margin-top:20px;
+        font-size:16px;
+        line-height:1.6;
+        white-space:pre-wrap;
+    }
+
+    .comments{
+        background:white;
+        padding:20px;
+        border-radius:8px;
+    }
+
+    .comment{
+        border-left:2px solid #edeff1;
+        padding-left:12px;
+        margin-top:20px;
+    }
+
+    .comment-meta{
+        color:#787c7e;
+        font-size:12px;
+        margin-bottom:8px;
+    }
+
+    .comment-body{
+        font-size:14px;
+        line-height:1.5;
+    }
+
+    .author{
+        font-weight:bold;
+        color:#1c1c1c;
+    }
+
+    </style>
+
+    </head>
+
+    <body>
+
+    <div class="container">
+
+    <div class="post">
+
+    <div class="subreddit">
+    r/LLMDevs
+    </div>
+
+    <div class="title">
+    Gauging interest: Would you use a tool that shows the carbon + water footprint of each ChatGPT query?
+    </div>
+
+    <div class="meta">
+    Posted by u/slimhassoony
+    •
+    
+    •
+    0 points
+    •
+    5 comments
+    </div>
+
+    <div class="body">
+    Hey everyone,<br><br>As LLMs become part of our daily tools, I’ve been thinking a lot about the **hidden environmental cost** of using them, notably and especially at inference time, which is often overlooked compared to training.<br><br>Some stats that caught my attention:<br><br>* Training GPT-3 is estimated to have used \~1,287 MWh and emitted 552 metric tons of CO₂ — comparable to 500 NYC–SF flights. → [Source](https://arxiv.org/abs/2311.16863)<br>* Inference isn&#x27;t negligible: ChatGPT queries are estimated to use \~5× the energy of a Google search, and 20–50 prompts can require up to 500 mL of water for cooling. → [Source](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), [Source](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)<br><br>**This led me to start prototyping a lightweight browser extension that would:**<br><br>* Show a “footprint score” after each ChatGPT query (gCO₂ + mL water)<br>* Let users track their cumulative impact<br>* Offer small, optional nudges to reduce usage where possible<br><br>Here’s the landing page if you want to check it out or join the early list:  <br>🌐 [https://gaiafootprint.carrd.co](https://gaiafootprint.carrd.co)<br><br># I’m mainly here to gauge interest:<br><br>* Do you think something like this would be valuable or used regularly?<br>* Have you seen other tools trying to surface LLM inference costs at the user level?<br>* What would make this kind of tool trustworthy or actionable for you?<br><br>I’m still early in development, and if anyone here is interested in discussing modelling assumptions (inference-level energy, WUE/PUE estimates, etc.), I’d love to chat more. Either reply here or shoot me a DM.<br><br>Thanks for reading!
+    </div>
+
+    </div>
+
+    <div class="comments">
+
+    <h2>Comments</h2>
+
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/lyotriflis</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-09-21 18:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Hiya, a bit late to this convo thread, but am interested in this project/similar projects! Wondering if the project is still ongoing/if there&#x27;s still availability to help in any way?
+            </div>
+
+            
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/Snick_52446</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-11 04:10 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Crazy how we&#x27;re thinking of similar things in similar times. Interested in a discord call with us?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/slimhassoony</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-11 14:27 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Would love to!
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/studio_bob</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-09 09:57 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                This got me thinking, so I did some digging and seems as though Google is one of the biggest offenders here. An oft quoted figure is that they use &quot;...approximately 5.2 billion gallons (19.8 billion liters) of water. This volume is comparable to the amount needed to irrigate 35 golf courses annually in the southwestern United States.&quot;<br><br>Now maybe that sounds like a lot, and it is, but here&#x27;s the thing: there&#x27;s more than 35 gold courses in every single state except Alaska. If we&#x27;re talking about just the southwest, [there are over 2700 golf courses from Texas to California.](https://worldpopulationreview.com/state-rankings/golf-courses-by-state)<br><br>Of course, that&#x27;s just Google. The industry total is probably several times this figure, at least, but does it approach the water consumption of all these golf courses? That seems unlikely, and, given the relative impact on all of our lives, I wonder why golf doesn&#x27;t attract the same kind of environmental scrutiny that data centers are now getting.<br><br>I don&#x27;t want to suggest there no cause for concern. These companies use a ton of water and that&#x27;s something that should be monitored, managed, and mitigated, but I find this particular conversation to be oddly lacking in context.<br><br>As for your idea, idk, some people might find it useful, but if we consider water consumption a kind of pollution then in the environmental policy space we would consider it &quot;point source pollution.&quot; A point source pollutant is, as the name implies, something emanating from a single concentrating source. This is contrasted with dispersed or &quot;non-point&quot; sources. A coal powerplant is a point source of GHGs while your car is a non-point source.<br><br>I mention all of this because point source pollution is the easiest to manage, because it can be done at a single, large source, and the most appropriate and effective way to mitigate such pollution is by regulating the operations of the facilities producing them. Discouraging excessive consumption is not a bad thing, but, maybe a better frame could be helping users and developers choose the most efficient models and services, creating an indirect economic incentive on these facilities to clean up their act.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/slimhassoony</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-05-09 17:22 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                You&#x27;re right that context is often missing in these conversations. I hadn’t thought of positioning LLM queries as “point-source emissions,” but that makes a lot of sense and helps frame the issue in a more actionable way.<br><br>I think for a tool like this, we should aim to *nudge smarter choices* and increase transparency instead of just highlighting usage.
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/redditedOnion</span>
+                •
+                <span>0 points</span>
+                •
+                <span>2025-05-08 06:24 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Nah, who cares ?<br><br>Did you know that water used for cooling doesn’t magically disappear ?
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/slimhassoony</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-05-08 15:29 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Yeah, you’re right about that but I think the issue is that while this freshwater is used to cool data centres, it can’t be used for drinking. This issue just becomes more prevalent in areas already experiencing water shortages. <br><br><br>Sometimes the water is treated with chemicals as well, making them unsuitable to be consumed by people. [Check out this source from the university of Tulsa](https://utulsa.edu/news/data-centers-draining-resources-in-water-stressed-communities)
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/zackhesse</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-07 17:50 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                I&#x27;d like this if it provided estimates of energy/water use by *all* online services, TikTok, YouTube, etc. I see a lot of folks losing their mind over 3 watt-hours spent on ChatGPT queries and think it would help immensely for them to see the comparatively much higher energy/water consumption of 2-3 hours of intensive daily TikTok or YouTube use, let alone luxuries like almond milk or beer.
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/slimhassoony</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-08 01:32 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Having an &quot;all-inclusive&quot; digital footprint would be a sort of long term goal, but I do like the idea of being able to compare environmental impact from different sources 🤔, it would for sure help people see a bigger picture of their digital habits. If I can ask, if you had to pick the next platform to add after ChatGPT, what do you think it should be?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/zackhesse</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-08 04:58 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Youtube, since not as many folks use Tik tok in a web browser I think. It also looks like data is fairly widespread on the energy consumption of streaming youtube videos
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+        <div class="comment" style="margin-left:0px">
+            <div class="comment-meta">
+                <span class="author">u/ai_hedge_fund</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-07 17:39 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                Would I use it? No<br><br>But there are companies and agencies that are committed to reporting their Scope 3 GHG emissions and I could see them benefitting from something like this<br><br>This tool deserves to exist
+            </div>
+
+            
+        <div class="comment" style="margin-left:24px">
+            <div class="comment-meta">
+                <span class="author">u/slimhassoony</span>
+                •
+                <span>2 points</span>
+                •
+                <span>2025-05-08 01:27 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                That&#x27;s a really great idea! One thing I was considering on the company side is potential ESG compliance. Out of curiosity, is there a particular reason why you wouldn&#x27;t use it?
+            </div>
+
+            
+        <div class="comment" style="margin-left:48px">
+            <div class="comment-meta">
+                <span class="author">u/ai_hedge_fund</span>
+                •
+                <span>1 points</span>
+                •
+                <span>2025-05-12 16:27 UTC</span>
+            </div>
+
+            <div class="comment-body">
+                It&#x27;s just not high enough on my list of things towards which I am willing to allocate mental bandwidth
+            </div>
+
+            
+        </div>
+    
+        </div>
+    
+        </div>
+    
+
+    </div>
+
+    </div>
+
+    </body>
+    </html>
