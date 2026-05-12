@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "I built a small app to make existing AI energy data usable at the individual level",
+    "id": "1pyafjd",
+    "body": "There’s plenty of research on AI’s energy impact, but most of it lives in reports and model-level estimates. I wanted an easy way to apply that existing data to my own usage.\n\nI built an app called **AI Footprint** that maps known AI energy and efficiency data onto real usage patterns, letting users compare impact across models and over time in a simple, personal way.\n\nFor transparency: it’s a small paid app ($4.99/year), mainly to cover ongoing updates to assumptions, data sources, and the fact that I love vibe coding more than ride share driving as a side hustle!\n\nI'd appreciate feedback on the product, and/or just hope some of you will find it interesting:\n\n* What would make something like this more engaging over time?\n* Are there views, comparisons, or insights you’d expect but don’t see?\n\nApp site (has iOS & Android links):  \n[https://aifootprint.a]()i\n\nThanks!",
+    "url": "https://www.reddit.com/r/SideProject/comments/1pyafjd/i_built_a_small_app_to_make_existing_ai_energy/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-28T18:46:43",
+    "author": "Independent-Sea292",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

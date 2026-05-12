@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "The energy usage of AI image generation is highly exaggerated",
+    "id": "1mkz6n0",
+    "body": "With the generous assumption that a drawing software uses the same energy as web surfing or watching videos, one image generated with the least efficient model would be equal to around 3 hours of digital drawing with the 13in iPad Air. Or if we take the mean value it's equal to around 48 minutes\n\nOf course this is still a very rough estimate and it doesn't clearly address the training phase of AI nor the actual time used to draw an artwork and the variety of device artist use. I'm not arguing which is more energy friendly, but it does put perspective on the whole environment aspect of AI image generation",
+    "url": "https://www.reddit.com/gallery/1mkz6n0",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1mkz6n0",
+    "created": "2025-08-08T09:02:39",
+    "author": "Reverse_Necromancer",
+    "subreddit": "aiwars",
+    "num_comments": 57,
+    "ups": 82,
+    "upvote_ratio": 0.8399999737739563,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

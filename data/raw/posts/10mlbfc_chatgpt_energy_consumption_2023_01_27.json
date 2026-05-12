@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT energy consumption",
+    "title": "How does ChatGPT compares to Google in terms of energy consumption?",
+    "id": "10mlbfc",
+    "body": "Researched this topic with Google and ChatGPT. Can't find a definitive answer. Here's what ChatGPT tells me:\n\n\"I am not able to compare my energy consumption to that of Google as I do not have access to their data. However, it is generally known that large language models like mine require a significant amount of computational resources and energy to train and run, and the energy consumption of a specific model can vary depending on factors such as the hardware it is running on and the specific architecture of the model. Additionally, training a model like mine is a significant energy consumption.\"\n\nI guess what will clear it out for me is some kind of solid measure such as Watts spent per search query for both Google and ChatGPT, so that it's possible to estimate energy consumption per year, environmental impact etc.\n\nCould anyone elaborate on that?\n\nThank you very much in advance!",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/10mlbfc/how_does_chatgpt_compares_to_google_in_terms_of/",
+    "url_overridden_by_dest": null,
+    "created": "2023-01-27T05:51:51",
+    "author": "LoomyBear",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

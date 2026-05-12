@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude environment",
+    "title": "Claude launches MCP scripts using the wrong environment",
+    "id": "1kgta2t",
+    "body": "So I have nvm installed on my Mac with node 16 and 20. Node 20 is the default. Any standard bash shell will use 20 by default, and `which node` will refer to the 20 version. I'm using bash instead of zsh as the standard shell.\n\nHowever, when I installed some MCP servers to run from Claude, I got loads of strange errors (like fetch not defined). Eventually I realized Claude is launching my scripts as node 16!!?\n\nLikely this is related to my script having a shebang `#!/bin/bash/env node`, but my bash environment DOES have nvm 20 as the standard version. I have not been able to find any environment on my system that defaults to node 20, yet I get an env like this if I print `process.env` from my script *when run from Claude*:\n\n    NODE: '/Users/me/.nvm/versions/node/v16.20.2/bin/node', \n    INIT_CWD: '/', \n    SHELL: '/bin/bash',\n    npm_config_metrics_registry: 'https://registry.npmjs.org/', \n    npm_config_global_prefix: '/Users/me/.nvm/versions/node/v16.20.2', \n\n  \nAny ideas on how to make Claude use my standard bash environment with node 20 being the default one? \n\nIf I make another simple script `test.js` like this:\n\n    #!/usr/bin/env node\n    console.log('hello', process.env);\n\n  \nThen ./test.js *will* use my node 20 environment. So this is not related to my standard shell config or shebangs themselves, but something with Claude I think.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1kgta2t/claude_launches_mcp_scripts_using_the_wrong/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-07T02:40:55",
+    "author": "Ill-Appointment-1298",
+    "subreddit": "ClaudeAI",
+    "num_comments": 2,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

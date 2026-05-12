@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water usage",
+    "title": "New report calls to replace CEOs with AI to Reduce Water Usage",
+    "id": "16khnh1",
+    "body": "A new report shows Microsoft's water usage jumped 30% from 2021 to 2022, highlighting the environmental impact of the emerging AI industry. [One study](https://arxiv.org/abs/2304.03271) found that chatting with ChatGPT for a bit uses half a liter of water. ([Source](https://gizmodo.com/ai-this-week-time-to-replace-your-ceo-with-ai-1850826288))\n\n**The Tech Industry's Water Problem**\n\n* ***Data Centers Need Cooling***\\*\\*:\\*\\* Data centers require huge amounts of water for cooling to operate properly, much of which is pumped from local supplies.\n* ***AI is Extremely Thirsty***\\*\\*:\\*\\* AI systems like ChatGPT have far higher energy densities than normal servers, needing more power and thus more cooling and water.\n\n**Microsoft's Increased Water Usage**\n\n* ***30% Increase***\\*\\*:\\*\\* Microsoft's latest environmental report showed its water usage rose sharply by 30% from 2021 to 2022 as its AI operations accelerated.\n* ***Estimating GPT-3's Usage***\\*\\*:\\*\\* A recent study projected it took around 700,000 liters just to train GPT-3 over a two week period, described as \"extremely concerning.\"\n\n**The Difficulty of Oversight**\n\n* ***Lack of Transparency***\\*\\*:\\*\\* Most AI vendors don't release water usage data publicly, making oversight of their environmental impact difficult.\n* ***Few Options to Reduce Usage***\\*\\*:\\*\\* There are ways to reduce the water needed for AI systems, but little evidence companies are widely adopting them.\n\n**TL;DR:** Microsoft's rising water consumption highlights the enormous, potentially unsustainable thirst that the expanding AI industry generates, raising environmental concerns. More transparency and mitigation efforts may be needed.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/16khnh1/new_report_calls_to_replace_ceos_with_ai_to/",
+    "url_overridden_by_dest": null,
+    "created": "2023-09-16T13:48:20",
+    "author": "Ok-Feeling-1743",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 3,
+    "ups": 0,
+    "upvote_ratio": 0.4300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

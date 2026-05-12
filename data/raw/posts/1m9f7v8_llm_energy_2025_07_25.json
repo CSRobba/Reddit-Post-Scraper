@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM energy",
+    "title": "I built a calculator that shows the real energy & carbon cost of LLM inference",
+    "id": "1m9f7v8",
+    "body": "",
+    "url": "https://www.calculeai.com/",
+    "url_overridden_by_dest": "https://www.calculeai.com/",
+    "created": "2025-07-25T17:11:00",
+    "author": "TerrificMist",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 0,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "AI expected to account for over half of data center power consumption by the end of 2025",
+    "id": "1l07otl",
+    "body": "Despite the constant gaslighting from AI bros, the impact of AI on power consumption and the environment doesn't seem to be all that great. The Guardian [reports](https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption):\n\n> Artificial intelligence systems could account for nearly half of datacentre power consumption by the end of this year, analysis has revealed. The estimates by Alex de Vries-Gao, the founder of the Digiconomist tech sustainability website, came as the International Energy Agency forecast that AI would require almost as much energy by the end of this decade as Japan uses today. De Vries-Gao’s calculations, to be published in the sustainable energy journal Joule, are based on the power consumed by chips made by Nvidia and Advanced Micro Devices that are used to train and operate AI models. The paper also takes into account the energy consumption of chips used by other companies, such as Broadcom. The IEA estimates that all data centres – excluding mining for cryptocurrencies – consumed 415 terawatt hours (TWh) of electricity last year. De Vries-Gao argues in his research that AI could already account for 20% of that total.\n\nAnd:\n> By the end of 2025, De Vries-Gao estimates, energy consumption by AI systems could approach up to 49% of total datacentre power consumption, again excluding crypto mining. AI consumption could reach 23 gigawatts (GW), the research estimates, twice the total energy consumption of the Netherlands.\n\nOkay, now I know what you're going to say. \"This is all anti/luddite propoganda! We'll have magical technologies that will improve AI efficiency tremendously and this'll all be a big nothing burger and we can get to generating our anime girl 'content' without feeling bad about it!\". The problem with this line of reasoning is something called [\"Jevon's Paradox\"](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). The idea is that while technological advancements make using a given resource more efficient, demand for that resource also increases. This leads to larger overall consumption of that resource. Jevon wrote about this in 1860's England, when noticed that as steam engines became more fuel-efficient, coal consumption increased rather than decreased. This happened because cheaper, more efficient energy made it more accessible for more factories and industrial activities, thereby increasing demand for coal overall.\n\nI expect this post be met with some mix of:\n* Strange diatribes about how your local model doesn't consume a lot of power like if that's what is even being discussed here.\n* The regurgitation of those little infographics with no sources as if they should be treated with anything other than ridicule and dismissal. \n* Links to dubious, unscientific Substack articles.\n* Weird, angry rants about perceived hyprocisy, \"why don't you go do REAL activism\" and other such nonsense.\n\nBut hey, let's see.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1l07otl/ai_expected_to_account_for_over_half_of_data/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-31T14:10:24",
+    "author": "lovestruck90210",
+    "subreddit": "aiwars",
+    "num_comments": 5,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

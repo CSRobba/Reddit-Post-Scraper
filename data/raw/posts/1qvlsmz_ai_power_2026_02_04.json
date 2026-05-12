@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Looking for Blender power users to stress test my local AI assistant (7‑day free trial)",
+    "id": "1qvlsmz",
+    "body": "Hey everyone,\n\nI’ve built a new **privacy‑first AI assistant for Blender** and I’m looking for a handful of **power users** to absolutely hammer it for **7 days** and tell me where it breaks.\n\n# What it is\n\n* A **local** AI assistant that runs on your own machine (Ollama-based)\n* Has a **Blender addon** that pulls scene context (objects, modifiers, materials, animation, etc.)\n* Lets you build a **custom knowledge base** from:\n   * Blender docs and addon docs\n   * PDFs/tutorials\n   * Web pages\n   * YouTube transcripts\n   * Text/Markdown files\n* Works **offline** after initial model download\n* Desktop app (Windows 10/11, 64‑bit) + bundled Blender addon\n\nThink: “ChatGPT‑style helper that actually understands your current .blend file and your own docs, without sending anything to the cloud.”\n\n# Who I’m looking for\n\nIdeally you are:\n\n* Using **Blender daily** (professional, studio TD, technical artist, or serious hobbyist)\n* Comfortable pushing tools to their limits and trying to break things\n* Happy to give **honest, detailed feedback** (what’s slow, confusing, buggy, or just pointless)\n\nBonus points if you:\n\n* Use **Geometry Nodes**, scripting, or complex material setups\n* Work under **NDAs** or are sensitive to cloud tools\n* Already use other AI tools for Blender and can compare\n\n# What I need you to do (7 days)\n\nOver roughly a week, I’d like you to:\n\n* Use the assistant in your **normal Blender workflow**\n* Ask it:\n   * “How do I…?” type questions\n   * Scene‑specific questions (based on your current file)\n   * Questions that rely on your imported docs/tutorials\n* Try to break:\n   * Scene sync / context extraction\n   * Long conversations and history\n   * Knowledge base search (RAG)\n   * Vision: screenshots of node graphs, UI, renders\n* Report:\n   * Crashes, freezes, weird behaviour\n   * Wrong or hallucinated answers\n   * Performance issues (slow responses, GPU/CPU pain)\n   * UX annoyances / anything that feels rough\n\nI’ll provide:\n\n* A **7‑day full‑feature trial** (no credit card)\n* A short **onboarding guide** and list of “things to try”\n* A simple way to send feedback (form/Notion page/Discord/DM)\n\n# Requirements\n\n* OS: **Windows 10/11 64‑bit**\n* RAM: **8 GB minimum** (16 GB recommended)\n* GPU: NVIDIA with **8 GB+ VRAM** recommended (CPU‑only does work but will be slower)\n* Blender: **4.0+**\n\n# What you get\n\n* Early access to a tool built specifically for **Blender power users**\n* A say in what gets improved before wider release\n* A **discount code** or free upgrade consideration for early testers (details in DM)\n\nIf you’re interested, comment below with:\n\n* Your typical Blender use case (e.g. “freelance hard‑surface artist”, “studio TD”, “GN-heavy tech artist”)\n* Your hardware specs (CPU, GPU, RAM)\n* How often you use AI tools today (if at all)\n\n[https://youtu.be/JpJzIMzmCMM](https://youtu.be/JpJzIMzmCMM)\n\nI’ll DM a download link and details to a small group of people that fit the test profile.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvlsmz/looking_for_blender_power_users_to_stress_test_my/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-04T03:11:43",
+    "author": "stf6",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 9,
+    "ups": 0,
+    "upvote_ratio": 0.10999999940395355,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

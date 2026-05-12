@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "Turning bike power into a Lego racetrack - built with Claude",
+    "id": "1n50l2c",
+    "body": "This is a tabletop [goldsprint ](https://en.wikipedia.org/wiki/Goldsprint)game I am building. Each lane is controlled by the power output of a stationary bicycle, the more watts the rider outputs the faster the Lego bikes go. It's currently a WIP but I thought I'd share it with y'all.\n\nIt's built around a Raspberry Pi, Arduino, dc motors, and some sensors. I had zero experience with any electronics and close to zero experience with coding when I started. I've used Claude all the way through, from probing the bluetooth trainers to understand how they communicate power data, helping understand electronics basics, and creating all the software.\n\n  \n[You can check out a gallery of some WIP pics and videos.](https://imgur.com/a/s5Rug6P) v1 was built with servo motors because I had no clue what I was doing, it \"worked\" but the motion and range of speed wasn't very compelling. I have recently changed to DC motors with encoders, they are more suitable in almost every way. Now I'm rebuilding the backend and bluetooth control with the new motors + arduino. \n\nprompt that helped me get started:\n\n\"Claude, I need to read power data from Wahoo KICKR bike trainers via Bluetooth. I don't know what UUID or characteristics to look for. Can you Help me write Python code to discover and probe all available Bluetooth services and characteristics on the trainer to figure out where the power data is?\"\n\nI'd love to hear what y'all think!\n\n",
+    "url": "https://v.redd.it/zz0pgfi5zdmf1",
+    "url_overridden_by_dest": "https://v.redd.it/zz0pgfi5zdmf1",
+    "created": "2025-08-31T10:25:58",
+    "author": "streetmeat4cheap",
+    "subreddit": "ClaudeAI",
+    "num_comments": 14,
+    "ups": 109,
+    "upvote_ratio": 0.949999988079071,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

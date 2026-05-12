@@ -1,0 +1,19 @@
+{
+    "query_term": "DeepSeek power",
+    "title": "Do Chinese AI companies like DeepSeek require to use 2-4x more power than US firms to achieve similar results to U.S. companies?",
+    "id": "1kd1jtw",
+    "body": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule:\n\n\n> DeepSeek Shows Controls Work: Chinese AI companies like DeepSeek openly acknowledge that chip restrictions are their primary constraint, requiring them to use 2-4x more power to achieve similar results to U.S. companies. DeepSeek also likely used frontier chips for training their systems, and export controls will force them into less efficient Chinese chips.\n\nDo Chinese AI companies like DeepSeek require to use 2-4x more power than US firms to achieve similar results to U.S. companies?",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1kd1jtw/do_chinese_ai_companies_like_deepseek_require_to/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-02T06:55:04",
+    "author": "Franck_Dernoncourt",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 15,
+    "ups": 44,
+    "upvote_ratio": 0.8199999928474426,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "chandana": "n"
+    }
+}

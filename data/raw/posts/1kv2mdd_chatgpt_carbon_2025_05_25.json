@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT carbon",
+    "title": "I built a site that shows the carbon footprint of your ChatGPT usage",
+    "id": "1kv2mdd",
+    "body": "I recently built a web app that estimates the carbon footprint of your ChatGPT conversations.  \nIt uses the `conversation.json`file to estimate the carbon footprint.\n\nYou just have to export the data from **profile icon** \\-> **Settings** \\-> **Data Controls** \\-> **Export Data** \\-> **conversation.json** and upload it.\n\nTry it out Here!  \n[https://ran-gan.github.io/carbon-gpt/](https://ran-gan.github.io/carbon-gpt/)",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1kv2mdd/i_built_a_site_that_shows_the_carbon_footprint_of/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-25T06:31:43",
+    "author": "RANGANDALE",
+    "subreddit": "ChatGPT",
+    "num_comments": 20,
+    "ups": 5,
+    "upvote_ratio": 0.6499999761581421,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "🛠️ Debugging the AI Gym Tracker: Lessons in Environment Stability",
+    "id": "1rq62kq",
+    "body": "# 1. The Conflict: Version Bleed\n\n**The Issue:** Attempting to run **MediaPipe** (an ML framework) on **Python 3.13** (a very new release).\n\n* **The Symptom:** `AttributeError: module 'tensorflow' has no attribute 'feature_column'` or `ModuleNotFoundError: No module named 'mediapipe.python'`.\n* **The Cause:** Heavy ML libraries often lag behind the latest Python release. Python 3.13 changed internal C-APIs, causing pre-compiled \"wheels\" for NumPy and MediaPipe to fail or attempt to compile from source (requiring C++ compilers).\n\n# 2. The Conflict: Environment Ambiguity\n\n**The Issue:** Confusion between Global Python, Anaconda, and Virtual Environments (venv).\n\n* **The Symptom:** `ModuleNotFoundError: No module named 'mediapipe'` even after running `pip install`.\n* **The Cause:** The library was installed in one Python \"box\" (like a venv), but the script was being executed by another \"box\" (the Global Python 3.12/3.13).\n\n# 3. The Conflict: OneDrive File Locking\n\n**The Issue:** Running an active AI project inside a synced `OneDrive` folder.\n\n* **The Symptom:** `[WinError 5] Access is denied` during `pip install`.\n* **The Cause:** OneDrive attempts to sync files the moment they are created. When `pip` tries to move or delete temporary library files during installation, OneDrive \"locks\" them, causing the installation to fail halfway.\n\n# ✅ The Fixes (Step-by-Step)\n\n# Fix 1: Stabilize the Python Version\n\nWe downgraded from Python 3.13 to **Python 3.10.x**.\n\n* **Why:** 3.10 is the \"LTS\" (Long Term Support) favorite for AI. It has the most stable, pre-compiled binaries (Wheels). No C++ compiler is required.\n\n# Fix 2: Move to a Local Root Directory\n\nWe moved the project from `Desktop/OneDrive/...` to `C:/Pose_DL/`.\n\n* **Why:** This eliminates OS-level file permission errors and ensures that Python has unrestricted access to the site-packages folder.\n\n# Fix 3: Direct Sub-module Imports\n\nWe shifted from the standard `import mediapipe as mp` \\+ `mp.solutions.pose` to a more explicit import pattern.\n\n* **The Code:** Pythonfrom mediapipe.python.solutions import pose as mp\\_pose from mediapipe.python.solutions import drawing\\_utils as mp\\_draw \n* **Why:** This bypasses \"lazy-loading\" issues where the main `mediapipe` object fails to expose its sub-attributes on certain Windows builds.\n\n# Fix 4: The \"Targeted\" Pip Install\n\nInstead of a generic `pip install`, we used the full path to the specific Python executable to ensure the library landed in the correct place.\n\n* **The Command:** `& C:/Path/To/Python310/python.exe -m pip install mediapipe opencv-python numpy`\n\n# 🧠 Key Takeaways for AI Devs\n\n1. **AI isn't just about models; it's about environments.** If your environment is shaky, your model will never run.\n2. **Avoid the \"Bleeding Edge.\"** Stay 1-2 versions behind the latest Python release for ML projects.\n3. **Local is King.** Keep active dev projects out of cloud-synced folders (OneDrive/Dropbox) to avoid permission locks.",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1rq62kq/debugging_the_ai_gym_tracker_lessons_in/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-10T15:04:54",
+    "author": "Ok_Reaction_532",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

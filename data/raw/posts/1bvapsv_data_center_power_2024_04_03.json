@@ -1,0 +1,19 @@
+{
+    "query_term": "data center power",
+    "title": "How to power a 1GW Data Center?",
+    "id": "1bvapsv",
+    "body": "I'm doing some research on data centers. For these large-scale data centers that the hyperscalers are talking about, how would one actually power 1GW? Behind the meter nuclear seems like one use - could you realistically pull 1GW from the grid?",
+    "url": "https://www.reddit.com/r/datacenter/comments/1bvapsv/how_to_power_a_1gw_data_center/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-03T18:32:46",
+    "author": "RealisticDirector352",
+    "subreddit": "datacenter",
+    "num_comments": 17,
+    "ups": 5,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "y"
+    }
+}

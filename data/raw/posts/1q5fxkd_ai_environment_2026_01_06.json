@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "The issue with generative AI development in the ComfyUI mono-environment.",
+    "id": "1q5fxkd",
+    "body": "When ever there's a new technology, be it a small sampler to a whole new model architecture developed, especially in image and video generation, the reference implementation is very often hardcoded into a ComfyUI node instead of following a modular principle and implement it in a python or a C library. This makes it harder for others to develop tools and plugin for that new technology, because they have to extract everything from the ComfyUI node and re-implement it into module or plugin for tool X, and for each tool or UI again and again.\n\nIt's like a new Javascript feature would be implemented as a plugin for the Chrome-Browser just because it's the most widely used browser at the time.\n\nThis is a really bad and lazy habit and a burden for the whole community because it ties users to the ComfyUI ecosystem and puts developers into charge to re-implement the algorithm from the paper from scratch again and again.\n\n(And when tomorrow ComfyUI falls out of favor for what ever reason, we have to go back and start from scratch, for everything that's not been ported to tool Y.)\n\nSo why are developers not utilizing proper module development, like it is done normally in environments? Python offers everything they need. They can still provide a Comfy UI-node that utilizes the Python library but it would allow other to just include the python module and adapt the technology for any API or UI - as it should be (and usually is) in Open Source software development.\n\nJust wanted to discuss this. Not that anyone cares. ",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1q5fxkd/the_issue_with_generative_ai_development_in_the/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-06T06:18:33",
+    "author": "dreamyrhodes",
+    "subreddit": "StableDiffusion",
+    "num_comments": 43,
+    "ups": 8,
+    "upvote_ratio": 0.6299999952316284,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

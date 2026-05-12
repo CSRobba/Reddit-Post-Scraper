@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM energy",
+    "title": "Informational Relative Evolution: \"What if the universe was just a cosmic LLM and dark energy acted just like the attention mechanism?\"",
+    "id": "1j0fozl",
+    "body": "A bit different than normal but interestingly, it still greatly applies to LLMs and AI in so many ways. So, my favorite hobby is to take my own thought experiments and push them as far as they can go and see if they turn into something useful or just break entirely. This started as a simple thought experiment of reframing the universe by asking:\n\n\"What if the universe was just a cosmic LLM and dark energy acted just like the attention mechanism?\" \n\nThat then revealed a fascinating thread that I kept pulling on over and over again with 100s of questions and dozens of scientific experiments, trying to break the hypothesis and instead slowly building solid math to support it. Through a rigorous process of research, controlled scientific experimentation using Python Code, a modern AI-based scientifically grounded Socratic Method, and finally using old-school arithmetic, I have been able to derive a new fully mathematically and physically correct field equation based on the first principle of stationary action I am calling the \"Informational Relative Evolution Field\". This equation now directly allows you to measure the chaos and order of any given system with unparalleled accuracy and depth. \n\nWhat does this mean? Well, it seems to be a part of the universe buried deep in our current math that has been waiting to inevitably be found. This new field is what I think governs information itself, as a real measurable and causal phenomenon in the universe. In my published paper, I am able to use real scientific longhand arithmetic (like how Newton did it) to resolve these specific longstanding problems:\n\n* Quantum Wave Collapse\n* The Three-Body Problem\n* The Black Hole Information Paradox\n* Supernova Collapse\n* Neutrino Behavior\n\nI know it sounds insane, hyperbolic, impossible and like I am just trying to trick you. I promise you I am not. Please read the paper and provide any and all feedback you can. I am also learning and absorbing all this myself as it flips and overturns so much of my own preconceived notions about reality.\n\nI openly welcome all critiques, insights, corrections, collaborations, etc. Picking this apart and testing it relentlessly is the only way this can be verified.\n\nIf the paper is a bit dense (it is for me at times as well), drop it into the smartest LLM you have access to and start ripping my IRE hypothesis to shreds.\n\nLastly, what exactly does this have to do with LLMs? Well, the core IRE equation can IMMEDIATELY and directly start being integrated into existing architectures, training pipelines, etc. The ability for an LLM to track and understand the chaotic patterns of data using the IRE will potentially improve x1000 since it will now allow direct access to all the underlying latent patterns. \n\nLinks:\n\n[https://huggingface.co/blog/Severian/informational-relative-evolution](https://huggingface.co/blog/Severian/informational-relative-evolution)\n\n[https://github.com/severian42/Informational-Relative-Evolution](https://github.com/severian42/Informational-Relative-Evolution)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1j0fozl/informational_relative_evolution_what_if_the/",
+    "url_overridden_by_dest": null,
+    "created": "2025-02-28T11:13:52",
+    "author": "vesudeva",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 5,
+    "ups": 0,
+    "upvote_ratio": 0.25,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

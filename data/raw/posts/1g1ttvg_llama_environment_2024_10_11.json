@@ -1,0 +1,19 @@
+{
+    "query_term": "Llama environment",
+    "title": "How to change \"ollama_llama_server.exe\" from Windows Environment ?",
+    "id": "1g1ttvg",
+    "body": "I use it on potato PC so when it start with \"Above Normal priority\", it freeze everything, I want to set it start at \"Low priority\" instead, it might be longger but I still can use my PC for something else while wait for it, also is `OLLAMA_KEEP_ALIVE` work properly ? I set it at \"2h\" but it doesn't seem to keep it alive that long, like it still use default setting 5m.",
+    "url": "https://www.reddit.com/r/ollama/comments/1g1ttvg/how_to_change_ollama_llama_serverexe_from_windows/",
+    "url_overridden_by_dest": null,
+    "created": "2024-10-11T23:07:25",
+    "author": "revennest",
+    "subreddit": "ollama",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

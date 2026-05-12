@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "Today I built a little app that exposes Nvidia GPU stats as an API, this can be used to integrate with home assistant etc.... to monitor your LLM GPU power usage, computer/memory utilisation etc... It's very much a work in progress but works well enough. PRs accepted etc etc.. :)",
+    "id": "1cko013",
+    "body": "",
+    "url": "https://github.com/sammcj/nvapi",
+    "url_overridden_by_dest": "https://github.com/sammcj/nvapi",
+    "created": "2024-05-05T03:11:03",
+    "author": "sammcj",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

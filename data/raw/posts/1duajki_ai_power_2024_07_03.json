@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Nuclear could power the AI boom–but only if proliferation risks are minimized",
+    "id": "1duajki",
+    "body": "\n- Oklo Inc., a nuclear energy startup led by Sam Altman, aims to power AI models with microreactors to meet the increasing computational power demands.\n\n- However, concerns exist regarding the economics and safety of such reactors, with the US nuclear regulator yet to endorse the safety of Oklo's Aurora microreactor.\n\n- The higher enrichment level of uranium fuel used by Oklo's microreactor raises proliferation concerns as it could potentially increase the availability of fissile materials for nuclear weapons.\n\n- Oklo's technology, while focused on energy extraction, poses dual-use potential and heightens the risk of diversion throughout the fuel cycle.\n\n- The company's claims of proliferation resistance through pyroprocessing have been met with skepticism, as it may not effectively reduce proliferation risks.\n\nSource: https://thebulletin.org/2024/07/nuclear-energy-could-power-the-ai-boom-but-only-if-proliferation-risks-are-minimized/#post-heading",
+    "url": "https://www.reddit.com/r/artificial/comments/1duajki/nuclear_could_power_the_ai_boombut_only_if/",
+    "url_overridden_by_dest": null,
+    "created": "2024-07-03T02:54:54",
+    "author": "NuseAI",
+    "subreddit": "artificial",
+    "num_comments": 12,
+    "ups": 0,
+    "upvote_ratio": 0.3100000023841858,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

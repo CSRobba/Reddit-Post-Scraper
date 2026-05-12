@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini power",
+    "title": "Why can't google assistant/Gemini answer simple questions like \"When did the power come back on\" or \"when did you come back online\"",
+    "id": "1qfr1al",
+    "body": "Pretty simple, like the title says\n\nWhy can't google assistant answer simple questions like \"When did the power come back on\" or \"when did you come back online\"\n\nBut even more so, I've switched Google assistant across to Gemini, and I'd had conversations earlier that night through the app with it about the power being out, as Gemini can collate public data from Energex, SES, RFS, QPOL, etc.\n\nSo when the power came back on at around 3am, all the lights came on, all the smarthome devices powered on, etc.\n\nI woke up around 4am to pee, noticed everything was on, and asked google \"Hey google, when did the power come on?\"\n\nit responded \"I'm sorry. Something went wrong\"\n\nSo I tried a different tactic that would give me a close but not super accurate answer \"Hey Google, when did you come back online\" knowing that the Starlink takes 2-3 minutes to acquire a satellite, but again it was \"I'm sorry. Something went wrong\"\n\nbut like...that's your job to give me basic information, and you can't give info about yourself?\n\nEven this morning, fine to play music, set timers, back to normal, tithing lights on and off, controlling Air Cons, but it still has something go wrong if I ask it when it came online or when the power came on.\n\nBut I can open the Gemini app and ask it the exact same question with the same words and it answers it fine. I know that power came back on in stages from 2300h through to 0500 depending on suburb, and we got power at around 0250 with everything coming back online closer to 0300.\n\nThe app answers it fine. But I ask it on a device, no Bueno.",
+    "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1qfr1al/why_cant_google_assistantgemini_answer_simple/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-17T14:35:15",
+    "author": "That_Car_Dude_Aus",
+    "subreddit": "GoogleGeminiAI",
+    "num_comments": 2,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

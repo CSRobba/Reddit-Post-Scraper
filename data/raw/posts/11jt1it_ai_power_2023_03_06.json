@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "For SREs and software engineers, we launched runbear.io to help you manage executable runbooks using AI-power.",
+    "id": "11jt1it",
+    "body": "Hello everyone, I’m thrilled to release [Runbear.io](http://runbear.io/) !\n\n[Runbear.io](http://runbear.io/) helps you generate executable runbooks and keep them up-to-date using AI. It generates runbooks from your executed commands in seconds. Generated runbooks are executable directly from the browser. All the execution logs will be recorded for you to keep up-to-date.\n\nThis enables software engineers to handle incidents with less SRE support. Thus, SREs can save time while software engineers gain more confidence managing their services.\n\nCurrently launching with a closed beta — Please join our waitlist and let us support you! We would love to get your feedback in the comments below too 🙂\n\n[https://runbear.io](https://runbear.io/)",
+    "url": "https://www.reddit.com/r/SideProject/comments/11jt1it/for_sres_and_software_engineers_we_launched/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-06T00:31:37",
+    "author": "ssowonny",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

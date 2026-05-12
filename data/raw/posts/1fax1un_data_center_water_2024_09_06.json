@@ -1,0 +1,21 @@
+{
+    "query_term": "data center water",
+    "title": "Data Center Water and Power",
+    "id": "1fax1un",
+    "body": "Data centers are under construction everywhere and the hyperscalers are targeting 1000 MW data center campuses. But what does this all take?\n\nDoes anyone have a good sense of how many H100 chips this would require per data hall? Nvidia sold some 600,000 H100 chips last year...is that 420 MW of power capacity required at 700W peak each for the 2023 production run?\n\nHow many MWs and square feet would each these data halls be? I believe the Meta \"H\" hall designs are 60 MW each, so this would require quite a number of buildings.\n\nThese would consume a large power plant's entire output for power, but what about water? How many gallons per day would one of these campuses require for cooling in the Midwest using a high efficiency design? 1 million gallons per day? 2 million?\n\nAppreciate the help understanding what this all takes!",
+    "url": "https://i.redd.it/5gngpt2qwand1.png",
+    "url_overridden_by_dest": "https://i.redd.it/5gngpt2qwand1.png",
+    "created": "2024-09-06T19:49:00",
+    "author": "dasGoldfinger",
+    "subreddit": "datacenter",
+    "num_comments": 7,
+    "ups": 6,
+    "upvote_ratio": 0.7099999785423279,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT sustainable",
+    "title": "Looking for advice: I built a workflow in a ChatGPT thread, but worried it’s not sustainable long term",
+    "id": "1l6evng",
+    "body": "I set up an automation inside a single ChatGPT thread where I upload PDF reports, and it returns a formatted Excel sheet based on logic I originally fed it. It works great, basically acting as a custom data parser.\n\nThe problem is, I’m relying on a single ongoing chatroom. Over time, it’s getting really slow as more data piles in, and I’m also worried about the risk of the thread getting deleted or lost entirely.\n\nHas anyone figured out a better way to make this kind of interaction more stable and scalable? Should I be using the API? Curious how others are handling similar setups.",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1l6evng/looking_for_advice_i_built_a_workflow_in_a/",
+    "url_overridden_by_dest": null,
+    "created": "2025-06-08T08:29:03",
+    "author": "Final-Literature5590",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

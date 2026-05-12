@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "Is there a way that I can have a llm or some kind of vision model identify different types of animals on a low power device like a pi?",
+    "id": "1lfd7m6",
+    "body": "At my job there's an issue of one kind of animal eating all the food meant for another kind of animal.  For instance, there will be a deer feeder but the goats will find it and live by the feeder.  I want the feeder to identify the type of animal before activating.  I can do this with a PC, but some of these feeders are in remote areas without hundreds of watts of power.  If I can do it with a pi, even if it takes a minute to process, it would save a bunch of money from being wasted on making goats fat.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lfd7m6/is_there_a_way_that_i_can_have_a_llm_or_some_kind/",
+    "url_overridden_by_dest": null,
+    "created": "2025-06-19T08:09:29",
+    "author": "Red_Redditor_Reddit",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 8,
+    "ups": 7,
+    "upvote_ratio": 0.8199999928474426,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

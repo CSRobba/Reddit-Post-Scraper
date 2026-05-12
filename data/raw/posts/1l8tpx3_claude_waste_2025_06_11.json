@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude waste",
+    "title": "CLAUDE OPUS, waste so fast... But sometimes it codes for a while.",
+    "id": "1l8tpx3",
+    "body": "I Know im not the first one to mention this... but sometimes i code something and its not like it doesnt require many token but it feels like im coding with opus for a while then other times like today im coding and just after 5 minutes im literally done using opus or approaching limits... how is that 20% of it already gone that fast. \n\n  \nTo be honest opus is way better at handling more complicated situation where sonnet will either fall short or take longer to fix.\n\n  \nBut aside from that things i have learned is create a debug folder for issue and write to it, always close out your model if its taking to long to fix the issue and try again. \n\n  \nIve noticed when your debugging the same issue or do not have actual context of whats going on your going to be there forever. \n\n  \nQuick example was yesterday. I used opus and sonnet this how bad i have an issue... I was trying to connect a fedex api to try some shipping endpoints. Everything was smooth but it seemed like it could not figure out how to properly send the request to fedex's api. Long story short i personally went to there website and downloaded a entire json scheme and some more data, fed it to the api and boom this thing all of sudden knew what to do, fixed the isuses in seconds. \n\n  \nAI is really good, but without the proper details or data it will fall short always. ",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1l8tpx3/claude_opus_waste_so_fast_but_sometimes_it_codes/",
+    "url_overridden_by_dest": null,
+    "created": "2025-06-11T07:12:20",
+    "author": "Swiss_Meats",
+    "subreddit": "ClaudeAI",
+    "num_comments": 6,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

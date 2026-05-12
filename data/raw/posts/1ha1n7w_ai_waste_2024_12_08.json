@@ -1,0 +1,19 @@
+{
+    "query_term": "AI waste",
+    "title": "O1 pissed me off so I told 4o and we came up with this: what if o1 is integrated with a secretary ai to not waste resources?",
+    "id": "1ha1n7w",
+    "body": "O1 engineering responses have been lacking lately. For power users, instead of limiting o1 or something, how about make a secretary Ai?\n\nThis was my prompt to 4o:\n\"What if o1 comes with a secretary Ai, let's call it the 4o secretary, one like you or even 4o-mini whose task is helping the user formulate a sufficient enough query/prompt to ensure resources aren't wasted. And this 4o secretary has a built-in criteria made by openai where it rates prompts from 1-100, where above 50 means good use of computational resources or sufficiently detailed and thorough prompt and is approved. Approved here means sent to o1 for processing. All of this happens visibly, not under the hood. That's because there's a likelihood this process will frustrate the user, and to avoid that, it's best to come clean so they know when they're getting closer. Below 50, the 4o secretary will declare that the prompt is not sufficient, again, not communicated clearly to avoid frustrating the user--and from there, it will proceed to give the user suggestions. \n\nBasically, the 4o secretary is a o1 built-in prompt engineer.\n\nNot only can the 4o secretary be used to refine prompt, which means a built-in o1 prompt engineer, but it can be very useful for professionals by providing them more points to consider, more ways I refine their prompt or extract a better response from the o1 model. \n\nThe recent o1 pro could easily benefit from this.\n\nFinally, since openai knows o1 very well, they could especially engineer a model variation of the 4o, like the mini, or even the 3.5 or a narrow ai so that this secretary is a especially-tuned o1 wizard.\"",
+    "url": "https://www.reddit.com/gallery/1ha1n7w",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1ha1n7w",
+    "created": "2024-12-08T20:27:49",
+    "author": "SamiSomal",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

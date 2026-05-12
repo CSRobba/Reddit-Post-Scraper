@@ -1,0 +1,20 @@
+{
+    "query_term": "data center water",
+    "title": "Data Center Cooling -- Warmer Chilled Water (18-20C) Question",
+    "id": "1qc2x2s",
+    "body": "Hi,\n\nI’m researching data centers that operate with:\n\n **\\~16–20°C (60–68°F) Entering Water (for CDUs or to CRAH)**\n\nI've seen a few supercomputer setups that use this (e.g. Wyoming or UIUCs supercomputers) but is this ever done at hyperscale or colocations? \n\nContext here: My companies been working on a new HVAC cooling tech that can produce 16C water (in series with a cooling tower) independent of climate conditions with 3-4x efficiency compared to a mechanical cooler (mostly just by increasing number of free cooling hours in a year). Would this be useful for data center applications?  \n\n\n\n",
+    "url": "https://www.reddit.com/r/datacenter/comments/1qc2x2s/data_center_cooling_warmer_chilled_water_1820c/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-13T12:49:45",
+    "author": "EntropyAddict123",
+    "subreddit": "datacenter",
+    "num_comments": 12,
+    "ups": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n",
+        "julie": "n"
+    }
+}

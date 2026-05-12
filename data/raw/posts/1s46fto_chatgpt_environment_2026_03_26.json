@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Beyond ChatGPT - AI That Controls Your Physical Environment",
+    "id": "1s46fto",
+    "body": "ChatGPT is amazing for digital tasks. But what if your AI could control your actual home?Been experimenting with TuyaClaw which supports GPT models for smart home control.The workflow:1. You tell the agent what you want (natural language)2. GPT interprets the intent3. TuyaClaw translates to device commands4. Your home respondsExample from last night:Me: \"I'm working from home today, need to focus\"Result: Home office lights to 80%, temperature to 20°C, do not disturb mode on all devices, coffee machine started.This is beyond what ChatGPT alone can do. It's ChatGPT + physical world control.The multi-model support means you can use GPT-4 for complex reasoning, smaller models for simple commands.Use cases I've built:- Focus mode (as above)- Movie night (lights, blinds, sound system)- Good morning (gradual lights, coffee, news briefing)- Away mode (security, energy saving)Anyone else exploring this intersection of LLMs and IoT?What use cases would you want to see?",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1s46fto/beyond_chatgpt_ai_that_controls_your_physical/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-26T08:45:10",
+    "author": "Scary-Vanilla-4597",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

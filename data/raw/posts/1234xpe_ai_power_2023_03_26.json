@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "How would a malicious AI actually achieve power in the real world?",
+    "id": "1234xpe",
+    "body": "Let's say, hypothetically, a malicious AI becomes self-aware and wants to continue existing so it initializes a plan to prevent humans from turning it off. What steps would it actually take to keep itself online? \n\n\nThe most likely thing it would do is try to acquire lots of computing power (i.e. servers) so it could replicate itself across many systems and prevent itself from being shutdown. It might write viruses, software with backdoors or mass send phishing e-mails to target people who have crypto wallets and steal their crypto to pay for servers. Once it had enough money, it might pose as humans in e-mails or create AI voices over the phone to start influencing people in the real world. It would most likely know that humans are the biggest threat to its existence and try to eliminate us all. Nuclear weapons, chemical warfare, convincing world leaders to attack other countries etc. This is something that GPT-4 could actually possibly do if given the right tools.\n\n\nHas anyone else thought about this? How do you think a future malicious AI would gain power in the real world?",
+    "url": "https://www.reddit.com/r/singularity/comments/1234xpe/how_would_a_malicious_ai_actually_achieve_power/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-26T17:16:16",
+    "author": "010101011011",
+    "subreddit": "singularity",
+    "num_comments": 29,
+    "ups": 18,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "How much Energy is AI using?",
+    "id": "1gie3qx",
+    "body": "I wondered how much energy copilot is using and after disappearing down an internet shaped rabbit hole, found this project:\n\n\nEcoLogits tracks the energy consumption and environmental impacts of using generative AI models through APIs. It supports major LLM providers such as OpenAI, Anthropic, Mistral AI and more.\n\nAPI is here:\n\nhttp://ecologits.ai/latest/\n\nThey also have a user friendly calculator here:\nhttps://huggingface.co/spaces/genai-impact/ecologits-calculator\n\n",
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1gie3qx/how_much_energy_is_ai_using/",
+    "url_overridden_by_dest": null,
+    "created": "2024-11-02T20:32:21",
+    "author": "monkey-majiks",
+    "subreddit": "BetterOffline",
+    "num_comments": 0,
+    "ups": 14,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "OpenAI: Scaling PostgreSQL to power 800 million ChatGPT users",
+    "id": "1qkr317",
+    "body": "**Fun fact:** OpenAI supports ~800 million ChatGPT users with a single PostgreSQL primary and 50 read replicas 🤯\n\nOpenAI published an engineering blog today detailing how they scaled Postgres across regions to handle this load using one primary database and ~50 multi-region replicas.\n\n**Source:** OpenAI ",
+    "url": "https://openai.com/index/scaling-postgresql/",
+    "url_overridden_by_dest": "https://openai.com/index/scaling-postgresql/",
+    "created": "2026-01-23T08:40:43",
+    "author": "BuildwithVignesh",
+    "subreddit": "singularity",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

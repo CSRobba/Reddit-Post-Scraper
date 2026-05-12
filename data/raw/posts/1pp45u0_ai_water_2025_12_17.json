@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water",
+    "title": "Bad AI journalism callout - The Verge's \"AI’s water and electricity use soars in 2025\"",
+    "id": "1pp45u0",
+    "body": "**Bizarre comparison #1:** \n\n\"AI created as much carbon pollution this year as New York City\"\n\n*This is not a lot.*\n\nNYC has 1/1000th of the global population. AI is a major global industry that is directly used by about 20% of the global population, and serves an even larger group indirectly.\n\nWe don't treat industries like car manufacturing, textile, transport, live entertainment, dining out, defense, sports, or anything else you can think of in the same way. AI is cleaner, more efficient, and more valuable per unit of energy spent.\n\n*Thank you, The Verge, for making this so very clear.*\n\n**Bizarre comparison #2:** \n\n\"AI guzzled up as much H20 as people consume globally in water bottles\"\n\n*This is not a lot.*\n\nMost people in the world, it might shock you to know, drink water from the tap or other sources. Bottled water only represents about 5% of human water consumption. Human water consumption represents only 5% of global freshwater use.\n\nSo 0.25% of the freshwater withdrawals flow, unpolluted, through some data center. Once again, a tiny amount for a major, non-polluting industry.\n\n*Thank you, The Verge, for making this so very clear.*\n\nIf you need to make such bizarre comparisons, I can only assume it's because you fully realize the actual numbers are unimpressive.\n\n**Bonus language bias:**\n\nAccording to the author, AI \"guzzles\" while humans \"consume\".\n\nMore accurately, though, AI \"uses and returns unpolluted\" while humans \"piss away\".\n\n**Bonus use of go-to biased source:**\n\nAlex de Vries-Gao is quoted, because of course he is. A non-expert on AI who has shown that he doesn't understand how GPUs work and previously overestimated their power consumption by 3-8x. But he's the person journalists trust, because they know what he's going to say.\n\n*Thank you, The Verge. At this point, nothing else you say can make me trust you. You truly represent excellence in unbiased science reporting.*",
+    "url": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water",
+    "url_overridden_by_dest": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water",
+    "created": "2025-12-17T10:31:54",
+    "author": "Human_certified",
+    "subreddit": "aiwars",
+    "num_comments": 11,
+    "ups": 19,
+    "upvote_ratio": 0.9200000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

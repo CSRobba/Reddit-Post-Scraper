@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM environment",
+    "title": "What is TRULY the best coding LLM + Environment today?",
+    "id": "1le5cv5",
+    "body": "I would love to hear experiences of how you are implementing your workflow with cursor (or any other tool with LLMs like Claude code, Roo Code etc...) on coding.  \n  \nPeople say Gemini 2.5 pro is the top model for development today, but I've really been struggling with it on cursor. Basically it almost always creates undesirable new features or doesn't recognize at all patterns of my codebase that are explicit on the same file it is editing (and those patterns are provided in the context). It mostly solves the problem but creates other problems related to code quality and modularity.\n\nFor example, I asked it to prepare and structure certain data that I had to be consumed by a mutation exposed by the API. The code had a function that already did prepare a lot of similar data and basically it needed to add this new data to the function. Before the changes, the code had a lot of boilerplate but it was maintainable and organized. It was easy to find the patterns. What Gemini did: Let's create a completely new function in the same file that executes 30 new lines of code just to prepare your new data! I lose a lot of time fixing the codes manually or using other models to fix these types of mistakes and it has been really frustrating.\n\nI've tried claude code a bit when it was only API based and quit because the costs were too high.. I haven't yet tried using it more since it can now be used with the Plan usage limit. But I really would like some opinions before I really jump off the boat and give up completely on gemini.  \n  \nI don't know if it is just me or if I'm using gemini wrong on my workflow. I'd really like to hear what people are doing to make gemini unleash all the potential that people really sell on reddit.",
+    "url": "https://www.reddit.com/r/cursor/comments/1le5cv5/what_is_truly_the_best_coding_llm_environment/",
+    "url_overridden_by_dest": null,
+    "created": "2025-06-17T22:01:19",
+    "author": "devfront-123",
+    "subreddit": "cursor",
+    "num_comments": 11,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

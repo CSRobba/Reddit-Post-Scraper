@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water",
+    "title": "The \"AI Water Crisis\" is here: Billionaire invests $5B in Google Data Centers as regions run dry.",
+    "id": "1p9jpbj",
+    "body": "Yesterday, we discussed Google moving compute to space via [Project Suncatcher](https://www.reddit.com/r/ArtificialInteligence/s/kXHIVMjWdk) to escape Earth's energy limits.\n\nToday, the reality hits much closer to home.\n\n**The News:**\nThe Adani Group (led by Asia's richest man) confirmed a **$5 Billion** partnership with Google to build massive AI data centers. While the headlines are celebrating the \"AI Boom,\" the physical reality is much darker.\n\n**1. The Thirst of 1 Gigawatt:**\nThe planned cluster is targeted to reach **1 GW** capacity.\n* **The Physics:** A data center of this scale doesn't just need power,it needs water for cooling. **Millions of liters per day.**\n* These facilities are being built in regions that already face chronic water stress and groundwater depletion.\n\n**2. The Global Split:**\nWe are seeing a terrifying divergence in how regions handle the \"AI Wall\".\n\n* **The US:** Microsoft restarts Three Mile Island (Nuclear) to solve **Energy**.\n* **Google Global:** Plans orbital TPUs (Space) to solve **Heat**.\n* **Emerging Markets:** Brute forcing construction on land that might not have the **Water** to support it.\n\n**3. The \"Human Rights\" Warning**\nThis is not just a tech issue. Local groups are already raising alarms that diverting water to cool H100s/TPUs could create a drinking water crisis for locals.\n\n**The Bottom Line:**\nMoney is moving into infrastructure faster than the environment can adapt.\n\nWe are entering a phase where your AI prompt isn't just competing for electricity with your AC but it is competing for water with someone's farm.\n\n**Is this Development or are we liquidating natural resources to train models?**\n\n**Source:** [Reuters](https://www.thehindubusinessline.com/info-tech/adani-seeks-up-to-5-billion-investment-in-google-data-center-to-join-ai-boom/article70337524.ece)",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1p9jpbj/the_ai_water_crisis_is_here_billionaire_invests/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-29T00:20:09",
+    "author": "BuildwithVignesh",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 81,
+    "ups": 107,
+    "upvote_ratio": 0.7599999904632568,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

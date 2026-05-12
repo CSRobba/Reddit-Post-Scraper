@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "ChatGPT keeps forgetting previous work across chats. So we built something to fix that. Looking for input from power users.",
+    "id": "1p0hrtn",
+    "body": "Hey everyone, Jaka here. I spend most of my day inside ChatGPT, Cursor, and Claude Code, and I kept hitting the same problem many of you talk about here:\n\nChatGPT answers something perfectly, but two days later the context is gone.  \nAll the debugging notes, research steps, design decisions, explanations, and dead ends disappear unless you manually save them somewhere else.\n\nSo my team and I built something that tries to fix that missing layer.\n\nIt lets you save specific pieces of ChatGPT output as “Seeds”, auto-organise them by topic, and then load this context back into any new ChatGPT session through MCP. The idea is simple. You work once. The context stays available later, even across different models.\n\nYou can use it alongside ChatGPT like this:  \n• upload code snippets, PDFs, screenshots or notes  \n• get ChatGPT to synthesise them  \n• save the answer as a Seed  \n• return next week and ask about the same project without repeating yourself  \n• or ask ChatGPT to load your Seeds into the prompt via MCP\n\nRight now it is completely free in early access. We want feedback from people who actually push ChatGPT to its limits.\n\nWhat I would love to know from this sub:\n\n1. Would you use something like this in your workflow\n2. Should this be more integrated with ChatGPT via MCP\n3. What kind of context or memory do you wish ChatGPT could persist across sessions\n4. Any missing features for coding specific use cases\n\nHappy to answer every question and show examples.  \n\n\n[myneutron.ai](http://myneutron.ai)",
+    "url": "https://v.redd.it/l720q2jgt12g1",
+    "url_overridden_by_dest": "https://v.redd.it/l720q2jgt12g1",
+    "created": "2025-11-18T09:16:28",
+    "author": "Competitive_Act4656",
+    "subreddit": "ChatGPTCoding",
+    "num_comments": 1,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

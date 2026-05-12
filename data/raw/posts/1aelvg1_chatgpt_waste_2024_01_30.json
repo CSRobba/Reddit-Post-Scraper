@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT waste",
+    "title": "Management asks me to give opinion on how to automate a process, I waste 2-3 months of doing that, only to be rejected, so I used ChatGPT and automated it anyway. Now I'm the only one in the company who doesn't have to SUFFER through the process",
+    "id": "1aelvg1",
+    "body": "There's an annoying process we have in Finance that has to do a lot with Excel, and not just reporting, but also generating statements that contain +20 variables manually and signing them off, the difficult part is generating the +20 variables and putting these same variables in a report. I created a little tool (not the actual code, just the idea) for the management to review and potentially send out to the automation team to work on, and after \"careful\" review, my idea was put to sleep on the pretext that they do not see value in that anymore because we are changing the software we're using. \n\nAs an SME on the matter, I can tell you without a shred of a doubt that even when the new software is in place, we will still need to do the same annoying thing. My words obviously fell on deaf ears, which is okay, woke up today at 7, dabbled with ChatGPT 4, and by 9 I had the tool automated and up and running. \n\nLiterally saved 3-4 hours of my life for today just doing that, especially that I was expected to generate 8 of these statements. ",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1aelvg1/management_asks_me_to_give_opinion_on_how_to/",
+    "url_overridden_by_dest": null,
+    "created": "2024-01-30T03:02:42",
+    "author": "tearsofthekingodm",
+    "subreddit": "ChatGPT",
+    "num_comments": 3,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

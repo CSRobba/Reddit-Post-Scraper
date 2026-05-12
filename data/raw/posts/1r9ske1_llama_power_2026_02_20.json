@@ -1,0 +1,19 @@
+{
+    "query_term": "Llama power",
+    "title": "Taalas’ silicon Llama achieves 17K tokens/sec per user, nearly 10X faster than the current state of the art, while costing 20X less to build, and consuming 10X less power.",
+    "id": "1r9ske1",
+    "body": "So basically this is a Application Specific Circuit with a hardcoded Llama 3.1 8B on it.\n\nIt comes with a demo, and it is actually scary fast: https://chatjimmy.ai/\n\nLlama 3.1 is somewhat old now but it probably took some while to design and produce the circuit. ",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "url_overridden_by_dest": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "created": "2026-02-20T03:09:51",
+    "author": "Additional-Bee1379",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 2,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

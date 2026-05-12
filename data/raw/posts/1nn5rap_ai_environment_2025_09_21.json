@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "My big collection of counter-arguments to common concerns about AI and the environment",
+    "id": "1nn5rap",
+    "body": "I've tried to write about basically every major issue with data centers and individual AI use people are concerned about, and consistently come away thinking:\n\n1. AI is not a serious environmental problem, at least right now.\n2. Many people are confused by data centers' ability to concentrate huge aggregates of individually tiny computer tasks into one building. If the tasks were dispersed among regular computers, no one would have an issue with them.",
+    "url": "https://andymasley.substack.com/p/ai-and-the-environment",
+    "url_overridden_by_dest": "https://andymasley.substack.com/p/ai-and-the-environment",
+    "created": "2025-09-21T15:33:37",
+    "author": "MrMasley",
+    "subreddit": "aiwars",
+    "num_comments": 2,
+    "ups": 5,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y",
+        "nino": "y"
+    }
+}

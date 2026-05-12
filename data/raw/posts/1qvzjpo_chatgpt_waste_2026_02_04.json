@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT waste",
+    "title": "Caught ChatGPT making up a Python library. Here's how to spot AI lies before they waste your time.",
+    "id": "1qvzjpo",
+    "body": "Spent 2 hours debugging before I realized ChatGPT invented an entire library that doesn't exist.\n\nTurns out AI hallucinations happen constantly. These models predict what sounds right, not what is right. And they're equally confident whether they're correct or completely wrong.\n\nI wrote up what I learned about:\n\n* Why AI models hallucinate (and why it'll never fully stop)\n* The 5 most common types of AI lies\n* Practical strategies to catch them before they cost you time/money\n\nBeen using AI tools daily for a year now. Wrote this so others don't make the same mistakes I did.\n\n**Read it here:** [Avoid AI hallucinations](https://medium.com/ai-ai-oh/why-your-ai-model-is-lying-to-you-and-how-to-catch-it-2db5e845def9)  \n  \nHas AI ever confidently told you something completely false? Would love to hear your stories.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qvzjpo/caught_chatgpt_making_up_a_python_library_heres/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-04T12:14:54",
+    "author": "narutomax",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 10,
+    "ups": 0,
+    "upvote_ratio": 0.36000001430511475,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

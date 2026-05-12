@@ -1,0 +1,21 @@
+{
+    "query_term": "DeepSeek environment",
+    "title": "vLLM + DeepSeek-R1-32B on Blackwell GB10 (aarch64) — 4 specific failure modes from a clean-build environment",
+    "id": "1rwvsl8",
+    "body": "[removed]",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwvsl8/vllm_deepseekr132b_on_blackwell_gb10_aarch64_4/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-18T02:01:46",
+    "author": "Warm-Bag844",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "chandana": "n",
+        "nino": "n",
+        "anoolia": "n"
+    }
+}

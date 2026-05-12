@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "Can someone explain how to get the full power of Claude into Cursor?  Or is that not possible?",
+    "id": "1rsbpcz",
+    "body": "I can't tell if using Claude models that are within Cursor is innately optimal, or if I need to also pay for Claude and do an integration.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1rsbpcz/can_someone_explain_how_to_get_the_full_power_of/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-12T19:52:45",
+    "author": "quasi_new",
+    "subreddit": "ClaudeAI",
+    "num_comments": 3,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "The AI Caste System: Why Speed is the New Gatekeeper to Power",
+    "id": "1n9vtgg",
+    "body": "We’re all dazzled by what AI models can say. But few talk about what they can withhold. And the most invisible asymmetry isn’t model weights or context length—it’s speed.\n\nRight now, most of us get a polite dribble of 20–40 tokens per second via public APIs. Internally at companies like OpenAI or Google? These systems can gush out hundreds entire pages in the blink of an eye. Not because the model is “smarter,” but because the compute leash is different. (For reference, check out how AWS Bedrock offers latency-optimized inference for enterprise users, slashing wait times dramatically.)\n\nThat leash is where the danger lies:\n- **Employees & close partners**: Full throttle, no token rationing, custom instances for lightning-fast inference.\n- **Enterprise customers & government contracts**: “Premium” pipelines with 10x faster speeds, longer contexts, and priority access—basically a different species of AI (e.g., Azure OpenAI's dedicated capacity or AWS's optimized modes).\n- **The public**: Throttled, filtered, time-boxed—the consumer edition of enlightenment, where you're lucky to get consistent performance.\n\nWe end up with a world where knowledge isn’t just power; it’s latency-weighted power. Imagine two researchers chasing the same breakthrough: One waits 30 minutes for a complex draft or simulation, the other gets it in 30 seconds. Multiply that advantage across months, industries, and even everyday decisions, and you get a cognitive aristocracy.\n\nThe irony: The dream of “AGI for everyone” may collapse into the most old-fashioned structure—a priesthood with access to the real oracle, and the masses stuck at the tourist kiosk. But could open-source models (like Llama running locally on high-end hardware) level the playing field, or will they just create new divides based on who can afford the GPUs?\n\nSo, where will the boundary be drawn? Who gets the “PhD-level model” that nails complex tasks like mapping obscure geography, and who sticks with the high-school edition where Europe is just France, Italy, and a vague “castle blob”? Have you experienced this speed gap in your work or projects? What do you think—will regulations or tech breakthroughs close the divide, or deepen it?\n\n**TL;DR**: AI speed differences are creating a hidden caste system: Insiders get god-mode, the rest get throttled. This could amplify inequalities — thoughts?",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1n9vtgg/the_ai_caste_system_why_speed_is_the_new/",
+    "url_overridden_by_dest": null,
+    "created": "2025-09-06T03:05:16",
+    "author": "The_Sad_Professor",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 16,
+    "ups": 19,
+    "upvote_ratio": 0.7900000214576721,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

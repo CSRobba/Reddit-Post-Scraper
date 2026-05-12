@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water use",
+    "title": "Math check: debunking “AI wastes water” with AI vs human water use per artwork (two scopes, citations)",
+    "id": "1qlol9a",
+    "body": "## TL;DR (ratios + caveats)\n\n### Scope A (operational only)\n**0.53 : 1** (AI : Human) for a typical ~4h comparable artwork.\n\n- **Swings with time + grid**\n- ~**1h** sketch (often low detail, likely no colour): AI can be higher\n- ~**10h** high detail: AI is typically much lower\n\n### Scope B (adds human marginal food water)\n**1 : 3,500** (AI : Human) for the same ~4h comparable artwork.\n\n- **3,500 is NOT drinking water**\n- It is **water used to produce the food** for extra calories burned\n- Varies massively with **diet** and **time**\n\nIf you want the full breakdown, I posted the longer version and citations in the comments.\n",
+    "url": "https://v.redd.it/3w07g1jj6bfg1",
+    "url_overridden_by_dest": "https://v.redd.it/3w07g1jj6bfg1",
+    "created": "2026-01-24T06:37:31",
+    "author": "PrinceLucipurr",
+    "subreddit": "DefendingAIArt",
+    "num_comments": 7,
+    "ups": 11,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

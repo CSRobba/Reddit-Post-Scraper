@@ -18,7 +18,9 @@ import util
 #### GLOBAL VARIABLES #### 
 CODE_NAME = "rate_raw_post_relevance"
 WORK_DIR = "../"
-RAW_FOLDER = os.path.join(WORK_DIR, "raw/")
+RAW_FOLDER = os.path.join(WORK_DIR, "data/raw/")
+POSTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/posts")
+COMMENTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/comments")
 
 app = Flask(__name__)
 app.secret_key = "rater-secret-key-2024"
@@ -36,9 +38,9 @@ def _make_list(x):
 def automatic_rating():
     global _name
     posts = []
-    if os.path.exists(RAW_FOLDER):
-        for fname in os.listdir(RAW_FOLDER):
-            data = util.read_json(os.path.join(RAW_FOLDER, fname))
+    if os.path.exists(POSTS_FOLDER):
+        for fname in os.listdir(POSTS_FOLDER):
+            data = util.read_json(os.path.join(POSTS_FOLDER, fname))
             data["filename"] = fname
             data["body"] = data.get("body", "").strip().lower()
             
@@ -64,7 +66,7 @@ def automatic_rating():
     num_ratings_added = 0
     for idx, row in rated_posts.iterrows():
         for fname in row["filename"]:
-            fpath = os.path.join(RAW_FOLDER, fname)
+            fpath = os.path.join(POSTS_FOLDER, fname)
             data = util.read_json(fpath)
             if "relevance_rate" not in data:
                 data["relevance_rate"] = {}
@@ -80,9 +82,9 @@ def load_global_progress():
     global _progress
     global _name
     total = completed = relevant = 0
-    if os.path.exists(RAW_FOLDER):
-        for fname in os.listdir(RAW_FOLDER):
-            data = util.read_json(os.path.join(RAW_FOLDER, fname))
+    if os.path.exists(POSTS_FOLDER):
+        for fname in os.listdir(POSTS_FOLDER):
+            data = util.read_json(os.path.join(POSTS_FOLDER, fname))
             total += 1
             if len(data.get("relevance_rate", {})) >= 2 or _name in data.get("relevance_rate", {}):
                 completed += 1
@@ -95,8 +97,8 @@ def build_eligible(name):
     """Scan ``raw/'' folder once and return list of filenames eligible for NAME."""
     global _eligible
     _eligible = []
-    for fname in os.listdir(RAW_FOLDER):
-        data = util.read_json(os.path.join(RAW_FOLDER, fname))
+    for fname in os.listdir(POSTS_FOLDER):
+        data = util.read_json(os.path.join(POSTS_FOLDER, fname))
         ratings = data.get("relevance_rate", {})
         
         if name not in ratings and len(ratings) < 2:
@@ -205,7 +207,7 @@ def rate():
     print(chosen)
     print(_current_file)
 
-    fpath = os.path.join(RAW_FOLDER, chosen)
+    fpath = os.path.join(POSTS_FOLDER, chosen)
     post = util.read_json(fpath)
 
     ratings = post.get("relevance_rate", {})
@@ -261,9 +263,9 @@ def submit():
 
     reasoning = request.form.get("reasoning", "").strip()
 
-    print(RAW_FOLDER)
+    print(POSTS_FOLDER)
     print(_current_file)
-    fpath = os.path.join(RAW_FOLDER, _current_file)
+    fpath = os.path.join(POSTS_FOLDER, _current_file)
     data = util.read_json(fpath)
 
     if "relevance_rate" not in data:

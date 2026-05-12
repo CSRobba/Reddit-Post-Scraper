@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "[D] The Intelligence-Energy Bound: Thermodynamic framework for AI scaling limits (feedback requested)",
+    "id": "1pv8b3p",
+    "body": "I am in the process of developing a theoretical framework connecting AI scaling limits to thermodynamics, grounded in reanalysis of Kaplan et al.'s [LLM scaling laws](https://arxiv.org/pdf/2001.08361).\n\nCore finding: my interpretation of Kaplan's L ∝ C\\^{-0.05} is that it it implies energy scales as at least the 18th power of the pattern complexity a model can handle. This explains why industry shifted from pure scaling to hybrid approaches (e.g., OpenAI's o1) around 2023-24.\n\nThe conceptual framework in brief:\n\nIntelligence can be described along two dimensions: (1) how far ahead you can plan, and (2) how complex the patterns you can recognize. Energy requirements scale multiplicatively with both, and current transformer architectures pay nearly all their energy cost for pattern complexity while  getting minimal planning depth.\n\n\n\nMain result: Energy >= k\\_B·T \\* (pattern\\_complexity) \\* f(planning\\_horizon)\n\n\n\nThis predicts the efficiency cliff in Kaplan's data and suggests architectural changes (world models, sparse networks) could gain orders of magnitude in efficiency by shifting how they allocate capacity between these two dimensions.\n\n\n\nThe PDF is here: [https://limewire.com/d/JRssQ#wy1uELTqub](https://limewire.com/d/JRssQ#wy1uELTqub)\n\n\n\nSpecific feedback wanted:\n\n1. Is my Kaplan reanalysis mathematically valid: L ∝ C\\^(-0.050) -> 2x better performance requires an 2\\^(1/0.05) increase in compute?\n\n2. Does the multiplicative scaling of intelligence (pattern\\_complexity \\* planning\\_horizon) make sense?\n\n3. What experiments would most directly test this relationship?\n\n4. What related work should I consider?\n\n\n\nNote: this framework is pre-experimental and looking for conceptual critiques before systematic validation.\n\n",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1pv8b3p/d_the_intelligenceenergy_bound_thermodynamic/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-25T02:48:30",
+    "author": "Artistic_Candle7455",
+    "subreddit": "MachineLearning",
+    "num_comments": 14,
+    "ups": 0,
+    "upvote_ratio": 0.23999999463558197,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

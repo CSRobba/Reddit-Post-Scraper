@@ -1,0 +1,21 @@
+{
+    "query_term": "ChatGPT energy",
+    "title": "Built GreenTrust - an AI tool that suggests energy-efficient alternatives to ChatGPT.",
+    "id": "1r6bab6",
+    "body": "Hey!\n\nI've created **GreenTrust**, an AI-powered tool that suggests more efficient alternatives to AI. It's made to reduce generative AI overuse by making users aware of what resources they're actually wasting. This is a student project created for the [Eduki competition](https://eduki.ch/en/competition/) organised by the UN. I do not derive any financial gain from this project.\n\n\n\n**How it works:**\n\nYou ask something. GreenTrust analyzes it and determines if AI is really needed. If not, it provides alternatives that consume way less energy while delivering the same result quality.\n\n**Real examples:**\n\n* Need a translation? Use Google Translate instead of ChatGPT (95% less energy)\n* Need a calculation? Use a calculator app (300x less power)\n* Need a definition? Wikipedia instead of waiting for ChatGPT\n* An explanation? YouTube videos are way better to learn and remember\n\nIt gives the same answers, with just a fraction of the energy.\n\n**Why this matters:**\n\n2.5 billion ChatGPT queries happen every day. Most shouldn't. We just never think about it.\n\nYou can check it out [here](https://greentrust.ch/).\n\n",
+    "url": "https://www.reddit.com/r/climatechange/comments/1r6bab6/built_greentrust_an_ai_tool_that_suggests/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-16T09:37:56",
+    "author": "Sea-Salad1144",
+    "subreddit": "climatechange",
+    "num_comments": 8,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

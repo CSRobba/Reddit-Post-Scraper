@@ -1,0 +1,21 @@
+{
+    "query_term": "AI energy",
+    "title": "Could energy infrastructure become the real scaling wall for AI?",
+    "id": "1rnmbj2",
+    "body": "Most discussions about AI scaling focus on chips and compute capacity.\n\nBut the more I look at it, the more it seems like the real bottleneck might be somewhere else.\n\nCompute hardware can scale quickly. Energy infrastructure cannot.\n\nPower plants, transmission grids, and permitting processes often move on timelines measured in decades, while data centers and AI clusters can scale in just a few years.\n\nThat creates an interesting structural mismatch between long-lived energy systems and rapidly expanding compute industries.\n\nAt some point it raises a simple question:\n\nCould the real scaling wall for AI be energy infrastructure rather than silicon?\n\nI’ve been thinking about this question for a while and wrote a longer paper about it here:\n\n[https://doi.org/10.5281/zenodo.18814176](https://doi.org/10.5281/zenodo.18814176)",
+    "url": "https://www.reddit.com/r/energy/comments/1rnmbj2/could_energy_infrastructure_become_the_real/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-07T13:44:20",
+    "author": "Logical_Thing_1889",
+    "subreddit": "energy",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

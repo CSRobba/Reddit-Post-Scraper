@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Power Efficient Local AI using USB 4 egpus?",
+    "id": "1mohdbr",
+    "body": "I have been thinking about moving some of my inference GPUs from direct PCIE to USB4. My current setup consists of one 5090, two 3090s and one M40 24GB, with my usage the peak power draw isnt a problem, I am more worried about the idle power consumption each GPU idles around 15 to 30W which can add up to 120W constant power consumption for just the GPUs, so I was thinking about moving the 3090s to USB 4 because its hot pluggable and would allow me to disconnect the GPU entirely from power when it isnt needed using scripts. I probably will get rid of the M40.\n\nFor the connectivity I was thinking about getting a \"ASUS ThunderboltEX 4 expansion card\" which has two thunderbolt 4x ports and is compatible with my ASUS PROART B650-CREATOR Motherboard with 7950x3d.\n\nHas anyone here tried this before, what was your experience?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mohdbr/power_efficient_local_ai_using_usb_4_egpus/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-12T11:51:00",
+    "author": "MaruluVR",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 8,
+    "ups": 4,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

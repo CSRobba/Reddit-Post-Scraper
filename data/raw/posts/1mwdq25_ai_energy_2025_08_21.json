@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "In a first, Google has released data on how much energy an AI prompt uses",
+    "id": "1mwdq25",
+    "body": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates for the water consumption and carbon emissions associated with a text prompt to Gemini.\n\nIt’s the most transparent estimate yet from a Big Tech company with a popular AI product, and the report includes detailed information about how the company calculated its final estimate. As AI has become more widely adopted, there’s been [a growing effort to understand its energy use](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/). But public efforts attempting to directly measure the energy used by AI have been hampered by a lack of full access to the operations of a major tech company. ",
+    "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/?utm_medium=tr_social&utm_source=reddit&utm_campaign=site_visitor.unpaid.engagement",
+    "url_overridden_by_dest": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/?utm_medium=tr_social&utm_source=reddit&utm_campaign=site_visitor.unpaid.engagement",
+    "created": "2025-08-21T08:12:35",
+    "author": "techreview",
+    "subreddit": "energy",
+    "num_comments": 2,
+    "ups": 17,
+    "upvote_ratio": 0.8899999856948853,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

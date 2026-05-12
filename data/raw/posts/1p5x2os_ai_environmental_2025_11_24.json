@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environmental",
+    "title": "\"Poisoning\" AI art models only makes your environmental concerns worse",
+    "id": "1p5x2os",
+    "body": "AI gets trained in the background and published when it's done. \"Feeding art\" into the AI to do an I2I or animate doesnt enter the training data that instant. It simply uses the original as a reference. It doesn't harm the model at all.\n\nYour attempts to \"poison\" training data. Are also in vain - It doesnt work, and even if it did, there's two points you need to realize:\n\n1. A simple slight blur > sharpen is stupid easy to automate, and instantly removes any poisoning.\n\nAnd 2. Models will not get published if they are objectively \"worse\" than the one before. It will simply get retrained. Again. And again.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1p5x2os/poisoning_ai_art_models_only_makes_your/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-24T15:41:08",
+    "author": "Whilpin",
+    "subreddit": "aiwars",
+    "num_comments": 206,
+    "ups": 27,
+    "upvote_ratio": 0.5699999928474426,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n"
+    }
+}

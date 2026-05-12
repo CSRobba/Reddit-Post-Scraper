@@ -1,0 +1,21 @@
+{
+    "query_term": "ChatGPT carbon",
+    "title": "New tool calculates & offsets your ChatGPT carbon footprint",
+    "id": "1mk9msd",
+    "body": "Every time you use ChatGPT, it runs in a data center — and those data centers use real-world electricity, often from fossil fuels.\n\nThe impact per prompt isn’t huge, but across millions of users, it adds up fast. And as models get bigger and more powerful, so does the energy demand.\n\nSo I built [**OffsetMy.ai**](https://offsetmy.ai) — a simple tool that:\n\n* Estimates the carbon footprint of your ChatGPT usage\n* Lets you offset it with verified carbon credits\n* Starts at $1.25/month with a downloadable certificate\n* Helps fund **local climate projects near actual data centers**\n\n💡 The bigger mission behind this is to influence data centers and AI companies to buy their carbon credits from the communities they impact — not just generic offsets. Local accountability matters.\n\nIt’s not the whole solution — but it’s a meaningful first step.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1mk9msd/new_tool_calculates_offsets_your_chatgpt_carbon/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-07T15:32:20",
+    "author": "mat305512",
+    "subreddit": "OpenAI",
+    "num_comments": 2,
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

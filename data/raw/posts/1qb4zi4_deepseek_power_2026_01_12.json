@@ -1,0 +1,19 @@
+{
+    "query_term": "DeepSeek power",
+    "title": "DeepSeek introduces Engram: Memory lookup module for LLMs that will power next-gen models (like V4)",
+    "id": "1qb4zi4",
+    "body": "DeepSeek released a new research module called **Engram,** introduced in the paper\n“Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models”.\n\nEngram **adds** a deterministic O(1) lookup style memory using modernized hashed N gram embeddings, offloading **early layer** pattern reconstruction from neural computation.\n\nUnder iso parameter and iso FLOPs settings, Engram models **show consistent** gains across knowledge, reasoning, code and math tasks, suggesting memory and compute can be decoupled as separate scaling axes.\n\n**Paper and code are open source**\n\n**Source: DeepSeek**\n\n[GitHub/Full Paper](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)\n",
+    "url": "https://www.reddit.com/gallery/1qb4zi4",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1qb4zi4",
+    "created": "2026-01-12T11:43:07",
+    "author": "BuildwithVignesh",
+    "subreddit": "singularity",
+    "num_comments": 113,
+    "ups": 701,
+    "upvote_ratio": 0.9900000095367432,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

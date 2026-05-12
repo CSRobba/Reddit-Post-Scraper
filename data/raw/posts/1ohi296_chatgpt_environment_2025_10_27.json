@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "ChatGPT working great in closed environment or uploaded material, but struggles with any connection to the outside world. Why?",
+    "id": "1ohi296",
+    "body": "I’m not sure if I’m doing something wrong or just expecting too much. \n\n  \nI use ChatGPT plus extensively for past 3 years. Last 12 months my use skyrocketed from casual trivia to focal point of daily workflow. I use projects extensively, with lots of uploaded files and custom instructions that are continuously being rewritten and polished. I often hit file upload limits in projects, which I often try to bypass by compressing many files (mostly legal text documents, plaintext, rtf, docx or OCR-ed PDFs) into single .zip archive for ChatGPT to analyze. \n\nAs a result of my time investment, I think ChatGPT knows me and my needs quite well. We mostly skip the glazing bullshit, it helps me navigate complex tasks, alert me to some dependencies between documents and can, quite well, formulate insights and implications, alert me to things I might have missed and so on. That alone is worth the money and effort.\n\n  \nHowever,  it seems to me that it excels ONLY in this “closed environment”, where we work on known files/materials I have uploaded or information I paste into our conversation.  \nAny time there is some sort of link to “outside world”, it struggles. It might be a piece of info it needs to check online  or even an innocent URL. Anything. It even can break the URL that is the element of text at hand, and is not the topic per se. When it reworks that text in question and returns the answer, the link will be broken.  \n  \nI have grown to have zero trust in ChatGPT when it comes to \"outside world\" research and gathering info. I use different tools for that, and when I get my research roughly together, I dump it into ChatGPT to refine the fundings, check for additional suggestions and so on. \n\nI am happy with ChatGPT working great in my “closed environment”. It produces satisfactory results for me, in my use scenario.  But I am wondering: is this some sort of general characteristics of ChatGPT, as all of these tools have their different strengths and weaknesses or am I doing something wrong here? Or perhaps I trained it in some sort of skewed way so it behaves like this?",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ohi296/chatgpt_working_great_in_closed_environment_or/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-27T11:50:02",
+    "author": "Douchebak",
+    "subreddit": "ChatGPTPro",
+    "num_comments": 2,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini water",
+    "title": "I built a water tracking app for iOS and Apple Watch in 6 languages using Gemini as my pair programmer",
+    "id": "1rzkwee",
+    "body": "Hey r/GeminiAI ,\n\nI wanted to share a fun little utility app I recently put together called HydroFoo. It is a straightforward water tracker, but I really focused on making it as frictionless as possible to use throughout your day.\n\nTo make logging quick, I added a bunch of different Home Screen widgets and Siri integration, so you can just tell your phone to log your water if your hands are full. Everything syncs directly with Apple Health too.\n\nIt also comes with a completely free Apple Watch app so you can log straight from your wrist without pulling out your phone. I wanted this to be accessible to as many people as possible, so the whole app is fully localized in English, Spanish, French, Hindi, Simplified Chinese, and Arabic.\n\nIt is just a simple, clean utility designed to do exactly what it says and help you stay hydrated. If you want to give it a try, I would really appreciate the support and any feedback you have!\n\nGemini was extremely useful in the whole process as well, mainly for getting the syntax correct in wiring things together. \n\nThis was fun to make & I hope some people enjoy the branding! \n\nHere is the link to check it out:\n\nhttps://apps.apple.com/us/app/hydrofoo-water-tracker/id6760419525",
+    "url": "https://www.reddit.com/gallery/1rzkwee",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1rzkwee",
+    "created": "2026-03-21T00:02:10",
+    "author": "pythononrailz",
+    "subreddit": "GeminiAI",
+    "num_comments": 1,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

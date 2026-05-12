@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT carbon",
+    "title": "Gauging interest: Would you use a tool that shows the carbon + water footprint of each ChatGPT query?",
+    "id": "1kh08n3",
+    "body": "Hey everyone,\n\nAs LLMs become part of our daily tools, I’ve been thinking a lot about the **hidden environmental cost** of using them, notably and especially at inference time, which is often overlooked compared to training.\n\nSome stats that caught my attention:\n\n* Training GPT-3 is estimated to have used \\~1,287 MWh and emitted 552 metric tons of CO₂ — comparable to 500 NYC–SF flights. → [Source](https://arxiv.org/abs/2311.16863)\n* Inference isn't negligible: ChatGPT queries are estimated to use \\~5× the energy of a Google search, and 20–50 prompts can require up to 500 mL of water for cooling. → [Source](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), [Source](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/)\n\n**This led me to start prototyping a lightweight browser extension that would:**\n\n* Show a “footprint score” after each ChatGPT query (gCO₂ + mL water)\n* Let users track their cumulative impact\n* Offer small, optional nudges to reduce usage where possible\n\nHere’s the landing page if you want to check it out or join the early list:  \n🌐 [https://gaiafootprint.carrd.co](https://gaiafootprint.carrd.co)\n\n# I’m mainly here to gauge interest:\n\n* Do you think something like this would be valuable or used regularly?\n* Have you seen other tools trying to surface LLM inference costs at the user level?\n* What would make this kind of tool trustworthy or actionable for you?\n\nI’m still early in development, and if anyone here is interested in discussing modelling assumptions (inference-level energy, WUE/PUE estimates, etc.), I’d love to chat more. Either reply here or shoot me a DM.\n\nThanks for reading!",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1kh08n3/gauging_interest_would_you_use_a_tool_that_shows/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-07T11:30:04",
+    "author": "slimhassoony",
+    "subreddit": "LLMDevs",
+    "num_comments": 5,
+    "ups": 0,
+    "upvote_ratio": 0.20000000298023224,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n"
+    }
+}

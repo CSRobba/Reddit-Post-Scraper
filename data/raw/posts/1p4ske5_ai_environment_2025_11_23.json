@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "[P] I Built an AI Training Environment That Runs ANY Retro Game",
+    "id": "1p4ske5",
+    "body": "Our training environment is almost complete!!! Today I'm happy to say that we've already run PCSX2, Dolphin, Citra, DeSmuME, and other emulators. And soon we'll be running Xemu and others! Soon it will be possible to train Splinter Cell and Counter-Strike on Xbox.\n\nTo follow our progress, visit: [https://github.com/paulo101977/sdlarch-rl](https://github.com/paulo101977/sdlarch-rl)",
+    "url": "https://youtube.com/watch?v=vp_eePHswm8&si=ompN4Hshhacrzb5J",
+    "url_overridden_by_dest": "https://youtube.com/watch?v=vp_eePHswm8&si=ompN4Hshhacrzb5J",
+    "created": "2025-11-23T12:31:00",
+    "author": "AgeOfEmpires4AOE4",
+    "subreddit": "MachineLearning",
+    "num_comments": 2,
+    "ups": 0,
+    "upvote_ratio": 0.4300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

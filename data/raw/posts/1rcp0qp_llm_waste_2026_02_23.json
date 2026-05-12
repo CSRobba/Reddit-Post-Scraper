@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM waste",
+    "title": "Broke down our $3.2k LLM bill - 68% was preventable waste",
+    "id": "1rcp0qp",
+    "body": "We run ML systems in production. LLM API costs hit $3,200 last month. Actually analyzed where money went.\n\n**68% - Repeat queries hitting API every time** Same questions phrased differently. \"How do I reset password\" vs \"password reset help\" vs \"can't login need reset\". All full API calls. Same answer.\n\nSemantic caching cut this by 65%. Cache similar queries based on embeddings, not exact strings.\n\n**22% - Dev/staging using production keys** QA running test suites against live APIs. One staging loop hit the API 40k times before we caught it. Burned $280.\n\nSeparate API keys per environment with hard budget caps fixed this. Dev capped at $50/day, requests stop when limit hits.\n\n**10% - Oversized context windows** Dumping 2500 tokens of docs into every request when 200 relevant tokens would work. Paying for irrelevant context.\n\nBetter RAG chunking strategy reduced this waste.\n\n**What actually helped:**\n\n* Caching layer for similar queries\n* Budget controls per environment\n* Proper context management in RAG\n\nCost optimization isn't optional at scale. It's infrastructure hygiene.\n\nWhat's your biggest LLM cost leak? Context bloat? Retry loops? Poor caching?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1rcp0qp/broke_down_our_32k_llm_bill_68_was_preventable/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-23T10:11:37",
+    "author": "llamacoded",
+    "subreddit": "ClaudeAI",
+    "num_comments": 42,
+    "ups": 26,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

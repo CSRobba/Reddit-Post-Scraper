@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "The Intelligence Paradox: Why centralized AI is hitting a \"Power Wall\" and the case for decentralized inference hubs",
+    "id": "1qb46h5",
+    "body": "As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't \"bigger models,\" but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on \"Inference-at-the-edge\" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?",
+    "url": "https://www.reddit.com/r/artificial/comments/1qb46h5/the_intelligence_paradox_why_centralized_ai_is/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-12T11:14:13",
+    "author": "Foreign-Job-8717",
+    "subreddit": "artificial",
+    "num_comments": 25,
+    "ups": 7,
+    "upvote_ratio": 0.7300000190734863,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

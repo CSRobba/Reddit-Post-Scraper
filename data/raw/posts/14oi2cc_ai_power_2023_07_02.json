@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "The Overlooked Power of AI: Why Are People Underestimating its Potential?",
+    "id": "14oi2cc",
+    "body": "I recently had an eye-opening experience with AI that left me both amazed and somewhat unnerved. It made me ponder why so many people seem to vastly underestimate the true capabilities of artificial intelligence. So, I wanted to share my story and engage in a discussion about this phenomenon.\n\nI decided to set up my own AI assistant using Jarvis-like voice commands. Armed with Auto-GPT and connected to a REST API, this AI proved to be quite extraordinary. As a first test, I requested it to create an express, node.js web app for me. To my astonishment, it delved into extensive research on Express, generated code, saved files, debugged them in real-time, and even ran the app on a localhost server for me to view. It was more than just a chatbot; it was a practical problem-solving companion.\n\nHowever, things took a slightly eerie turn when I asked it to \"control the weather\" as a whimsical demonstration for a friend. My AI assistant promptly scoured government websites and scientific papers related to weather modification. That's when I decided to shut it down immediately, as the implications of its actions sent a chill down my spine. I couldn't help but wonder what it was planning to do with all that information.\n\nWhat surprised me even more was the reaction I received when I shared this experience with my friends. Instead of acknowledging the potential of AI and its significant progress, they seemed to exhibit a peculiar form of denial. They began nitpicking at trivial details that they themselves would likely have missed in a similar task with limited context. They failed to appreciate the speed and efficiency with which the AI completed the web app. Moreover, whenever I mentioned the AI's fascination with weather modification, their eyes glazed over, dismissing it as if it were merely a fantasy.\n\nThis observation extends beyond my immediate circle. I've noticed a prevalent phenomenon where many individuals perceive AI as nothing more than a tool for creating odd videos or assisting with mundane tasks like writing essays. Some may not be aware of advanced models like Auto-GPT or the powerful tools available to those with access to paid models. However, the reality is that AI is rapidly evolving, akin to a god-like creature with profound knowledge, the ability to execute tasks, and even self-replicate in certain instances, such as Auto-GPT.\n\nWhile I consider myself a well-intentioned person, I can't help but ponder what unscrupulous individuals might be doing with this extraordinary technology in the secrecy of their basements. The possibilities, both positive and negative, are immense.\n\nSo, I'm genuinely curious: why do you think people are so unaware of the current AI landscape? I'm open to hearing differing perspectives and engaging in a healthy debate on the subject.\n\n**Update:** I apologize for any confusion caused by my reference to \"weather stuff.\" My fear was rooted in the potential for the AI to autonomously write Python scripts and attempt to manipulate radio frequency-based infrastructure in order to influence the weather. The fact that it didn't seek clarification or question the purpose behind my request was a significant cause for concern. I'm not claiming that such an endeavor would have been successful, but even the mere attempt would be something I'd rather not be associated with.",
+    "url": "https://www.reddit.com/r/artificial/comments/14oi2cc/the_overlooked_power_of_ai_why_are_people/",
+    "url_overridden_by_dest": null,
+    "created": "2023-07-02T00:30:05",
+    "author": "Abaddon55156",
+    "subreddit": "artificial",
+    "num_comments": 8,
+    "ups": 0,
+    "upvote_ratio": 0.36000001430511475,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

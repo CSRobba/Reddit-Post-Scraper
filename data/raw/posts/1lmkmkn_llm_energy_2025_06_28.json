@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM energy",
+    "title": "Benchmarking LLM Inference Libraries for Token Speed & Energy Efficiency",
+    "id": "1lmkmkn",
+    "body": "We conducted a benchmark comparing four popular LLM inference libraries—TensorRT-LLM, vLLM, Ollama, and MLC—in terms of energy per token and tokens per second, using a standardized Docker setup and energy monitoring tools. The benchmark project was original done for a university report.\n\nExperiment Details\n\t•\tModel: Quantized Qwen2.5-Coder-14B-Instruct\n\t•\tDifferent quantized formats were used per library for compatibility: Q4_K_L for Ollama, 4-bit AWQ for vLLM/TensorRT, q4f16_1 for MLC\n\t•\tDataset: 80 prompts sampled from the SWE-bench benchmark — real-world GitHub issues\n\t•\tEach prompt includes issue text + repo context; average length: ~600–700 tokens\n\t•\tInference config:\n\t•\tMax output: 4096 tokens\n\t•\tContext window: 32k tokens\n\t•\tTemperature: 0.0 (fully deterministic), Top-K: 20, Top-P: 0.8\n\t•\tHardware: NVIDIA RTX 4090 GPU, AMD Ryzen 9 7900X, 64GB RAM\n\t•\tEnergy Measurement: EnergiBridge, logging GPU power and throughput\n\t•\tSetup: Each inference engine ran 10x inside an identical Docker container, with 60s cooldowns between runs\n\nNotes\n\t•\tDifferent quantization per library due to format incompatibilities\n\t•\tOnly tested on NVIDIA GPUs (TensorRT doesn’t support AMD)\n\t•\tInference was single-prompt (batch size = 1) due to VRAM constraints as we only had access to 1 GPU\n\nLet me know if there any questions, I originally also wanted to test LMDeploy and SGLang but because of time constraints it was not possible.",
+    "url": "https://www.reddit.com/gallery/1lmkmkn",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1lmkmkn",
+    "created": "2025-06-28T04:31:47",
+    "author": "alexbaas3",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 13,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

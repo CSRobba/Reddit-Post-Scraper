@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "TIL chatgpt can make API calls using its python environment natively.",
+    "id": "1gbhfi2",
+    "body": "https://preview.redd.it/ar2knjofmswd1.png?width=1147&format=png&auto=webp&s=377780e313cf81214278cc194c3a3becb11d565c\n\nIt executed this code natively:\n\n  \nimport requests\n\nimport pandas as pd\n\nfrom xml.etree import ElementTree as ET\n\n\n\n\\# Define the PubMed query and API details\n\nPUBMED\\_QUERY = \"(\\\\\"Meningioma\\\\\"\\[Mesh\\]) AND (\\\\\"Radiosurgery\\\\\"\\[Mesh\\]) AND (\\\\\"Neoplasm Grading\\\\\"\\[Mesh\\] OR \\\\\"Grade 3\\\\\")\"\n\nPUBMED\\_MAX\\_RESULTS = 50\n\n\n\ndef fetch\\_pubmed\\_metadata():\n\nbase\\_url = \"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/\"\n\nsearch\\_url = base\\_url + \"esearch.fcgi\"\n\nfetch\\_url = base\\_url + \"efetch.fcgi\"\n\n\n\ntry:\n\n\\# Search for articles\n\nsearch\\_params = {\n\n\"db\": \"pubmed\",\n\n\"term\": PUBMED\\_QUERY,\n\n\"retmax\": PUBMED\\_MAX\\_RESULTS,\n\n\"retmode\": \"json\",\n\n\"sort\": \"relevance\"\n\n}\n\nsearch\\_response = requests.get(search\\_url, params=search\\_params)\n\nsearch\\_response.raise\\_for\\_status()\n\nid\\_list = search\\_response.json()\\['esearchresult'\\]\\['idlist'\\]\n\nprint(f\"Number of articles fetched from PubMed: {len(id\\_list)}\")\n\n\n\n\\# Fetch article details\n\nfetch\\_params = {\n\n\"db\": \"pubmed\",\n\n\"id\": ','.join(id\\_list),\n\n\"retmode\": \"xml\"\n\n}\n\nfetch\\_response = requests.get(fetch\\_url, params=fetch\\_params)\n\nfetch\\_response.raise\\_for\\_status()\n\n\n\n\\# Parse XML response and store results\n\nroot = ET.fromstring(fetch\\_response.content)\n\narticles = \\[\\]\n\nfor article in root.findall('.//PubmedArticle'):\n\ntry:\n\ntitle = article.find('.//ArticleTitle').text\n\nabstract = article.find('.//AbstractText').text if article.find('.//AbstractText') is not None else 'No abstract'\n\npub\\_type = article.find('.//PublicationType').text if article.find('.//PublicationType') is not None else 'Unknown'\n\n\n\narticles.append({\n\n'Title': title,\n\n'Abstract': abstract,\n\n'Publication Type': pub\\_type\n\n})\n\nexcept Exception as e:\n\nprint(f\"Error parsing an article: {e}\")\n\n\n\n\\# Save the results to a CSV\n\narticles\\_df = pd.DataFrame(articles)\n\narticles\\_df.to\\_csv('/mnt/data/pubmed\\_meningioma\\_radiosurgery.csv', index=False)\n\nprint(\"Articles saved to pubmed\\_meningioma\\_radiosurgery.csv\")\n\n\n\nexcept Exception as e:\n\nprint(f\"Error fetching PubMed metadata: {e}\")\n\n\n\n\\# Run the test and fetch data\n\nfetch\\_pubmed\\_metadata()\n\n\n\nAnd successfully generated a 43KB CSV with metadata from the 50 articles. It got me by surprise. I was working a large project on the science field and asked it to debug a particular part of the code using a random test string. I expected it to provide the code for me to run locally but instead it executed it by itself lol. I didnt knew it could do this and, now that i do, it'll save me so much time. ",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1gbhfi2/til_chatgpt_can_make_api_calls_using_its_python/",
+    "url_overridden_by_dest": null,
+    "created": "2024-10-24T20:14:34",
+    "author": "the_koom_machine",
+    "subreddit": "OpenAI",
+    "num_comments": 26,
+    "ups": 31,
+    "upvote_ratio": 0.8100000023841858,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

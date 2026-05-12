@@ -1,0 +1,19 @@
+{
+    "query_term": "AI waste",
+    "title": "Trying to make $400/month selling custom AI chats to small businesses. Viable idea or waste of time? SOS",
+    "id": "1pcnoo6",
+    "body": "I work 12x36 shifts in a psychiatric clinic and I’m trying to validate a side income selling **custom chat assistants** for small businesses, starting with beauty / facial aesthetics studios.\n\nThe idea is **not** full WhatsApp API integration (yet). It’s simpler:\n\n* I use something like ChatGPT to build a **chat tailored to each business**\n* I configure it with their services, approximate price ranges, tone of voice, FAQs, etc.\n* In practice, the owner does this in her daily routine:\n   * copies the question she receives on WhatsApp or Instagram\n   * pastes it into the custom chat\n   * gets a ready, professional answer that fits her business\n   * and pastes it back to the client.\n\nSo it’s basically a **“brain for customer replies”** instead of a fully automated bot plugged into WhatsApp.  \nThe goal is:\n\n* faster replies\n* less time thinking what to write\n* more booked appointments (the chat also asks for name, phone, preferred time, etc.)\n* consistent communication instead of random answers every time\n\n**How I’m trying to sell it:**\n\n* Niche: small beauty / facial aesthetics studios and clinics (500–5,000 followers, owner still doing the customer service)\n* Channel: cold DMs on Instagram\n* I send a message, show a short demo video of the chat working, and if they’re interested I do a quick intake (services, price ranges, FAQs, tone, etc.) and set up the chat for them.\n\n**Pricing idea (still testing):**\n\n* One-time low fee for creating the custom chat\n* Optional small monthly fee if they want ongoing tweaks and improvements\n\n**Goal:**\n\n* Validate if small businesses are actually willing to pay for this\n* Try to reach at least **$400/month** consistently if I keep prospecting every week\n* If it works, then think about increasing prices, improving the offer, and eventually moving into real WhatsApp/API integration later\n\nWhat I want is a cold, honest take:\n\n* Does this kind of semi-manual solution have real market space, or is it too weak without full WhatsApp automation?\n* Does it sound more like a cheap “AI freelancer hack” or can it be positioned as a serious time-saving / customer service product?\n* If you were in my position, what would you change first: niche, offer, price, or acquisition channel?",
+    "url": "https://www.reddit.com/r/ChatGPTPromptGenius/comments/1pcnoo6/trying_to_make_400month_selling_custom_ai_chats/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-02T15:10:09",
+    "author": "Rasputin7789",
+    "subreddit": "ChatGPTPromptGenius",
+    "num_comments": 5,
+    "ups": 5,
+    "upvote_ratio": 0.7300000190734863,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

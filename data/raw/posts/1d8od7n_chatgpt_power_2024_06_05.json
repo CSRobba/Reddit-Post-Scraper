@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "Constant UX Changes in ChatGPT - Is OpenAI Trying to Drive Away Power Users?",
+    "id": "1d8od7n",
+    "body": "I frequently use the web interface and the Android app because features like Browse with Bing, code analysis, and image generation are significant USPs compared to API usage for these scenarios.\n\nWhat has been extremely annoying lately: The user interface behavior changes every few days. Example - \n\n**History:** I often use it for quick questions in between. I don't want all these questions to be in the history. Previously, it was possible to disable the history entirely in the web interface or app. Now, you have to do this for each chat individually: simply annoying.\n\n**Follow-up question:** Recently, in the Android app, it was not possible to ask follow-up questions in temporary chats, resulting in an error stating that the chat could not be found. It worked on the web interface. Now it’s the opposite. In the web interface, you can no longer ask follow-up questions, but it works again in the Android app.\n\n**CustomGPTs**: Previously, you couldn't use CustomGPTs with disabled history. With temporary chats, it then worked - at least an advantage after the global setting was removed. Now you can't use CustomGPTs in a temporary chat either.\n\nAdditionally, there are all the changes that allow many paid options for free users now, while the service for paying users feels like it’s only getting worse due to these constant changes.\n\n**GPT-4o degraded after introduction:** As if that weren't enough, I’ve noticed particularly in the last 4-5 days that GPT-4o follows instructions significantly less. Even simple text corrections (grammar) with the instruction to only output the incorrect sentences sometimes result in a sentence being output character by character identically (i.e., no error was present). This worked problem-free shortly after the introduction of GPT-4o and still does with GPT-4.",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1d8od7n/constant_ux_changes_in_chatgpt_is_openai_trying/",
+    "url_overridden_by_dest": null,
+    "created": "2024-06-05T05:11:11",
+    "author": "Prestigiouspite",
+    "subreddit": "ChatGPTPro",
+    "num_comments": 8,
+    "ups": 0,
+    "upvote_ratio": 0.4099999964237213,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "How to bind Claude and ChatGPT to Microsoft Power Automate?",
+    "id": "1h0ti0h",
+    "body": "I'm trying to set up some Cloud Flows for myself but keep on failing. The LLMs aren't of any help either most likely because of not good enough prompts + they're not bound to my Power Automate so they don't understand the entire context\n\nIs there a way to bind them to Power Automate much like you would use Cline to have LLMs write the code for apps for you?",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1h0ti0h/how_to_bind_claude_and_chatgpt_to_microsoft_power/",
+    "url_overridden_by_dest": null,
+    "created": "2024-11-26T18:12:56",
+    "author": "Ok_Exchange_9646",
+    "subreddit": "ChatGPTCoding",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

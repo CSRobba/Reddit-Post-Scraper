@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environmental",
+    "title": "Question about environmental impact of AI and / or 3D Art",
+    "id": "1pgqles",
+    "body": "I have question for anti ai people who rally against ai because of its impact on environment. if you compare it with 3D art they are really similar:\n\n\\- Both require large amounts of (ideally gpu power)\n\n\\- Both can be selfhosted and run on consumer hardware\n\n\\- AI has datacenters (with gpus) and 3D art can be done on render farms (which is datacenter with gpus)\n\n\\- It could be argued that rendering is even more resource intensive than inference but lets not split hairs and say that they are same\n\nMy question is this. Knowing this what restrictions would you like to levy on AI and would you be willing to extend this on 3D art as well? If not why? ",
+    "url": "https://www.reddit.com/r/aiwars/comments/1pgqles/question_about_environmental_impact_of_ai_and_or/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-07T11:07:43",
+    "author": "Grouchy_Ad_4750",
+    "subreddit": "aiwars",
+    "num_comments": 6,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Re-erasable Windows test environment for SD (and other AI) tutorials?",
+    "id": "1afgdy3",
+    "body": "I've asked this in more apposite forums without getting any responses, so I thought I would try here, since I am here most (!).\n\nI would like to start writing and publishing (for free) some text/image-based tutorials, rather than video guides, for installing and using mainly Github-based software, with an emphasis on Stable Diffusion and related projects like AnimateDiff, Thin Spline Motion, etc.\n\nThe guides are intended for 'the majority', so centered on installing on Windows, not Linux.\n\nYou guys know how many frameworks each new cutting-edge ML repo installs. Even when installing in a Conda envelope, some installations need 'bare-metal' installs outside that envelope, and it is very hard for even a ring-fenced install to have no impact on the permanent system.\n\nFor one thing, if install #1 puts in a required framework that install #2 also needs, that requirement won't show up when I'm installing #2; but I need it to, in order to stop complaints about missing libraries and frameworks, etc.\n\nI really need to be able to spin up a 'virgin' install of Windows every time I test a framework. I could create a template Windows install in VMWare, but even if it can get GPU-passthrough, a VM can't address more than 8GB of VRAM, and some of these repos are very VRAM-hungry.\n\nI talked with my tech guy about creating a dedicated 'virgin' partition on my main (NVIDIA 3090) ML tower, so that I could either boot into my regular system or into the same kind of hidden reserve system that office IT techs put into worker's machines. He could do it, even though it is a tower and not a work laptop\n\nTrouble is, the machine is in another part of the house and accessed by me entirely over RDP. Since the machine is not in front of me, I can't control this choice of boot options ('regular' and 'test' Windows boots) remotely.\n\nI have so many pieces left over from upgrading my ML tower that I *suppose* I could build a new dedicated test machine; but it would only have a 2070 (8GB VRAM), and frankly I have spent too much on hardware lately.\n\nMy company *would* give me a Parsec machine with a decent GPU for this purpose; but I would have to regularly ask the admin there to blank the VM, which they wouldn't be happy about - plus, the downstream speed is really too slow for productivity.\n\nIf anyone has any alternative ideas, would be glad to hear them.",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1afgdy3/reerasable_windows_test_environment_for_sd_and/",
+    "url_overridden_by_dest": null,
+    "created": "2024-01-31T04:08:33",
+    "author": "Symbiot10000",
+    "subreddit": "StableDiffusion",
+    "num_comments": 7,
+    "ups": 4,
+    "upvote_ratio": 0.75,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "Llama power",
+    "title": "How much power (Watts) are local LLMs like Llama 3.2: 1B & 3B using on mobile devices?",
+    "id": "1fvmpi5",
+    "body": "Anyone used the new Llama 3.2: 1B & 3B on an iPhone/android? I'm trying to understand how local use of LLMs might impact battery requirements for mobile devices.\n\niPhone 15 pro max batteries are currently \\~17 Wh.\n\nWould appreciate any thoughts on how much room there is in the near future for reducing power consumption with little cost to model accuracy/usefulness.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1fvmpi5/how_much_power_watts_are_local_llms_like_llama_32/",
+    "url_overridden_by_dest": null,
+    "created": "2024-10-03T17:33:18",
+    "author": "deebo_5",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 4,
+    "ups": 6,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

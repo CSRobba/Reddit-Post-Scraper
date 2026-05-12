@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environmental",
+    "title": "The rise of \"Green AI\" in 2026: Can we actually decouple AI growth from environmental damage?",
+    "id": "1qdm7np",
+    "body": "We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to \"Energy-to-Solution\" metrics.\n\nI’ve spent some time researching how the industry is pivoting towards **Green AI**. There are some fascinating breakthroughs happening right now:\n\n* **Knowledge Distillation:** Shrinking massive models to 1/10th their size without losing capability.\n* **Liquid Cooling:** Data centers that recycle heat to warm nearby cities.\n* **Neuromorphic Chips:** A massive jump in \"Performance per Watt.\"\n\nI put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources.\n\nWould love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up?\n\n*\"I wrote a detailed analysis on this, let me know if anyone wants the link to read more.\"*",
+    "url": "https://www.reddit.com/r/artificial/comments/1qdm7np/the_rise_of_green_ai_in_2026_can_we_actually/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-15T07:16:16",
+    "author": "NGU-FREEFIRE",
+    "subreddit": "artificial",
+    "num_comments": 11,
+    "ups": 2,
+    "upvote_ratio": 0.550000011920929,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

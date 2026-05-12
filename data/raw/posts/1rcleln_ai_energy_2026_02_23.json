@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "Sam Altman is wrong: humans are much more energy efficient than AI data centers",
+    "id": "1rcleln",
+    "body": "The average daily energy consumption of a human is 2000 Calories (kcal), or about 2.326 kilowatt-hours (kWh), per day. Energy of 2.326 kWh consumed evenly over 24 hours is equal to 97 watts of power. Humans exhale carbon dioxide, which has a global warming potential of 1.\n\nThe average 1U rack-mounted server uses 800 watts of power. Over 24 hours, that's 19.2 kWh, or about 16,500 kcal, of energy. A common refrigerant used in air conditioners in data centers is difluoromethane, which has a global warming potential of 677.\n\nPut simply: a single computer in a data center uses as much energy as 8.25 humans, and its emissions contribute to global warming 677 times more than a human exhaling.",
+    "url": "https://www.reddit.com/r/BetterOffline/comments/1rcleln/sam_altman_is_wrong_humans_are_much_more_energy/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-23T08:03:44",
+    "author": "SkankHuntThreeFiddy",
+    "subreddit": "BetterOffline",
+    "num_comments": 66,
+    "ups": 388,
+    "upvote_ratio": 0.9700000286102295,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

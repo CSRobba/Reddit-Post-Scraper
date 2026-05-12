@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "When your API docs are enough to power Claude",
+    "id": "1qqcfif",
+    "body": "Just wired up Claude  using the Gopher MCP schema uploader.\n\nTook \\~5 minutes to go from a raw Swagger file to Claude actually running queries against my database.\n\nHonestly wild watching the model navigate the schema on its own.\n\nHas anyone else tried auto-generating MCP servers from API docs yet?\n\nLMK if you want the JSON file to try this yourself (its free and open source btw)",
+    "url": "https://v.redd.it/jgc08czg8bgg1",
+    "url_overridden_by_dest": "https://v.redd.it/jgc08czg8bgg1",
+    "created": "2026-01-29T07:58:02",
+    "author": "Ok_Message7136",
+    "subreddit": "ClaudeAI",
+    "num_comments": 1,
+    "ups": 0,
+    "upvote_ratio": 0.4000000059604645,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM environment",
+    "title": "Open-source tool that consolidates system debug data, Python virtual environment data, and JavaScript package/dependency information into a single JSON for local LLM-assisted troubleshooting.",
+    "id": "1iqs2ag",
+    "body": "",
+    "url": "https://github.com/bjoaquinc/system-info-now",
+    "url_overridden_by_dest": "https://github.com/bjoaquinc/system-info-now",
+    "created": "2025-02-16T05:20:47",
+    "author": "Muted_Estate890",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

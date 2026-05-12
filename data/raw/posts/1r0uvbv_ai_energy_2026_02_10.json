@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "The human brain has approximately 86 billion neurons totalling anywhere between 100 trillion to 1 quadrillion connections, yet it operates with only approximately 20 watts of energy. For reference, an NVIDIA H100 GPU consumes 700 watts and we need 1000s of them working together for simple AI tasks.",
+    "id": "1r0uvbv",
+    "body": "“What is 2+2?”, I asked this question to a group of VPs whom I was training. Although amused, the response came in a fraction of second when everyone responded 4. Then I asked, what is 4236+1987, there was a silence in the room and then probably after 30 seconds I got someone screaming the answer. So I asked a simple questions, why were you guys able to answer 2+2 so fast and took time for the other number? The first one was answered from memory and the second one needed the brain to invoke the calculator.\n\n\n\nOne of the key methods is sparse signalling, it does not invoke all parts of the brain for all stimuli; it invokes the expert and utilises that only. The world of AI is also trying to use the same method and we call it ‘mixture of experts’ with a ‘gating network’. Think of it like a super speciality hospital, where you go the main desk, tell your problem and they route you to the appropriate department.\n\n\n\nWhile our brain in highly evolved, the MoE in AI is not that evolved. For example, you may need to climb 2 flights of stairs to enter my house and your brain would not even register it, but when your eyes see a 1000 flights of stairs to a temple on a mountain, the brain registers it prepares for it and sometimes even tells you ‘Dont do it’. While we may reach there in some time, till the time AI becomes evolved enough, we need to make sure we use the right part of the brain of AI for our work.\n\n\n\nSo when someone says, whenever asking a question to AI, context setting is important, they are not just telling you something that is fancy and frill, it is quite important. If you have a question of ‘Why are the prices of Gold and Silver increasing so fast?, you would want the answer to come from a financial analyst while the answer to the question of ‘Which DB is more efficient for storing both data and images’, the question needs to be answered by a software architect.\n\n\n\nThis is something that we use in our daily lives as well, when we say ‘Just imagine….’ to someone when we want them to be in a specific mental state. Start doing that with AI as well and you would see how the results improve.\n\n\n\nSo for this post, you should act like ‘You are an avid learner who wants to have more understanding on the principles of AI’ #contextsetting #aiandcontext",
+    "url": "https://v.redd.it/xzptl44simig1",
+    "url_overridden_by_dest": "https://v.redd.it/xzptl44simig1",
+    "created": "2026-02-10T02:58:51",
+    "author": "Tight_Application751",
+    "subreddit": "generativeAI",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "y"
+    }
+}

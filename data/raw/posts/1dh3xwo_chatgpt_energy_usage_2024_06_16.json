@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT energy usage",
+    "title": "Crazy Battery draining and RAM usage by ChatGPT app. Local models? What else can take 4GB RAM and so much energy?",
+    "id": "1dh3xwo",
+    "body": "Why ChatGPT app on Android drain the battery so much?\n\nFor example yesterday it took 15% in 23 minutes. It's >10x more than Discord in 22 minutes... and it's a new phone, 3 weeks old S24 Ultra...\n\nAt Chrome on my laptop the web app can use 4-5GB of RAM, it is crazy!\n\nDo you have the same? For me it always consume much more energy than any other app...\n\nSome local AI models? What else can take so much RAM and energy? Any ideas?\n\nI didn't use voice at all at that time, only text chat.\n\n@OpenAI any comment pls? Can you optimize it?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1dh3xwo/crazy_battery_draining_and_ram_usage_by_chatgpt/",
+    "url_overridden_by_dest": null,
+    "created": "2024-06-16T02:31:46",
+    "author": "Predict4u",
+    "subreddit": "OpenAI",
+    "num_comments": 18,
+    "ups": 0,
+    "upvote_ratio": 0.27000001072883606,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

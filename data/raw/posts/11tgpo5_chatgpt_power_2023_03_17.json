@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "Do you think it is possible to use distributed GPUs to power chatGPT-4 or a competitor?",
+    "id": "11tgpo5",
+    "body": "I mined Ethereum from 2014-2022, and I believe that at the peak network hashrate there was an equivalent power of around 2.4 million+ rtx3080 GPUs mining Eth. Since Ethereum switched to Proof of Stake, the miners mostly shutdown.\n\nI wonder if there could ever be a way to get GPT-4 or a competitor decentralized by incentivizing individuals to contribute GPU time. It could be cryptocurrency or just trading credits for compute time. Is this even possible?",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/11tgpo5/do_you_think_it_is_possible_to_use_distributed/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-17T00:12:56",
+    "author": "darkjediii",
+    "subreddit": "ChatGPT",
+    "num_comments": 3,
+    "ups": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

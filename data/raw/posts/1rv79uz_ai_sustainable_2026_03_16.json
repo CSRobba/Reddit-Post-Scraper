@@ -1,0 +1,19 @@
+{
+    "query_term": "AI sustainable",
+    "title": "I don't quite understand how useful AI is if conversations get long and have to be ended. Can someone help me figure out how to make this sustainable for myself? Using Claude Sonnet 4.6.",
+    "id": "1rv79uz",
+    "body": "First, please tell me if there's a better forum to go to for newbies. I don't want to drag anyone down with basics. \n\nI'm starting to use AI more in my personal life, but the first problem I'm encountering is the conversations gets long and have to be compacted all the time, and eventually it isn't useful because compacting takes so damn long.\n\nI also don't want to start a new conversation because, I assume, that means I lose everything learned in the last one. (Or maybe this is where I'm wrong?)\n\nFor a relatively simple example like below, how would I get around this? \n\nLet's suppose I want to feed in my regular bloodwork and any other low level complexity medical results and lay out some basic things to address, like getting my cholesterol a little lower and improving my gut health.\n\nI want the AI to be a companion helping me with my weekly meal planning and grocery shopping list. Maybe I tell it how much time I have to cook each day, what meals I'm thinking about/craving, or even suggest a menu that I like. AI would help me refine it around my nutritional goals and build my weekly grocery list. \n\nEvery 24 hours I will feed it basic information, like how well my guts are performing, how well I sleep, how often I feel low energy, etc. Every few months I might add new test results. \n\nHow do I do this, but not lose information every time the conversation gets long?",
+    "url": "https://www.reddit.com/r/artificial/comments/1rv79uz/i_dont_quite_understand_how_useful_ai_is_if/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-16T04:50:33",
+    "author": "MooseGoose82",
+    "subreddit": "artificial",
+    "num_comments": 44,
+    "ups": 4,
+    "upvote_ratio": 0.6299999952316284,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

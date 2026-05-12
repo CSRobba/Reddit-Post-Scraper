@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude environment",
+    "title": "So I used Claude... to make a Claude programming environment which is fully funcitonal!",
+    "id": "1fiv8kt",
+    "body": "Hi everyone!\n\nFor the past 3-4 weeks, I've been using Claude to make Folderer, which is a tool that helps code with Claude.\n\nIt still has a long way to go, but currently the main features already work - you can create projects, chat with Claude, and the changes you request get automatically implemented in the codebase and then pushed to a Github repository of your choice (if you connected one).\n\n  \nI never believed I'd be able to go this far with Claude! It's truely amazing.\n\nThe main premise of the tool is to focus more on the chat medium instead of focusing more on the IDE medium, like Cursor. There is an option to manually edit code of course, but the ideal workflow is to just chat and request the changes you want, mostly without touching the code itself. It's ideal, in my opinion, for quick prototypes and such.\n\nIn the future, I'll add a Vercel integration that'll allow you to also see the code deployed in real time, but for now you can just quickly set up a Vercel project (or any other deployment service you'd like) to see it deployed from the Github repo automatically.\n\n  \nIf you want to check it out, I'd appreciate any kind of feedback! It's available at [https://folderer.com](https://folderer.com) \n\n  \n\\*note that since the API costs quite a lot to use, I do have to charge after a certain amount of free credits, in order to break even. However if you're still in the process of trying it out and you need more free credits, please let me know and I'll give you some more :)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1fiv8kt/so_i_used_claude_to_make_a_claude_programming/",
+    "url_overridden_by_dest": null,
+    "created": "2024-09-17T03:06:37",
+    "author": "FoldererAI",
+    "subreddit": "ClaudeAI",
+    "num_comments": 4,
+    "ups": 16,
+    "upvote_ratio": 0.9399999976158142,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

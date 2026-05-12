@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water",
+    "title": "Does turning off automated AI overview in google helps against the water waste?",
+    "id": "1reisbb",
+    "body": "So I found out that you can turn off the AI overview in your account using:  \n  \nSettings  \n \\-> site search   \n \\-> add  \n \\-> Name: 'Web' , shortcut: '@web', URL : {google:baseURL}search?q=%s&udm=14\n\nMy question is wether this feature actually contributes to saving water by turning off the automated AI summaries OR it only turns off the display of them while they are still being generated in the background anyway? (It's still possible to click to 'AI mode' at any moment, but it's not really clear wether the response is generated or just showed after that click).",
+    "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1reisbb/does_turning_off_automated_ai_overview_in_google/",
+    "url_overridden_by_dest": null,
+    "created": "2026-02-25T11:57:52",
+    "author": "ChildhoodFar7680",
+    "subreddit": "GoogleGeminiAI",
+    "num_comments": 1,
+    "ups": 0,
+    "upvote_ratio": 0.4300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

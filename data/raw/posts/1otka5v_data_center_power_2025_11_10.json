@@ -1,0 +1,19 @@
+{
+    "query_term": "data center power",
+    "title": "U.S. Data Center Power Demand Surges Past 180 TWh — Projected to Double or Triple by 2028",
+    "id": "1otka5v",
+    "body": "Data center energy use keeps climbing fast. In 2023, U.S. data centers consumed roughly 176 TWh (≈ 4.4 % of national electricity). By 2025, that’s already around 183 TWh, and projections suggest 325 – 580 TWh by 2028 — about 6.7 – 12 % of total U.S. demand.\n\nLoad growth has tripled over the past decade and could double or triple again by 2028. Utilities in major hubs (especially Northern Virginia) are warning that new data-center demand already exceeds grid capacity by nearly 50 %, driving major power-planning shifts nationwide.\n\nMeanwhile, AI workloads and GPU-dense racks are pushing site designs toward hundreds of kW per rack, with next-gen AI campuses targeting gigawatt-scale IT loads.\n\nI compiled several updated charts and a U.S. data-center map (from NREL / LBNL / Visual Capitalist / Pew Research 2025). \n\nIt will be interesting to see how operators, engineers, and utilities are preparing for this next wave of power demand.\n\nSources:   \n\\-Pew Research Center (2025) – “What We Know About Energy Use at U.S. Data Centers Amid the AI Boom” \n\n\\-Visual Capitalist (2025) – “Charted: The Energy Demand of U.S. Data Centers (2023-2030P)” \n\n\\-Lawrence Berkeley National Laboratory (LBNL, 2024) – U.S. Data Center Energy Usage Report\n\nGraphs are also linked here: [https://imgur.com/a/data-center-graphs-power-consumption-oBAskY5](https://imgur.com/a/data-center-graphs-power-consumption-oBAskY5)",
+    "url": "https://www.linkedin.com/posts/david-s-evers_datacenters-infrastructure-ai-activity-7393697571459731456-Qkgt",
+    "url_overridden_by_dest": "https://www.linkedin.com/posts/david-s-evers_datacenters-infrastructure-ai-activity-7393697571459731456-Qkgt",
+    "created": "2025-11-10T09:38:01",
+    "author": "philiejimster",
+    "subreddit": "datacenter",
+    "num_comments": 0,
+    "ups": 21,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "y",
+        "nino": "y"
+    }
+}

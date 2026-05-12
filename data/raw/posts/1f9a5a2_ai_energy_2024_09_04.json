@@ -1,0 +1,21 @@
+{
+    "query_term": "AI energy",
+    "title": "Are we on the wrong path with AI, as current machine learning algorithms are all about fitting and consume too much energy?",
+    "id": "1f9a5a2",
+    "body": "In recent years, with the rise of large models, we've seen that their consumption of computational resources has far exceeded the hardware performance improvements predicted by Moore's Law.\n\nBesides hardware consumption, another notable consumption of large models is energy, particularly electricity. Additionally, reports have stated that training GPT-3 once is equivalent to emitting 552 tons of CO2.\n\nNot only is training power-hungry, but model inference is too. Research shows that a single standard Google search consumes 0.3 watt-hours of electricity, a ChatGPT response to a user request consumes about 2.96 watt-hours, and a Google search powered by AI large models consumes 8.9 watt-hours.\n\nIs this all sustainable? Are we heading in the right direction towards the true AI?",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1f9a5a2/are_we_on_the_wrong_path_with_ai_as_current/",
+    "url_overridden_by_dest": null,
+    "created": "2024-09-04T18:14:32",
+    "author": "Z3phyrionH",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 43,
+    "ups": 9,
+    "upvote_ratio": 0.6200000047683716,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI waste",
+    "title": "KREA AI, waste of money?",
+    "id": "1jlpsu4",
+    "body": "I started using krea a month ago. I paid for the basic plan, I liked it, then paid for the pro plan because I ran out of credits. After upgrading to the pro plan I started experimenting with training and ran out of credits pretty fast. Upgraded to their max plan and now I honestly feel like I have wasted money.\n\nChanging the training settings doesn't do anything to the same dataset. I trained on the same dataset 14 times and only one lora was decent. The rest were severly undertrained and looked just like the basic flux face.  \n  \nYou have very little control of the images you generate, and I hate the fact that there is no CFG scale, seed control or step control in the flux generator. It doesn't adhere to prompts well at all. Prompting a side view? hell no, you will have to generate 100 images until you get a side view.\n\nYou can't even download your trained loras!?\n\nOut of all the thousands of images I generated I only got like 20 images that I'm happy with. Most of the generations are just me trying my best to get the image I want, using the same prompt and variations of the better images. You have to generate like 100 images before you get vaugly what you ask for. Then generate a hundred variations of that image until it looks accurate.\n\nHalf the generations triggers their filter, even though there is no nudity in the training data or the prompts.\n\nThe only thing krea does well is the post processing of the images, it makes them look realistic. Rest is just garbage.\n\nI'm already out of credits of the max plan. Buying a compute pack doesn't feel like it's worth it either.\n\nWhat is the best platform in your opinion for using your own flux loras, with as much control as possible?",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1jlpsu4/krea_ai_waste_of_money/",
+    "url_overridden_by_dest": null,
+    "created": "2025-03-28T00:44:39",
+    "author": "Simple-Case7039",
+    "subreddit": "StableDiffusion",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "The Energy Consumption of AI vs. a Honeybee",
+    "id": "10xea9m",
+    "body": "A Honeybee brain is a neural network, and it is a million neurons, an estimated billion synapses, if this is represented as an AI, it will mean 1 million calculation units, and 1 billion connections between these units.\n\nIf we do this in a graphics card, we will need something that consumes a 200 – 300 wats of electricity every hour, and we may be able to simulate part of that AI, and I am saying part because neurons process information independently, but a computer relies of a CPU clock, so the information that the bee neural network can process if far bigger than our simulated AI.\n\nTo get us closer to the Honeybee brain, we must emulate the parallel processing of information, calculate information not coming at exactly the same time, implement the energy leakage for each neuron, implement the idea of neuro receptors between the 1 billion synapses, and a long list of tasks.\n\nSo, from a single graphics card or a computer at 300 wats, now you need a much larger array of machines at thousands of watts, and we will eventually get the same thing, a Honeybee, a virtual Honeybee.\n\n**But how many watts an hour does a Honeybee brain consume?**\n\nOn average, a honeybee consumes about 50-100 milligrams of food per day, which contains approximately 35 calories, which is 0.0406778 Watts every 24 hours, 0.001694908 Watt/h \n\n0.001 Watt/h vs a few thousands watt/h to get an accurate emulation as an AI.\n\n**Why?**\n\nNeurons are analog, computers are digital, adding up numbers in a neuron happens by just merging 2 electrical signals, adding up numbers is a computer requires the work of millions of transistors in a CPU.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/10xea9m/the_energy_consumption_of_ai_vs_a_honeybee/",
+    "url_overridden_by_dest": null,
+    "created": "2023-02-08T15:19:13",
+    "author": "CaterpillarAny8669",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 7,
+    "ups": 4,
+    "upvote_ratio": 0.699999988079071,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

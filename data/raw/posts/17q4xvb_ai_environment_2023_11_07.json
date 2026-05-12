@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "[Project] I made a learning environment/game using unity's mlagents and used DeepRL to train an AI agent to autonomously race a car around. (demo available)",
+    "id": "17q4xvb",
+    "body": "&#x200B;\n\n[DEMO AVAILABLE](https://i.redd.it/7t31s29rtzyb1.gif)",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/17q4xvb/project_i_made_a_learning_environmentgame_using/",
+    "url_overridden_by_dest": null,
+    "created": "2023-11-07T16:25:25",
+    "author": "Sookeyy",
+    "subreddit": "MachineLearning",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 0.5699999928474426,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

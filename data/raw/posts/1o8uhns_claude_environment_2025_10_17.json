@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude environment",
+    "title": "It's not just \"Skills\" - Claude now has a full Linux development environment built-in",
+    "id": "1o8uhns",
+    "body": "I feel like this whole \"Skills\" announcement really buried the lede. You also have a full on user\\_data directory to instruct Claude to use as you wish. Not to mention that what's installed in Claude's sandbox goes beyond what you might expect. No internet connectivity, but the Python packages installed go well beyond the \"just Numpy and Pandas\" you might expect, these sandboxes have a bunch of nonstandard stuff: Playwright (browser automation), beautifulsoup & other parsing libraries, libraries for generating MS office and a bunch more. Try asking Claude \"hey, write yourself as script that investigates what python packages you have installed, then run it\" - see for yourself what comes up",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1o8uhns/its_not_just_skills_claude_now_has_a_full_linux/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-17T00:03:31",
+    "author": "ascendant23",
+    "subreddit": "ClaudeAI",
+    "num_comments": 56,
+    "ups": 203,
+    "upvote_ratio": 0.9599999785423279,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

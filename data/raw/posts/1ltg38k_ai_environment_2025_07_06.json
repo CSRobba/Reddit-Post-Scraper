@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Does anyone us AI in a production environment? That is not a chatbot?",
+    "id": "1ltg38k",
+    "body": "I am curious to know this. Especially with MCP servers. I don't see any use for an mcp server in production   \n  \nDev, yes of course. Using MCP to connect to firebase or postgres works wonders.   \n  \nHowever for normal production,  Imo AI brings too many dynamics and can go off the rails quickly. We tried to use AI for some application and by the end of our development testing we literally had a 5 page document with nothing but prompts. Prompts for safeguarding and promtps to safe guard the safe guarding.\n\nIn the end the project became in the red because AI brought too much dynamic value in responses and coulnd't be reigned in enough to make it worthwhile vs the more stable approach of static values through apis. \n\nOne hallucination in UAT caused an uproar. Partly because the company wasn't onboard with A.I to begin with calling it a \"FAD\" \n\n  \nSo other than chatbots has anyone found real use for AI in production?",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ltg38k/does_anyone_us_ai_in_a_production_environment/",
+    "url_overridden_by_dest": null,
+    "created": "2025-07-06T20:07:54",
+    "author": "Key-Singer-2193",
+    "subreddit": "ChatGPTCoding",
+    "num_comments": 16,
+    "ups": 4,
+    "upvote_ratio": 0.699999988079071,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "y"
+    }
+}

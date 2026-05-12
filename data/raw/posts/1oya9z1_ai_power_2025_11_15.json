@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Power scarcity: What will be the alternative sources of power generation for AI datacenters in 2026 & beyond?",
+    "id": "1oya9z1",
+    "body": "Hi everyone,\n\nThere is currently alot of talks about how AI datacenters don't have access to enough power (both on site and grid). This seems to be a bigger problem in 2026 & 2027 with more data centers coming online. \n\nI heard that gas turbines are currently fully booked until 2029, SMRs if its possible would be 2030 at least. \n\nAlots of talks about using fuel cells (Bloom, Fluence) and solar. I have heard that Bloom is currently used, but not sure if solutions such as Fluence and solar is viable or just pure fantasy/speculations. \n\nAlso there is alot of talk about power efficiency between AC vs DC powered datacenter architecture. Once again, not sure if its real or fantasy.\n\n  \nAny insight would be appreciated. Many thanks!\n\nhttps://preview.redd.it/8ck5ir907j1g1.png?width=1456&format=png&auto=webp&s=3bd4df6f43ad6ba10537a373281408a907501f40\n\n  \n\n\n  \n",
+    "url": "https://www.reddit.com/r/datacenter/comments/1oya9z1/power_scarcity_what_will_be_the_alternative/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-15T18:39:57",
+    "author": "Prestigious-Reason53",
+    "subreddit": "datacenter",
+    "num_comments": 16,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n"
+    }
+}

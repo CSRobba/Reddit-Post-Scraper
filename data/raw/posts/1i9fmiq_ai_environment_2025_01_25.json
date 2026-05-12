@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "AI prompted to make another instance of itself in a controlled environment, resolves dependencies and succeeds",
+    "id": "1i9fmiq",
+    "body": "Remember when OpenAI tried to make a 2B chatbot that would do customer service tasks to pay for its own hosting and it killed itself rather than go to work? Well, at 405B Fudan University finally convinced an ai to have a family. \n\n",
+    "url": "https://arxiv.org/abs/2412.12140",
+    "url_overridden_by_dest": "https://arxiv.org/abs/2412.12140",
+    "created": "2025-01-25T00:02:49",
+    "author": "thuanjinkee",
+    "subreddit": "singularity",
+    "num_comments": 2,
+    "ups": 15,
+    "upvote_ratio": 0.8399999737739563,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

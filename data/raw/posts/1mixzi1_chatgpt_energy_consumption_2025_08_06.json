@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT energy consumption",
+    "title": "I was curious about chatgpt's energy consumption compared to a 10w led light bulb... The answer surprised me!",
+    "id": "1mixzi1",
+    "body": "My prompt was:\nHow long could a 10w LED light bulb be powered using the same amount of energy it will take you to answer this question.\n\nThe reply was:\n\n Step 1: How much energy does it take for me (ChatGPT) to answer a question?\nWhile OpenAI hasn't released the exact per-response energy cost of ChatGPT, we can estimate based on known data:\n\nGPT-4-style models like mine are estimated to consume around 0.3 to 1 kWh per 1,000 prompts, depending on model size and hardware.\n\nFor a basic, short answer like this, let's assume 0.01 kWh (10 Wh) to be generous.\n\n💡 Step 2: How much power does a basic LED bulb use?\nA typical LED light bulb uses about:\n\n10 watts (W) to produce the same brightness as a 60-watt incandescent bulb.\n\n🕒 Step 3: How long would 10 Wh keep a 10 W LED bulb on?\nWe can use the formula:\n\nini\nCopy code\nTime = Energy / Power\nTime = 10 Wh / 10 W = 1 hour\n✅ Final Answer:\nA basic 10-watt LED bulb could stay lit for about 1 hour using the same amount of energy it takes me to answer your question.\n\nIf the answer was shorter or less complex, it might be 30–40 minutes. If more complex, up to 2 hours.\n\nLet me know if you want to calculate this for a different bulb size or more detailed estimate!",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1mixzi1/i_was_curious_about_chatgpts_energy_consumption/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-06T00:14:50",
+    "author": "Ill-Year-3141",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 0,
+    "upvote_ratio": 0.25,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

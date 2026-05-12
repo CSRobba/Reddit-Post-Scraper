@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy consumption",
+    "title": "AI Energy Consumption: Statistics from Key Sources [2026]",
+    "id": "1qdix11",
+    "body": "A new comprehensive analysis of AI energy use reveals staggering numbers for 2026. While generating text is relatively efficient, generating just **1,000 AI images** produces carbon emissions equivalent to driving a gas car for **4.1 miles**. The report also warns that by 2028, AI-specific servers in the US alone could consume up to **326 TWh** of electricity annually, roughly 12% of the country's entire forecast power demand. The invisible cost of inference is now growing faster than training, meaning every day use is adding up to a massive environmental bill.",
+    "url": "https://research.aimultiple.com/ai-energy-consumption/",
+    "url_overridden_by_dest": "https://research.aimultiple.com/ai-energy-consumption/",
+    "created": "2026-01-15T05:02:45",
+    "author": "EchoOfOppenheimer",
+    "subreddit": "AIDangers",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI carbon",
+    "title": "Dual 3090 Motherboard Choices: Gigabyte B850 AI Top vs MSI MPG X670E CARBON",
+    "id": "1iuhtd4",
+    "body": "Haven't decided on the processor yet, but it seems like only Ryzen is capable of running with these boards? I thought Epyc would be compatible with the B850 board but maybe the board's too new?\n\nRegardless definitely want to utilize 128gb ddr5-6000-cl30\n\nGigabyte:  \n[https://www.gigabyte.com/Motherboard/B850-AI-TOP#kf](https://www.gigabyte.com/Motherboard/B850-AI-TOP#kf)\n\nMSI:  \n[https://www.msi.com/Motherboard/MPG-X670E-CARBON-WIFI](https://www.msi.com/Motherboard/MPG-X670E-CARBON-WIFI)\n\n  \nBoth boards are around 330USD new, MSI available for cheaper refurbished since it's older. Which platform is worth investing in for my future dual 3090 setup? Will be running training jobs occassionally as well as data mining tasks regularly. But never 24/7 full load.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1iuhtd4/dual_3090_motherboard_choices_gigabyte_b850_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2025-02-20T22:53:48",
+    "author": "m1tm0",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 11,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

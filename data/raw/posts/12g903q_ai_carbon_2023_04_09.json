@@ -1,0 +1,19 @@
+{
+    "query_term": "AI carbon",
+    "title": "AI carbon footprint?",
+    "id": "12g903q",
+    "body": "Neural networks obviously require a huge amount of processing power to train and run, which must take huge amount of energy, and that means carbon emissions. Does anyone know of any information about modern AI’s environmental impact and how it might scale up? How will we balance exponential growth of models and traffic with emission reduction goals? Am I overestimating their footprint?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/12g903q/ai_carbon_footprint/",
+    "url_overridden_by_dest": null,
+    "created": "2023-04-09T00:41:08",
+    "author": "AlarmingAttention151",
+    "subreddit": "OpenAI",
+    "num_comments": 5,
+    "ups": 1,
+    "upvote_ratio": 0.5299999713897705,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

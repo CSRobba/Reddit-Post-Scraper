@@ -1,0 +1,21 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Seeking Guidance on Establishing a Safe Chat Environment via Azure for a ChatGPT Application",
+    "id": "174foaj",
+    "body": "Hello Everyone,\n\nI am embarking on a journey to create a ChatGPT application, with a focus on ensuring that user data is securely saved and managed. I've considered utilizing Azure for this purpose, recognizing its robust cloud capabilities and security features.\n\nWhile I have found an article ([https://www.c-sharpcorner.com/blogs/integrating-chatgpt-in-azure-through-simple-steps](https://www.c-sharpcorner.com/blogs/integrating-chatgpt-in-azure-through-simple-steps)) that ostensibly provides instructions on implementing such a setup on Azure, I found the explanations therein a bit unclear, especially for a beginner like myself in utilizing Azure's suite of tools and services.\n\nConsequently, I'm reaching out to this knowledgeable community in search of some guidance and clarification:\n\n* Has anyone here successfully implemented a ChatGPT application on Azure and ensured secure chat/data storage?\n* Are there specific Azure services or tools that you'd recommend to facilitate a secure chatting environment and reliable data storage for an application leveraging OpenAI's API?\n* If there are alternative resources, tutorials, or articles that provide a clearer step-by-step process to set up a secure chat application on Azure, particularly for beginners, I would appreciate any directions towards them.\n\nThank you in advance for your time and assistance.",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/174foaj/seeking_guidance_on_establishing_a_safe_chat/",
+    "url_overridden_by_dest": null,
+    "created": "2023-10-10T03:59:17",
+    "author": "Wolfwoef",
+    "subreddit": "ChatGPTPro",
+    "num_comments": 2,
+    "ups": 1,
+    "upvote_ratio": 0.5699999928474426,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

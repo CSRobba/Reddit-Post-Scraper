@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini power",
+    "title": "Need a Gemini power user to share a Takeout export – building v1.4.0 of Nexus AI Chat Importer",
+    "id": "1phrxco",
+    "body": "Hey r/Gemini, \n\nI'm building v1.4.0 of Nexus AI Chat Importer ([https://github.com/Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer)) and need a Google Takeout export from someone who uses Gemini regularly.\n\nWhat it does: Imports your AI conversations into Obsidian. Fully offline, privacy-first—no cloud sync, just your exported data.\n\nCurrent support (v1.3.3):\n\n* Claude (Anthropic)\n* ChatGPT (OpenAI)\n\nComing in v1.4.0:\n\n* Mistral AI Le Chat\n* Google Gemini (this is where I need help)\n\nWhat I need: A Google Takeout export to analyze the data structure and build the import logic. Ideally from someone with diverse conversations—especially if you've got artifacts (images, generated docs, code, etc.).\n\nWhy I need it: To understand how Gemini structures its exports so I can properly map everything into Obsidian, including attachments when available.\n\nIf you can help, open an issue on the repo ([https://github.com/Superkikim/nexus-ai-chat-importer/issues](https://github.com/Superkikim/nexus-ai-chat-importer/issues)) or comment here. Thanks!",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1phrxco/need_a_gemini_power_user_to_share_a_takeout/",
+    "url_overridden_by_dest": null,
+    "created": "2025-12-08T15:29:42",
+    "author": "Ill_Try_7846",
+    "subreddit": "GeminiAI",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

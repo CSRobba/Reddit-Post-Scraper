@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "I was tired of AI assistants that couldn't remember my code, so I built Avakin: a free, local AI dev environment that understands your whole project.",
+    "id": "1ljs9sy",
+    "body": "Like many of you, I use AI assistants for coding, but I constantly hit a wall with context windows. I'd explain my project, and two prompts later, it would have forgotten the architecture and start suggesting code that didn't fit.\n\nSo, I built my own solution: Avakin. It's a free, open-source, 100% local AI development environment designed to maintain full project context. It's built around a team of specialized AI agents that handle different parts of the development lifecycle.\n\nHere’s what it can do:\n\n* **Full Project Scaffolding:** Instead of one file at a time, you can give it a high-level goal, and its Architect agent will design and write an entire multi-file Python application from scratch.\n* **Intelligent Debugging:** When you get an error, the \"Review & Fix\" feature doesn't just look at the error message. It analyzes the full project, recent code changes (git diff), and the traceback to understand the root cause and provide a surgical fix.\n* **Bring Your Own Knowledge (RAG):** Avakin's real power comes from its ability to connect to a local RAG server. You can feed it your private documentation or other codebases, and it will use that knowledge to write better, more relevant code for your specific needs.\n* **Integrated Development Environment**: It features a built-in code editor with syntax highlighting, a file tree for project navigation, and a multi-tab terminal, all integrated directly into the application.\n* **Configurable Agents:** You can assign different LLMs to different tasks. Use a big model for high-level architecture and a small, fast local model for simple chat, giving you full control over cost and performance.\n\nI'm looking for feedback from fellow developers on the concept and execution. The project is open-source and the download is available on GitHub.\n\n**Links:**\n\n* **GitHub Repo:** \\[https://github.com/carpsesdema/AvA\\_Kintsugi\\]\n* **Windows Release Download:** \\[https://github.com/carpsesdema/AvA\\_Kintsugi/releases/tag/1.0.1\\]",
+    "url": "https://i.redd.it/5eqvousl0z8f1.gif",
+    "url_overridden_by_dest": "https://i.redd.it/5eqvousl0z8f1.gif",
+    "created": "2025-06-24T17:55:19",
+    "author": "One_Negotiation_2078",
+    "subreddit": "SideProject",
+    "num_comments": 4,
+    "ups": 2,
+    "upvote_ratio": 0.6299999952316284,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

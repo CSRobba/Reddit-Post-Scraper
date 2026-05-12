@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "[Power User Tool] Automate repeat ChatGPT tasks (like content or decks) into 1-click workflows — feedback welcome!",
+    "id": "1jxbzy7",
+    "body": "Hey fellow GPT nerds 👋\n\nIf you’re like me, you’ve probably written the same prompt 10 different times for:\n\n* creating 30-day content calendars\n* generating pitch decks\n* writing funnel plans or lead magnets\n* brainstorming brand voice or messaging\n\nAnd even with great prompts, I often end up copy-pasting stuff into Notion, tweaking format, fixing tone, etc.\n\nSo I built something for myself — and wondering if it’s useful for others here:\n\n**🔧 What it does:**\n\n* You choose a task (e.g. “LinkedIn content plan” or “Instagram strategy”)\n* Fill in a short form (no prompt writing)\n* Instantly get **structured output**: multi-section results in clean text, PDF, Notion-style blocks, etc.\n* Save workflows and reuse them — just like macros for ChatGPT\n\nIt’s kind of like a **repeatable prompt library**, but with clean UI + instant usable results.\n\n🧠 Looking for feedback from heavy users:\n\n* What repeatable tasks do you use ChatGPT for?\n* Would you prefer prebuilt forms over writing prompts every time?\n* What kind of outputs/formats would you want?\n\nI’d love to chat (10–15 mins) or share early access. Just drop a comment or DM me 🙏",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1jxbzy7/power_user_tool_automate_repeat_chatgpt_tasks/",
+    "url_overridden_by_dest": null,
+    "created": "2025-04-12T03:40:06",
+    "author": "Historical_Wing_9573",
+    "subreddit": "ChatGPTPro",
+    "num_comments": 2,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

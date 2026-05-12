@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "CLAUDE.md is a super power.",
+    "id": "1mw74t5",
+    "body": "I just saw this [post](https://www.reddit.com/r/ClaudeAI/comments/1mw5h5g/wrote_my_own_global_claudeclaudemd_how_does_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), and I felt it was very informative. I have been working with Claude Code, and I feel that one of the most powerful features is the CLAUDE.md file. \n\nIf you are beginning for the first time, then I would definitely recommend that you master CLAUDE.md. \n\nWhy? Because:\n\n1. It acts as a memory. You can save your preferences, style, and even point out the database for certain interactions.  \n2. You can even provide different levels of access like:\n\n* Root (/Library/Application/Support/ClaudeCode/Claude.md) for repo rules.\n* Local (Claude.local.md) for personal notes.\n* Global (\\~/.claude/Claude.md) for all projects.\n\n3. Another interesting part is that you can update the [CLAUDE.md](http://CLAUDE.md) on the go using hash \"#\" tag. \n\nThere are so many things you can do with Claude Code. Here are some resources that will help you learn more Claude Code:  \n\\- [3 Best Practices That Transform Product Development with Claude Code](https://go.adaline.ai/ncri0xa)\n\n\\- [Claude Code is growing crazy fast, and it’s not just for writing code](https://www.ai-supremacy.com/p/claude-code-is-growing-crazy-fast-vibe-coding)\n\n\\- [Claude Code Multi-Agent: Complete RD Workflow Guide](https://aidisruption.ai/p/claude-code-multi-agent-complete)\n\n\\- [Claude Code for Productivity Workflow](https://go.adaline.ai/9EpacNL)\n\nI am still learning learning Claude Code and use it for research, coding, and learning codebases. But I want to learn more from a product perspective. If you have anything that will help me do let me know. [](https://www.ai-supremacy.com/p/claude-code-is-growing-crazy-fast-vibe-coding)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1mw74t5/claudemd_is_a_super_power/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-21T03:26:43",
+    "author": "TheProdigalSon26",
+    "subreddit": "ClaudeAI",
+    "num_comments": 104,
+    "ups": 601,
+    "upvote_ratio": 0.9399999976158142,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

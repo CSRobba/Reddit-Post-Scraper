@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude environment",
+    "title": "I turned Claude Code into a focus environment that enforces deep work",
+    "id": "1rl4ub2",
+    "body": "I’m building OpenPaw — an open source layer that turns Claude Code into a personal assistant that can actually control things on your machine.\n\nI just shipped a new feature called Lock-In.\n\nIt’s basically a programmable deep work session that modifies your environment so you can’t drift away.\n\nWhen you start a session it:\n\n\\- blocks distracting sites across browsers\n\n\\- closes selected apps automatically\n\n\\- enables Do Not Disturb\n\n\\- connects headphones and starts focus audio\n\n\\- optionally adjusts smart lights\n\n\\- runs a live focus timer dashboard\n\n\\- tracks your Git commits during the session\n\n\\-generates a receipt at the end showing what you shipped\n\nInstead of asking an AI to tell you to focus, it actually enforces the focus state.\n\nEverything runs locally.\n\nNo cloud. No daemon. No extra subscription.\n\nIt just extends your existing Claude Code setup.\n\nfully open source.",
+    "url": "https://v.redd.it/dcdajg6fw4ng1",
+    "url_overridden_by_dest": "https://v.redd.it/dcdajg6fw4ng1",
+    "created": "2026-03-04T18:03:37",
+    "author": "BubblyTutor367",
+    "subreddit": "SideProject",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

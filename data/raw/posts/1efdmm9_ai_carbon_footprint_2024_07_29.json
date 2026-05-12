@@ -1,0 +1,21 @@
+{
+    "query_term": "AI carbon footprint",
+    "title": "How would you go about calculating a person's carbon footprint impact from using generative AI?",
+    "id": "1efdmm9",
+    "body": "Here's my wild guess with very little in terms of references:\n\nAverage daily use 30,000 tokens  \nThroughput of a single H100 card (the standard) is let's say 150 tokens per second (had trouble finding references)  \nPower consumption of H100: 500w  \nPower consumption of datacenter equipment to support H100 like cooling, networking and backups +20%  \nAverage carbon footprint of a US datacenter: 0.1 tons of CO2 per kilowatt hour (kWh)\n\n30,000 tokens / 150tps = 67 seconds of generation  \nTotal datacenter power consumption of H100: 500w \\* 120% = 600w  \n67 seconds of H100 power use 600w / 1200 seconds in an hour \\* 62 = 33.5 Watts  \n33.5 Watts \\* 30 days = 1,005 Watts\n\nIf I round to 1,000 Watts that's 1kWh or 0.1 tons of CO2\n\nHow would you calculate it? Got reliable data sources with different numbers?\n\nThanks!",
+    "url": "https://www.reddit.com/r/climatechange/comments/1efdmm9/how_would_you_go_about_calculating_a_persons/",
+    "url_overridden_by_dest": null,
+    "created": "2024-07-29T15:58:02",
+    "author": "Sharp-Appointment795",
+    "subreddit": "climatechange",
+    "num_comments": 0,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y",
+        "chandana": "n",
+        "anoolia": "n"
+    }
+}

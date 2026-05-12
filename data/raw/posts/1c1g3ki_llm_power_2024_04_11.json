@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "P40 Int8 LLM inferencing - initial test at 125W power limit",
+    "id": "1c1g3ki",
+    "body": "I received my P40 yesterday and started to test it. Initial results:\n\n| Qwen 1.5 model_size Int8 | tok/s |\n|------------|-------|\n| 0.5        | 130   |\n| 1.8        | 75    |\n| 4          | 40    |\n| 7          | 24    |\n\nNot that these results are with power limit set to 50% (125W) and it is thermally limited even below this (80W-90W) as I didn't receive the blower fan yet so I'm just pointing a couple of fans at the GPU.\n\nInferencing on these Int8 models seems pretty decent. I'm using vLLM but I'm not sure whether the computations are done in Int8 or whether it uses FP32.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1c1g3ki/p40_int8_llm_inferencing_initial_test_at_125w/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-11T07:12:35",
+    "author": "DeltaSqueezer",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 26,
+    "ups": 24,
+    "upvote_ratio": 0.9300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

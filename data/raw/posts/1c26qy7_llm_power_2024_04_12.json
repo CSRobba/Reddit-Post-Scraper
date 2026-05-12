@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "Int8 LLM inferencing on Nvidia P100 - initial test at 125W power limit",
+    "id": "1c26qy7",
+    "body": "My P100 arrived today. I repeated the same test as for the P40 (see here: [https://www.reddit.com/r/LocalLLaMA/comments/1c1g3ki/p40\\_int8\\_llm\\_inferencing\\_initial\\_test\\_at\\_125w/](https://www.reddit.com/r/LocalLLaMA/comments/1c1g3ki/p40_int8_llm_inferencing_initial_test_at_125w/) ) at 125W power limit (fans still have not arrived so I run at half power):\n\n|**Qwen 1.5 model\\_size** Int8|tok/s|\n\n|:-|:-|\n\n|0.5B|150|\n\n|1.8B|117|\n\n|4B|70|\n\n|7B|45|\n\nI'm very happy with the P100 performance! If only it had more VRAM!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1c26qy7/int8_llm_inferencing_on_nvidia_p100_initial_test/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-12T04:27:47",
+    "author": "DeltaSqueezer",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 7,
+    "ups": 8,
+    "upvote_ratio": 0.8299999833106995,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

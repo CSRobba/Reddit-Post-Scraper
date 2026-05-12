@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT waste",
+    "title": "Idk if someone already posted about this but ChatGPT has either increased context size or a separate summary model, maybe that's why its performing worse (haven't tried with GPT4, don't want to waste my messages, might update later)",
+    "id": "14b2f6o",
+    "body": "[link to the chat](https://chat.openai.com/share/a69002d6-66e4-4724-a995-602e60ce6c5e)\n\nAll of its responses (not counting my prompts, possible system prompts, and separators and labels for messages) total to 4,206 tokens, last I checked it had something like 2048 or 4096 memory\n\nFor anyone who can't be bothered to read the chat: I tell it to respond a certain way to a code word, then talk to it until it should've forgotten, then asked it the codeword without any context, and it responded correctly",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/14b2f6o/idk_if_someone_already_posted_about_this_but/",
+    "url_overridden_by_dest": null,
+    "created": "2023-06-16T10:15:06",
+    "author": "ThisUserIsAFailure",
+    "subreddit": "ChatGPT",
+    "num_comments": 5,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

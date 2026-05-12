@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "RTX3090 Power Tuning Results on LLM, Vision, TTS, and Diffusion",
+    "id": "1egvoqj",
+    "body": "I wanted to share some results I have from running an RTX3090 across it's power limit range on a variety of inference tasks including LLM, Vision Models, Text to Speech, and Diffusion.\n\nBefore I get into the results and discussion I have a whole video on this subject if you prefer that form: [https://www.youtube.com/watch?v=vshdD1Q0Mgs](https://www.youtube.com/watch?v=vshdD1Q0Mgs)\n\n**TLDR/W:**\n\nTurn your power limit on your 3090 down to 250W-300W. You will get excellent performance and save 100W of power by doing so. Depending on your inference task you might be able to get away with much lower still. \n\n**Data**\n\nI collected a ton of data. Go check it out yourself here: [https://benchmarks.andromeda.computer/videos/3090-power-limit](https://benchmarks.andromeda.computer/videos/3090-power-limit)\n\nI'll point out some of the more interesting results:\n\n\\* llama3-8B - dual chart, generate tps and generate tps/watt. also ttft (time to first token)\n\n\\* gemma2-27B - dual chart, generate tps and generate tps/watt. also ttft (time to first token)\n\n\\* sdxl-base-1.0 - dual chart, compute time to image, avg iter/sec/watt. also rate of change!\n\n**Learnings**\n\n\\* I think one of the most interesting results from this data is that if you are consistently running a certain workload, it definitely makes sense to find a good power limit for that workload. Especially if you are trying to hit certain metrics. I think there is little reason to not power limit, it enables better efficiency and compute density if you need it.\n\n\\* Turns out smaller models need less resources!\n\n**Benchmark**\n\nAll of this data was captured with a benchmark I have been writing. It is largely in progress still. I will share more details on it when it can be more easily run by anyone. I will be sharing more results from more GPU's soon. I've tested a lot of them (not for power specifically)\n\nBenchmark Code: [https://github.com/andromeda-computer/bench](https://github.com/andromeda-computer/bench)\n\nIn the future I plan to have the benchmark be something anyone can run on their hardware and submit results to the website. So we can be a better informed community.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1egvoqj/rtx3090_power_tuning_results_on_llm_vision_tts/",
+    "url_overridden_by_dest": null,
+    "created": "2024-07-31T12:14:52",
+    "author": "sipjca",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 22,
+    "ups": 39,
+    "upvote_ratio": 0.9300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

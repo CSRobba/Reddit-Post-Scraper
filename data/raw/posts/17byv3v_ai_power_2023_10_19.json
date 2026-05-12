@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "From square to cube: Photonic Hardware processing for AI goes 3D, boosting processing power",
+    "id": "17byv3v",
+    "body": "> In a [paper published in *Nature Photonics*](https://www.nature.com/articles/s41566-023-01313-x),  researchers from the University of Oxford, along with collaborators  from the Universities of Muenster, Heidelberg, and Exeter, report on  their development of integrated photonic-electronic hardware capable of  processing three-dimensional (3D) data, substantially boosting data  processing parallelism for AI tasks.                                                    \n>  \n>(...)  \n>  \n>The researchers further estimated that even with a moderate scaling of 6  inputs × 6 outputs, this approach can outperform state-of-the-art  electronic processors, potentially providing a 100-times enhancement in  energy efficiency and compute density. \n\n[Article](https://techxplore.com/news/2023-10-square-cube-hardware-ai-3d.html)\n\n&#x200B;\n\n# Higher-dimensional processing using a photonic tensor core with continuous-time data\n\n[Nature photonics publication](https://www.nature.com/articles/s41566-023-01313-x)",
+    "url": "https://www.reddit.com/r/singularity/comments/17byv3v/from_square_to_cube_photonic_hardware_processing/",
+    "url_overridden_by_dest": null,
+    "created": "2023-10-19T18:03:17",
+    "author": "Internal_Engineer_74",
+    "subreddit": "singularity",
+    "num_comments": 10,
+    "ups": 52,
+    "upvote_ratio": 0.9700000286102295,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

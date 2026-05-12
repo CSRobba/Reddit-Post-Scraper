@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water",
+    "title": "Every funko pop you see in the background of an anti-ai influencer requires as much water to produce as 200 years of prompting an AI",
+    "id": "1nausas",
+    "body": "Now that we have actual measurements for energy and water usage of AI datacenters,  \nI thought it would be fun to compare them to the production of a funko pop, cos a lot of anti-ai influencers seem to have more and more build up in the background whenever they have some new pseudery to preach.  \nTurns out a funko pop requires 11,019x more energy and 73,000x more water per prompt.  \nIt would take you 200 years of prompting every day to reach the same water usage of 1 funko pop and 30 years for energy.  \n  \nA standard funko pop weighs 170g, and a super size weighs in at around 283g. We'll ignore the super size. The inks take up some of the mass, and maybe they don't contain water, so to be conservative and make the math easier to follow, let's just call it 100g.  \nSuspension-PVC manufacturing uses 77.2 MJ of embodied energy per kg of PVC.  \n77.2MJ/kg x 0.1kg = 7.72MJ. Converting that to watt-hours: 7.72MJ x (1kWh/3.6MJ) = 2.144 kWh  \nMDPI says the injection molding process requires 5 kWh/kg. For 0.10 kg, this would be 0.50 kWh, which brings it to 2.644 kWh.  \n  \nAccording to Rwsci, PVC production requires 180L of water per kg. [watercalculator.org](http://watercalculator.org) says 290L. We'll take the conservative estimate. 180L/kg x 0.1kg=18L  \nAdding insult to injury, according to the Ecolnvent Dataset, for every kg of PVC, factories require 0.011 cubic meters of water for cooling. So 0.011 m³ = 11 L (since 1 m³ = 1,000 L)  \nFor a 0.1 kg Funko Pop: 11L/kg x 0.1kg=1.1L.  \nTotal: 19.1L  \n  \nI had to use log scale for the graph because otherwise the bars for gemini prompts get rounded down to 0 pixels.  \nFor energy usage, the assumption here is that the Co2 emissions of plastic production from fossil fuels are the same as an AWS/Azure datacenter that runs on renewables.  \n  \nEmbodied energy for PVC production: [https://en.wikipedia.org/wiki/Embodied\\_energy#In\\_common\\_materials](https://en.wikipedia.org/wiki/Embodied_energy#In_common_materials)  \nInjection molding energy for PVC forming: [https://www.mdpi.com/2073-4360/16/21/3097](https://www.mdpi.com/2073-4360/16/21/3097)  \nPVC production water requirements: [https://responsiblewaterscientists.wordpress.com/2017/06/16/the-water-footprint-of-plastics/](https://responsiblewaterscientists.wordpress.com/2017/06/16/the-water-footprint-of-plastics/)  \nPVC cooling water requirements: [https://www.sciencedirect.com/science/article/abs/pii/S0959652615010501](https://www.sciencedirect.com/science/article/abs/pii/S0959652615010501)  \nEnergy and water usage per gemini prompt: [https://arxiv.org/abs/2508.15734](https://arxiv.org/abs/2508.15734)",
+    "url": "https://i.redd.it/acjvhjhv6rnf1.png",
+    "url_overridden_by_dest": "https://i.redd.it/acjvhjhv6rnf1.png",
+    "created": "2025-09-07T07:34:52",
+    "author": "UwU_Spank_Me_Daddy",
+    "subreddit": "DefendingAIArt",
+    "num_comments": 36,
+    "ups": 260,
+    "upvote_ratio": 0.8799999952316284,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "y"
+    }
+}

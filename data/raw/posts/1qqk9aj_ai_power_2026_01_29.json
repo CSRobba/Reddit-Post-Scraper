@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "What happens to power prices if the AI bubble pops? [OC]",
+    "id": "1qqk9aj",
+    "body": "Are you hedging against a potential data center bust? Just like the interconnection queues, no one believes all the data centers in the load queues will get built. ERCOT already applies a \\~50% reduction to its data centers based on historical operating data.\n\nWe scraped announced data centers, which represent the highest likelihood portion of the load queue, since developers are more willing to announce them publicly. Then we applied our proprietary risking methodology to consider supply and transmission constraints. \n\nUncertainty underpins every forecast and investors need to understand the risk of fewer data centers coming online. What if investors get nervous and put the brakes on building more? What if grid constraints drive investors towards behind-the-meter solutions?\n\nIf we flex future demand and assume fewer data centers come online than our base expectation, here's how we see it impacting prices.",
+    "url": "https://i.redd.it/zw675dlzmcgg1.png",
+    "url_overridden_by_dest": "https://i.redd.it/zw675dlzmcgg1.png",
+    "created": "2026-01-29T12:35:53",
+    "author": "Orennia",
+    "subreddit": "dataisbeautiful",
+    "num_comments": 6,
+    "ups": 0,
+    "upvote_ratio": 0.25999999046325684,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

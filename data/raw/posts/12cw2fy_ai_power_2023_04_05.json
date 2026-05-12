@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Unlocking the Power of Confidential dApps now: Oasis and Personal.ai Partnership",
+    "id": "12cw2fy",
+    "body": "[Oasis Network's partnership with Personal.ai](https://oasisprotocol.org/blog/oasis-personal-ai-privacy) is beginning to bear fruit, as the integration of the Sapphire parallel runtime, or ParaTime, on the Oasis Network is enabling critical features for personal.ai and its users.\n\nAt the heart of the partnership between Oasis and Personal.ai is the Sapphire parallel runtime, which is a confidential EVM-compatible runtime for building confidential decentralized applications. For Personal.ai and its users, integrating Sapphire enables several critical features:\n\nFirstly, contributors can consent to third-party use of their data, which is encrypted using the blockchain as the root of trust. Encryption happens through the Sapphire Key Manager, which generates the encryption keys. Access to data is always guarded by checking consent and registering access requests and grants on-chain.\n\nSecondly, creators can mint a confidential NFT backed by their trained AI avatar on-chain. The NFT is a tradable commodity where the ability to interact with a given AI avatar is predicated on buying the corresponding NFT.\n\nThirdly, all customers can track the third-party use of both their data and their AI avatars. This capability ensures that there is a transparent incentive model to monitor and understand compensation on a trustless network.\n\n[A live demo of Personal AI, MODEL-1](https://www.personal.ai/live), will take place on Tuesday, April 11th at 1 pm PDT. Two of Personal.ai's co-founders, Suman Kanuganti (CEO) and Sharon Zhang (CTO) will showcase Personal AI's capabilities. \n\nInterested individuals can [register now](https://lu.ma/pailive411?from=embed) to get access to a demo version of the platform.",
+    "url": "https://www.reddit.com/r/ArtificialInteligence/comments/12cw2fy/unlocking_the_power_of_confidential_dapps_now/",
+    "url_overridden_by_dest": null,
+    "created": "2023-04-05T13:01:16",
+    "author": "Milana_Everstake",
+    "subreddit": "ArtificialInteligence",
+    "num_comments": 5,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

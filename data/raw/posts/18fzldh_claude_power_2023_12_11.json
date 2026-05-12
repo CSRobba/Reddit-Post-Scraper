@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "Recent Anthropic Research Tells that You can Increase LLMs Recall Capacity by 70% with a Single Addition to Your Prompt: Unleashing the Power of Claude 2.1 through Strategic Prompting",
+    "id": "18fzldh",
+    "body": "This is somewhat interesting.  If you cheat and tell the AI \"This is the most relevant sentence:\" it can almost always find it, anywhere in its 200k context.  Of course, if you knew where the most relevant information in a textbook was, you wouldn't be asking the AI, or you'd be providing a smaller context.\n\nBut this makes me wonder if the current benchmarks are overstating the degree to which LLMs have difficulty finding information in a large context because of their methodology.  Most benchmarks seem to insert an out-of-context sentence in different places within a large work, then ask the LLM to find the needle in the haystack.  But what if the attention mechanism is evaluating the needle in context, finding it irrelevant to the surrounding context, and thus not paying attention to it?\n\nIs anyone aware of a study that does needle-in-the-haystack analysis, but actually looks for information that is in context with its surroundings?  Maybe a Hay-in-the-haystack analysis would provide a more real-world view of how people actually use the system.  If I fill the context with Paul Graham Essays, I'm probably going to ask it questions about his writing, not about where to eat in San Francisco.",
+    "url": "https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/",
+    "url_overridden_by_dest": "https://www.marktechpost.com/2023/12/09/recent-anthropic-research-tells-that-you-can-increase-llms-recall-capacity-by-70-with-a-single-addition-to-your-prompt-unleashing-the-power-of-claude-2-1-through-strategic-prompting/",
+    "created": "2023-12-11T09:16:41",
+    "author": "Ok_Neighborhood_1203",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

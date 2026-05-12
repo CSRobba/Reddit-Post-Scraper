@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "What do you use to power/setup AI agents?",
+    "id": "1omdio2",
+    "body": "Hey everyone! I’m a senior dev at a product team and we’re currently shipping a user-facing AI-powered app. We’re trying to decide how best to handle the agent or workflow layer behind the scenes and I’d love to hear how others are doing it in production.\n\nPlease do also leave a comment, if possible:\nWhy did you choose that approach (speed to market, cost, control, reuse, etc.)?\n\nWhat’s been the biggest pain point since going to production (latency, cost, maintainability, monitoring, etc.)?\n\nIf you could rewind time, would you pick a different path? Why or why not?\n\nIf you switched approaches, what triggered the change?\n\nThanks in advance! I know this community has excellent experience in scaling AI apps, so any insights are really appreciated!\n\n[View Poll](https://www.reddit.com/poll/1omdio2)",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1omdio2/what_do_you_use_to_powersetup_ai_agents/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-02T02:01:50",
+    "author": "anshu_9",
+    "subreddit": "LLMDevs",
+    "num_comments": 0,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "ChatGPT integration in Slack (Google Cloud environment)",
+    "id": "1cd3lwa",
+    "body": "Hello,\n\nWe developed a quick and dirty Slack bot with ChatGPT, but realized that we can't maintain the context/message history from conversations.  I've found a couple of codes in GitHub with AWS integration, but we are a Google Workspace shop and I'd rather stick with our environment (and we're already paying for that service). \n\nHas anyone seen anything in GitHub that we could use in order to achieve what we're looking for?",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cd3lwa/chatgpt_integration_in_slack_google_cloud/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-25T14:38:45",
+    "author": "ThePhoenix74",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

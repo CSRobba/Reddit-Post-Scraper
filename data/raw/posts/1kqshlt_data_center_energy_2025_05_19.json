@@ -1,0 +1,19 @@
+{
+    "query_term": "data center energy",
+    "title": "What % of hyperscaler data center workloads go to scientific simulations (e.g., pharma, weather, energy)?",
+    "id": "1kqshlt",
+    "body": "Hi all — I’m trying to understand the current footprint of non–Gen AI workloads like scientific simulations (e.g., pharma modeling, energy systems, weather forecasting) in hyperscaler data centers (e.g., AWS, Azure, Google Cloud).\n\nRoughly what portion of total compute or workloads do these account for? Are we talking closer to 1%, 10%, or even 20% of usage?\n\nAny directional insight would be super helpful. Thanks in advance!",
+    "url": "https://www.reddit.com/r/datacenter/comments/1kqshlt/what_of_hyperscaler_data_center_workloads_go_to/",
+    "url_overridden_by_dest": null,
+    "created": "2025-05-19T18:08:10",
+    "author": "lmobydickt",
+    "subreddit": "datacenter",
+    "num_comments": 3,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

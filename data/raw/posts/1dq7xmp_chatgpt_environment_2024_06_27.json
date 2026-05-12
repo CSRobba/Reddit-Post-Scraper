@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT environment",
+    "title": "Best way to have ChatGPT have context around my development environment?",
+    "id": "1dq7xmp",
+    "body": "Hi Reddit,\n\nI write a lot of code to generate reports and I build lots of mini/internal apps for running my company, and I have a big, complex SQL database that I often need to interact with, 20-30 tables with 20-30 columns each, plus I have some custom code that I want it to use when writing mini-apps that interact with my data, etc. basically, a lot of custom requirements.\n\nWhen I \"load up\" a ChatGPT chat thread with a lot of this context and then ask for help, it seems to work, but of course, that's quite annoying to do every time. \n\nI've tried the \"Make a GPT\" route, but I can only fit like 60% of my SQL table definitions into the instructions. Are Knowledge/Files a decent way to store this information? When I tried it in a different test uploading a bunch of data, it failed to find necessary information in the files when asked. \n\nI've seen Claude's new \"Projects\" too, has anyone tried that vs. \"Make a GPT\" ? Is there a better way to do this type of task? Any other apps that can do this type of task?\n\nThanks Reddit!",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1dq7xmp/best_way_to_have_chatgpt_have_context_around_my/",
+    "url_overridden_by_dest": null,
+    "created": "2024-06-27T18:38:19",
+    "author": "karanatwingassistant",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

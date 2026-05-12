@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Is AI actually bad for the environment or are we overreacting?",
+    "id": "1s2a52u",
+    "body": "I’ve been reading a lot about AI lately, and one thing that keeps coming up is its environmental impact.\n\nOn one hand, AI models (especially large ones) need massive data centers. These consume a lot of electricity, require cooling systems, and in some regions even depend on non-renewable energy. Training a single large model can use as much energy as thousands of households over time.\n\nBut on the other hand, AI is also being used to *reduce* environmental impact.\n\nSo it feels like a bit of a paradox.\n\nAI increases energy consumption, but it can also help industries become more efficient and sustainable.",
+    "url": "https://www.reddit.com/r/artificial/comments/1s2a52u/is_ai_actually_bad_for_the_environment_or_are_we/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-24T03:35:54",
+    "author": "PuzzleheadedHeat5792",
+    "subreddit": "artificial",
+    "num_comments": 73,
+    "ups": 9,
+    "upvote_ratio": 0.5899999737739563,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

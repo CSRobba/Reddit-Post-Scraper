@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "No, AI Art Isn’t Killing the Environment - Here's the Data",
+    "id": "1mlvvwe",
+    "body": "Training a major art model once uses roughly the same electricity as about 20 gaming PC non-stop for a year\\[[1](https://huggingface.co/blog/carbon-emissions-on-the-hub)\\], which now serves millions of people. Generating an image after that typically takes only a few watt-hours on modern hardware, about the same as running a LED light bulb for an hour\\[[2](https://arxiv.org/pdf/2506.17016v1)\\], so even at millions of images a day it is negligible compared to the energy global data centers burn through\\[[3](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines)\\].\n\nAnd water usage? Data centers aren't AI factories, they also power social media, banking, streaming and more\\[[4](https://sustainability.google/reports/google-2023-environmental-report/)\\]. Blaming AI art for that water usage is like blaming one table at a restaurant for the kitchen's water bill\\[[5](https://arxiv.org/abs/2304.03271)\\] and if you run it locally (which many do), you’re not even in the restaurant.\n\n**If AI is ‘killing the planet’, then your Twitter feed, YouTube playlists, and email inbox have destroyed the entire solar system first.**\n\n**Sources:**  \n\\[1\\] [Hugging Face: Carbon Emissions on the Hub](https://huggingface.co/blog/carbon-emissions-on-the-hub) \\- Stable Diffusion XL training took \\~150,000 GPU-hours on 256 A100 GPUs, roughly 60 MWh of compute energy before cooling/overhead.  \n\\[2\\] [Quantifying the Energy Consumption of AI Image Generation](https://arxiv.org/pdf/2506.17016v1) \\- Image generation inference is typically in the low single-digit watt-hours per image on modern hardware.  \n\\[3\\] [ The carbon footprint of streaming video: fact-checking the headlines](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) \\- Global data centres used \\~415 TWh in 2024, making large-scale AI image generation a tiny fraction of total usage  \n\\[4\\] [Google: Environmental Report 2023](https://sustainability.google/reports/google-2023-environmental-report/) \\- Most data center load is from non-AI workloads, a pattern unlikely to have shifted significantly in the past year.  \n\\[5\\] [Making AI Less Thirsty](https://arxiv.org/abs/2304.03271) \\- \\~500 ml water for 10–50 GPT-3 prompts in worst-case scenarios.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1mlvvwe/no_ai_art_isnt_killing_the_environment_heres_the/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-09T11:00:59",
+    "author": "story_of_the_beer",
+    "subreddit": "aiwars",
+    "num_comments": 81,
+    "ups": 97,
+    "upvote_ratio": 0.7799999713897705,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "chandana": "y"
+    }
+}

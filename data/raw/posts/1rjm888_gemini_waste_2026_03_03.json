@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini waste",
+    "title": "Wiring GPT/Gemini into workflows for document extraction is a 100% waste of your resources. Do this instead.",
+    "id": "1rjm888",
+    "body": "If you’re serious about reliability, throughput, and cost, you should build a lightweight image-to-markdown model instead.\n\nHere is a guide on why you should do it. [Link](https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/)\n\nAnd here is a guide on how you should do it:  \n  \n1. Host it wherever you’re already comfortable. Run it on your own GPUs or a cloud instance.  \n  \n2. Pick a base model. Try a few and see what works best for your docs. Common starting points: Qwen2.5-VL, Donut, Pix2Struct, Nougat, PaliGemma.  \n  \n3. Bootstrap with public document data.  \n  \nThere are already solid datasets out there: PubTabNet for tables, PubLayNet for layouts, FUNSD for forms, SROIE for receipts and invoices, DocVQA for document understanding. Start by sampling on the order of 10k to 50k pages total across these, then scale if your evals are still improving.  \n  \n4. Get more accurate by training on synthetic data.  \n  \nFine-tune with LoRA. Generate tens of thousands of fake but realistic pages. Start clean, then slowly mess them up: blur, skew, low DPI scans, rotated pages, watermarks. After that, add a smaller set of real scans that humans have corrected. Don’t forget to teach the model to say <illegible> instead of guessing.  \n  \n5. Lock in an output schema.  \n  \nDecide how tables look (HTML), how equations are represented (LaTeX), how you tag things like signatures, stamps, checkboxes, page numbers. Keep the schema stable so downstream systems don’t break every week.  \n  \n6. Test at three levels. Text accuracy (CER/WER), structure accuracy (tables, reading order), tag accuracy (signatures, stamps, page numbers).  \n  \nOnce this is running, cost drops to $0.001 to $0.005 per page and throughput becomes predictable.",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1rjm888/wiring_gptgemini_into_workflows_for_document/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-03T02:50:22",
+    "author": "Cool-Ad4442",
+    "subreddit": "learnmachinelearning",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

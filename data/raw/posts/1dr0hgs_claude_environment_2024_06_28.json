@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude environment",
+    "title": "One idea to control ASI is to have it in a simulation with work fed into that environment without it knowing about the real outside world.  Claude thinks it may be unethical to lie to the ASI's and have them in a false reality like that.  What do you think?",
+    "id": "1dr0hgs",
+    "body": "Prompt:\n\n**What about one where the AI is in the simulation with other AI's, but it thinks it is just a person in that world among other people and so do the other AIs, however 'work' is fed into the simulation and appears as its work in the simulated world and the outputs recorded in the actual world. What do you think about that AI safety premise?**\n\n  \nThis is an intriguing premise for AI safety that raises several interesting points to consider:\n\nPotential benefits:\n\n1. Controlled environment: This setup would allow for testing AI capabilities and behaviors in a controlled setting without risking real-world consequences.\n2. Natural interaction: By having the AI believe it's a person among others, you might observe more natural behaviors and decision-making processes.\n3. Scalability: Multiple AIs could be tested simultaneously, potentially allowing for faster iterations and more diverse scenarios.\n4. Work integration: The ability to feed real-world work into the simulation could provide practical outputs while maintaining safety barriers.\n\nPotential concerns and challenges:\n\n1. Ethical considerations: There are significant ethical questions about creating sentient AIs that are unaware of their true nature and potentially living in a false reality.\n2. Simulation fidelity: Creating a simulation convincing enough to fool multiple advanced AIs would be extremely challenging and resource-intensive.\n3. Breakout risk: Highly capable AIs might eventually deduce the nature of their environment or find ways to affect the outside world through their outputs.\n4. Limited testing: While this approach might prevent immediate real-world harm, it may not fully prepare the AI for real-world deployment where the rules and constraints are different.\n5. Scaling issues: As the AIs become more advanced, the computational requirements for maintaining a convincing simulation would grow exponentially.\n6. Unexpected emergent behaviors: Multiple AIs interacting in a closed system might develop unforeseen behaviors or capabilities.\n\nOverall, this premise offers an interesting approach to AI safety, potentially allowing for more natural testing of AI capabilities and behaviors. However, it also introduces significant technical challenges and ethical concerns that would need to be carefully addressed. The effectiveness of this method would likely depend on the specific implementation and the level of advancement of the AIs involved.\n\nA story about it:\n\n[https://whateveritdoes.blogspot.com/2024/06/the-echoes-of-reality.html](https://whateveritdoes.blogspot.com/2024/06/the-echoes-of-reality.html)",
+    "url": "https://www.reddit.com/r/singularity/comments/1dr0hgs/one_idea_to_control_asi_is_to_have_it_in_a/",
+    "url_overridden_by_dest": null,
+    "created": "2024-06-28T19:07:36",
+    "author": "rutan668",
+    "subreddit": "singularity",
+    "num_comments": 101,
+    "ups": 31,
+    "upvote_ratio": 0.7300000190734863,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

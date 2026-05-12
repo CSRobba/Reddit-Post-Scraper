@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Approximating the power of the most powerful AI training systems for 2023 and 2025",
+    "id": "11x1rwg",
+    "body": "I'm trying to wrap my head around how quickly LLMs are growing in capability, with the goal of having intelligent conversations with those who know more, and less, than I do about AI. I'm not a programmer or engineer, but I follow the tech from a social-political perspective. \n\nI keep hearing people say things like, \"I asked ChatGPT to do X, and it didn't do a very good job, so I don't see this affecting my life any time soon.\" \n\nI want to be able to reply with, \"Sure, but by this summer the systems used to train LLMs will likely be X times more powerful, and by summer 2025 they might easily be Y times more powerful, so you may want to plan a bit.\"\n\nI was reading OpenAI's paper about how AI systems have been on average doubling in power every 3.4 months since 2012. [https://openai.com/research/ai-and-compute](https://openai.com/research/ai-and-compute) . I assume we're at the steep bit of a bell curve, yet it sounds like we'll have at least a few more doublings before things slow down. \n\nI was also listening to a podcast about how the algorithmic efficiency of ML systems is \"doubling roughly every 9 months.\" Any thoughts on that? \n\nLastly, I was reading about Nvidia's new h100 GPUs, said to be 7x faster than their A100 GPUs. \n\nAnd of course with all the attention on AI, the amount of money for building ML systems has increased substantially. \n\nIs it reasonable for me to simply do my napkin math as such: (?)\n\nSystems built this year will be:\n\n1. Roughly 7x faster/more powerful per unit of investment thanks to hardware\n2. Multiplied by at least one doubling of algorithmic efficiency \n3. Multiplied by likely bigger systems\n4. = this year's LLM training systems could be 15-30 X (ish) more powerful than the system used to train GPT-4? \n\nWhat else do I need to take into account? Any major flaws so far? I realize that OpenAI and other organizations might not keep going bigger, so the same argument could be: \"By this summer it will be 15-30x cheaper to train LLMs than when OpenAI trained GPT-4\" \n\nI'm not trying to make a prediction, I just want to make a defensible argument that the LLMs of later this year and 2025 might be a lot more capable than GPT-4. \n\nThanks for your thoughts!",
+    "url": "https://www.reddit.com/r/OpenAI/comments/11x1rwg/approximating_the_power_of_the_most_powerful_ai/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-20T17:45:01",
+    "author": "radicalceleryjuice",
+    "subreddit": "OpenAI",
+    "num_comments": 3,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "Llama environment",
+    "title": "Can't figure out how to install llama-cpp-python with cuBLAS enabled for my Anaconda python environment on Windows",
+    "id": "1bh0nhq",
+    "body": "I'm aware of instructions by TheBloke [https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF](https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF)\n\nand Langchain [https://python.langchain.com/docs/integrations/llms/llamacpp](https://python.langchain.com/docs/integrations/llms/llamacpp)\n\nHowever I seem to fail setting the necessary variables using the Anaconda command prompt on Windows. I do:\n\n&#x200B;\n\nset FORCE\\_CMAKE=1\n\nset CMAKE\\_ARGS=-DLLAMA\\_CUBLAS=ON\n\npip install llama-cpp-python\n\n&#x200B;\n\nBut this gives me a non-cuda installation and my models end up not using GPU offloading. Langchain's website says to build llama-cpp-python from source then install with pip but is it necessary? What's the easiest way to get installation to work in a Windows Anaconda environment? Thanks",
+    "url": "https://www.reddit.com/r/LLMDevs/comments/1bh0nhq/cant_figure_out_how_to_install_llamacpppython/",
+    "url_overridden_by_dest": null,
+    "created": "2024-03-17T08:43:14",
+    "author": "UnrealQuestions0",
+    "subreddit": "LLMDevs",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

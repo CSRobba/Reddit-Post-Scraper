@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT power",
+    "title": "Beyond Generating Text: The True Power of ChatGPT and InstructGPT in particular",
+    "id": "10llzx9",
+    "body": "With all the hype surrounding ChatGPT, I feel compelled to tone it down a bit. While it is certainly impressive and almost magical that a computer can generate human-like text, it reminds me of the excitement we felt when we first used numbers on a calculator to write words. It's cool, but not particularly useful. Generating emails or taglines for you may be somewhat useful, but once you discover the true power of ChatGPT, that excitement will be put into perspective.  \n\n\nChatGPT, developed by OpenAI, is based on GPT-3, InstructGPT, and fine-tuning with Reinforcement Learning from Human Feedback (RLHF). GPT-3 introduced the ability to complete texts based on input prompts, while InstructGPT allowed for more flexible prompt engineering and the ability to instruct the model to complete cognitive tasks as instructed. RLHF allowed OpenAI to further refine the model to make it useful for the general public and safer to use. The combination of all these elements resulted in the chat interface we see today.  \n\n\nAs you learn how to instruct ChatGPT, you will transition from writing silly words on the calculator to performing advanced calculations. To do this, we must first understand how generative AI models work. In simple terms, OpenAI first gathered a large textual dataset and trained the model on it. The output of this process is essentially a cloud or network of points that are co-connected, representing the semantic relationships between words and grouping them in close proximity.  \n\n\nWhen you start your ChatGPT input with the words \"Act as Gollum,\" the model is essentially priming itself to a specific location within this cloud of semantic concepts. As it progresses to the next sentences, it narrows its path to be in proximity to the semantic area you wanted it to be in. If you don't prime it, it will randomly wander in the latent spaces. This is why you may get vastly different outputs when repeating the same short prompt. The more specific you are in priming it, the more deterministic the output will be.  \n\n\nFor example, if we append \"Where is the ring?\" to the above priming, it will respond \"My precious, the ring is mine. It is mine, and I want it.” But if we avoid the initial priming, we'll only get \"I am sorry, I am an AI language model...\"  \n\n\nThis will allow you to engineer the prompt to your desire and debug it. Give it a try for yourself. You'll find that generating text is actually its weakest link as it’s just a good and believable liar. Understanding instructions is its true strength. If you want to try out some advanced cognitive prompt, here's an example to play with: [https://gist.github.com/Livshitz/94103f88e58d66a2ae2176b5e5fefc61](https://gist.github.com/Livshitz/94103f88e58d66a2ae2176b5e5fefc61)  \n\n\nIts ability to properly and deterministically follow instructions and to stick with factual outputs is still a long way to go, but definitely, an exciting time to be in.  \n\n\nAnd, no, ChatGPT wasn’t used to generate this post, but rather to rephrase this a bit and validation of some points.\n\n&#x200B;\n\nhttps://preview.redd.it/rw8lh5og6cea1.png?width=2000&format=png&auto=webp&v=enabled&s=0124f2eb0bc0bb4aa1ffdfbead2db5b2970ea3a4",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/10llzx9/beyond_generating_text_the_true_power_of_chatgpt/",
+    "url_overridden_by_dest": null,
+    "created": "2023-01-25T23:01:57",
+    "author": "livDot",
+    "subreddit": "ChatGPT",
+    "num_comments": 2,
+    "ups": 8,
+    "upvote_ratio": 0.8999999761581421,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

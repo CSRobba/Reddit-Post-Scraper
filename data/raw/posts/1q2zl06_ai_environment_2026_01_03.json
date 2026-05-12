@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Running Multiple AI Coding Agents in Parallel with Full Dev Environment (not git-worktree!)",
+    "id": "1q2zl06",
+    "body": "This is how I run multiple Claude Code agents in parallel, each with their own isolated environment (database, frontend, backend). Great for parallelizing feature work or trying multiple approaches.\n\n**How it Works**\n\n1. Dashboard spawns workers via docker compose with a unique project name (project-brave-fox)\n2. Each Worker Container clones the repo, auto-generates a branch from the task description, installs deps\n3. Process Manager (TypeScript) orchestrates:\n   * Claude CLI in headless mode (--output-format stream-json)\n   * Backend/frontend dev servers (on-demand via tmux)\n   * WebSocket connection back to dashboard\n4. Claude output streams to dashboard in real-time\n5. When Claude needs permission/approval, dashboard shows notification + buttons\n6. Each worker gets its own PostgreSQL with proper schema\n\n**Architecture**\n\nhttps://preview.redd.it/ktnva629z5bg1.png?width=1052&format=png&auto=webp&s=e831c4d98d37d9b4024a42f7a1621fa3c122b54e\n\nWorkers are spawned from a docker-compose so pretty much any stack can be run.\n\n**Key Design Decisions**\n\n* Memorable worker names (brave-fox, swift-eagle) instead of UUIDs\n* On-demand services: Backend/frontend only start when needed (saves resources)\n* ttyd web terminal: Debug workers via browser (:7681)\n* Git push approval: Human-in-the-loop before any remote push\n* Auto branch naming: feat/add-user-auth-20240115... generated from task\n\n**Stack**\n\n* Dashboard: Fastify + React + Vite + WebSocket\n* Workers: Docker + Bun + tmux\n* Agent: Claude Code CLI in headless mode\n\nPretty useful when you want to try 3 different approaches to a feature simultaneously, or parallelize independent tasks across a codebase.\n\n  \nIt was built in a couple of hours prompting with claude code.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1q2zl06/running_multiple_ai_coding_agents_in_parallel/",
+    "url_overridden_by_dest": null,
+    "created": "2026-01-03T11:55:19",
+    "author": "zxcvbk",
+    "subreddit": "ClaudeAI",
+    "num_comments": 8,
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI sustainable",
+    "title": "My AI-powered NPCs teach sustainable farming with Gemma 3n – all local, no cloud, fully open source!",
+    "id": "1mgfcwe",
+    "body": "👋 Hey folks! I recently built an open-source 2D game using **Godot 4.x** where **NPCs are powered by a local LLM** — Google's new **Gemma 3n** model running on **Ollama**.\n\n🎯 The goal: create private, offline-first educational experiences — in this case, the NPCs **teach sustainable farming and botany** through rich, Socratic-style dialogue.\n\n💡 It’s built for the [Google Gemma 3n Hackathon](https://www.kaggle.com/competitions/google-gemma-3n-hackathon), which focuses on building real-world solutions with on-device, multimodal AI.\n\n## 🔧 Tech stack:\n- **Godot 4.x (C#)**\n- **Ollama** to run Gemma 3n locally (on LAN or localhost)\n- **Custom NPC component** for setting system prompts + model endpoint\n- No cloud APIs, no vendor lock-in — everything runs locally\n\n## 🔓 Fully Open Source:\n- GitHub: [https://github.com/code-forge-temple/local-llm-npc](https://github.com/code-forge-temple/local-llm-npc)\n\n## 📹 2-minute demo video:\n👉 [Watch here](https://www.youtube.com/watch?v=kGyafSgyRWA)\n\n---\n\n🙏 Would love your feedback on:\n- Potential to extend to other educational domains after the hackathon\n- Opportunities to enhance accessibility, local education, and agriculture in future versions\n- Ideas for making the AI NPC system more modular and adaptable post-competition\n\nThanks for checking it out! 🧠🌱",
+    "url": "https://www.reddit.com/r/ollama/comments/1mgfcwe/my_aipowered_npcs_teach_sustainable_farming_with/",
+    "url_overridden_by_dest": null,
+    "created": "2025-08-03T05:50:52",
+    "author": "Code-Forge-Temple",
+    "subreddit": "ollama",
+    "num_comments": 5,
+    "ups": 71,
+    "upvote_ratio": 0.9700000286102295,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

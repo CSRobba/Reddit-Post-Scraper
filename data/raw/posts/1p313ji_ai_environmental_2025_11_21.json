@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environmental",
+    "title": "[OC] StormGPT: AI-Powered Environmental Visualization Dataset (NOAA, NASA, USGS, EPA Integration)",
+    "id": "1p313ji",
+    "body": "Visualization created using **StormGPT**, an AI-driven environmental intelligence system that integrates data from **NOAA**, **NASA**, **USGS**, **EPA**, and **FEMA**.  \nThis map illustrates a **100-year storm scenario in California**, showing projected inundation zones and coastal flood risk modeling.\n\n**Tools:** Cesium, Leaflet, Python (Matplotlib, Pandas)  \n**Data Sources:** NOAA NCEI, NASA Earthdata, USGS Water Data, EPA Envirofacts  \n**More visual datasets:** [StormGPT Environmental Intelligence on Kaggle]()",
+    "url": "https://i.redd.it/ron5yppllm2g1.png",
+    "url_overridden_by_dest": "https://i.redd.it/ron5yppllm2g1.png",
+    "created": "2025-11-21T10:10:14",
+    "author": "storm-intel",
+    "subreddit": "dataisbeautiful",
+    "num_comments": 20,
+    "ups": 0,
+    "upvote_ratio": 0.07999999821186066,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

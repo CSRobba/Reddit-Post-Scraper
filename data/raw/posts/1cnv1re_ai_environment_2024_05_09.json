@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Thoughts on how to implement AI characters into a VR environment?",
+    "id": "1cnv1re",
+    "body": "Any info about projects even remotely related to this would be greatly appreciated. I’m sorta just thinking out loud here but if the VR player was in a fixed position and there was a set floor plan with a living room, kitchen and maybe a balcony couldn’t we create an animated 3d character doing 50 or so different sequences and then overlay our AI character onto the mesh of the animated character and compile the sequences into the game? ",
+    "url": "https://www.reddit.com/r/StableDiffusion/comments/1cnv1re/thoughts_on_how_to_implement_ai_characters_into_a/",
+    "url_overridden_by_dest": null,
+    "created": "2024-05-09T04:34:14",
+    "author": "JfiveD",
+    "subreddit": "StableDiffusion",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

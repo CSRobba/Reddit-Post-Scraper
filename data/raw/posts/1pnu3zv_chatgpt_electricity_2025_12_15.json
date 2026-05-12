@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT electricity",
+    "title": "Is ChatGPT lying about electricity consumption? It says spend same energy per inquiry like google search",
+    "id": "1pnu3zv",
+    "body": "Yep — for 1,000 questions, we can compare using the best-known published per-query estimates (they vary a lot, so I’ll show ranges).\n\nElectricity for 1,000 inquiries (Wh and kWh)\n\nWhat this means\n\n\t•\tUsing newer estimates, 1,000 ChatGPT questions is roughly about the same electricity as 1,000 Google searches (both around 0.3 kWh)  ￼\n\n\t•\tUsing the older “10×” estimate, ChatGPT could be \\~10× higher (2.9 kWh vs 0.3 kWh)  ￼\n\nIf you tell me which comparison you want to treat as “official” (modern typical vs older 10× claim), I can also convert these into cost (MXN/USD) using a typical electricity rate.",
+    "url": "https://i.redd.it/oblf36dh6i7g1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/oblf36dh6i7g1.jpeg",
+    "created": "2025-12-15T21:36:31",
+    "author": "cejno",
+    "subreddit": "ChatGPT",
+    "num_comments": 4,
+    "ups": 0,
+    "upvote_ratio": 0.20000000298023224,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

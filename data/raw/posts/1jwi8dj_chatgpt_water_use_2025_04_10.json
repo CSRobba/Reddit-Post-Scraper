@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT water use",
+    "title": "I asked ChatGPT to summarize the CRS report on California's water use",
+    "id": "1jwi8dj",
+    "body": "Link to [report](https://sgp.fas.org/crs/misc/R44093.pdf).\n\nHere's what it said:\n\nBelow is a short synthesis of what the report says about how much water is used for crops raised to feed livestock (alfalfa, irrigated pasture, corn silage, etc.) versus crops primarily grown for direct human consumption (such as almonds, rice, and other fruits/vegetables). The report itself does not set up a strict “feed vs. human consumption” breakdown but provides enough acreage and water‐application data to see some clear trends:\n\nAlfalfa and Pasture Are Major Water Users.\n• The CRS report highlights that alfalfa alone can require among the highest water applications (often 4–5 acre‐feet per acre), and irrigated pasture also accounts for large net water use. One University of California estimate cited (see Figure 10 in the report) shows alfalfa at the very top of net water use (approximately 3.65 million acre‐feet), with irrigated pasture using more than 2 million acre‐feet.\n• Both of these categories are heavily tied to feeding dairy cows and beef cattle, making them an indirect part of “animal agriculture” water use.\n\nCorn (Often for Silage) Also Adds Significantly to “Feed” Demand.\n• In the same UC‐Davis dataset, corn used roughly 1.5 million acre‐feet of net water per year. Although some corn in California is destined for human use, a large share goes to silage.\n\nTallying Feed‐Related Crops vs. Selected Orchard Crops.\n• If you group alfalfa, irrigated pasture, and corn—the principal feed crops—together, you get a larger combined net water total than for any single fruit, nut, or vegetable category. For instance, the UC‐Davis estimates show alfalfa (3.65 MAF) + irrigated pasture (2.27 MAF) + corn (1.5 MAF) approaching 7.4 million acre‐feet.\n• By comparison, almonds and pistachios together are around 2.9 million acre‐feet, and rice is around 1.5 million acre‐feet.\n\nThe Report Does Not Explicitly Compare “Animal Agriculture” vs. “All Human Food” in One Number.\n• Although the tables and figures let you piece together estimates, the report itself doesn’t lump all livestock‐feed crops (alfalfa, pasture, corn silage, various grains) into one category to compare against all “human consumption” crops. Still, the data make it clear that alfalfa and pasture—key livestock‐feed sources—stand out as two of California’s highest water users on a per‐acre basis.\n\nIn short, the CRS report indicates that many of the high‐volume water‐use crops (alfalfa, irrigated pasture, and a good deal of the corn crop) are indeed oriented to feeding livestock (especially dairy), and their combined water footprint can exceed that of individual orchard or vegetable categories. The report thus provides evidence that a sizable share of California’s applied irrigation water goes toward animal feed crops—likely more, in total, than is devoted solely to high‐profile human‐consumption crops like almonds or rice.",
+    "url": "https://www.reddit.com/r/vegan/comments/1jwi8dj/i_asked_chatgpt_to_summarize_the_crs_report_on/",
+    "url_overridden_by_dest": null,
+    "created": "2025-04-10T22:11:58",
+    "author": "D_D",
+    "subreddit": "vegan",
+    "num_comments": 5,
+    "ups": 0,
+    "upvote_ratio": 0.2800000011920929,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

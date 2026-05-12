@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM energy",
+    "title": "[P] A leaderboard for LLM energy efficiency",
+    "id": "14sky1v",
+    "body": "For users and companies that pay their own electricity bills, energy efficiency is an issue that they can't simply ignore. With that said, we just released the first version of the [ML.ENERGY leaderboard](https://ml.energy/leaderboard), providing inference benchmarks for energy, model quality, and more!\n\nThroughout the past one or two years we've been trying to understand and optimize ML energy consumption, viewing it as a first-class metric along with time and model quality. You can find more about what we did in our homepage -- [https://ml.energy](https://ml.energy/). Hopefully an unforgettable URL ;)\n\nWe're basically systems people (more precisely MLSys), and how ML people think about what we do is super important to us. Any kind of feedback is much appreciated. Thanks!!",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/14sky1v/p_a_leaderboard_for_llm_energy_efficiency/",
+    "url_overridden_by_dest": null,
+    "created": "2023-07-06T16:33:46",
+    "author": "jaywonchung",
+    "subreddit": "MachineLearning",
+    "num_comments": 0,
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

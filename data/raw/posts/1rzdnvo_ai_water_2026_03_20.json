@@ -1,0 +1,19 @@
+{
+    "query_term": "AI water",
+    "title": "AI shows promise for flood forecasting and water security in data scarce regions",
+    "id": "1rzdnvo",
+    "body": "New research reveals that \"foundation models\" trained on vast, general time-series data may be able to forecast river flows accurately, even in regions with little or no local hydrological records. The approach could improve flood warnings, drought planning and water-resource management in parts of the world where monitoring data is limited.\n\nThe study, published in *Machine Learning: Earth*, was conducted by researchers from The University of Texas at Austin and Hydrotify LLC.\n\nIn many parts of the world, river gauges are sparse, records are incomplete and monitoring networks are difficult to maintain. Without long, reliable datasets, communities often have little warning before floods, limited insight into drought risk and fewer tools to guide water allocation and infrastructure planning.\n\nAs climate pressures grow, the ability to produce useful forecasts without relying on extensive local records is becoming increasingly important.\n\nThe research team evaluated several advanced AI models known as [time-series foundational models](https://phys.org/news/2025-10-scientists-ai-river-entire-aid.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal) (TSFMs). Originally trained using time series data from sectors such as energy, transport and climate, these TSFMs were tested on a large US river dataset comprising more than 500 basins.\n\nOne model in particular, called Sundial, performed nearly as well as a long-short term memory (LSTM) model that had been fully trained using decades of river flow records. The AI models showed their strongest performance in basins dominated by [strong seasonal patterns](https://phys.org/news/2026-01-ai-climate.html?utm_source=embeddings&utm_medium=related&utm_campaign=internal), such as snowmelt-driven flow.\n\nCommenting on the findings, Dr. Alexander Sun from the University of Texas at Austin and Hydrotify LLC, said, \"Reliable water information is essential for communities everywhere, but many regions still lack the long-term records needed to support traditional forecasting methods. Approaches like this show how new AI tools could help close that gap by giving more places access to data-driven predictions.\n\n\"While there is still progress to be made, especially in more complex river systems, this work points to a future where improved forecasting is possible even in areas that have been underserved for decades.\"",
+    "url": "https://phys.org/news/2026-03-ai-scarce-regions.html",
+    "url_overridden_by_dest": "https://phys.org/news/2026-03-ai-scarce-regions.html",
+    "created": "2026-03-20T17:47:04",
+    "author": "Secure-Technology-78",
+    "subreddit": "artificial",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

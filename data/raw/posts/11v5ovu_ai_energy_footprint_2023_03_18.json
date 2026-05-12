@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy footprint",
+    "title": "Energy footprint of AI image as against a piece of traditional art.",
+    "id": "11v5ovu",
+    "body": "I’m starting to hear some concerns around the computational cost of increasing the “context window” (ie. short-term memory) of, for example, Chat GPT, and that it increases exponentially the more characters you want it to cover (5000 being the current limit for, I believe v3)..\n\nIt got me thinking of what the footprint might be for AI art, vs traditional or even digitally painted art. Let’s assume the final product will end up as a physical canvas print/painting.. anyone care to hazard a guess as to how they might compare?  \n\nI guess you’d then have to then extrapolate to the scenario of billions of pieces being generated via AI.  At least using the current models, might things start to look a little wasteful and ugly? Food for thought, maybe? \n\nDoubtless the arms race for efficiency will fuel further innovations…",
+    "url": "https://www.reddit.com/r/aiwars/comments/11v5ovu/energy_footprint_of_ai_image_as_against_a_piece/",
+    "url_overridden_by_dest": null,
+    "created": "2023-03-18T17:19:10",
+    "author": "Jackadullboy99",
+    "subreddit": "aiwars",
+    "num_comments": 12,
+    "ups": 4,
+    "upvote_ratio": 0.6700000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "DeepSeek electricity",
+    "title": "Looking for Documentation to Run Deepseek R1 (Full & GGUF) Locally – Perfs, Hardware Costs, and Electricity",
+    "id": "1ic3xwr",
+    "body": "Is there any collection of documentation available to run Deekseek R1 (not the distilled versions) on consumer hardware and relatively affordable? I've seen some tweets here and there about people running it on mac mini/studio clusters with Exo... however I'm seeking a comprehensive and comparative list of hardware setup options with perfs (prompt eval and new tokens speed), costs and electricity consumption.\n\nOr is it too soon to bother considering upcoming Mac Studio M4 Ultra and Nvidia Project Digit?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ic3xwr/looking_for_documentation_to_run_deepseek_r1_full/",
+    "url_overridden_by_dest": null,
+    "created": "2025-01-28T07:22:26",
+    "author": "Thireus",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 1,
+    "ups": 3,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

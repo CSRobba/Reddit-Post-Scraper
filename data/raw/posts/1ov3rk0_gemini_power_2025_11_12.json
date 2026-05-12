@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini power",
+    "title": "What’s your favorite Gemini CLI power move?",
+    "id": "1ov3rk0",
+    "body": "Been experimenting with the Gemini CLI lately; it’s like having an AI co-pilot right in your terminal. You can pipe files (`cat report.txt | gemini prompt`), generate summaries, draft SQL, or even integrate with local scripts using function calls. I especially love how it handles JSON mode for structured output and lets you template prompts for repeat tasks.   \n  \nWrote a quick breakdown of cool ways to use it here: [Gemini CLI](https://www.netcomlearning.com/blog/gemini-cli).\n\nWhat’s your favorite Gemini CLI use case so far; code review, data cleanup, or log analysis?",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1ov3rk0/whats_your_favorite_gemini_cli_power_move/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-12T04:25:57",
+    "author": "netcommah",
+    "subreddit": "GeminiAI",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

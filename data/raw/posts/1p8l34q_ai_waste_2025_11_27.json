@@ -1,0 +1,19 @@
+{
+    "query_term": "AI waste",
+    "title": "I kept almost buying cars with hidden problems, so I built an AI to roast them before I waste my money",
+    "id": "1p8l34q",
+    "body": "**Please watch the video for the tool demonstration**\n\nI'm car shopping right now and I swear it's taking years off my life.\n\nEvery car is \"garage kept, adult driven, highway driven with no issues.\" Then you show up and it sounds like a bag of wrenches making love in the engine bay and the dealer hits you with \"just needs an alignment\" when the whole subframe is cooked. (this actually happened)\n\nI'm an AI engineer and this just pissed me off. So I built a tool that does the research and acts as a second set of eyes for me\n\n**You give it:**\n\n* Car details (make, model, year, mileage)\n* Asking price and your offer\n* Whatever docs you have (Carfax, photos, inspection sheets)\n\n**It gives you:**\n\n* Full maintenance history breakdown\n* What's overdue and what's coming up\n* Visual issues from photos (rust, wear, sketchy stuff)\n* Known failure points for that exact model\n* Whether the price is fair or you're getting finessed\n* Total cost of ownership (best case, worst case, \"why did I buy this\" case)\n\n**Evidence of it working:**\n\nI went to see a Infiniti G37xS Coupe. It pulled left and right while driving. Dealer said \"just needs an alignment, easy fix.\"\n\nRan it through my tool today. It looked at the photos, saw subframe corrosion, and said \"that steering issue is because your subframe is rotting. Not an alignment problem. Budget $3.8k.\"\n\nMy mechanic said the exact same thing (asked him prior to the tool). That's when I was like damn this actually works well.\n\n**So what now?**\n\nI'm not open sourcing it rn. The code is held by duct tape and prayers right now and I have some semblance of a professional dignity. But if enough people want to try it, I'll guess I'll either hurry the f up or lose some of my shame and just drop the tool (or kindly ask one of friends to clean it up for beer xD)\n\nIf you're a dealership or business looking at this thinking \"wait this could save us thousands per month on bad inventory\"... yeah... it probably can... probably can replace one of ur better salesmen in auditing/research too xD\n\nAnd if you're within Canada with a clean, reasonably priced fun sports car and want to work out something creative with a guy who can build you automotive AI tools... I'm very open to that conversation. I wanna get to my car creatively hehe\n\nWhat do you think?\n\nYoutube Video: [https://www.youtube.com/watch?v=Gi0-uCox5FM](https://www.youtube.com/watch?v=Gi0-uCox5FM)",
+    "url": "https://www.reddit.com/r/SideProject/comments/1p8l34q/i_kept_almost_buying_cars_with_hidden_problems_so/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-27T19:53:23",
+    "author": "rellycooljack",
+    "subreddit": "SideProject",
+    "num_comments": 0,
+    "ups": 1,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

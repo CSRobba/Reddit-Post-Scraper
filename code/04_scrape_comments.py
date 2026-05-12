@@ -74,8 +74,8 @@ def get_relevant_post_ids(raw_dir_path):
 # currently posts with no comments are stored as empty files 
 # (kept the epty files to track which posts have been processed)
 if __name__ == "__main__":
-  raw_dir_path = os.path.join(WORK_DIR, "raw")  # adjust if needed (this resolves to "../raw")
-  output_dir = os.path.join(WORK_DIR, "raw_comments")
+  raw_dir_path = os.path.join(WORK_DIR, "data/raw/posts")  # adjust if needed (this resolves to "../raw")
+  output_dir = os.path.join(WORK_DIR, "data/raw/comments")
 
   ids = get_relevant_post_ids(raw_dir_path)
 

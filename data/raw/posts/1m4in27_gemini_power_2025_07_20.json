@@ -1,0 +1,19 @@
+{
+    "query_term": "Gemini power",
+    "title": "Gemini's Image Generation: It's an Unannounced Beta Throttling Power Users.?",
+    "id": "1m4in27",
+    "body": "Hey, after weeks of this. I wanted to share a  write-up on the issues plaguing Gemini's image generation for creatives. The service is currently governed by a series of unannounced \"soft locks\" designed to manage high computational costs, effectively making it an unannounced public beta.\n\nThe issues are layered. First, there's a hard session limit of about 10 iterative images before the AI gets stuck in a duplication loop, forcing a new chat. Second, there's a deeper bug where the AI's \"context fatigue\" causes it to ignore small, nuanced edits to prompts even before the loop begins, making fine-tuning impossible. My testing confirms that these limits are specific to the resource-heavy task of image generation, as long text-based chats are unaffected. Furthermore, there's a time-based \"soft lock\" that throws a generic \"Something Went Wrong\" error after about two hours of continuous use to force a cool-down.\n\nThe core problem is the lack of transparency; using fake errors and silent loops instead of clear \"limit reached\" messages is disrespectful to users.",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1m4in27/geminis_image_generation_its_an_unannounced_beta/",
+    "url_overridden_by_dest": null,
+    "created": "2025-07-20T00:10:15",
+    "author": "Maleficent_Weather54",
+    "subreddit": "GeminiAI",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

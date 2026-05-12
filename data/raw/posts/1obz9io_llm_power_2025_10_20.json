@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "Need help understanding how to set up cloud computing, database, and GPU power to train an LLM for my chatbot website (total beginner here)",
+    "id": "1obz9io",
+    "body": "\nI want to build a website that hosts a bunch of chatbots with different personalities, without limits for users to chat with and explore. \n\nI’ve been reading that I’ll need cloud computing, a database for storage, and GPU power to train or run an LLM for my site. I don’t know what this means when it comes to physically implementing.\n\nMy PC: CPU - AMD Ryzen 7 5800X 8-Core Processor \nRAM - 32 GB\nDisk - Samsung SSD 870 EVO 1TB\nGPU - NVIDIA GeForce RTX 3080\n\nAny advice will be appreciate. And feel free to hmu with more info/ideas/clarification etc. ",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1obz9io/need_help_understanding_how_to_set_up_cloud/",
+    "url_overridden_by_dest": null,
+    "created": "2025-10-20T17:58:21",
+    "author": "MrMoldLicker",
+    "subreddit": "ChatGPT",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

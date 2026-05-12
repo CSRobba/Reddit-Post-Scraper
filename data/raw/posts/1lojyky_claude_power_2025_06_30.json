@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "Just tried using subagents.  This unlocks the true power of Claude Code.",
+    "id": "1lojyky",
+    "body": "At first the idea of subagents doesn't really make intuitive sense - why have a bunch of other Claudes - or even just one - perform a task, when Claude is in front of you and should be able to do it?  The answer is very simple (and Claude explained this to me) and that is that each Claude has a limited context window - it's that term you keep hearing - so it can only \"know\" a certain amount of stuff.  If a subagent does a complex task instead of the main instance, it has the space to become an expert in that task.  Not only that but the main instance WILL WRITE A COMPREHENSIVE STEP-BY-STEP PLAN for the subagent to follow to accomplish what you asked.  So that's two things that blew my mind.  All you have to do is tell it to use a subagent.  The task will likely take more time + tokens but the quality of the output was outstanding.\n\nOne near tragedy that I avoided by accident.  I had no idea that the main instance was only *summarizing* the subagent's findings when it responded.  There was no indication that there was more.  I told it to \"save this\" and out popped a 300 line file of comprehensive information I was looking for.  Claude agreed when I told it of my surprise that this is a UX issue and it should be clearer.  (i.e. it should say \"Would you like me to save the subagent's findings?\")",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1lojyky/just_tried_using_subagents_this_unlocks_the_true/",
+    "url_overridden_by_dest": null,
+    "created": "2025-06-30T14:34:13",
+    "author": "mcsleepy",
+    "subreddit": "ClaudeAI",
+    "num_comments": 63,
+    "ups": 232,
+    "upvote_ratio": 0.9300000071525574,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

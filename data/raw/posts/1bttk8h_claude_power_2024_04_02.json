@@ -1,0 +1,19 @@
+{
+    "query_term": "Claude power",
+    "title": "Claude Computing Power",
+    "id": "1bttk8h",
+    "body": "Claude is very unusable. These guys don't have enough computing power to serve user requests.  \n  \nThey've got message and context lengths limits, varying based on demand.  \n  \nYou can't send a single message for hours and when you can suddenly your message is too long. ",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1bttk8h/claude_computing_power/",
+    "url_overridden_by_dest": null,
+    "created": "2024-04-02T01:31:36",
+    "author": "michybatman8677",
+    "subreddit": "ClaudeAI",
+    "num_comments": 14,
+    "ups": 6,
+    "upvote_ratio": 0.6899999976158142,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "chandana": "n"
+    }
+}

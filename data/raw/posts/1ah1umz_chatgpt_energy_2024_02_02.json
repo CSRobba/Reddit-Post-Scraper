@@ -1,0 +1,19 @@
+{
+    "query_term": "ChatGPT energy",
+    "title": "Am i just imagining things or is ChatGPT's energy consumption growing to concerning levels and growing? (Android APP)",
+    "id": "1ah1umz",
+    "body": "### Context: ChatGPT Android App\n\nI am so shocked by the energy consumption because chatgpt is not run locally which means the only things the app should have to do are:\n\n  - Handling the GUI\n  - Handling User Authentication and authorization \n  - Making API Call Requests \n  - Handling and storage of user related data [maybe]\n  - And maybe some times:\n    - File access activities and transmission\n    - software safety evaluation\n\nThese activities uphold never be so intensive, energy consuming wise. (as far as i know)\n\nOr do you think the apps code is just shockingly inefficient?\n\nWhat else could the app be dooing?",
+    "url": "https://i.redd.it/072c6ep4u5gc1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/072c6ep4u5gc1.jpeg",
+    "created": "2024-02-02T06:47:55",
+    "author": "jer_re_code",
+    "subreddit": "OpenAI",
+    "num_comments": 22,
+    "ups": 12,
+    "upvote_ratio": 0.6100000143051147,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

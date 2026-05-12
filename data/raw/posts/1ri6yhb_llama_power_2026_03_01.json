@@ -1,0 +1,19 @@
+{
+    "query_term": "Llama power",
+    "title": "The last AMD GPU firmware update, together with the latest Llama build, significantly accelerated Vulkan! Strix Halo, GNU/Linux Debian, Qwen3.5-35-A3B CTX<=131k, llama.cpp@Vulkan&ROCm, Power & Efficiency",
+    "id": "1ri6yhb",
+    "body": "Hi, there was an update from AMD for the GPU firmware, so i tested again ROCm and Vulkan, and latest llama.cpp build (compiled with nightly ROCm 7.12, and standard compilation for llama.cpp build for Vulkan) and seems there is a huge improvement in pp for Vulkan!\n\nmodel: `Qwen3.5-35B-A3B-Q8_0`, size; `34.36 GiB` llama.cpp: `build: 319146247 (8184)` GNU/Linux: `Debian @ 6.18.12+deb14-amd64`\n\nPrevious strix-halo tests, in the past results were much worst for pp in Vulkan:\n\n[Qwen3.5-27,35,122](https://www.reddit.com/r/LocalLLaMA/comments/1rf8oqm/strix_halo_gnulinux_debian_qwen352735122b_ctx131k/)\n\n[Step-3.5-Flash-Q4\\_K\\_S imatrix](https://www.reddit.com/r/LocalLLaMA/comments/1r0519a/strix_halo_step35flashq4_k_s_imatrix/)\n\n[Qwen3Coder-Q8](https://www.reddit.com/r/LocalLLaMA/comments/1p48d7f/strix_halo_debian_13616126178_qwen3coderq8/)\n\n[GLM-4.5-Air older comparison in energy efficiency with RTX3090](https://www.reddit.com/r/LocalLLaMA/comments/1osuat7/benchmark_results_glm45air_q4_at_full_context_on/)",
+    "url": "https://i.redd.it/gsryooxmjhmg1.png",
+    "url_overridden_by_dest": "https://i.redd.it/gsryooxmjhmg1.png",
+    "created": "2026-03-01T11:45:20",
+    "author": "Educational_Sun_8813",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 36,
+    "ups": 116,
+    "upvote_ratio": 0.9700000286102295,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

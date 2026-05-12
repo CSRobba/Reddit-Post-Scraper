@@ -1,0 +1,19 @@
+{
+    "query_term": "AI environment",
+    "title": "Stop \"Vibe Coding\" like it's a magic wand. Here is how I built a Fractal Environment where AI agents actually STOP hallucinating.",
+    "id": "1rsf7fp",
+    "body": "\"Vibe coding\" is fun until your agent enters a death loop or nukes your database because it \"felt the vibe\" wrong.\n\nI’ve spent the last month building an environment designed specifically to unlock an agent's full potential, and it’s not just about a better prompt. It’s about Fractal Decomposition.\n\nHere’s the architecture that took my project from \"cool demo\" to \"production-ready\":\n\n1. Fractal Decomposition (The \"Infinite Nesting\" Rule)\n\nInstead of one big task, every objective is recursively broken down into blocks, then steps, then sub-atomic actions. If a sub-action fails, the system doesn't restart — it re-evaluates only that specific fractal node. It’s like Git for logic.\n\n2. Full Action Control Architecture\n\nThe agent doesn't have \"freedom.\" It has a restricted sandbox with a strict Controller Layer.\n\n• The Brain proposes.\n\n• The Auditor (another agent) validates against the architecture.\n\n• The Executor runs the code.\n\n3. 100% Action Test Coverage\n\nI’ve implemented a system where the agent cannot execute a move unless it generates a test case for that specific action first. We are talking about TDD (Test Driven Development) on steroids, where the environment itself refuses to \"vibe\" without a passing green light.\n\nThe result? I haven't touched the keyboard in weeks. The agents are now refactoring their own fractal blocks and fixing bugs before I even see them in the logs.\n\nIs this the end of the 'Software Engineer' as we know it, or just the beginning of the 'Architect of Environments'?\n\nCurious to hear your thoughts on agentic control — are you guys still manually fixing LLM messes, or have you moved to structural orchestration?",
+    "url": "https://www.reddit.com/r/SideProject/comments/1rsf7fp/stop_vibe_coding_like_its_a_magic_wand_here_is/",
+    "url_overridden_by_dest": null,
+    "created": "2026-03-13T01:54:04",
+    "author": "mlodyMihal",
+    "subreddit": "SideProject",
+    "num_comments": 3,
+    "ups": 0,
+    "upvote_ratio": 0.25,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

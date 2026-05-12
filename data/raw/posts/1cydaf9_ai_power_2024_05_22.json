@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Microsoft's Integration of 40 TOPS NPUs in New PCs: Implications for AI Computational Power",
+    "id": "1cydaf9",
+    "body": "Has anyone noticed that Microsoft is now including 40 TOPS NPUs in all their new PCs, specifically the Copilot\\_PC series? I found this fascinating and decided to ask my AI about the computational equivalence to large models like GPT-4 and GPT-3.\n\nHere’s what I learned:\n\n* `A 40 TOPS NPU translates to 0.04 petaFLOPs.`\n* `To match the GPT-4's estimated power (around 200 petaFLOPs), you'd need approximately 5,000 such NPUs.`\n* `For GPT-3, which used about 364 petaFLOPs during its training phase, about 9,100 NPUs would be required.`\n\nThese estimates consider the enormous computational requirements during the training phase, which far exceed those for standard operational tasks such as responding to inquiries.\n\nGiven this, could we potentially see a future where NPUs are available for hire, similar to SETI@home, where consumers could rent out their processing power for additional credits in Copilot? This could be a viable solution to the high energy demands discussed by Sam, shifting the cost to users. In today's tech landscape, it might not be too far-fetched.",
+    "url": "https://www.reddit.com/r/singularity/comments/1cydaf9/microsofts_integration_of_40_tops_npus_in_new_pcs/",
+    "url_overridden_by_dest": null,
+    "created": "2024-05-22T15:29:08",
+    "author": "platinums99",
+    "subreddit": "singularity",
+    "num_comments": 4,
+    "ups": 8,
+    "upvote_ratio": 0.7200000286102295,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

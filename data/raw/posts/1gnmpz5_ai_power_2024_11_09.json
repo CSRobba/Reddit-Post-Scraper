@@ -1,0 +1,19 @@
+{
+    "query_term": "AI power",
+    "title": "Question about power cables for newer single slot cards for an AI system",
+    "id": "1gnmpz5",
+    "body": "The RTX 4000 Ada uses 130W of power, of which 75 watts comes from the PCIE slot.  Therefore it requires an additional 55 watts which can be supplied by a single 6pin cable (75W).  For some reason, Nvidia chose to use their 16pin (12VHPWR) connector even though this is designed to provide significantly more power. \n\nI have seen 16pin to dual 8pin convertors and even 16pin to triple 8pin but I don't want to waste 8pin connections to my power supply when not needed because they are in limited supply.\n\nDo the RTX 4000 Ada cards ship with a 16pin to 6pin convertor? If not, can you buy an after market cable?  I have not found one while Googling.\n\nAlso, anyone have a guess yet on what the RTX 4000 Blackwell will look like?  24GB?, 120W?, 16pin connector? ",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1gnmpz5/question_about_power_cables_for_newer_single_slot/",
+    "url_overridden_by_dest": null,
+    "created": "2024-11-09T15:15:06",
+    "author": "jpummill2",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 1,
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "query_term": "AI energy",
+    "title": "AI Uses Less Energy Than Raising a Whole Human Artist",
+    "id": "1oz5p25",
+    "body": "# The True Cost of Art (kWh and Dollars)\n\nLet's break down the energy ledger, because honestly, the $1.50 electricity bill for generating a thousand images on Stable Diffusion is starting to look like a bargain compared to, well, **me**.\n\n* **The AI Artist:**\n   * **Training:** Yes, training the models like Midjourney or Dall-E takes a massive amount of energy (think: a cross-country flight). But that cost is amortized across **millions** of users and **billions** of generations. It's a one-time *capital expenditure*.\n   * **Inference (Use):** Generating an image takes a few seconds on a GPU. The energy cost is often **less than a penny** per high-resolution piece.\n   * **Total:** Minimal per-piece energy cost.\n\n# The Human Artist: A Lifetime of Consumption\n\nNow, let's look at the \"Artist v1.0\" system (a.k.a. a person). This isn't just about paint and pencils; it's about *existence*.\n\n* **The Hardware (Body):** A human body is a 24/7 furnace. We require approximately **2,000 Calories (2.3 kWh)** of food energy *per day* just to stay alive. That's 840 kWh per year just for basic maintenance.\n* **The Training (Education):** 18+ years of schooling, university art degrees, workshops, books, and access to equipment. Each year requires **heating/cooling classrooms, transportation, and operating personal devices.** This cost is astronomical.\n* **The Supplies:** Paper, canvas, charcoal, brushes, software licenses, a powerful computer, a Wacom tablet, the electricity to run an apartment for a studio... you name it.\n* **The Infrastructure:** Hospitals, roads, water treatment plants—the entire civic infrastructure needed to support a functioning, breathing, *art-making* citizen.\n\n# Conclusion\n\nAI art might have a high initial training cost, but the marginal cost of producing a new piece is near zero. Raising a human artist is a commitment to **two decades of high-consumption living** before they even produce their first great work.",
+    "url": "https://www.reddit.com/r/aiwars/comments/1oz5p25/ai_uses_less_energy_than_raising_a_whole_human/",
+    "url_overridden_by_dest": null,
+    "created": "2025-11-16T19:23:19",
+    "author": "Candid-Station-1235",
+    "subreddit": "aiwars",
+    "num_comments": 69,
+    "ups": 0,
+    "upvote_ratio": 0.4699999988079071,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "y"
+    }
+}

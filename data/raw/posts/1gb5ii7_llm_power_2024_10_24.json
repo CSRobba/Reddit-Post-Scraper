@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM power",
+    "title": "Power scaling tests with 4X RTX 3090's using MLC LLM and Mistral Large Instruct 2407 q4f16_1. Tested 150 - 350 watts.",
+    "id": "1gb5ii7",
+    "body": "",
+    "url": "https://i.redd.it/nlt4dcnz3qwd1.png",
+    "url_overridden_by_dest": "https://i.redd.it/nlt4dcnz3qwd1.png",
+    "created": "2024-10-24T08:35:01",
+    "author": "SuperChewbacca",
+    "subreddit": "LocalLLaMA",
+    "num_comments": 26,
+    "ups": 56,
+    "upvote_ratio": 0.9200000166893005,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "n",
+        "julie": "n"
+    }
+}

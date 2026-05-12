@@ -1,0 +1,19 @@
+{
+    "query_term": "DeepSeek environment",
+    "title": "Excuse the scuffed Linux OBS recording I got tired of standard chat UI, so I built an AWE (Agentic Writing Environment) powered by DeepSeek Thinker.",
+    "id": "1rst5n7",
+    "body": "Let’s be real, standard ChatGPT wrappers are cooked if you are doing any serious long-form work. Whether you are architecting a B2B copywriting funnel, writing a massive SEO blog, or mapping out a 100k-word novel, copying and pasting back and forth destroys your flow state, and the AI always loses context.\n\nWord processors are basically dead tech, so I built **Minotauris**—the first Agentic Writing Environment (AWE).\n\nIn this video (sorry for the Linux video quality fr), I’m showing a simple feedback loop using the **DeepSeek Thinker** model natively inside the editor.\n\n**How the AWE engine actually works:**\n\n* **The Navigator:** A visual logic map where you store your absolute canon (brand voice guidelines, sales funnel steps, or story lore).\n* **The Agent Swarm:** The models (DeepSeek, GPT-OSS, Claude Haiku) don't just sit in a chat tab; they run autonomously in the background.\n* **The Workflow:** The agents constantly read your active document, cross-reference it with your Navigator, and flag logical contradictions, maintain continuity, or rewrite copy in real-time.\n\nIt handles everything from technical B2B copy to heavy fiction without dropping the plot.\n\nThe Alpha is live right now. I’m a solo dev, so I need brutal, radical candor on the architecture and the agent logic.\n\nTest it out here: [https://www.minotauris.app/](https://www.minotauris.app/)\n\n",
+    "url": "https://v.redd.it/bgvg195gguog1",
+    "url_overridden_by_dest": "https://v.redd.it/bgvg195gguog1",
+    "created": "2026-03-13T13:07:18",
+    "author": "yeah-draco",
+    "subreddit": "generativeAI",
+    "num_comments": 1,
+    "ups": 2,
+    "upvote_ratio": 1,
+    "view_count": null,
+    "relevance_rate": {
+        "julie": "n",
+        "nino": "n"
+    }
+}

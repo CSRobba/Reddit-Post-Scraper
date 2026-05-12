@@ -1,0 +1,19 @@
+{
+    "query_term": "LLM energy",
+    "title": "What's the energy cost per token for OpenAIs LLM? Are there any estimates? ",
+    "id": "1ezh2q9",
+    "body": "Lately I have been very intrigued about the energy consumption associated with the use of LLMs. Does anyone know of any estimates of their consumption per token? The more accurate the better. Recommendations, references, articles on the subject that seem interesting to you are also welcome. ",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1ezh2q9/whats_the_energy_cost_per_token_for_openais_llm/",
+    "url_overridden_by_dest": null,
+    "created": "2024-08-23T12:26:43",
+    "author": "muimota_",
+    "subreddit": "OpenAI",
+    "num_comments": 2,
+    "ups": 4,
+    "upvote_ratio": 0.6399999856948853,
+    "view_count": null,
+    "relevance_rate": {
+        "nino": "y",
+        "julie": "n"
+    }
+}
