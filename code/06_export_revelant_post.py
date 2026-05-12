@@ -18,5 +18,21 @@ RAW_FOLDER = os.path.join(WORK_DIR, "data/raw/")
 POSTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/posts")
 COMMENTS_FOLDER = os.path.join(RAW_FOLDER, "data/raw/comments")
 
-app = Flask(__name__)
-app.secret_key = "rater-secret-key-2024"
+def relevant_posts():
+    posts = []
+    if os.path.exists(POSTS_FOLDER):
+        for fname in os.listdir(POSTS_FOLDER):
+            data = util.read_json(os.path.join(POSTS_FOLDER, fname))
+            data["filename"] = fname
+            data["body"] = data.get("body", "").strip().lower()
+            
+            # Make sure that the body contains at least five words
+            if len(data["body"].split(" ")) > 5:
+                ratings = data.get("relevance_rate", {})
+                if "y" in ratings.values():
+                    posts.append(data)
+                    print(data)
+                    break
+
+if __name__ == '__main__':
+    relevant_posts()
