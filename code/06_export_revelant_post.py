@@ -20,6 +20,7 @@ from jinja2 import Template
 from markdown import markdown
 
 from playwright.sync_api import sync_playwright
+import shutil
 import util
 
 #### GLOBAL VARIABLES #### 
@@ -32,9 +33,11 @@ COMMENTS_FOLDER = os.path.join(RAW_FOLDER, "comments")
 EXPORT_FOLDER = os.path.join(WORK_DIR, "output")
 HTML_FOLDER = os.path.join(EXPORT_FOLDER, "html")
 PDF_FOLDER = os.path.join(EXPORT_FOLDER, "pdf")
+INITIAL_CODING_FOLDER = os.path.join(EXPORT_FOLDER, "initial_open_coding")
 
 os.makedirs(HTML_FOLDER, exist_ok=True)
 os.makedirs(PDF_FOLDER, exist_ok=True)
+os.makedirs(INITIAL_CODING_FOLDER, exist_ok=True)
 
 HTML_TEMPLATE = """
     <!DOCTYPE html>
@@ -347,5 +350,14 @@ if __name__ == "__main__":
     posts = relevant_posts()
     posts = deduplicate_posts(posts)
 
-    filenames = list(posts["filename"].values)
-    export_posts(filenames)
+    #filenames = list(posts["filename"].values)
+    #export_posts(filenames)
+
+    #choose random files for initial coding
+    initial_coding_sample = posts.sample(n=50)
+    for i, row in initial_coding_sample.iterrows():
+        src = row['filename'].split(".json")[0] + ".pdf"
+        shutil.copy2(os.path.join(PDF_FOLDER, src), os.path.join(INITIAL_CODING_FOLDER, f"chandana_{src}"))
+        shutil.copy2(os.path.join(PDF_FOLDER, src), os.path.join(INITIAL_CODING_FOLDER, f"julie_{src}"))
+        shutil.copy2(os.path.join(PDF_FOLDER, src), os.path.join(INITIAL_CODING_FOLDER, f"nino_{src}"))
+
